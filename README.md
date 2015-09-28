@@ -37,7 +37,7 @@ Shadi Saleh and Zdeněk Žabokrtský.
   Marrakech, Morocco.
 
 
-Changelog
+## Changelog
 
 2015-11-15 v1.2
   * Modified version from HamleDT 3.0
