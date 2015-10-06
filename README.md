@@ -41,3 +41,8 @@ Shadi Saleh and Zdeněk Žabokrtský.
 
 2015-11-15 v1.2
   * Modified version from HamleDT 3.0
+
+
+Documentation status: stub
+Data source: unknown
+Data available since: UD v1.2
