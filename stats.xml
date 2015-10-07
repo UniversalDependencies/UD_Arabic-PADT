@@ -1,3 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>7664</sentences><tokens>282384</tokens><words>282384</words><fused>0</fused></total>
+  </size>
   <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
   <tags unique="16">
     <tag name="ADJ">29221</tag><!-- _ -->
@@ -8,14 +17,14 @@
     <tag name="DET">1893</tag><!-- _ -->
     <tag name="INTJ">8</tag><!-- _ -->
     <tag name="NOUN">92051</tag><!-- _ -->
-    <tag name="NUM">7756</tag><!-- مِليُونَ, ١٥, ٣, ٦, ٢, ٨, ٧, مِليُونِ, أَلفَ, ٤ -->
+    <tag name="NUM">7756</tag><!-- _ -->
     <tag name="PART">3797</tag><!-- _ -->
     <tag name="PRON">13867</tag><!-- _ -->
     <tag name="PROPN">187</tag><!-- _ -->
-    <tag name="PUNCT">22449</tag><!-- ., ،, ", -, ), (, /, », «, : -->
-    <tag name="SYM">384</tag><!-- %, +, / -->
+    <tag name="PUNCT">22449</tag><!-- _ -->
+    <tag name="SYM">384</tag><!-- _ -->
     <tag name="VERB">21542</tag><!-- _ -->
-    <tag name="X">22298</tag><!-- _, محمد, اف, عبد, وذلك, مبارك, الله, ذلك, علي, عرفات -->
+    <tag name="X">22298</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments with the most frequent word forms are optional (but easy to obtain). -->
   <feats unique="36">
@@ -90,3 +99,4 @@
     <dep name="root">7664</dep>
     <dep name="xcomp">1747</dep>
   </deps>
+</treebank>
