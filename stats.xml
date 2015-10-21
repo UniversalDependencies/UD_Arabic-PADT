@@ -7,6 +7,9 @@
   <size>
     <total><sentences>7664</sentences><tokens>282384</tokens><words>282384</words><fused>0</fused></total>
   </size>
+  <lemmas unique="0" /><!--  -->
+  <forms unique="35631" /><!-- وَ, فِي, ., لِ, بِ, مِن, ،, ", هَا, أَنَّ, عَلَى, إِلَى, هُ, هِ, اَلَّتِي -->
+  <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
   <tags unique="16">
     <tag name="ADJ">29221</tag><!-- _ -->
