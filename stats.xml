@@ -15,7 +15,7 @@
     <tag name="ADJ">29221</tag><!-- _ -->
     <tag name="ADP">41879</tag><!-- _ -->
     <tag name="ADV">1044</tag><!-- _ -->
-    <tag name="AUX">40</tag><!-- _ -->
+    <tag name="AUX">33</tag><!-- _ -->
     <tag name="CONJ">23968</tag><!-- _ -->
     <tag name="DET">1893</tag><!-- _ -->
     <tag name="INTJ">8</tag><!-- _ -->
@@ -26,7 +26,7 @@
     <tag name="PROPN">187</tag><!-- _ -->
     <tag name="PUNCT">22449</tag><!-- _ -->
     <tag name="SYM">384</tag><!-- _ -->
-    <tag name="VERB">21542</tag><!-- _ -->
+    <tag name="VERB">21549</tag><!-- _ -->
     <tag name="X">22298</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments with the most frequent word forms are optional (but easy to obtain). -->
@@ -70,36 +70,36 @@
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="31">
-    <dep name="acl">5298</dep>
-    <dep name="advcl">1617</dep>
+    <dep name="acl">5300</dep>
+    <dep name="advcl">1619</dep>
     <dep name="advmod">3160</dep>
-    <dep name="advmod:emph">1314</dep>
+    <dep name="advmod:emph">1319</dep>
     <dep name="amod">24370</dep>
     <dep name="appos">1041</dep>
-    <dep name="aux">1718</dep>
+    <dep name="aux">1700</dep>
     <dep name="auxpass">113</dep>
-    <dep name="case">40882</dep>
-    <dep name="cc">19244</dep>
+    <dep name="case">40899</dep>
+    <dep name="cc">18907</dep>
     <dep name="ccomp">3144</dep>
     <dep name="conj">13386</dep>
-    <dep name="cop">927</dep>
-    <dep name="csubj">521</dep>
+    <dep name="cop">941</dep>
+    <dep name="csubj">522</dep>
     <dep name="csubjpass">1</dep>
     <dep name="dep">1546</dep>
     <dep name="det">1844</dep>
     <dep name="dobj">17782</dep>
     <dep name="foreign">744</dep>
     <dep name="iobj">1641</dep>
-    <dep name="mark">7551</dep>
+    <dep name="mark">7534</dep>
     <dep name="mwe">108</dep>
     <dep name="neg">1278</dep>
-    <dep name="nmod">75753</dep>
+    <dep name="nmod">76086</dep>
     <dep name="nsubj">15756</dep>
     <dep name="nsubjpass">552</dep>
     <dep name="nummod">3712</dep>
-    <dep name="parataxis">5523</dep>
+    <dep name="parataxis">5522</dep>
     <dep name="punct">22447</dep>
     <dep name="root">7664</dep>
-    <dep name="xcomp">1747</dep>
+    <dep name="xcomp">1746</dep>
   </deps>
 </treebank>
