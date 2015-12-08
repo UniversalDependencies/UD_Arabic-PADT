@@ -336,7 +336,7 @@
 21	دِيَاجِيُو	_	X	X---------	Foreign=Foreign	15	nmod	_	Translit=diyāǧiyū
 22	"	_	PUNCT	G---------	_	21	punct	_	Translit="
 23	نَقدًا	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	14	nmod	_	Translit=naqdan
-24	وَ	_	CONJ	C---------	_	23	nmod	_	Translit=wa
+24	وَ	_	CONJ	C---------	_	23	cc	_	Translit=wa
 25	أَسهُمًا	_	NOUN	N------P4I	Case=Acc|Definite=Ind|Number=Plur	23	conj	_	Translit=ʾashuman
 26	وَ	_	CONJ	C---------	_	23	cc	_	Translit=wa
 27	ضَمَانَاتٍ	_	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	23	conj	_	Translit=ḍamānātin
@@ -381,9 +381,9 @@
 13	مَا	_	PRON	S---------	_	3	dobj	_	Translit=mā
 14	بَينَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	15	case	_	Translit=bayna
 15	٣٠	_	NUM	Q---------	NumForm=Digit	13	advmod	_	Translit=30
-16	إِلَى	_	ADP	P---------	AdpType=Prep	15	nmod	_	Translit=ʾilā
+16	إِلَى	_	ADP	P---------	AdpType=Prep	15	cc	_	Translit=ʾilā
 17	٣٣	_	NUM	Q---------	NumForm=Digit	15	conj	_	Translit=33
-18	%	_	SYM	G---------	_	15	cc	_	Translit=%
+18	%	_	SYM	G---------	_	15	nmod	_	Translit=%
 19	مِن	_	ADP	P---------	AdpType=Prep	20	case	_	Translit=min
 20	اَلشَّرِكَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	13	nmod	_	Translit=aš-šarikati
 21	اَلجَدِيدَةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	20	amod	_	Translit=al-ǧadīdati
@@ -462,7 +462,7 @@
 11	-	_	PUNCT	G---------	_	12	punct	_	Translit=-
 12	داز	_	X	U---------	_	8	nmod	_	Translit=dAz
 13	"	_	PUNCT	G---------	_	12	punct	_	Translit="
-14	وَ	_	CONJ	C---------	_	8	nmod	_	Translit=wa
+14	وَ	_	CONJ	C---------	_	8	cc	_	Translit=wa
 15	مُنتَجَاتِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	8	conj	_	Translit=muntaǧāti
 16	"	_	PUNCT	G---------	_	18	punct	_	Translit="
 17	غرِين	_	X	X---------	Foreign=Foreign	18	nmod	_	Translit=ġrīn
@@ -491,7 +491,7 @@
 7	"	_	PUNCT	G---------	_	8	punct	_	Translit="
 8	تشيريوس	_	X	U---------	_	4	appos	_	Translit=t$yryws
 9	"	_	PUNCT	G---------	_	8	punct	_	Translit="
-10	وَ	_	CONJ	C---------	_	8	nmod	_	Translit=wa
+10	وَ	_	CONJ	C---------	_	8	cc	_	Translit=wa
 11	"	_	PUNCT	G---------	_	12	punct	_	Translit="
 12	تريكس	_	X	U---------	_	8	conj	_	Translit=tryks
 13	"	_	PUNCT	G---------	_	12	punct	_	Translit="
@@ -651,7 +651,7 @@
 14	(	_	PUNCT	G---------	_	15	punct	_	Translit=(
 15	اَلسُّورِيَّةُ	_	ADJ	A-----FS1D	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	10	amod	_	Translit=as-sūrīyatu
 16	)	_	PUNCT	G---------	_	15	punct	_	Translit=)
-17	وَ	_	CONJ	C---------	_	10	nmod	_	Translit=wa
+17	وَ	_	CONJ	C---------	_	10	cc	_	Translit=wa
 18	شَرِكَةُ	_	NOUN	N------S1R	Case=Nom|Definite=Red|Number=Sing	10	conj	_	Translit=šarikatu
 19	"	_	PUNCT	G---------	_	21	punct	_	Translit="
 20	بِن	_	PROPN	Z---------	_	21	nmod	_	Translit=bin
@@ -894,7 +894,7 @@
 15	اَلرَّئِيسِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	13	nmod	_	Translit=ar-raʾīsi
 16	محمد	_	X	U---------	_	17	nmod	_	Translit=mHmd
 17	خاتمي	_	X	U---------	_	15	nmod	_	Translit=xAtmy
-18	وَ	_	CONJ	C---------	_	6	nmod	_	Translit=wa
+18	وَ	_	CONJ	C---------	_	6	cc	_	Translit=wa
 19	اَلمُعتَقَلُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	6	conj	_	Translit=al-muʿtaqalu
 20	بِ	_	ADP	P---------	AdpType=Prep	21	case	_	Translit=bi
 21	تُهمَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	19	nmod	_	Translit=tuhmati
@@ -934,7 +934,7 @@
 23	اَلثَّانِي	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	22	amod	_	Translit=aṯ-ṯānī
 24	/	_	PUNCT	G---------	_	25	punct	_	Translit=/
 25	نُوفِمبِرَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	22	appos	_	Translit=nūfimbira
-26	١٩٩٨	_	NUM	Q---------	NumForm=Digit	25	advmod	_	Translit=1998
+26	١٩٩٨	_	NUM	Q---------	NumForm=Digit	22	advmod	_	Translit=1998
 27	فِي	_	ADP	P---------	AdpType=Prep	28	case	_	Translit=fī
 28	عَمَلِيَّةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	20	nmod	_	Translit=ʿamalīyati
 29	اِغتِيَالٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	28	nmod	_	Translit=iġtiyālin
@@ -1056,7 +1056,7 @@
 19	بِ	_	ADP	P---------	AdpType=Prep	20	case	_	Translit=bi
 20	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	dobj	_	Translit=hā
 21	مَغلُوطَةٌ	_	ADJ	A-----FS1I	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	2	dobj	_	Translit=maġlūṭatun
-22	وَ	_	CONJ	C---------	_	21	nmod	_	Translit=wa
+22	وَ	_	CONJ	C---------	_	21	cc	_	Translit=wa
 23	كَانَت	_	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	21	conj	_	Translit=kānat
 24	اِستِجَابَةً	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	23	xcomp	_	Translit=istiǧābatan
 25	لِ	_	ADP	P---------	AdpType=Prep	26	case	_	Translit=li
@@ -1338,7 +1338,7 @@
 10	اَلجُدُدَ	_	ADJ	A-----MP4D	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	9	amod	_	Translit=al-ǧududa
 11	بِ	_	ADP	P---------	AdpType=Prep	12	case	_	Translit=bi
 12	اَلحَجَّارَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	8	iobj	_	Translit=al-ḥaǧǧārati
-13	وَ	_	CONJ	C---------	_	12	nmod	_	Translit=wa
+13	وَ	_	CONJ	C---------	_	12	cc	_	Translit=wa
 14	اَلبَيضِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	12	conj	_	Translit=al-bayḍi
 15	وَ	_	CONJ	C---------	_	12	cc	_	Translit=wa
 16	اَلتُّفَّاحِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	12	conj	_	Translit=at-tuffāḥi
@@ -1575,7 +1575,7 @@
 30	١٣٠٠	_	NUM	Q---------	NumForm=Digit	26	appos	_	Translit=1300
 31	كِيلُومِترٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	30	nmod	_	Translit=kīlūmitrin
 32	"	_	PUNCT	G---------	_	31	punct	_	Translit="
-33	اَلأَمرُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	25	nmod	_	Translit=al-ʾamru
+33	اَلأَمرُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	25	cc	_	Translit=al-ʾamru
 34	اَلَّذِي	_	PRON	SR----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	25	cc	_	Translit=allaḏī
 35	يَسمَحُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	25	conj	_	Translit=yasmaḥu
 36	لَ	_	ADP	P---------	AdpType=Prep	37	case	_	Translit=la
@@ -1834,7 +1834,7 @@
 5	تَمُّوزَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	3	nmod	_	Translit=tammūza
 6	/	_	PUNCT	G---------	_	7	punct	_	Translit=/
 7	يُولِيُو	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	5	appos	_	Translit=yūliyū
-8	١٩٩٨	_	NUM	Q---------	NumForm=Digit	7	nummod	_	Translit=1998
+8	١٩٩٨	_	NUM	Q---------	NumForm=Digit	5	nummod	_	Translit=1998
 9	عَن	_	ADP	P---------	AdpType=Prep	10	case	_	Translit=ʿan
 10	إِجرَاءِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	3	dobj	_	Translit=ʾiǧrāʾi
 11	أَوَّلِ	_	ADJ	A-----MS2R	Case=Gen|Definite=Red|Gender=Masc|Number=Sing	10	amod	_	Translit=ʾawwali
@@ -1901,7 +1901,7 @@
 35	-	_	PUNCT	G---------	_	34	punct	_	Translit=-
 36	٢	_	NUM	Q---------	NumForm=Digit	34	conj	_	Translit=2
 37	،	_	PUNCT	G---------	_	36	punct	_	Translit=،
-38	وَ	_	CONJ	C---------	_	22	nmod	_	Translit=wa
+38	وَ	_	CONJ	C---------	_	22	cc	_	Translit=wa
 39	اَلإِيطَالِيُّ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	22	conj	_	Translit=al-ʾīṭālīyu
 40	أَندرِيَا	_	X	X---------	Foreign=Foreign	41	nmod	_	Translit=ʾandriyā
 41	غاودنزي	_	X	U---------	_	39	nmod	_	Translit=gAwdnzy
@@ -1928,7 +1928,7 @@
 62	٣	_	NUM	Q---------	NumForm=Digit	22	dep	_	Translit=3
 63	-	_	PUNCT	G---------	_	62	punct	_	Translit=-
 64	٦	_	NUM	Q---------	NumForm=Digit	62	conj	_	Translit=6
-65	وَ	_	CONJ	C---------	_	62	nmod	_	Translit=wa
+65	وَ	_	CONJ	C---------	_	62	cc	_	Translit=wa
 66	٦	_	NUM	Q---------	NumForm=Digit	62	conj	_	Translit=6
 67	-	_	PUNCT	G---------	_	66	punct	_	Translit=-
 68	٣	_	NUM	Q---------	NumForm=Digit	66	conj	_	Translit=3
@@ -1976,7 +1976,7 @@
 110	-	_	PUNCT	G---------	_	109	punct	_	Translit=-
 111	٧	_	NUM	Q---------	NumForm=Digit	109	conj	_	Translit=7
 112	)	_	PUNCT	G---------	_	109	punct	_	Translit=)
-113	وَ	_	CONJ	C---------	_	105	nmod	_	Translit=wa
+113	وَ	_	CONJ	C---------	_	105	cc	_	Translit=wa
 114	٦	_	NUM	Q---------	NumForm=Digit	105	conj	_	Translit=6
 115	-	_	PUNCT	G---------	_	114	punct	_	Translit=-
 116	صفر	_	X	U---------	_	114	conj	_	Translit=Sfr
@@ -2005,7 +2005,7 @@
 15	-	_	PUNCT	G---------	_	14	punct	_	Translit=-
 16	٤	_	NUM	Q---------	NumForm=Digit	14	conj	_	Translit=4
 17	،	_	PUNCT	G---------	_	16	punct	_	Translit=،
-18	وَ	_	CONJ	C---------	_	2	nmod	_	Translit=wa
+18	وَ	_	CONJ	C---------	_	2	cc	_	Translit=wa
 19	اَلتّشِيكِيُّ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	2	conj	_	Translit=at-tšīkīyu
 20	ييري	_	X	U---------	_	21	nmod	_	Translit=yyry
 21	فانيك	_	X	U---------	_	19	nmod	_	Translit=fAnyk
@@ -2049,7 +2049,7 @@
 59	٦	_	NUM	Q---------	NumForm=Digit	2	dep	_	Translit=6
 60	-	_	PUNCT	G---------	_	59	punct	_	Translit=-
 61	٣	_	NUM	Q---------	NumForm=Digit	59	conj	_	Translit=3
-62	وَ	_	CONJ	C---------	_	59	nmod	_	Translit=wa
+62	وَ	_	CONJ	C---------	_	59	cc	_	Translit=wa
 63	٤	_	NUM	Q---------	NumForm=Digit	59	conj	_	Translit=4
 64	-	_	PUNCT	G---------	_	63	punct	_	Translit=-
 65	٦	_	NUM	Q---------	NumForm=Digit	63	conj	_	Translit=6
@@ -2069,7 +2069,7 @@
 79	٦	_	NUM	Q---------	NumForm=Digit	2	dep	_	Translit=6
 80	-	_	PUNCT	G---------	_	79	punct	_	Translit=-
 81	٤	_	NUM	Q---------	NumForm=Digit	79	conj	_	Translit=4
-82	وَ	_	CONJ	C---------	_	79	nmod	_	Translit=wa
+82	وَ	_	CONJ	C---------	_	79	cc	_	Translit=wa
 83	١	_	NUM	Q---------	NumForm=Digit	79	conj	_	Translit=1
 84	-	_	PUNCT	G---------	_	83	punct	_	Translit=-
 85	٦	_	NUM	Q---------	NumForm=Digit	83	conj	_	Translit=6
@@ -2343,7 +2343,7 @@
 44	فِي	_	ADP	P---------	AdpType=Prep	45	case	_	Translit=fī
 45	تَشكِيلَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	40	nmod	_	Translit=taškīlati
 46	اَلفَرِيقِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	45	nmod	_	Translit=al-farīqi
-47	وَ	_	CONJ	C---------	_	40	nmod	_	Translit=wa
+47	وَ	_	CONJ	C---------	_	40	cc	_	Translit=wa
 48	وَاجَهَ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	40	conj	_	Translit=wāǧaha
 49	صُعُوبَاتٍ	_	NOUN	N------P4I	Case=Acc|Definite=Ind|Number=Plur	48	dobj	_	Translit=ṣuʿūbātin
 50	كَبِيرَةً	_	ADJ	A-----FS4I	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	49	amod	_	Translit=kabīratan
@@ -2405,7 +2405,7 @@
 19	اَلحَيَاةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	15	dobj	_	Translit=al-ḥayāti
 20	فِي	_	ADP	P---------	AdpType=Prep	21	case	_	Translit=fī
 21	أَلمَانِيَا	_	X	X---------	Foreign=Foreign	19	nmod	_	Translit=ʾalmāniyā
-22	وَ	_	CONJ	C---------	_	14	nmod	_	Translit=wa
+22	وَ	_	CONJ	C---------	_	14	cc	_	Translit=wa
 23	إِصرَارُ	_	NOUN	N------S1R	Case=Nom|Definite=Red|Number=Sing	14	conj	_	Translit=ʾiṣrāru
 24	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nmod	_	Translit=hā
 25	عَلَى	_	ADP	P---------	AdpType=Prep	26	case	_	Translit=ʿalā
@@ -2634,7 +2634,7 @@
 26	آبَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	25	nmod	_	Translit=ʾāba
 27	/	_	PUNCT	G---------	_	28	punct	_	Translit=/
 28	أَغُسطُسَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	26	appos	_	Translit=ʾaġusṭusa
-29	اَلجَارِي	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	28	amod	_	Translit=al-ǧārī
+29	اَلجَارِي	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	26	amod	_	Translit=al-ǧārī
 30	وَ	_	CONJ	C---------	_	16	cc	_	Translit=wa
 31	إِنَّ	_	CONJ	C---------	_	36	mark	_	Translit=ʾinna
 32	قُوَى	_	NOUN	N------P4R	Case=Acc|Definite=Red|Number=Plur	36	nsubj	_	Translit=quwā
@@ -2888,7 +2888,7 @@
 26	اَلأَوَّلِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	25	amod	_	Translit=al-ʾawwali
 27	/	_	PUNCT	G---------	_	28	punct	_	Translit=/
 28	دِيسَمبِرَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	25	appos	_	Translit=dīsambira
-29	اَلمَاضِي	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	28	amod	_	Translit=al-māḍī
+29	اَلمَاضِي	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	25	amod	_	Translit=al-māḍī
 30	فِي	_	ADP	P---------	AdpType=Prep	31	case	_	Translit=fī
 31	اَلِانتِخَابَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	21	dobj	_	Translit=al-i-ʼntiḫābāti
 32	اَلنِّيَابِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	31	amod	_	Translit=an-niyābīyati
@@ -3028,7 +3028,7 @@
 42	آذَارَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	41	nmod	_	Translit=ʾāḏāra
 43	/	_	PUNCT	G---------	_	44	punct	_	Translit=/
 44	مَارِسَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	42	appos	_	Translit=mārisa
-45	اَلمَاضِي	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	44	amod	_	Translit=al-māḍī
+45	اَلمَاضِي	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	42	amod	_	Translit=al-māḍī
 46	.	_	PUNCT	G---------	_	1	punct	_	Translit=.
 
 # sent_id s-p12
@@ -3063,7 +3063,7 @@
 28	آبَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	27	nmod	_	Translit=ʾāba
 29	/	_	PUNCT	G---------	_	30	punct	_	Translit=/
 30	أَغُسطُسَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	28	appos	_	Translit=ʾaġusṭusa
-31	اَلجَارِي	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	30	amod	_	Translit=al-ǧārī
+31	اَلجَارِي	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	28	amod	_	Translit=al-ǧārī
 32	.	_	PUNCT	G---------	_	1	punct	_	Translit=.
 
 # sent_id s-p13
@@ -3202,7 +3202,7 @@
 39	أَيلُولَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	38	nmod	_	Translit=ʾaylūla
 40	/	_	PUNCT	G---------	_	41	punct	_	Translit=/
 41	سِبتَمبِرَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	39	appos	_	Translit=sibtambira
-42	اَلمُقبِلِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	41	amod	_	Translit=al-muqbili
+42	اَلمُقبِلِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	39	amod	_	Translit=al-muqbili
 43	فِي	_	ADP	P---------	AdpType=Prep	44	case	_	Translit=fī
 44	مَدِينَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	32	nmod	_	Translit=madīnati
 45	دانانغ	_	X	U---------	_	44	nmod	_	Translit=dAnAng
@@ -3220,7 +3220,7 @@
 8	ضَمَّت	_	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	7	acl	_	Translit=ḍammat
 9	الاولى	_	X	U---------	_	8	nsubj	_	Translit=AlAwlY
 10	فِيَتنَام	_	X	X---------	Foreign=Foreign	8	dobj	_	Translit=fiyatnām
-11	وَ	_	CONJ	C---------	_	10	nmod	_	Translit=wa
+11	وَ	_	CONJ	C---------	_	10	cc	_	Translit=wa
 12	اَليَابَانَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	10	conj	_	Translit=al-yābāna
 13	وَ	_	CONJ	C---------	_	10	cc	_	Translit=wa
 14	اَلصِّينَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	10	conj	_	Translit=aṣ-ṣīna
@@ -3242,7 +3242,7 @@
 30	"	_	PUNCT	G---------	_	28	punct	_	Translit="
 31	،	_	PUNCT	G---------	_	30	punct	_	Translit=،
 32	تَايلَاند	_	X	X---------	Foreign=Foreign	8	conj	_	Translit=tāylānd
-33	وَ	_	CONJ	C---------	_	32	nmod	_	Translit=wa
+33	وَ	_	CONJ	C---------	_	32	cc	_	Translit=wa
 34	اَلكُوَيتُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	32	conj	_	Translit=al-kuwaytu
 35	وَ	_	CONJ	C---------	_	32	cc	_	Translit=wa
 36	عُمَانُ	_	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	32	conj	_	Translit=ʿumānu
@@ -3295,7 +3295,7 @@
 25	اَلثَّانِي	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	24	amod	_	Translit=aṯ-ṯānī
 26	/	_	PUNCT	G---------	_	27	punct	_	Translit=/
 27	نُوفِمبِرَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	24	appos	_	Translit=nūfimbira
-28	اَلمُقبِلِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	27	amod	_	Translit=al-muqbili
+28	اَلمُقبِلِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	24	amod	_	Translit=al-muqbili
 29	بِ	_	ADP	P---------	AdpType=Prep	30	case	_	Translit=bi
 30	مُشَارَكَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	11	nmod	_	Translit=mušārakati
 31	٩	_	NUM	Q---------	NumForm=Digit	30	nummod	_	Translit=9
@@ -3365,7 +3365,7 @@
 18	أَيلُولَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	17	nmod	_	Translit=ʾaylūla
 19	/	_	PUNCT	G---------	_	20	punct	_	Translit=/
 20	سِبتَمبِرَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	18	appos	_	Translit=sibtambira
-21	اَلمُقبِلِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	20	amod	_	Translit=al-muqbili
+21	اَلمُقبِلِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	amod	_	Translit=al-muqbili
 22	،	_	PUNCT	G---------	_	2	punct	_	Translit=،
 23	تَلِي	_	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	2	conj	_	Translit=talī
 24	هَا	_	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	dobj	_	Translit=hā
@@ -3439,7 +3439,7 @@
 47	آذَارَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	46	nmod	_	Translit=ʾāḏāra
 48	/	_	PUNCT	G---------	_	49	punct	_	Translit=/
 49	مَارِسَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	47	appos	_	Translit=mārisa
-50	اَلمُقبِلِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	49	amod	_	Translit=al-muqbili
+50	اَلمُقبِلِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	47	amod	_	Translit=al-muqbili
 51	فِي	_	ADP	P---------	AdpType=Prep	53	case	_	Translit=fī
 52	هُونغ	_	X	X---------	Foreign=Foreign	53	foreign	_	Translit=hūnġ
 53	كُونغ	_	X	X---------	Foreign=Foreign	41	advmod	_	Translit=kūnġ
@@ -3539,8 +3539,8 @@
 21	"	_	PUNCT	G---------	_	23	punct	_	Translit="
 22	انا	_	X	U---------	_	23	nsubj	_	Translit=AnA
 23	مُتَفَائِلٌ	_	ADJ	A-----MS1I	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	dobj	_	Translit=mutafāʾilun
-24	بِ	_	ADP	P---------	AdpType=Prep	27	case	_	Translit=bi
-25	اَلنِّسبَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	24	mwe	_	Translit=an-nisbati
+24	بِ	_	ADP	P---------	AdpType=Prep	27	cc	_	Translit=bi
+25	اَلنِّسبَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	27	cc	_	Translit=an-nisbati
 26	لِ	_	ADP	P---------	AdpType=Prep	27	case	_	Translit=li
 27	عَمَلِيَّةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	23	nmod	_	Translit=ʿamalīyati
 28	اَلسَّلَامِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	27	nmod	_	Translit=as-salāmi
@@ -3770,12 +3770,12 @@
 3	بَاكُو	_	X	X---------	Foreign=Foreign	2	nsubj	_	Translit=bākū
 4	وَ	_	CONJ	C---------	_	3	cc	_	Translit=wa
 5	طَهرَانُ	_	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	3	conj	_	Translit=ṭahrānu
-6	فِي	_	ADP	P---------	AdpType=Prep	7	case	_	Translit=fī
-7	كَانُونَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	2	nmod	_	Translit=kānūna
-8	اَلأَوَّلِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	amod	_	Translit=al-ʾawwali
+6	فِي	_	ADP	P---------	AdpType=Prep	8	case	_	Translit=fī
+7	كَانُونَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	8	cc	_	Translit=kānūna
+8	اَلأَوَّلِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	amod	_	Translit=al-ʾawwali
 9	/	_	PUNCT	G---------	_	10	punct	_	Translit=/
-10	دِيسَمبِرَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	7	appos	_	Translit=dīsambira
-11	١٩٩٢	_	NUM	Q---------	NumForm=Digit	10	nummod	_	Translit=1992
+10	دِيسَمبِرَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	8	appos	_	Translit=dīsambira
+11	١٩٩٢	_	NUM	Q---------	NumForm=Digit	8	nummod	_	Translit=1992
 12	اِتِّفَاقًا	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	2	dobj	_	Translit=ittifāqan
 13	تَقُومُ	_	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	12	acl	_	Translit=taqūmu
 14	إِيرَانُ	_	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	13	nsubj	_	Translit=ʾīrānu
@@ -4198,9 +4198,9 @@
 21	اَلأَبحَاثِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	17	nmod	_	Translit=al-ʾabḥāṯi
 22	اَلفَضَائِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	21	amod	_	Translit=al-faḍāʾīyati
 23	وَ	_	CONJ	C---------	_	21	cc	_	Translit=wa
-24	كَذٰلِكَ	_	ADV	D---------	_	21	conj	_	Translit=kaḏālika
-25	لِ	_	ADP	P---------	AdpType=Prep	24	case	_	Translit=li
-26	دِرَاسَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	24	nmod	_	Translit=dirāsati
+24	كَذٰلِكَ	_	ADV	D---------	_	26	advmod:emph	_	Translit=kaḏālika
+25	لِ	_	ADP	P---------	AdpType=Prep	26	case	_	Translit=li
+26	دِرَاسَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	21	conj	_	Translit=dirāsati
 27	"	_	PUNCT	G---------	_	28	punct	_	Translit="
 28	اَلأَجسَامِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	26	nmod	_	Translit=al-ʾaǧsāmi
 29	"	_	PUNCT	G---------	_	28	punct	_	Translit="
@@ -4319,7 +4319,7 @@
 23	اَلأَبحَاثِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	21	nmod	_	Translit=al-ʾabḥāṯi
 24	فِي	_	ADP	P---------	AdpType=Prep	25	case	_	Translit=fī
 25	أَلمَانِيَا	_	X	X---------	Foreign=Foreign	21	nmod	_	Translit=ʾalmāniyā
-26	وَ	_	CONJ	C---------	_	25	nmod	_	Translit=wa
+26	وَ	_	CONJ	C---------	_	25	cc	_	Translit=wa
 27	بُولَندَا	_	X	X---------	Foreign=Foreign	25	conj	_	Translit=būlandā
 28	وَ	_	CONJ	C---------	_	25	cc	_	Translit=wa
 29	اَلوِلَايَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	25	conj	_	Translit=al-wilāyāti
@@ -4513,7 +4513,7 @@
 3	بِن	_	PROPN	Z---------	_	2	nsubj	_	Translit=bin
 4	عامي	_	X	U---------	_	3	nmod	_	Translit=EAmy
 5	أَنَّ	_	CONJ	C---------	_	2	cc	_	Translit=ʾanna
-6	"	_	PUNCT	G---------	_	9	punct	_	Translit="
+6	"	_	PUNCT	G---------	_	9	cop	_	Translit="
 7	لِ	_	ADP	P---------	AdpType=Prep	8	case	_	Translit=li
 8	اَلفِلَسطِينِيِّينَ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	9	nsubj	_	Translit=al-filasṭīnīyīna
 9	اَلحَقَّ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	5	punct	_	Translit=al-ḥaqqa
@@ -4629,7 +4629,7 @@
 22	اَلدَّولَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	21	nmod	_	Translit=ad-dawlati
 23	اَلفِلَسطِينِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	22	amod	_	Translit=al-filasṭīnīyati
 24	اَلمُستَقبَلِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	22	amod	_	Translit=al-mustaqbalīyati
-25	وَ	_	CONJ	C---------	_	20	nmod	_	Translit=wa
+25	وَ	_	CONJ	C---------	_	20	cc	_	Translit=wa
 26	مَصِيرِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	20	conj	_	Translit=maṣīri
 27	اَلمُستَوطَنَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	26	nmod	_	Translit=al-mustawṭanāti
 28	اَليَهُودِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	27	amod	_	Translit=al-yahūdīyati
@@ -4651,8 +4651,8 @@
 44	خَطٍّ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	41	dobj	_	Translit=ḫaṭṭin
 45	إِسترَاتِيجِيٍّ	_	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	44	amod	_	Translit=ʾistrātīǧīyin
 46	دِفَاعِيٍّ	_	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	44	amod	_	Translit=difāʿīyin
-47	بِ	_	ADP	P---------	AdpType=Prep	50	case	_	Translit=bi
-48	اَلنِّسبَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	47	mwe	_	Translit=an-nisbati
+47	بِ	_	ADP	P---------	AdpType=Prep	50	cc	_	Translit=bi
+48	اَلنِّسبَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	50	cc	_	Translit=an-nisbati
 49	إِلَى	_	ADP	P---------	AdpType=Prep	50	case	_	Translit=ʾilā
 50	إِسرَائِيلَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	41	nmod	_	Translit=ʾisrāʾīla
 51	.	_	PUNCT	G---------	_	1	punct	_	Translit=.
@@ -4678,7 +4678,7 @@
 17	تَحتَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	10	xcomp	_	Translit=taḥta
 18	سِيَادَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	17	nmod	_	Translit=siyādati
 19	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	cc	_	Translit=hā
-20	وَ	_	CONJ	C---------	_	10	nmod	_	Translit=wa
+20	وَ	_	CONJ	C---------	_	10	cc	_	Translit=wa
 21	أَن	_	CONJ	C---------	_	22	mark	_	Translit=ʾan
 22	تَنسَحِبَ	_	VERB	VISA-3FS--	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	10	conj	_	Translit=tansaḥiba
 23	هٰذِهِ	_	DET	SD----FS1-	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	24	det	_	Translit=hāḏihi
@@ -4797,13 +4797,13 @@
 5	عامي	_	X	U---------	_	4	nmod	_	Translit=EAmy
 6	لَا	_	PART	F---------	_	3	neg	_	Translit=lā
 7	إِلَى	_	ADP	P---------	AdpType=Prep	6	case	_	Translit=ʾilā
-8	مُستَوطَنَاتِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	6	neg	_	Translit=mustawṭanāti
+8	مُستَوطَنَاتِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	6	dobj	_	Translit=mustawṭanāti
 9	قِطَاعِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	8	nmod	_	Translit=qiṭāʿi
 10	غَزَّةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	9	nmod	_	Translit=ġazzati
 11	وَ	_	CONJ	C---------	_	6	cc	_	Translit=wa
 12	لَا	_	PART	F---------	_	6	conj	_	Translit=lā
 13	إِلَى	_	ADP	P---------	AdpType=Prep	12	case	_	Translit=ʾilā
-14	اَلحَيِّ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	12	neg	_	Translit=al-ḥayyi
+14	اَلحَيِّ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	12	dobj	_	Translit=al-ḥayyi
 15	اَليَهُودِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	amod	_	Translit=al-yahūdīyi
 16	اَلَّتِي	_	PRON	SR----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	14	cc	_	Translit=allatī
 17	تُسَيطِرُ	_	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	14	parataxis	_	Translit=tusayṭiru
@@ -4933,7 +4933,7 @@
 22	٣١	_	NUM	Q---------	NumForm=Digit	21	nummod	_	Translit=31
 23	-	_	PUNCT	G---------	_	22	punct	_	Translit=-
 24	٢٩	_	NUM	Q---------	NumForm=Digit	22	conj	_	Translit=29
-25	وَ	_	CONJ	C---------	_	22	nmod	_	Translit=wa
+25	وَ	_	CONJ	C---------	_	22	cc	_	Translit=wa
 26	٢٦	_	NUM	Q---------	NumForm=Digit	22	conj	_	Translit=26
 27	-	_	PUNCT	G---------	_	26	punct	_	Translit=-
 28	٢٤	_	NUM	Q---------	NumForm=Digit	26	conj	_	Translit=24
@@ -5021,7 +5021,7 @@
 21	٢٦	_	NUM	Q---------	NumForm=Digit	17	nummod	_	Translit=26
 22	-	_	PUNCT	G---------	_	21	punct	_	Translit=-
 23	٢٤	_	NUM	Q---------	NumForm=Digit	21	conj	_	Translit=24
-24	وَ	_	CONJ	C---------	_	21	nmod	_	Translit=wa
+24	وَ	_	CONJ	C---------	_	21	cc	_	Translit=wa
 25	٢٣	_	NUM	Q---------	NumForm=Digit	21	conj	_	Translit=23
 26	-	_	PUNCT	G---------	_	25	punct	_	Translit=-
 27	٢٥	_	NUM	Q---------	NumForm=Digit	25	conj	_	Translit=25
@@ -5368,7 +5368,7 @@
 39	يَكُونُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	41	cop	_	Translit=yakūnu
 40	"	_	PUNCT	G---------	_	41	punct	_	Translit="
 41	أَمِينًا	_	ADJ	A-----MS4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	33	acl	_	Translit=ʾamīnan
-42	وَ	_	CONJ	C---------	_	41	nmod	_	Translit=wa
+42	وَ	_	CONJ	C---------	_	41	cc	_	Translit=wa
 43	مُتَوَازِنًا	_	ADJ	A-----MS4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	41	conj	_	Translit=mutawāzinan
 44	"	_	PUNCT	G---------	_	41	punct	_	Translit="
 45	وَ	_	CONJ	C---------	_	41	cc	_	Translit=wa
@@ -5481,7 +5481,7 @@
 23	آبَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	22	nmod	_	Translit=ʾāba
 24	/	_	PUNCT	G---------	_	25	punct	_	Translit=/
 25	أَغُسطُسَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	23	appos	_	Translit=ʾaġusṭusa
-26	١٩٩٧	_	NUM	Q---------	NumForm=Digit	25	nummod	_	Translit=1997
+26	١٩٩٧	_	NUM	Q---------	NumForm=Digit	23	nummod	_	Translit=1997
 27	فِي	_	ADP	P---------	AdpType=Prep	28	case	_	Translit=fī
 28	بَارِيس	_	X	X---------	Foreign=Foreign	17	advmod	_	Translit=bārīs
 29	إِلَى	_	ADP	P---------	AdpType=Prep	31	cc	_	Translit=ʾilā
@@ -5545,7 +5545,7 @@
 8	أَمِينَةٌ	_	ADJ	A-----FS1I	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	7	amod	_	Translit=ʾamīnatun
 9	وَ	_	CONJ	C---------	_	8	cc	_	Translit=wa
 10	مُتَوَازِنَةٌ	_	ADJ	A-----FS1I	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	8	conj	_	Translit=mutawāzinatun
-11	وَ	_	CONJ	C---------	_	7	nmod	_	Translit=wa
+11	وَ	_	CONJ	C---------	_	7	cc	_	Translit=wa
 12	يَهدِفُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	7	conj	_	Translit=yahdifu
 13	إِلَى	_	ADP	P---------	AdpType=Prep	14	case	_	Translit=ʾilā
 14	خِدمَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	12	dobj	_	Translit=ḫidmati
@@ -5571,7 +5571,7 @@
 7	اَلأَرجَحِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	advmod	_	Translit=al-ʾarǧaḥi
 8	اَلأَمِيرَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	5	dobj	_	Translit=al-ʾamīra
 9	تشَارلز	_	X	X---------	Foreign=Foreign	8	nmod	_	Translit=tšārlz
-10	وَ	_	CONJ	C---------	_	8	nmod	_	Translit=wa
+10	وَ	_	CONJ	C---------	_	8	cc	_	Translit=wa
 11	اَلمَلِكَةَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	8	conj	_	Translit=al-malikata
 12	أَلِيزَابِيث	_	X	X---------	Foreign=Foreign	11	nmod	_	Translit=ʾalīzābīṯ
 13	اَلثَّانِيَةَ	_	ADJ	A-----FS4D	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	12	amod	_	Translit=aṯ-ṯāniyata
@@ -5912,7 +5912,7 @@
 22	أَيضًا	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	2	advmod:emph	_	Translit=ʾayḍan
 23	وِزَارَاتِ	_	NOUN	N------P4R	Case=Acc|Definite=Red|Number=Plur	2	dobj	_	Translit=wizārāti
 24	اَلصِّنَاعَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	23	nmod	_	Translit=aṣ-ṣināʿati
-25	وَ	_	CONJ	C---------	_	24	nmod	_	Translit=wa
+25	وَ	_	CONJ	C---------	_	24	cc	_	Translit=wa
 26	اَلصِّحَّةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	24	conj	_	Translit=aṣ-ṣiḥḥati
 27	وَ	_	CONJ	C---------	_	24	cc	_	Translit=wa
 28	اَلإِعلَامِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	24	conj	_	Translit=al-ʾiʿlāmi
@@ -6051,7 +6051,7 @@
 4	اَلمَاضِي	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	amod	_	Translit=al-māḍī
 5	تَوَصَّلَت	_	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	1	parataxis	_	Translit=tawaṣṣalat
 6	برِيطَانِيَا	_	X	X---------	Foreign=Foreign	5	nsubj	_	Translit=brīṭāniyā
-7	وَ	_	CONJ	C---------	_	6	nmod	_	Translit=wa
+7	وَ	_	CONJ	C---------	_	6	cc	_	Translit=wa
 8	فَرَنسَا	_	X	X---------	Foreign=Foreign	6	conj	_	Translit=faransā
 9	وَ	_	CONJ	C---------	_	6	cc	_	Translit=wa
 10	أَلمَانِيَا	_	X	X---------	Foreign=Foreign	6	conj	_	Translit=ʾalmāniyā
@@ -6133,7 +6133,7 @@
 41	أَيَّ	_	ADJ	A-----MS4R	Case=Acc|Definite=Red|Gender=Masc|Number=Sing	39	dobj	_	Translit=ʾayya
 42	حَوَافِزَ	_	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	41	nmod	_	Translit=ḥawāfiza
 43	إِلَّا	_	PART	F---------	_	38	cc	_	Translit=ʾillā
-44	أَنَّ	_	CONJ	C---------	_	38	nmod	_	Translit=ʾanna
+44	أَنَّ	_	CONJ	C---------	_	38	cc	_	Translit=ʾanna
 45	هَا	_	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	47	nsubj	_	Translit=hā
 46	لَم	_	PART	F---------	_	47	neg	_	Translit=lam
 47	تَثنِ	_	VERB	VIJA-3FS--	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	74	cop	_	Translit=taṯni
@@ -6214,7 +6214,7 @@
 33	تَايمز	_	X	X---------	Foreign=Foreign	26	advmod	_	Translit=tāymz
 34	،	_	PUNCT	G---------	_	33	punct	_	Translit=،
 35	إِضَافَةً	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	8	cc	_	Translit=ʾiḍāfatan
-36	إِلَى	_	ADP	P---------	AdpType=Prep	8	nmod	_	Translit=ʾilā
+36	إِلَى	_	ADP	P---------	AdpType=Prep	8	cc	_	Translit=ʾilā
 37	ذٰلِكَ	_	PRON	SD----MS2-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	8	cc	_	Translit=ḏālika
 38	سَ	_	PART	F---------	_	39	aux	_	Translit=sa
 39	يَكُونُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	8	conj	_	Translit=yakūnu
@@ -6565,7 +6565,7 @@
 18	هٰذَا	_	DET	SD----MS2-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	19	det	_	Translit=hāḏā
 19	اَلأَمرِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	11	nmod	_	Translit=al-ʾamri
 20	بِ	_	ADP	P---------	AdpType=Prep	2	cc	_	Translit=bi
-21	مَا	_	PRON	S---------	_	2	nmod	_	Translit=mā
+21	مَا	_	PRON	S---------	_	2	cc	_	Translit=mā
 22	يَجعَلُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	2	conj	_	Translit=yaǧʿalu
 23	مِن	_	ADP	P---------	AdpType=Prep	24	case	_	Translit=min
 24	اَلمَدرَسَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	22	iobj	_	Translit=al-madrasati
@@ -6579,7 +6579,7 @@
 32	اَلأَطرَافِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	31	nmod	_	Translit=al-ʾaṭrāfi
 33	مِن	_	ADP	P---------	AdpType=Prep	34	case	_	Translit=min
 34	مُرَبِّينَ	_	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	32	nmod	_	Translit=murabbīna
-35	وَ	_	CONJ	C---------	_	34	nmod	_	Translit=wa
+35	وَ	_	CONJ	C---------	_	34	cc	_	Translit=wa
 36	أَولِيَاءَ	_	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	34	conj	_	Translit=ʾawliyāʾa
 37	وَ	_	CONJ	C---------	_	34	cc	_	Translit=wa
 38	تَلَامِيذَ	_	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	34	conj	_	Translit=talāmīḏa
@@ -6638,7 +6638,7 @@
 40	اِستِهلَاكِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	37	nmod	_	Translit=istihlāki
 41	اَلطَّاقَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	40	nmod	_	Translit=aṭ-ṭāqati
 42	اَلتَّقلِيدِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	41	amod	_	Translit=at-taqlīdīyati
-43	وَ	_	CONJ	C---------	_	37	nmod	_	Translit=wa
+43	وَ	_	CONJ	C---------	_	37	cc	_	Translit=wa
 44	تَصَاعُدِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	37	conj	_	Translit=taṣāʿudi
 45	أَسعَارِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	44	nmod	_	Translit=ʾasʿāri
 46	اَلمَحرُوقَاتِ	_	ADJ	A-----FP2D	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	45	amod	_	Translit=al-maḥrūqāti
@@ -6676,7 +6676,7 @@
 20	لَدَى	_	ADP	P---------	AdpType=Prep	21	case	_	Translit=ladā
 21	مُختَلِفِ	_	ADJ	A-----MS2R	Case=Gen|Definite=Red|Gender=Masc|Number=Sing	15	amod	_	Translit=muḫtalifi
 22	اَلأَوسَاطِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	21	nmod	_	Translit=al-ʾawsāṭi
-23	وَ	_	CONJ	C---------	_	15	nmod	_	Translit=wa
+23	وَ	_	CONJ	C---------	_	15	cc	_	Translit=wa
 24	إِدمَاجِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	15	conj	_	Translit=ʾidmāǧi
 25	اَلتَّقنِيَّاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	24	nmod	_	Translit=at-taqnīyāti
 26	المقتصدة	_	X	U---------	_	25	nmod	_	Translit=AlmqtSdp
@@ -6707,7 +6707,7 @@
 51	اَلطَّاقَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	49	nmod	_	Translit=aṭ-ṭāqati
 52	وذلك	_	X	U---------	_	15	cc	_	Translit=w*lk
 53	وذلك	_	X	U---------	_	15	cc	_	Translit=w*lk
-54	إِلَى	_	ADP	P---------	AdpType=Prep	15	nmod	_	Translit=ʾilā
+54	إِلَى	_	ADP	P---------	AdpType=Prep	15	cc	_	Translit=ʾilā
 55	جَانِبِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	15	cc	_	Translit=ǧānibi
 56	اَلعَمَلِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	15	conj	_	Translit=al-ʿamali
 57	عَلَى	_	ADP	P---------	AdpType=Prep	58	case	_	Translit=ʿalā
@@ -7407,7 +7407,7 @@
 69	سَوَاءً	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	71	cc	_	Translit=sawāʾan
 70	كَانَ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	71	cop	_	Translit=kāna
 71	جِيُولُوجِيًّا	_	ADJ	A-----MS4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	68	acl	_	Translit=ǧiyūlūǧīyan
-72	أَو	_	CONJ	C---------	_	71	nmod	_	Translit=ʾaw
+72	أَو	_	CONJ	C---------	_	71	cc	_	Translit=ʾaw
 73	مَحمُولًا	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	71	conj	_	Translit=maḥmūlan
 74	عَلَى	_	ADP	P---------	AdpType=Prep	75	case	_	Translit=ʿalā
 75	طَائِرَاتٍ	_	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	73	nmod	_	Translit=ṭāʾirātin
@@ -7478,7 +7478,7 @@
 38	لِ	_	ADP	P---------	AdpType=Prep	39	case	_	Translit=li
 39	مِصرَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	33	dobj	_	Translit=miṣra
 40	»	_	PUNCT	G---------	_	33	punct	_	Translit=»
-41	فَ	_	CONJ	C---------	_	33	nmod	_	Translit=fa
+41	فَ	_	CONJ	C---------	_	33	cc	_	Translit=fa
 42	عَن	_	ADP	P---------	AdpType=Prep	44	case	_	Translit=ʿan
 43	طَرِيقِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	44	cc	_	Translit=ṭarīqi
 44	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	46	nmod	_	Translit=hā
@@ -7487,7 +7487,7 @@
 47	اِكتِشَافُ	_	NOUN	N------S1R	Case=Nom|Definite=Red|Number=Sing	46	nsubj	_	Translit=iktišāfu
 48	اَلمِيَاهِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	47	dobj	_	Translit=al-miyāhi
 49	اَلجَوفِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	48	amod	_	Translit=al-ǧawfīyati
-50	وَ	_	CONJ	C---------	_	48	nmod	_	Translit=wa
+50	وَ	_	CONJ	C---------	_	48	cc	_	Translit=wa
 51	اَلآثَارِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	48	conj	_	Translit=al-ʾāṯāri
 52	اَلمَدفُونَةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	51	amod	_	Translit=al-madfūnati
 53	وَ	_	CONJ	C---------	_	48	cc	_	Translit=wa
@@ -7675,7 +7675,7 @@
 27	هِيَ	_	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	Translit=hiya
 28	تَملِكُ	_	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	parataxis	_	Translit=tamliku
 29	(	_	PUNCT	G---------	_	28	punct	_	Translit=(
-30	أَو	_	CONJ	C---------	_	28	nmod	_	Translit=ʾaw
+30	أَو	_	CONJ	C---------	_	28	cc	_	Translit=ʾaw
 31	تُشَارِكُ	_	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	28	conj	_	Translit=tušāriku
 32	فِي	_	ADP	P---------	AdpType=Prep	33	case	_	Translit=fī
 33	مِلكِيَّةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	31	dobj	_	Translit=milkīyati
@@ -7684,7 +7684,7 @@
 36	مَصنَعًا	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	35	nmod	_	Translit=maṣnaʿan
 37	فِي	_	ADP	P---------	AdpType=Prep	38	case	_	Translit=fī
 38	اَليُونَانِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	36	nmod	_	Translit=al-yūnāni
-39	وَ	_	CONJ	C---------	_	38	nmod	_	Translit=wa
+39	وَ	_	CONJ	C---------	_	38	cc	_	Translit=wa
 40	بُلغَارِيَا	_	X	X---------	Foreign=Foreign	38	conj	_	Translit=bulġāriyā
 41	وَ	_	CONJ	C---------	_	38	cc	_	Translit=wa
 42	شَرقِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	38	conj	_	Translit=šarqi
@@ -7712,8 +7712,8 @@
 64	اَلبِنَاءِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	63	nmod	_	Translit=al-bināʾi
 65	اَلجَاهِزَةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	63	amod	_	Translit=al-ǧāhizati
 66	،	_	PUNCT	G---------	_	65	punct	_	Translit=،
-67	بِ	_	ADP	P---------	AdpType=Prep	70	case	_	Translit=bi
-68	اَلإِضَافَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	67	mwe	_	Translit=al-ʾiḍāfati
+67	بِ	_	ADP	P---------	AdpType=Prep	70	cc	_	Translit=bi
+68	اَلإِضَافَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	70	cc	_	Translit=al-ʾiḍāfati
 69	إِلَى	_	ADP	P---------	AdpType=Prep	70	case	_	Translit=ʾilā
 70	عَشَرَةِ	_	NUM	QX----M-2R	Case=Gen|Definite=Red|Gender=Masc|NumForm=Word	28	advmod	_	Translit=ʿašarati
 71	مَقَالِعَ	_	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	70	nmod	_	Translit=maqāliʿa
@@ -7913,7 +7913,7 @@
 32	«	_	PUNCT	G---------	_	31	punct	_	Translit=«
 33	اَلبُلغَارِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	29	amod	_	Translit=al-bulġārīyati
 34	،	_	PUNCT	G---------	_	33	punct	_	Translit=،
-35	وَ	_	CONJ	C---------	_	13	nmod	_	Translit=wa
+35	وَ	_	CONJ	C---------	_	13	cc	_	Translit=wa
 36	تَقَاسُمَ	_	NOUN	N------S4R	Case=Acc|Definite=Red|Number=Sing	13	conj	_	Translit=taqāsuma
 37	مَشرُوعٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	36	nmod	_	Translit=mašrūʿin
 38	مُشتَرَكٍ	_	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	37	amod	_	Translit=muštarakin
@@ -8130,7 +8130,7 @@
 20	هُ	_	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nmod	_	Translit=hu
 21	عَامَ	_	NOUN	N------S4R	Case=Acc|Definite=Red|Number=Sing	18	nmod	_	Translit=ʿāma
 22	٤٩٩١	_	NUM	Q---------	NumForm=Digit	21	nummod	_	Translit=4991
-23	وَ	_	CONJ	C---------	_	18	nmod	_	Translit=wa
+23	وَ	_	CONJ	C---------	_	18	cc	_	Translit=wa
 24	رَبِحَت	_	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	18	conj	_	Translit=rabiḥat
 25	مَجمُوعَةُ	_	NOUN	N------S1R	Case=Nom|Definite=Red|Number=Sing	24	nsubj	_	Translit=maǧmūʿatu
 26	لافارج	_	X	U---------	_	25	nmod	_	Translit=lAfArj
@@ -8266,7 +8266,7 @@
 46	شَكلٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	42	nmod	_	Translit=šaklin
 47	وَاسِعٍ	_	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	46	amod	_	Translit=wāsiʿin
 48	،	_	PUNCT	G---------	_	47	punct	_	Translit=،
-49	وَ	_	CONJ	C---------	_	33	nmod	_	Translit=wa
+49	وَ	_	CONJ	C---------	_	33	cc	_	Translit=wa
 50	هُنَاكَ	_	ADV	D---------	_	33	conj	_	Translit=hunāka
 51	اَلكَثِيرُ	_	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	50	nsubj	_	Translit=al-kaṯīru
 52	اَلَّذِي	_	PRON	SR----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	51	cc	_	Translit=allaḏī
@@ -8312,7 +8312,7 @@
 92	اَلسَّنَوَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	88	nmod	_	Translit=as-sanawāti
 93	اَلمَاضِيَةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	92	amod	_	Translit=al-māḍiyati
 94	إِلَّا	_	PART	F---------	_	86	cc	_	Translit=ʾillā
-95	أَنَّ	_	CONJ	C---------	_	86	nmod	_	Translit=ʾanna
+95	أَنَّ	_	CONJ	C---------	_	86	cc	_	Translit=ʾanna
 96	خُطَطَ	_	NOUN	N------P4R	Case=Acc|Definite=Red|Number=Plur	102	nsubj	_	Translit=ḫuṭaṭa
 97	اَلحُكُومَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	96	nmod	_	Translit=al-ḥukūmati
 98	لِ	_	ADP	P---------	AdpType=Prep	99	case	_	Translit=li
@@ -8415,14 +8415,14 @@
 61	فِي	_	ADP	P---------	AdpType=Prep	62	case	_	Translit=fī
 62	عَدَدِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	60	nmod	_	Translit=ʿadadi
 63	اَلسُّكَّانِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	62	nmod	_	Translit=as-sukkāni
-64	بِ	_	ADP	P---------	AdpType=Prep	65	case	_	Translit=bi
-65	سَبَبِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	59	cc	_	Translit=sababi
-66	الولادات	_	X	U---------	_	65	cc	_	Translit=AlwlAdAt
-67	وَ	_	CONJ	C---------	_	65	cc	_	Translit=wa
-68	أَيضًا	_	ADV	D---------	_	65	conj	_	Translit=ʾayḍan
-69	بِ	_	ADP	P---------	AdpType=Prep	68	case	_	Translit=bi
-70	سَبَبِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	68	cc	_	Translit=sababi
-71	تَحَسُّنِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	68	cc	_	Translit=taḥassuni
+64	بِ	_	ADP	P---------	AdpType=Prep	66	case	_	Translit=bi
+65	سَبَبِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	66	cc	_	Translit=sababi
+66	الولادات	_	X	U---------	_	59	advmod	_	Translit=AlwlAdAt
+67	وَ	_	CONJ	C---------	_	66	cc	_	Translit=wa
+68	أَيضًا	_	ADV	D---------	_	71	advmod:emph	_	Translit=ʾayḍan
+69	بِ	_	ADP	P---------	AdpType=Prep	71	case	_	Translit=bi
+70	سَبَبِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	71	cc	_	Translit=sababi
+71	تَحَسُّنِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	66	conj	_	Translit=taḥassuni
 72	اَلمُستَوَى	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	71	nmod	_	Translit=al-mustawā
 73	اَلمَعِيشِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	72	amod	_	Translit=al-maʿīšīyi
 74	وَ	_	CONJ	C---------	_	73	cc	_	Translit=wa
@@ -8453,7 +8453,7 @@
 8	مِصرَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	6	nmod	_	Translit=miṣra
 9	فِي	_	ADP	P---------	AdpType=Prep	10	case	_	Translit=fī
 10	تَقَدُّمٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	5	nmod	_	Translit=taqaddumin
-11	وَ	_	CONJ	C---------	_	5	nmod	_	Translit=wa
+11	وَ	_	CONJ	C---------	_	5	cc	_	Translit=wa
 12	سَ	_	PART	F---------	_	13	aux	_	Translit=sa
 13	يَكُونُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	conj	_	Translit=yakūnu
 14	بِ	_	ADP	P---------	AdpType=Prep	15	case	_	Translit=bi
@@ -8510,7 +8510,7 @@
 22	تَستَورِدُ	_	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	20	xcomp	_	Translit=tastawridu
 23	اسمنتاً	_	X	U---------	_	22	dobj	_	Translit=AsmntAF
 24	،	_	PUNCT	G---------	_	23	punct	_	Translit=،
-25	وَ	_	CONJ	C---------	_	10	nmod	_	Translit=wa
+25	وَ	_	CONJ	C---------	_	10	cc	_	Translit=wa
 26	مِن	_	ADP	P---------	AdpType=Prep	27	case	_	Translit=min
 27	اَلمُستَحسَنِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	conj	_	Translit=al-mustaḥsani
 28	عُمُومًا	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	27	nmod	_	Translit=ʿumūman
@@ -8645,7 +8645,7 @@
 157	اَلسَّابِقِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	149	nmod	_	Translit=as-sābiqi
 158	،	_	PUNCT	G---------	_	157	punct	_	Translit=،
 159	إِلَّا	_	PART	F---------	_	148	cc	_	Translit=ʾillā
-160	أَنَّ	_	CONJ	C---------	_	148	nmod	_	Translit=ʾanna
+160	أَنَّ	_	CONJ	C---------	_	148	cc	_	Translit=ʾanna
 161	اَلِاستِهلَاكَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	162	nsubj	_	Translit=al-i-ʼstihlāka
 162	هَبَطَ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	148	conj	_	Translit=habaṭa
 163	فِي	_	ADP	P---------	AdpType=Prep	164	case	_	Translit=fī
@@ -8727,9 +8727,9 @@
 49	.	_	PUNCT	G---------	_	1	punct	_	Translit=.
 50	وَ	_	CONJ	C---------	_	1	cc	_	Translit=wa
 51	هِيَ	_	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Translit=hiya
-52	اَلآنَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	51	nsubj	_	Translit=al-ʾāna
+52	اَلآنَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	51	nmod	_	Translit=al-ʾāna
 53	فِي	_	ADP	P---------	AdpType=Prep	51	case	_	Translit=fī
-54	مَرحَلَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	51	nsubj	_	Translit=marḥalati
+54	مَرحَلَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	51	nmod	_	Translit=marḥalati
 55	دَعوَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	54	nmod	_	Translit=daʿwati
 56	اَلمُستَثمِرِينَ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	55	dobj	_	Translit=al-mustaṯmirīna
 57	لِ	_	ADP	P---------	AdpType=Prep	58	case	_	Translit=li
@@ -8773,7 +8773,7 @@
 22	قَبلِ	_	ADP	PI------2-	AdpType=Prep|Case=Gen	21	case	_	Translit=qabli
 23	،	_	PUNCT	G---------	_	22	punct	_	Translit=،
 24	إِلَّا	_	PART	F---------	_	16	cc	_	Translit=ʾillā
-25	أَنَّ	_	CONJ	C---------	_	16	nmod	_	Translit=ʾanna
+25	أَنَّ	_	CONJ	C---------	_	16	cc	_	Translit=ʾanna
 26	اَلمَملَكَةَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	27	nsubj	_	Translit=al-mamlakata
 27	نَجَحَت	_	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	16	conj	_	Translit=naǧaḥat
 28	فِي	_	ADP	P---------	AdpType=Prep	29	case	_	Translit=fī
@@ -8781,7 +8781,7 @@
 30	اَلِاكتِفَاءِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	29	dobj	_	Translit=al-i-ʼktifāʾi
 31	اَلذَّاتِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	30	amod	_	Translit=aḏ-ḏātīyi
 32	لَا	_	PART	F---------	_	27	cc	_	Translit=lā
-33	بَل	_	CONJ	C---------	_	27	nmod	_	Translit=bal
+33	بَل	_	CONJ	C---------	_	27	cc	_	Translit=bal
 34	تَحَوَّلَت	_	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	27	conj	_	Translit=taḥawwalat
 35	إِلَى	_	ADP	P---------	AdpType=Prep	36	case	_	Translit=ʾilā
 36	اَلتَّصدِيرِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	34	dobj	_	Translit=at-taṣdīri
@@ -8811,7 +8811,7 @@
 18	«	_	PUNCT	G---------	_	17	punct	_	Translit=«
 19	،	_	PUNCT	G---------	_	18	punct	_	Translit=،
 20	إِلَّا	_	PART	F---------	_	2	cc	_	Translit=ʾillā
-21	أَنَّ	_	CONJ	C---------	_	2	nmod	_	Translit=ʾanna
+21	أَنَّ	_	CONJ	C---------	_	2	cc	_	Translit=ʾanna
 22	هَا	_	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	Translit=hā
 23	تَفُوقُ	_	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	2	conj	_	Translit=tafūqu
 24	هَا	_	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	dobj	_	Translit=hā
@@ -8953,7 +8953,7 @@
 44	وايت	_	X	U---------	_	43	nmod	_	Translit=wAyt
 45	،	_	PUNCT	G---------	_	44	punct	_	Translit=،
 46	وَ	_	CONJ	C---------	_	28	cc	_	Translit=wa
-47	لٰكِنَّ	_	CONJ	C---------	_	28	nmod	_	Translit=lākinna
+47	لٰكِنَّ	_	CONJ	C---------	_	28	cc	_	Translit=lākinna
 48	لَم	_	PART	F---------	_	49	neg	_	Translit=lam
 49	يَخطُر	_	VERB	VIJA-3MS--	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	28	conj	_	Translit=yaḫṭur
 50	فِي	_	ADP	P---------	AdpType=Prep	51	case	_	Translit=fī
@@ -8991,7 +8991,7 @@
 82	أَن	_	CONJ	C---------	_	83	mark	_	Translit=ʾan
 83	يساعدني	_	X	U---------	_	81	nsubj	_	Translit=ysAEdny
 84	يساعدني	_	X	U---------	_	83	dobj	_	Translit=ysAEdny
-85	وَ	_	CONJ	C---------	_	75	nmod	_	Translit=wa
+85	وَ	_	CONJ	C---------	_	75	cc	_	Translit=wa
 86	لَم	_	PART	F---------	_	87	neg	_	Translit=lam
 87	يهدني	_	X	U---------	_	75	conj	_	Translit=yhdny
 88	يهدني	_	X	U---------	_	87	dobj	_	Translit=yhdny
@@ -9382,9 +9382,9 @@
 8	اَلأَمِيرِكِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	amod	_	Translit=al-ʾamīrikīyati
 9	وَ	_	CONJ	C---------	_	4	cc	_	Translit=wa
 10	فِي	_	ADP	P---------	AdpType=Prep	11	case	_	Translit=fī
-11	طَلِيعَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	13	cop	_	Translit=ṭalīʿati
+11	طَلِيعَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	4	conj	_	Translit=ṭalīʿati
 12	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nmod	_	Translit=hā
-13	اَلمَملَكَةُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	4	conj	_	Translit=al-mamlakatu
+13	اَلمَملَكَةُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	11	nsubj	_	Translit=al-mamlakatu
 14	اَلعَرَبِيَّةُ	_	ADJ	A-----FS1D	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	13	amod	_	Translit=al-ʿarabīyatu
 15	اَلسَّعُودِيَّةُ	_	ADJ	A-----FS1D	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	13	amod	_	Translit=as-saʿūdīyatu
 16	،	_	PUNCT	G---------	_	15	punct	_	Translit=،
@@ -9401,7 +9401,7 @@
 27	اَلأَمِيرِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	24	nmod	_	Translit=al-ʾamīri
 28	سعود	_	X	U---------	_	29	nmod	_	Translit=sEwd
 29	الفيصل	_	X	U---------	_	27	nmod	_	Translit=AlfySl
-30	أَو	_	CONJ	C---------	_	23	nmod	_	Translit=ʾaw
+30	أَو	_	CONJ	C---------	_	23	cc	_	Translit=ʾaw
 31	عَبرَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	32	case	_	Translit=ʿabra
 32	تَأجِيلِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	23	conj	_	Translit=taʾǧīli
 33	زِيَارَاتِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	32	nmod	_	Translit=ziyārāti
@@ -9491,7 +9491,7 @@
 25	(	_	PUNCT	G---------	_	26	punct	_	Translit=(
 26	سِبتَمبِرَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	24	appos	_	Translit=sibtambira
 27	)	_	PUNCT	G---------	_	26	punct	_	Translit=)
-28	اَلحَالِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	26	amod	_	Translit=al-ḥālīyi
+28	اَلحَالِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	24	amod	_	Translit=al-ḥālīyi
 29	،	_	PUNCT	G---------	_	28	punct	_	Translit=،
 30	لِ	_	ADP	P---------	AdpType=Prep	31	case	_	Translit=li
 31	مُحَاوَلَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	17	nmod	_	Translit=muḥāwalati
@@ -10330,7 +10330,7 @@
 70	اَلطِّبِّيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	69	amod	_	Translit=aṭ-ṭibbīyi
 71	عَلَى	_	ADP	P---------	AdpType=Prep	72	case	_	Translit=ʿalā
 72	اَلشَّرِكَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	69	dobj	_	Translit=aš-šarikati
-73	مَا	_	PRON	S---------	_	61	nmod	_	Translit=mā
+73	مَا	_	PRON	S---------	_	61	cc	_	Translit=mā
 74	اضطرنا	_	X	U---------	_	61	conj	_	Translit=ADTrnA
 75	اضطرنا	_	X	U---------	_	74	dobj	_	Translit=ADTrnA
 76	إِلَى	_	ADP	P---------	AdpType=Prep	77	case	_	Translit=ʾilā
@@ -10378,11 +10378,11 @@
 20	دُولَارٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	19	nmod	_	Translit=dūlārin
 21	)	_	PUNCT	G---------	_	18	punct	_	Translit=)
 22	مُقَابِلَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	23	case	_	Translit=muqābila
-23	٦٦٥.١	_	NUM	Q---------	NumForm=Digit	18	nummod	_	Translit=665.1
+23	٦٦٥.١	_	NUM	Q---------	NumForm=Digit	14	nummod	_	Translit=665.1
 24	عَامَ	_	NOUN	N------S4R	Case=Acc|Definite=Red|Number=Sing	23	nmod	_	Translit=ʿāma
 25	١٩٩٨	_	NUM	Q---------	NumForm=Digit	24	nummod	_	Translit=1998
 26	بِ	_	ADP	P---------	AdpType=Prep	27	case	_	Translit=bi
-27	نِسبَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	18	nmod	_	Translit=nisbati
+27	نِسبَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	14	nmod	_	Translit=nisbati
 28	نُمُوِّ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	27	nmod	_	Translit=numūwi
 29	٢١٠	_	NUM	Q---------	NumForm=Digit	28	nummod	_	Translit=210
 30	فِي	_	ADP	P---------	AdpType=Prep	31	case	_	Translit=fī
@@ -10586,7 +10586,7 @@
 38	ضِمنَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	39	case	_	Translit=ḍimna
 39	فَكَّي	_	NOUN	N------D2R	Case=Gen|Definite=Red|Number=Dual	35	nmod	_	Translit=fakkay
 40	كَمَّاشَةٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	39	nmod	_	Translit=kammāšatin
-41	وَ	_	CONJ	C---------	_	35	nmod	_	Translit=wa
+41	وَ	_	CONJ	C---------	_	35	cc	_	Translit=wa
 42	مُحَاصَرَةُ	_	NOUN	N------S1R	Case=Nom|Definite=Red|Number=Sing	35	conj	_	Translit=muḥāṣaratu
 43	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	42	nmod	_	Translit=hā
 44	وَ	_	CONJ	C---------	_	35	cc	_	Translit=wa
@@ -10654,7 +10654,7 @@
 106	بِ	_	ADP	P---------	AdpType=Prep	107	case	_	Translit=bi
 107	دِقَّةٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	103	nmod	_	Translit=diqqatin
 108	،	_	PUNCT	G---------	_	107	punct	_	Translit=،
-109	وَ	_	CONJ	C---------	_	103	nmod	_	Translit=wa
+109	وَ	_	CONJ	C---------	_	103	cc	_	Translit=wa
 110	تُدرِكُ	_	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	103	conj	_	Translit=tudriku
 111	أَنَّ	_	CONJ	C---------	_	114	mark	_	Translit=ʾanna
 112	صدام	_	X	U---------	_	114	nsubj	_	Translit=SdAm
@@ -10854,7 +10854,7 @@
 13	خَنقِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	11	nmod	_	Translit=ḫanqi
 14	هِم	_	PRON	SP---3MP2-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	nmod	_	Translit=him
 15	،	_	PUNCT	G---------	_	14	punct	_	Translit=،
-16	فَ	_	CONJ	C---------	_	9	nmod	_	Translit=fa
+16	فَ	_	CONJ	C---------	_	9	cc	_	Translit=fa
 17	اَلمَسأَلَةُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	18	nsubj	_	Translit=al-masʾalatu
 18	مَسأَلَةُ	_	NOUN	N------S1R	Case=Nom|Definite=Red|Number=Sing	9	conj	_	Translit=masʾalatu
 19	حَيَاةٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	18	nmod	_	Translit=ḥayātin
@@ -10940,7 +10940,7 @@
 34	(	_	PUNCT	G---------	_	35	punct	_	Translit=(
 35	أُكتُوبِرَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	32	appos	_	Translit=ʾuktūbira
 36	)	_	PUNCT	G---------	_	35	punct	_	Translit=)
-37	اَلمَاضِي	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	35	amod	_	Translit=al-māḍī
+37	اَلمَاضِي	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	32	amod	_	Translit=al-māḍī
 38	مِن	_	ADP	P---------	AdpType=Prep	40	case	_	Translit=min
 39	»	_	PUNCT	G---------	_	40	punct	_	Translit=»
 40	مُحَاوَلَةٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	29	dobj	_	Translit=muḥāwalatin
@@ -11218,10 +11218,10 @@
 56	أَعمَاقِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	51	nmod	_	Translit=ʾaʿmāqi
 57	اَلبَحرِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	56	nmod	_	Translit=al-baḥri
 58	عِلَاوَةً	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	45	cc	_	Translit=ʿilāwatan
-59	عَلَى	_	ADP	P---------	AdpType=Prep	45	nmod	_	Translit=ʿalā
+59	عَلَى	_	ADP	P---------	AdpType=Prep	45	cc	_	Translit=ʿalā
 60	اَلأَسمَاكِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	45	conj	_	Translit=al-ʾasmāki
 61	اَلمُلَوَّنَةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	60	amod	_	Translit=al-mulawwanati
-62	وَ	_	CONJ	C---------	_	60	nmod	_	Translit=wa
+62	وَ	_	CONJ	C---------	_	60	cc	_	Translit=wa
 63	اَلحَيَوَانَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	60	conj	_	Translit=al-ḥayawānāti
 64	اَلبَحرِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	63	amod	_	Translit=al-baḥrīyati
 65	وَ	_	CONJ	C---------	_	60	cc	_	Translit=wa
@@ -11304,7 +11304,7 @@
 43	مُدَّةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	40	nmod	_	Translit=muddati
 44	شَهرٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	43	nmod	_	Translit=šahrin
 45	،	_	PUNCT	G---------	_	44	punct	_	Translit=،
-46	وَ	_	CONJ	C---------	_	37	nmod	_	Translit=wa
+46	وَ	_	CONJ	C---------	_	37	cc	_	Translit=wa
 47	يُضَاعِفُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	37	conj	_	Translit=yuḍāʿifu
 48	هٰذَا	_	DET	SD----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	49	det	_	Translit=hāḏā
 49	اَلمَبلَغُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	47	nsubj	_	Translit=al-mablaġu
@@ -11366,7 +11366,7 @@
 27	هُ	_	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	iobj	_	Translit=hu
 28	اَلإِبحَارَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	25	dobj	_	Translit=al-ʾibḥāra
 29	،	_	PUNCT	G---------	_	28	punct	_	Translit=،
-30	اَلأَمرُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	13	nmod	_	Translit=al-ʾamru
+30	اَلأَمرُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	13	cc	_	Translit=al-ʾamru
 31	اَلَّذِي	_	PRON	SR----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	13	cc	_	Translit=allaḏī
 32	سَمَحَ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	13	conj	_	Translit=samaḥa
 33	لِ	_	ADP	P---------	AdpType=Prep	34	case	_	Translit=li
@@ -11441,10 +11441,10 @@
 30	اَلشَّدِيدِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	28	amod	_	Translit=aš-šadīdi
 31	مِن	_	ADP	P---------	AdpType=Prep	32	case	_	Translit=min
 32	اَلرُّسُومِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	28	nmod	_	Translit=ar-rusūmi
-33	وَ	_	CONJ	C---------	_	32	nmod	_	Translit=wa
+33	وَ	_	CONJ	C---------	_	32	cc	_	Translit=wa
 34	اَلتَّعقِيدَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	32	conj	_	Translit=at-taʿqīdāti
 35	اَلأَمنِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	34	amod	_	Translit=al-ʾamnīyati
-36	وَ	_	CONJ	C---------	_	35	nmod	_	Translit=wa
+36	وَ	_	CONJ	C---------	_	35	cc	_	Translit=wa
 37	اَلإِدَارِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	35	conj	_	Translit=al-ʾidārīyati
 38	وَ	_	CONJ	C---------	_	35	cc	_	Translit=wa
 39	اَلمَالِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	35	conj	_	Translit=al-mālīyati
@@ -11502,7 +11502,7 @@
 11	هَا	_	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	dobj	_	Translit=hā
 12	هٰذِهِ	_	DET	SD----FS1-	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	Translit=hāḏihi
 13	اَلسِّيَاحَةُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	10	nsubj	_	Translit=as-siyāḥatu
-14	وَ	_	CONJ	C---------	_	10	nmod	_	Translit=wa
+14	وَ	_	CONJ	C---------	_	10	cc	_	Translit=wa
 15	اَلَّتِي	_	PRON	SR----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	10	cc	_	Translit=allatī
 16	تَتَمَثَّلُ	_	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	10	conj	_	Translit=tatamaṯṯalu
 17	خُصُوصًا	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	16	nmod	_	Translit=ḫuṣūṣan
@@ -11520,7 +11520,7 @@
 29	مِصرَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	26	nmod	_	Translit=miṣra
 30	عَلَى	_	ADP	P---------	AdpType=Prep	31	case	_	Translit=ʿalā
 31	اَلمَأكَلِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	20	nmod	_	Translit=al-maʾkali
-32	وَ	_	CONJ	C---------	_	31	nmod	_	Translit=wa
+32	وَ	_	CONJ	C---------	_	31	cc	_	Translit=wa
 33	اَلمَشرَبِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	31	conj	_	Translit=al-mašrabi
 34	وَ	_	CONJ	C---------	_	31	cc	_	Translit=wa
 35	شِرَاءِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	31	conj	_	Translit=širāʾi
@@ -11675,7 +11675,7 @@
 18	اَلإِقَامَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	17	nmod	_	Translit=al-ʾiqāmati
 19	،	_	PUNCT	G---------	_	18	punct	_	Translit=،
 20	إِضَافَةً	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	8	cc	_	Translit=ʾiḍāfatan
-21	إِلَى	_	ADP	P---------	AdpType=Prep	8	nmod	_	Translit=ʾilā
+21	إِلَى	_	ADP	P---------	AdpType=Prep	8	cc	_	Translit=ʾilā
 22	رُسُومٍ	_	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	8	conj	_	Translit=rusūmin
 23	تقوم	_	X	U---------	_	22	nmod	_	Translit=tqwm
 24	بِ	_	ADP	P---------	AdpType=Prep	25	case	_	Translit=bi
@@ -11923,7 +11923,7 @@
 22	.	_	PUNCT	G---------	_	20	punct	_	Translit=.
 23	.	_	PUNCT	G---------	_	20	punct	_	Translit=.
 24	وَ	_	CONJ	C---------	_	8	cc	_	Translit=wa
-25	لٰكِنَّ	_	CONJ	C---------	_	8	nmod	_	Translit=lākinna
+25	لٰكِنَّ	_	CONJ	C---------	_	8	cc	_	Translit=lākinna
 26	هَا	_	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	34	nsubj	_	Translit=hā
 27	-	_	PUNCT	G---------	_	29	punct	_	Translit=-
 28	أَي	_	CONJ	C---------	_	29	cc	_	Translit=ʾay
@@ -12009,7 +12009,7 @@
 25	فِي	_	ADP	P---------	AdpType=Prep	26	case	_	Translit=fī
 26	مُقَدَّمِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	1	conj	_	Translit=muqaddami
 27	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	26	nmod	_	Translit=hā
-28	اَلحَالَةُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	26	parataxis	_	Translit=al-ḥālatu
+28	اَلحَالَةُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	26	nsubj	_	Translit=al-ḥālatu
 29	اَلَّتِي	_	PRON	SR----FS1-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	28	cc	_	Translit=allatī
 30	أَصبَحَت	_	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	28	acl	_	Translit=ʾaṣbaḥat
 31	"	_	PUNCT	G---------	_	32	punct	_	Translit="
@@ -12237,7 +12237,7 @@
 56	اَليَسَارِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	55	amod	_	Translit=al-yasārīyi
 57	،	_	PUNCT	G---------	_	56	punct	_	Translit=،
 58	أَنظِمَةً	_	NOUN	N------P4I	Case=Acc|Definite=Ind|Number=Plur	54	nmod	_	Translit=ʾanẓimatan
-59	وَ	_	CONJ	C---------	_	58	nmod	_	Translit=wa
+59	وَ	_	CONJ	C---------	_	58	cc	_	Translit=wa
 60	أَحزَابًا	_	NOUN	N------P4I	Case=Acc|Definite=Ind|Number=Plur	58	conj	_	Translit=ʾaḥzāban
 61	وَ	_	CONJ	C---------	_	58	cc	_	Translit=wa
 62	مُفَكِّرِينَ	_	NOUN	N------P4I	Case=Acc|Definite=Ind|Number=Plur	58	conj	_	Translit=mufakkirīna
@@ -12431,7 +12431,7 @@
 40	.	_	PUNCT	G---------	_	38	punct	_	Translit=.
 41	.	_	PUNCT	G---------	_	38	punct	_	Translit=.
 42	مِن	_	ADP	P---------	AdpType=Prep	29	cc	_	Translit=min
-43	مَا	_	PRON	S---------	_	29	nmod	_	Translit=mā
+43	مَا	_	PRON	S---------	_	29	cc	_	Translit=mā
 44	يَعنِي	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	29	conj	_	Translit=yaʿnī
 45	اَلآنَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	44	nmod	_	Translit=al-ʾāna
 46	أَنَّ	_	CONJ	C---------	_	47	mark	_	Translit=ʾanna
@@ -12479,11 +12479,11 @@
 14	كُلِّ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	10	nmod	_	Translit=kulli
 15	ابعادها	_	X	U---------	_	14	nmod	_	Translit=AbEAdhA
 16	ابعادها	_	X	U---------	_	15	nmod	_	Translit=AbEAdhA
-17	بِ	_	ADP	P---------	AdpType=Prep	10	cc	_	Translit=bi
-18	مَا	_	PRON	S---------	_	17	cc	_	Translit=mā
-19	فِي	_	ADP	P---------	AdpType=Prep	17	case	_	Translit=fī
-20	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	cc	_	Translit=hā
-21	بُعدُ	_	NOUN	N------S1R	Case=Nom|Definite=Red|Number=Sing	17	cc	_	Translit=buʿdu
+17	بِ	_	ADP	P---------	AdpType=Prep	21	cc	_	Translit=bi
+18	مَا	_	PRON	S---------	_	21	cc	_	Translit=mā
+19	فِي	_	ADP	P---------	AdpType=Prep	21	case	_	Translit=fī
+20	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	cc	_	Translit=hā
+21	بُعدُ	_	NOUN	N------S1R	Case=Nom|Definite=Red|Number=Sing	10	nmod	_	Translit=buʿdu
 22	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	nmod	_	Translit=hā
 23	اَلنَّقدِيُّ	_	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	21	amod	_	Translit=an-naqdīyu
 24	لِ	_	ADP	P---------	AdpType=Prep	25	case	_	Translit=li
@@ -12494,12 +12494,12 @@
 29	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	28	nmod	_	Translit=hā
 30	اَلرَّجعِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	28	amod	_	Translit=ar-raǧʿīyi
 31	اَلرَّاهِنِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	28	amod	_	Translit=ar-rāhini
-32	،	_	PUNCT	G---------	_	17	punct	_	Translit=،
+32	،	_	PUNCT	G---------	_	21	punct	_	Translit=،
 33	بِ	_	ADP	P---------	AdpType=Prep	37	cc	_	Translit=bi
 34	مَا	_	PRON	S---------	_	37	cc	_	Translit=mā
 35	هِيَ	_	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	37	cc	_	Translit=hiya
 36	فِي	_	ADP	P---------	AdpType=Prep	37	case	_	Translit=fī
-37	تَعرِيفِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	17	conj	_	Translit=taʿrīfi
+37	تَعرِيفِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	21	conj	_	Translit=taʿrīfi
 38	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	37	nmod	_	Translit=hā
 39	الراهني	_	X	U---------	_	37	nmod	_	Translit=AlrAhny
 40	،	_	PUNCT	G---------	_	39	punct	_	Translit=،
@@ -12532,7 +12532,7 @@
 2	كَشَفَ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	0	root	_	Translit=kašafa
 3	التأزم	_	X	U---------	_	2	nsubj	_	Translit=Alt>zm
 4	اَلدُّوَلِيُّ	_	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	amod	_	Translit=ad-duwalīyu
-5	وَ	_	CONJ	C---------	_	4	nmod	_	Translit=wa
+5	وَ	_	CONJ	C---------	_	4	cc	_	Translit=wa
 6	اَلعَرَبِيُّ	_	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	conj	_	Translit=al-ʿarabīyu
 7	والاقليمي	_	X	U---------	_	4	cc	_	Translit=wAlAqlymy
 8	والاقليمي	_	X	U---------	_	4	conj	_	Translit=wAlAqlymy
@@ -13016,7 +13016,7 @@
 118	مُمَثِّلِي	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	38	conj	_	Translit=mumaṯṯilī
 119	اَلهَيئَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	118	nmod	_	Translit=al-hayʾāti
 120	اَلثَّقَافِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	119	amod	_	Translit=aṯ-ṯaqāfīyati
-121	وَ	_	CONJ	C---------	_	120	nmod	_	Translit=wa
+121	وَ	_	CONJ	C---------	_	120	cc	_	Translit=wa
 122	اَلِاجتِمَاعِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	120	conj	_	Translit=al-i-ʼǧtimāʿīyati
 123	والاعلامية	_	X	U---------	_	120	cc	_	Translit=wAlAElAmyp
 124	والاعلامية	_	X	U---------	_	120	conj	_	Translit=wAlAElAmyp
@@ -13030,7 +13030,7 @@
 132	دُوَلِيَّةٍ	_	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	130	conj	_	Translit=duwalīyatin
 133	مِن	_	ADP	P---------	AdpType=Prep	134	case	_	Translit=min
 134	أُورُوبَا	_	X	X---------	Foreign=Foreign	129	nmod	_	Translit=ʾūrūbā
-135	وَ	_	CONJ	C---------	_	134	nmod	_	Translit=wa
+135	وَ	_	CONJ	C---------	_	134	cc	_	Translit=wa
 136	أَمِيرِكَا	_	X	X---------	Foreign=Foreign	134	conj	_	Translit=ʾamīrikā
 137	اللاتينية	_	X	U---------	_	136	nmod	_	Translit=AllAtynyp
 138	وافريقيا	_	X	U---------	_	134	cc	_	Translit=wAfryqyA
@@ -13138,7 +13138,7 @@
 95	اِستَطَاعَ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	87	csubj	_	Translit=istaṭāʿa
 96	أَن	_	CONJ	C---------	_	97	mark	_	Translit=ʾan
 97	يَصمُدَ	_	VERB	VISA-3MS--	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	95	ccomp	_	Translit=yaṣmuda
-98	وَ	_	CONJ	C---------	_	97	nmod	_	Translit=wa
+98	وَ	_	CONJ	C---------	_	97	cc	_	Translit=wa
 99	يُقَاوِم	_	VERB	VIJA-3MS--	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	97	conj	_	Translit=yuqāwim
 100	وَ	_	CONJ	C---------	_	97	cc	_	Translit=wa
 101	يُحَرِّر	_	VERB	VIJA-3MS--	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	97	conj	_	Translit=yuḥarrir
@@ -13197,7 +13197,7 @@
 42	ابادة	_	X	U---------	_	40	nmod	_	Translit=AbAdp
 43	اَلشَّعبِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	42	nmod	_	Translit=aš-šaʿbi
 44	اَلفِلَسطِينِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	43	amod	_	Translit=al-filasṭīnīyi
-45	وَ	_	CONJ	C---------	_	42	nmod	_	Translit=wa
+45	وَ	_	CONJ	C---------	_	42	cc	_	Translit=wa
 46	تَصفِيَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	42	conj	_	Translit=taṣfiyati
 47	قضيته	_	X	U---------	_	46	nmod	_	Translit=qDyth
 48	قضيته	_	X	U---------	_	47	nmod	_	Translit=qDyth
@@ -13243,7 +13243,7 @@
 32	عَن	_	ADP	P---------	AdpType=Prep	33	case	_	Translit=ʿan
 33	اَلصِّعَابِ	_	ADJ	A-----MP2D	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	31	dobj	_	Translit=aṣ-ṣiʿābi
 34	اَلمَادِّيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	33	amod	_	Translit=al-māddīyati
-35	وَ	_	CONJ	C---------	_	33	nmod	_	Translit=wa
+35	وَ	_	CONJ	C---------	_	33	cc	_	Translit=wa
 36	قَطعِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	33	conj	_	Translit=qaṭʿi
 37	المسافات	_	X	U---------	_	36	nmod	_	Translit=AlmsAfAt
 38	اَلطَّوِيلَةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	37	amod	_	Translit=aṭ-ṭawīlati
@@ -13267,7 +13267,7 @@
 56	،	_	PUNCT	G---------	_	51	punct	_	Translit=،
 57	بِ	_	ADP	P---------	AdpType=Prep	33	cc	_	Translit=bi
 58	اَلإِضَافَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	33	cc	_	Translit=al-ʾiḍāfati
-59	إِلَى	_	ADP	P---------	AdpType=Prep	33	nmod	_	Translit=ʾilā
+59	إِلَى	_	ADP	P---------	AdpType=Prep	33	cc	_	Translit=ʾilā
 60	صُعُوبَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	33	conj	_	Translit=ṣuʿūbati
 61	اَلحُصُولِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	60	nmod	_	Translit=al-ḥuṣūli
 62	عَلَى	_	ADP	P---------	AdpType=Prep	63	case	_	Translit=ʿalā
@@ -13306,7 +13306,7 @@
 20	إِلَي	_	ADP	P---------	AdpType=Prep	21	case	_	Translit=ʾilay
 21	هِ	_	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	dobj	_	Translit=hi
 22	؟	_	PUNCT	G---------	_	15	punct	_	Translit=؟
-23	وَ	_	CONJ	C---------	_	15	nmod	_	Translit=wa
+23	وَ	_	CONJ	C---------	_	15	cc	_	Translit=wa
 24	مَا	_	INTJ	I---------	_	15	conj	_	Translit=mā
 25	الذي	_	X	U---------	_	24	nsubj	_	Translit=Al*y
 26	تَحتَاجُ	_	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	24	acl	_	Translit=taḥtāǧu
@@ -13342,7 +13342,7 @@
 56	تَحدِيدِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	53	dobj	_	Translit=taḥdīdi
 57	حاجاتنا	_	X	U---------	_	56	nmod	_	Translit=HAjAtnA
 58	حاجاتنا	_	X	U---------	_	57	nmod	_	Translit=HAjAtnA
-59	وَ	_	CONJ	C---------	_	56	nmod	_	Translit=wa
+59	وَ	_	CONJ	C---------	_	56	cc	_	Translit=wa
 60	فَهمِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	56	conj	_	Translit=fahmi
 61	التزاماتنا	_	X	U---------	_	60	nmod	_	Translit=AltzAmAtnA
 62	التزاماتنا	_	X	U---------	_	61	nmod	_	Translit=AltzAmAtnA
@@ -13419,7 +13419,7 @@
 11	مَعَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	12	case	_	Translit=maʿa
 12	اَلنِّسَاءِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	9	nmod	_	Translit=an-nisāʾi
 13	اَلفِلَسطِينِيَّاتِ	_	ADJ	A-----FP2D	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	12	amod	_	Translit=al-filasṭīnīyāti
-14	وَ	_	CONJ	C---------	_	13	nmod	_	Translit=wa
+14	وَ	_	CONJ	C---------	_	13	cc	_	Translit=wa
 15	اَلعِرَاقِيَّاتِ	_	ADJ	A-----FP2D	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	13	conj	_	Translit=al-ʿirāqīyāti
 16	وَ	_	CONJ	C---------	_	13	cc	_	Translit=wa
 17	اَلسُّورِيَّاتِ	_	ADJ	A-----FP2D	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	13	conj	_	Translit=as-sūrīyāti
@@ -13496,18 +13496,18 @@
 35	.	_	PUNCT	G---------	_	8	punct	_	Translit=.
 36	لقد	_	X	U---------	_	37	aux	_	Translit=lqd
 37	اجتمعنا	_	X	U---------	_	8	dobj	_	Translit=AjtmEnA
-38	مِن	_	ADP	P---------	AdpType=Prep	39	case	_	Translit=min
-39	اجل	_	X	U---------	_	37	cc	_	Translit=Ajl
-40	دَعمِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	39	cc	_	Translit=daʿmi
+38	مِن	_	ADP	P---------	AdpType=Prep	40	case	_	Translit=min
+39	اجل	_	X	U---------	_	40	cc	_	Translit=Ajl
+40	دَعمِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	37	nmod	_	Translit=daʿmi
 41	اَلنِّسَاءِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	40	nmod	_	Translit=an-nisāʾi
 42	اَلفِلَسطِينِيَّاتِ	_	ADJ	A-----FP2D	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	41	amod	_	Translit=al-filasṭīnīyāti
 43	وَ	_	CONJ	C---------	_	41	cc	_	Translit=wa
 44	اَلشَّعبِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	41	conj	_	Translit=aš-šaʿbi
 45	اَلفِلَسطِينِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	44	amod	_	Translit=al-filasṭīnīyi
-46	وَ	_	CONJ	C---------	_	39	nmod	_	Translit=wa
-47	مِن	_	ADP	P---------	AdpType=Prep	48	case	_	Translit=min
-48	اجل	_	X	U---------	_	39	conj	_	Translit=Ajl
-49	دَعمِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	48	cc	_	Translit=daʿmi
+46	وَ	_	CONJ	C---------	_	40	cc	_	Translit=wa
+47	مِن	_	ADP	P---------	AdpType=Prep	49	case	_	Translit=min
+48	اجل	_	X	U---------	_	49	cc	_	Translit=Ajl
+49	دَعمِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	40	conj	_	Translit=daʿmi
 50	اَلنِّسَاءِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	49	nmod	_	Translit=an-nisāʾi
 51	اَلعِرَاقِيَّاتِ	_	ADJ	A-----FP2D	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	50	amod	_	Translit=al-ʿirāqīyāti
 52	اَللَّوَاتِي	_	PRON	SR----FP2-	Case=Gen|Gender=Fem|Number=Plur|PronType=Rel	50	cc	_	Translit=al-lawātī
@@ -13517,22 +13517,22 @@
 56	ويترقبن	_	X	U---------	_	53	cc	_	Translit=wytrqbn
 57	ويترقبن	_	X	U---------	_	53	conj	_	Translit=wytrqbn
 58	اَلعُدوَانَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	57	dobj	_	Translit=al-ʿudwāna
-59	،	_	PUNCT	G---------	_	39	punct	_	Translit=،
-60	وَ	_	CONJ	C---------	_	39	cc	_	Translit=wa
+59	،	_	PUNCT	G---------	_	40	punct	_	Translit=،
+60	وَ	_	CONJ	C---------	_	40	cc	_	Translit=wa
 61	لِ	_	ADP	P---------	AdpType=Prep	62	case	_	Translit=li
-62	اَلتَّندِيدِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	39	conj	_	Translit=at-tandīdi
+62	اَلتَّندِيدِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	40	conj	_	Translit=at-tandīdi
 63	بِ	_	ADP	P---------	AdpType=Prep	64	case	_	Translit=bi
 64	شَارُون	_	X	X---------	Foreign=Foreign	62	nmod	_	Translit=šārūn
-65	وَ	_	CONJ	C---------	_	64	nmod	_	Translit=wa
+65	وَ	_	CONJ	C---------	_	64	cc	_	Translit=wa
 66	حُكُومَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	64	conj	_	Translit=ḥukūmati
 67	هِ	_	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	66	nmod	_	Translit=hi
 68	وحلفائه	_	X	U---------	_	64	cc	_	Translit=wHlfA}h
 69	وحلفائه	_	X	U---------	_	64	conj	_	Translit=wHlfA}h
 70	وحلفائه	_	X	U---------	_	69	nmod	_	Translit=wHlfA}h
-71	،	_	PUNCT	G---------	_	39	punct	_	Translit=،
-72	ولنفكر	_	X	U---------	_	39	cc	_	Translit=wlnfkr
+71	،	_	PUNCT	G---------	_	40	punct	_	Translit=،
+72	ولنفكر	_	X	U---------	_	40	cc	_	Translit=wlnfkr
 73	ولنفكر	_	X	U---------	_	74	mark	_	Translit=wlnfkr
-74	ولنفكر	_	X	U---------	_	39	conj	_	Translit=wlnfkr
+74	ولنفكر	_	X	U---------	_	40	conj	_	Translit=wlnfkr
 75	فِي	_	ADP	P---------	AdpType=Prep	76	case	_	Translit=fī
 76	نِسَاءِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	74	dobj	_	Translit=nisāʾi
 77	افغانستان	_	X	U---------	_	76	nmod	_	Translit=AfgAnstAn
@@ -13548,7 +13548,7 @@
 87	بِ	_	ADP	P---------	AdpType=Prep	88	case	_	Translit=bi
 88	اَلسَّلَامِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	86	dobj	_	Translit=as-salāmi
 89	،	_	PUNCT	G---------	_	76	punct	_	Translit=،
-90	وَ	_	CONJ	C---------	_	76	nmod	_	Translit=wa
+90	وَ	_	CONJ	C---------	_	76	cc	_	Translit=wa
 91	اَلنِّسَاءِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	76	conj	_	Translit=an-nisāʾi
 92	اَلأَثيُوبِيَّاتِ	_	ADJ	A-----FP2D	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	91	amod	_	Translit=al-ʾaṯyūbīyāti
 93	اَللَّوَاتِي	_	PRON	SR----FP2-	Case=Gen|Gender=Fem|Number=Plur|PronType=Rel	91	cc	_	Translit=al-lawātī
@@ -13637,7 +13637,7 @@
 19	ضِدَّ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	20	case	_	Translit=ḍidda
 20	اَلعَولَمَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	17	nmod	_	Translit=al-ʿawlamati
 21	والنيوليبرالية	_	X	U---------	_	20	conj	_	Translit=wAlnywlybrAlyp
-22	وَ	_	CONJ	C---------	_	20	nmod	_	Translit=wa
+22	وَ	_	CONJ	C---------	_	20	cc	_	Translit=wa
 23	عَنَاصِرِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	20	conj	_	Translit=ʿanāṣiri
 24	هٰذِهِ	_	DET	SD----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	25	det	_	Translit=hāḏihi
 25	اَلعَولَمَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	23	nmod	_	Translit=al-ʿawlamati
@@ -13655,7 +13655,7 @@
 37	،	_	PUNCT	G---------	_	17	punct	_	Translit=،
 38	حُقُوقِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	17	conj	_	Translit=ḥuqūqi
 39	اَلنِّسَاءِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	38	nmod	_	Translit=an-nisāʾi
-40	وَ	_	CONJ	C---------	_	17	nmod	_	Translit=wa
+40	وَ	_	CONJ	C---------	_	17	cc	_	Translit=wa
 41	اَلعُنفِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	17	conj	_	Translit=al-ʿunfi
 42	اَلمُمَارِسِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	41	amod	_	Translit=al-mumārisi
 43	عَلَي	_	ADP	P---------	AdpType=Prep	44	case	_	Translit=ʿalay
@@ -13676,7 +13676,7 @@
 58	اَلرِّجَالِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	56	conj	_	Translit=ar-riǧāli
 59	فِي	_	ADP	P---------	AdpType=Prep	60	case	_	Translit=fī
 60	اَلوَظِيفَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	54	nmod	_	Translit=al-waẓīfati
-61	وَ	_	CONJ	C---------	_	60	nmod	_	Translit=wa
+61	وَ	_	CONJ	C---------	_	60	cc	_	Translit=wa
 62	اَلمُجتَمَعِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	60	conj	_	Translit=al-muǧtamaʿi
 63	وَ	_	CONJ	C---------	_	60	cc	_	Translit=wa
 64	اَلمُشَارَكَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	60	conj	_	Translit=al-mušārakati
@@ -13733,7 +13733,7 @@
 14	بِ	_	ADP	P---------	AdpType=Prep	16	case	_	Translit=bi
 15	مُشَارَكَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	16	cc	_	Translit=mušārakati
 16	قَاضٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	6	dobj	_	Translit=qāḍin
-17	وَ	_	CONJ	C---------	_	16	nmod	_	Translit=wa
+17	وَ	_	CONJ	C---------	_	16	cc	_	Translit=wa
 18	شُهُودٍ	_	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	16	conj	_	Translit=šuhūdin
 19	وَ	_	CONJ	C---------	_	16	cc	_	Translit=wa
 20	هَيئَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	16	conj	_	Translit=hayʾati
@@ -14047,7 +14047,7 @@
 22	إِلَى	_	ADP	P---------	AdpType=Prep	29	mark	_	Translit=ʾilā
 23	أَنَّ	_	CONJ	C---------	_	29	mark	_	Translit=ʾanna
 24	"	_	PUNCT	G---------	_	29	punct	_	Translit="
-25	اَلتَّبَادُلَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	33	nsubj	_	Translit=at-tabādula
+25	اَلتَّبَادُلَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	29	nsubj	_	Translit=at-tabādula
 26	اَلتِّجَارِيَّ	_	ADJ	A-----MS4D	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	25	amod	_	Translit=at-tiǧārīya
 27	بَينَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	28	case	_	Translit=bayna
 28	هُمَا	_	PRON	SP---3MD2-	Case=Gen|Gender=Masc|Number=Dual|Person=3|PronType=Prs	25	nmod	_	Translit=humā
@@ -14126,7 +14126,7 @@
 30	اَلشُّؤُونِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	25	nmod	_	Translit=aš-šuʾūni
 31	اَلعَسكَرِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	30	amod	_	Translit=al-ʿaskarīyati
 32	،	_	PUNCT	G---------	_	31	punct	_	Translit=،
-33	وَ	_	CONJ	C---------	_	22	nmod	_	Translit=wa
+33	وَ	_	CONJ	C---------	_	22	cc	_	Translit=wa
 34	اَلفَرِيقُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	22	conj	_	Translit=al-farīqu
 35	أول	_	X	U---------	_	34	nmod	_	Translit=>wl
 36	صالح	_	X	U---------	_	37	nmod	_	Translit=SAlH
@@ -14139,7 +14139,7 @@
 43	قَادَةُ	_	NOUN	N------P1R	Case=Nom|Definite=Red|Number=Plur	22	conj	_	Translit=qādatu
 44	اَلقُوَّاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	43	nmod	_	Translit=al-qūwāti
 45	اَلبَرِّيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	44	amod	_	Translit=al-barrīyati
-46	وَ	_	CONJ	C---------	_	45	nmod	_	Translit=wa
+46	وَ	_	CONJ	C---------	_	45	cc	_	Translit=wa
 47	اَلجَوِّيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	45	conj	_	Translit=al-ǧawwīyati
 48	وَ	_	CONJ	C---------	_	45	cc	_	Translit=wa
 49	اَلبَحرِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	45	conj	_	Translit=al-baḥrīyati
@@ -14262,7 +14262,7 @@
 39	مِلَفِّ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	33	nmod	_	Translit=milaffi
 40	اَلإِصلَاحِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	39	nmod	_	Translit=al-ʾiṣlāḥi
 41	اَلسِّيَاسِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	40	amod	_	Translit=as-siyāsīyi
-42	أَو	_	CONJ	C---------	_	41	nmod	_	Translit=ʾaw
+42	أَو	_	CONJ	C---------	_	41	cc	_	Translit=ʾaw
 43	اَلِاقتِصَادِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	41	conj	_	Translit=al-i-ʼqtiṣādīyi
 44	أَو	_	CONJ	C---------	_	41	cc	_	Translit=ʾaw
 45	اَلتَّعلِيمِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	41	conj	_	Translit=at-taʿlīmīyi
@@ -14563,13 +14563,13 @@
 49	اَلَّتِي	_	PRON	SR----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	45	cc	_	Translit=allatī
 50	تَصدُرُ	_	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	45	acl	_	Translit=taṣduru
 51	اَليَومَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	50	nmod	_	Translit=al-yawma
-52	(	_	PUNCT	G---------	_	53	punct	_	Translit=(
-53	١	_	NUM	Q---------	NumForm=Digit	51	appos	_	Translit=1
-54	/	_	PUNCT	G---------	_	53	punct	_	Translit=/
-55	١٠	_	NUM	Q---------	NumForm=Digit	53	conj	_	Translit=10
-56	/	_	PUNCT	G---------	_	53	punct	_	Translit=/
-57	٢٠٠٣	_	NUM	Q---------	NumForm=Digit	53	conj	_	Translit=2003
-58	)	_	PUNCT	G---------	_	53	punct	_	Translit=)
+52	(	_	PUNCT	G---------	_	51	punct	_	Translit=(
+53	١	_	NUM	Q---------	NumForm=Digit	51	advmod	_	Translit=1
+54	/	_	PUNCT	G---------	_	51	punct	_	Translit=/
+55	١٠	_	NUM	Q---------	NumForm=Digit	51	advmod	_	Translit=10
+56	/	_	SYM	G---------	_	51	cc	_	Translit=/
+57	٢٠٠٣	_	NUM	Q---------	NumForm=Digit	51	advmod	_	Translit=2003
+58	)	_	PUNCT	G---------	_	51	punct	_	Translit=)
 59	إِنَّ	_	CONJ	C---------	_	76	mark	_	Translit=ʾinna
 60	هُ	_	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	76	cc	_	Translit=hu
 61	"	_	PUNCT	G---------	_	76	punct	_	Translit="
@@ -14609,7 +14609,7 @@
 95	اَلغُرَفِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	93	dobj	_	Translit=al-ġurafi
 96	اَلمُغلَقَةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	95	amod	_	Translit=al-muġlaqati
 97	وَ	_	CONJ	C---------	_	93	cc	_	Translit=wa
-98	إِنَّمَا	_	CONJ	C---------	_	93	nmod	_	Translit=ʾinnamā
+98	إِنَّمَا	_	CONJ	C---------	_	93	cc	_	Translit=ʾinnamā
 99	تَمتَدُّ	_	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	93	conj	_	Translit=tamtaddu
 100	إِلَى	_	ADP	P---------	AdpType=Prep	101	case	_	Translit=ʾilā
 101	اَلمُبَادَرَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	99	dobj	_	Translit=al-mubādarati
@@ -14716,11 +14716,11 @@
 11	مَصنَعًا	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	10	nmod	_	Translit=maṣnaʿan
 12	غِذَائِيًّا	_	ADJ	A-----MS4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	11	amod	_	Translit=ġiḏāʾīyan
 13	،	_	PUNCT	G---------	_	12	punct	_	Translit=،
-14	وَ	_	CONJ	C---------	_	10	nmod	_	Translit=wa
+14	وَ	_	CONJ	C---------	_	10	cc	_	Translit=wa
 15	٣٢	_	NUM	Q---------	NumForm=Digit	10	conj	_	Translit=32
 16	لِ	_	ADP	P---------	AdpType=Prep	17	case	_	Translit=li
 17	اَلغَزلِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	15	nmod	_	Translit=al-ġazli
-18	وَ	_	CONJ	C---------	_	17	nmod	_	Translit=wa
+18	وَ	_	CONJ	C---------	_	17	cc	_	Translit=wa
 19	اَلنَّسِيجِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	17	conj	_	Translit=an-nasīǧi
 20	وَ	_	CONJ	C---------	_	17	cc	_	Translit=wa
 21	اَلمَلَابِسِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	17	conj	_	Translit=al-malābisi
@@ -14736,7 +14736,7 @@
 31	١٨	_	NUM	Q---------	NumForm=Digit	10	conj	_	Translit=18
 32	لِ	_	ADP	P---------	AdpType=Prep	33	case	_	Translit=li
 33	اَلوَرَقِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	31	nmod	_	Translit=al-waraqi
-34	وَ	_	CONJ	C---------	_	33	nmod	_	Translit=wa
+34	وَ	_	CONJ	C---------	_	33	cc	_	Translit=wa
 35	مُنتَجَاتِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	33	conj	_	Translit=muntaǧāti
 36	هِ	_	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	nmod	_	Translit=hi
 37	وَ	_	CONJ	C---------	_	33	cc	_	Translit=wa
@@ -14769,7 +14769,7 @@
 64	لِ	_	ADP	P---------	AdpType=Prep	65	case	_	Translit=li
 65	مَوَادِّ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	59	conj	_	Translit=mawāddi
 66	اَلبِنَاءِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	65	nmod	_	Translit=al-bināʾi
-67	وَ	_	CONJ	C---------	_	65	nmod	_	Translit=wa
+67	وَ	_	CONJ	C---------	_	65	cc	_	Translit=wa
 68	اَلخَزَفِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	65	conj	_	Translit=al-ḫazafi
 69	وَ	_	CONJ	C---------	_	65	cc	_	Translit=wa
 70	اَلصِّينِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	65	conj	_	Translit=aṣ-ṣīnīyi
@@ -14811,7 +14811,7 @@
 30	هٰذِهِ	_	DET	SD----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	31	det	_	Translit=hāḏihi
 31	اَلمَشرُوعَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	27	nmod	_	Translit=al-mašrūʿāti
 32	،	_	PUNCT	G---------	_	31	punct	_	Translit=،
-33	وَ	_	CONJ	C---------	_	6	nmod	_	Translit=wa
+33	وَ	_	CONJ	C---------	_	6	cc	_	Translit=wa
 34	يَأتِي	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	6	conj	_	Translit=yaʾtī
 35	بَعدَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	36	case	_	Translit=baʿda
 36	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	34	nmod	_	Translit=hā
@@ -14869,7 +14869,7 @@
 21	،	_	PUNCT	G---------	_	20	punct	_	Translit=،
 22	وَ	_	CONJ	C---------	_	14	cc	_	Translit=wa
 23	مِن	_	ADP	P---------	AdpType=Prep	24	case	_	Translit=min
-24	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nmod	_	Translit=hā
+24	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	33	nmod	_	Translit=hā
 25	٣	_	NUM	Q---------	NumForm=Digit	24	nsubj	_	Translit=3
 26	مَصَانِعَ	_	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	25	nmod	_	Translit=maṣāniʿa
 27	بِ	_	ADP	P---------	AdpType=Prep	28	case	_	Translit=bi
@@ -14877,46 +14877,46 @@
 29	١٥	_	NUM	Q---------	NumForm=Digit	28	nummod	_	Translit=15
 30	مَايُو	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	29	nmod	_	Translit=māyū
 31	،	_	PUNCT	G---------	_	30	punct	_	Translit=،
-32	وَ	_	CONJ	C---------	_	24	cc	_	Translit=wa
-33	١٣	_	NUM	Q---------	NumForm=Digit	24	conj	_	Translit=13
+32	وَ	_	CONJ	C---------	_	33	cc	_	Translit=wa
+33	١٣	_	NUM	Q---------	NumForm=Digit	14	dep	_	Translit=13
 34	ببدر	_	X	U---------	_	35	case	_	Translit=bbdr
-35	ببدر	_	X	U---------	_	24	conj	_	Translit=bbdr
+35	ببدر	_	X	U---------	_	33	conj	_	Translit=bbdr
 36	اَلصِّنَاعِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	35	amod	_	Translit=aṣ-ṣināʿīyati
-37	وَ	_	CONJ	C---------	_	24	cc	_	Translit=wa
-38	٢٦	_	NUM	Q---------	NumForm=Digit	24	conj	_	Translit=26
+37	وَ	_	CONJ	C---------	_	33	cc	_	Translit=wa
+38	٢٦	_	NUM	Q---------	NumForm=Digit	33	conj	_	Translit=26
 39	بِ	_	ADP	P---------	AdpType=Prep	40	case	_	Translit=bi
-40	بُرجِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	24	conj	_	Translit=burǧi
+40	بُرجِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	33	conj	_	Translit=burǧi
 41	اَلعَرَبِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	40	nmod	_	Translit=al-ʿarabi
 42	اَلجَدِيدَةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	40	amod	_	Translit=al-ǧadīdati
-43	وَ	_	CONJ	C---------	_	24	cc	_	Translit=wa
-44	١٠٦	_	NUM	Q---------	NumForm=Digit	24	conj	_	Translit=106
+43	وَ	_	CONJ	C---------	_	33	cc	_	Translit=wa
+44	١٠٦	_	NUM	Q---------	NumForm=Digit	33	conj	_	Translit=106
 45	بِ	_	ADP	P---------	AdpType=Prep	46	case	_	Translit=bi
-46	اَلعُبُورِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	24	conj	_	Translit=al-ʿubūri
+46	اَلعُبُورِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	33	conj	_	Translit=al-ʿubūri
 47	،	_	PUNCT	G---------	_	46	punct	_	Translit=،
-48	وَ	_	CONJ	C---------	_	24	cc	_	Translit=wa
-49	٣٦	_	NUM	Q---------	NumForm=Digit	24	conj	_	Translit=36
+48	وَ	_	CONJ	C---------	_	33	cc	_	Translit=wa
+49	٣٦	_	NUM	Q---------	NumForm=Digit	33	conj	_	Translit=36
 50	بِ	_	ADP	P---------	AdpType=Prep	51	case	_	Translit=bi
-51	اَلسَّادِسِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	24	conj	_	Translit=as-sādisi
+51	اَلسَّادِسِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	33	conj	_	Translit=as-sādisi
 52	مِن	_	ADP	P---------	AdpType=Prep	53	case	_	Translit=min
 53	أُكتُوبِرَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	51	nmod	_	Translit=ʾuktūbira
-54	وَ	_	CONJ	C---------	_	24	cc	_	Translit=wa
-55	٩	_	NUM	Q---------	NumForm=Digit	24	conj	_	Translit=9
+54	وَ	_	CONJ	C---------	_	33	cc	_	Translit=wa
+55	٩	_	NUM	Q---------	NumForm=Digit	33	conj	_	Translit=9
 56	بِ	_	ADP	P---------	AdpType=Prep	57	case	_	Translit=bi
-57	مُجَمَّعِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	24	conj	_	Translit=muǧammaʿi
+57	مُجَمَّعِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	33	conj	_	Translit=muǧammaʿi
 58	اَلصِّنَاعَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	57	nmod	_	Translit=aṣ-ṣināʿāti
 59	اَلإِسمَاعِيلِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	58	amod	_	Translit=al-ʾismāʿīlīyati
-60	وَ	_	CONJ	C---------	_	24	cc	_	Translit=wa
-61	٤	_	NUM	Q---------	NumForm=Digit	24	conj	_	Translit=4
+60	وَ	_	CONJ	C---------	_	33	cc	_	Translit=wa
+61	٤	_	NUM	Q---------	NumForm=Digit	33	conj	_	Translit=4
 62	بِ	_	ADP	P---------	AdpType=Prep	63	case	_	Translit=bi
-63	مُجَمَّعِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	24	conj	_	Translit=muǧammaʿi
+63	مُجَمَّعِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	33	conj	_	Translit=muǧammaʿi
 64	صِنَاعَاتِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	63	nmod	_	Translit=ṣināʿāti
 65	ساحل	_	X	U---------	_	64	nmod	_	Translit=sAHl
 66	سليم	_	X	U---------	_	65	nmod	_	Translit=slym
 67	بأسيوط	_	X	U---------	_	68	case	_	Translit=b>sywT
 68	بأسيوط	_	X	U---------	_	63	nmod	_	Translit=b>sywT
 69	،	_	PUNCT	G---------	_	68	punct	_	Translit=،
-70	وَ	_	CONJ	C---------	_	24	cc	_	Translit=wa
-71	مِثلُ	_	ADP	PI------1-	AdpType=Prep|Case=Nom	24	conj	_	Translit=miṯlu
+70	وَ	_	CONJ	C---------	_	33	cc	_	Translit=wa
+71	مِثلُ	_	ADP	PI------1-	AdpType=Prep|Case=Nom	33	nsubj	_	Translit=miṯlu
 72	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	71	nmod	_	Translit=hā
 73	بِ	_	ADP	P---------	AdpType=Prep	71	case	_	Translit=bi
 74	مِنطَقَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	71	nmod	_	Translit=minṭaqati
@@ -14924,8 +14924,8 @@
 76	بِ	_	ADP	P---------	AdpType=Prep	77	case	_	Translit=bi
 77	سُوهَاجَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	75	nmod	_	Translit=sūhāǧa
 78	،	_	PUNCT	G---------	_	77	punct	_	Translit=،
-79	وَ	_	CONJ	C---------	_	24	cc	_	Translit=wa
-80	مَشرُوعَاتٌ	_	NOUN	N------P1I	Case=Nom|Definite=Ind|Number=Plur	24	conj	_	Translit=mašrūʿātun
+79	وَ	_	CONJ	C---------	_	33	cc	_	Translit=wa
+80	مَشرُوعَاتٌ	_	NOUN	N------P1I	Case=Nom|Definite=Ind|Number=Plur	33	conj	_	Translit=mašrūʿātun
 81	لِ	_	ADP	P---------	AdpType=Prep	82	case	_	Translit=li
 82	كُلٍّ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	80	nmod	_	Translit=kullin
 83	مِن	_	ADP	P---------	AdpType=Prep	84	case	_	Translit=min
@@ -14962,7 +14962,7 @@
 17	٥٦	_	NUM	Q---------	NumForm=Digit	5	conj	_	Translit=56
 18	بأسوان	_	X	U---------	_	19	case	_	Translit=b>swAn
 19	بأسوان	_	X	U---------	_	17	nmod	_	Translit=b>swAn
-20	وَ	_	CONJ	C---------	_	5	nmod	_	Translit=wa
+20	وَ	_	CONJ	C---------	_	5	cc	_	Translit=wa
 21	مَشرُوعًا	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	5	conj	_	Translit=mašrūʿan
 22	بِ	_	ADP	P---------	AdpType=Prep	23	case	_	Translit=bi
 23	مِنطَقَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	21	nmod	_	Translit=minṭaqati
@@ -15074,7 +15074,7 @@
 5	فِي	_	ADP	P---------	AdpType=Prep	6	case	_	Translit=fī
 6	إِقلِيمِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	4	nmod	_	Translit=ʾiqlīmi
 7	اَلقَاهِرَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	6	nmod	_	Translit=al-qāhirati
-8	وَ	_	CONJ	C---------	_	7	nmod	_	Translit=wa
+8	وَ	_	CONJ	C---------	_	7	cc	_	Translit=wa
 9	اَلبَسَاتِينِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	7	conj	_	Translit=al-basātīni
 10	وَ	_	CONJ	C---------	_	7	cc	_	Translit=wa
 11	اَلفُسطَاطِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	7	conj	_	Translit=al-fusṭāṭi
@@ -15239,7 +15239,7 @@
 42	دُولَارٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	41	nmod	_	Translit=dūlārin
 43	)	_	PUNCT	G---------	_	40	punct	_	Translit=)
 44	فِي	_	ADP	P---------	AdpType=Prep	45	case	_	Translit=fī
-45	شَهرِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	40	nmod	_	Translit=šahri
+45	شَهرِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	33	nmod	_	Translit=šahri
 46	سِبتَمبِرَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	45	nmod	_	Translit=sibtambira
 47	اَلمَاضِي	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	45	amod	_	Translit=al-māḍī
 48	.	_	PUNCT	G---------	_	1	punct	_	Translit=.
@@ -15398,7 +15398,7 @@
 28	اَلسُّوقِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	27	nmod	_	Translit=as-sūqi
 29	غَيرِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	28	nmod	_	Translit=ġayri
 30	اَلرَّسمِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	29	amod	_	Translit=ar-rasmīyati
-31	وَ	_	CONJ	C---------	_	26	nmod	_	Translit=wa
+31	وَ	_	CONJ	C---------	_	26	cc	_	Translit=wa
 32	تَجفِيفِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	26	conj	_	Translit=taǧfīfi
 33	مَنَابِعِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	32	nmod	_	Translit=manābiʿi
 34	هٰذِهِ	_	DET	SD----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	35	det	_	Translit=hāḏihi
@@ -15424,7 +15424,7 @@
 54	اَلدَّولَرَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	53	nmod	_	Translit=ad-dawlarati
 55	مَرَّةً	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	52	nmod	_	Translit=marratan
 56	أُخرَى	_	ADJ	A-----FS4I	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	55	amod	_	Translit=ʾuḫrā
-57	وَ	_	CONJ	C---------	_	52	nmod	_	Translit=wa
+57	وَ	_	CONJ	C---------	_	52	cc	_	Translit=wa
 58	زِيَادَةُ	_	NOUN	N------S1R	Case=Nom|Definite=Red|Number=Sing	52	conj	_	Translit=ziyādatu
 59	اَلضَّغطِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	58	nmod	_	Translit=aḍ-ḍaġṭi
 60	عَلَى	_	ADP	P---------	AdpType=Prep	61	case	_	Translit=ʿalā
@@ -15459,7 +15459,7 @@
 9	اَلطَّلَبَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	8	dobj	_	Translit=aṭ-ṭalaba
 10	عَلَى	_	ADP	P---------	AdpType=Prep	11	case	_	Translit=ʿalā
 11	اَلدُّولَارِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	9	nmod	_	Translit=ad-dūlāri
-12	وَ	_	CONJ	C---------	_	8	nmod	_	Translit=wa
+12	وَ	_	CONJ	C---------	_	8	cc	_	Translit=wa
 13	يُعَمِّقُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	8	conj	_	Translit=yuʿammiqu
 14	مِن	_	ADP	P---------	AdpType=Prep	15	case	_	Translit=min
 15	أَزمَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	13	dobj	_	Translit=ʾazmati
@@ -15563,7 +15563,7 @@
 43	فِي	_	ADP	P---------	AdpType=Prep	44	case	_	Translit=fī
 44	مَجلِسِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	40	nmod	_	Translit=maǧlisi
 45	اَلوُزَرَاءِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	44	nmod	_	Translit=al-wuzarāʾi
-46	وَ	_	CONJ	C---------	_	40	nmod	_	Translit=wa
+46	وَ	_	CONJ	C---------	_	40	cc	_	Translit=wa
 47	تَمَّ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	40	conj	_	Translit=tamma
 48	وَضعُ	_	NOUN	N------S1R	Case=Nom|Definite=Red|Number=Sing	47	nsubj	_	Translit=waḍʿu
 49	اَلإِطَارِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	48	nmod	_	Translit=al-ʾiṭāri
@@ -15721,7 +15721,7 @@
 79	اَلجُنَيهِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	75	nmod	_	Translit=al-ǧunayhi
 80	اَلمِصرِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	79	amod	_	Translit=al-miṣrīyi
 81	،	_	PUNCT	G---------	_	80	punct	_	Translit=،
-82	وَ	_	CONJ	C---------	_	6	nmod	_	Translit=wa
+82	وَ	_	CONJ	C---------	_	6	cc	_	Translit=wa
 83	ذَكَرَ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	6	conj	_	Translit=ḏakara
 84	أَنَّ	_	CONJ	C---------	_	88	mark	_	Translit=ʾanna
 85	اَلأَفضَلَ	_	ADJ	A-----MS4D	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	88	nsubj	_	Translit=al-ʾafḍala
@@ -15772,7 +15772,7 @@
 130	عَن	_	ADP	P---------	AdpType=Prep	131	case	_	Translit=ʿan
 131	طَرِيقِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	126	nmod	_	Translit=ṭarīqi
 132	الانتربنك	_	X	U---------	_	131	nmod	_	Translit=AlAntrbnk
-133	وَ	_	CONJ	C---------	_	126	nmod	_	Translit=wa
+133	وَ	_	CONJ	C---------	_	126	cc	_	Translit=wa
 134	اَلسَّيطَرَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	126	conj	_	Translit=as-sayṭarati
 135	عَلَى	_	ADP	P---------	AdpType=Prep	136	case	_	Translit=ʿalā
 136	اَلتَّدَفُّقَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	134	nmod	_	Translit=at-tadaffuqāti
@@ -15865,7 +15865,7 @@
 72	مِن	_	ADP	P---------	AdpType=Prep	73	case	_	Translit=min
 73	١	_	NUM	Q---------	NumForm=Digit	71	nummod	_	Translit=1
 74	%	_	SYM	G---------	_	73	nmod	_	Translit=%
-75	اَلأَمرُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	43	nmod	_	Translit=al-ʾamru
+75	اَلأَمرُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	43	cc	_	Translit=al-ʾamru
 76	اَلَّذِي	_	PRON	SR----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	43	cc	_	Translit=allaḏī
 77	يُكَلِّفُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	43	conj	_	Translit=yukallifu
 78	اَلحُكُومَةَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	77	dobj	_	Translit=al-ḥukūmata
@@ -15964,7 +15964,7 @@
 41	ضِمنَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	42	case	_	Translit=ḍimna
 42	حُزمَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	40	nmod	_	Translit=ḥuzmati
 43	إِجرَاءَاتٍ	_	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	42	nmod	_	Translit=ʾiǧrāʾātin
-44	وَ	_	CONJ	C---------	_	42	nmod	_	Translit=wa
+44	وَ	_	CONJ	C---------	_	42	cc	_	Translit=wa
 45	سِيَاسَاتٍ	_	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	42	conj	_	Translit=siyāsātin
 46	نَقدِيَّةٍ	_	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	45	amod	_	Translit=naqdīyatin
 47	وَاضِحَةٍ	_	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	45	amod	_	Translit=wāḍiḥatin
@@ -16005,7 +16005,7 @@
 82	فِي	_	ADP	P---------	AdpType=Prep	83	case	_	Translit=fī
 83	سُوقِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	79	nmod	_	Translit=sūqi
 84	اَلنَّقدِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	83	nmod	_	Translit=an-naqdi
-85	وَ	_	CONJ	C---------	_	79	nmod	_	Translit=wa
+85	وَ	_	CONJ	C---------	_	79	cc	_	Translit=wa
 86	تَوَافُرِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	79	conj	_	Translit=tawāfuri
 87	اَلنَّقدِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	86	nmod	_	Translit=an-naqdi
 88	اَلأَجنَبِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	87	amod	_	Translit=al-ʾaǧnabīyi
@@ -16240,7 +16240,7 @@
 65	فِي	_	ADP	P---------	AdpType=Prep	66	case	_	Translit=fī
 66	اَلمِنطَقَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	63	nmod	_	Translit=al-minṭaqati
 67	،	_	PUNCT	G---------	_	66	punct	_	Translit=،
-68	اَلأَمرُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	43	nmod	_	Translit=al-ʾamru
+68	اَلأَمرُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	43	cc	_	Translit=al-ʾamru
 69	اَلَّذِي	_	PRON	SR----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	43	cc	_	Translit=allaḏī
 70	يُشَكِّلُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	43	conj	_	Translit=yušakkilu
 71	تَدَخُّلًا	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	70	dobj	_	Translit=tadaḫḫulan
@@ -16479,7 +16479,7 @@
 72	اَلجِهَادِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	70	conj	_	Translit=al-ǧihādi
 73	اَلإِسلَامِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	72	amod	_	Translit=al-ʾislāmīyi
 74	،	_	PUNCT	G---------	_	73	punct	_	Translit=،
-75	وَ	_	CONJ	C---------	_	49	nmod	_	Translit=wa
+75	وَ	_	CONJ	C---------	_	49	cc	_	Translit=wa
 76	أَنَّ	_	CONJ	C---------	_	79	advmod:emph	_	Translit=ʾanna
 77	هٰذِهِ	_	DET	SD----FS4-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	78	det	_	Translit=hāḏihi
 78	اَلعَلَاقَةَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	76	nsubj	_	Translit=al-ʿalāqata
@@ -16556,7 +16556,7 @@
 34	رَسمِيَّةٍ	_	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	33	amod	_	Translit=rasmīyatin
 35	بَينَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	36	case	_	Translit=bayna
 36	اَلأَزهَرِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	32	nmod	_	Translit=al-ʾazhari
-37	وَ	_	CONJ	C---------	_	36	nmod	_	Translit=wa
+37	وَ	_	CONJ	C---------	_	36	cc	_	Translit=wa
 38	مُؤَسَّسَاتٍ	_	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	36	conj	_	Translit=muʾassasātin
 39	دِينِيَّةٍ	_	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	38	amod	_	Translit=dīnīyatin
 40	فِي	_	ADP	P---------	AdpType=Prep	41	case	_	Translit=fī
@@ -16704,7 +16704,7 @@
 7	شَرِكَاتِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	6	nmod	_	Translit=šarikāti
 8	اَلشَّحنِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	7	nmod	_	Translit=aš-šaḥni
 9	اَلبَحرِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	amod	_	Translit=al-baḥrīyi
-10	وَ	_	CONJ	C---------	_	7	nmod	_	Translit=wa
+10	وَ	_	CONJ	C---------	_	7	cc	_	Translit=wa
 11	اَلمَوَانِئِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	7	conj	_	Translit=al-mawāniʾi
 12	وَ	_	CONJ	C---------	_	7	cc	_	Translit=wa
 13	مَرَافِئِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	7	conj	_	Translit=marāfiʾi
@@ -16724,7 +16724,7 @@
 27	فِي	_	ADP	P---------	AdpType=Prep	29	cc	_	Translit=fī
 28	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	29	cc	_	Translit=hā
 29	اَلسَّعُودِيَّةُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	21	appos	_	Translit=as-saʿūdīyatu
-30	وَ	_	CONJ	C---------	_	29	nmod	_	Translit=wa
+30	وَ	_	CONJ	C---------	_	29	cc	_	Translit=wa
 31	نَيجِيرِيَا	_	X	X---------	Foreign=Foreign	29	conj	_	Translit=nayǧīriyā
 32	وَ	_	CONJ	C---------	_	29	cc	_	Translit=wa
 33	اَلكُوَيتُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	29	conj	_	Translit=al-kuwaytu
@@ -16768,7 +16768,7 @@
 18	اَلغَازِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	16	conj	_	Translit=al-ġāzi
 19	اَلَّتِي	_	PRON	SR----FS1-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	15	cc	_	Translit=allatī
 20	لَا	_	PART	F---------	_	21	neg	_	Translit=lā
-21	تَلتَزِمُ	_	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	15	acl	_	Translit=taltazimu
+21	تَلتَزِمُ	_	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	9	acl	_	Translit=taltazimu
 22	بِ	_	ADP	P---------	AdpType=Prep	23	case	_	Translit=bi
 23	اَلقَوَاعِدِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	21	dobj	_	Translit=al-qawāʿidi
 24	اَلأَمنِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	23	amod	_	Translit=al-ʾamnīyati
@@ -16899,7 +16899,7 @@
 9	عَلَى	_	ADP	P---------	AdpType=Prep	10	case	_	Translit=ʿalā
 10	مَتنِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	7	nmod	_	Translit=matni
 11	اَلسُّفُنِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	10	nmod	_	Translit=as-sufuni
-12	وَ	_	CONJ	C---------	_	6	nmod	_	Translit=wa
+12	وَ	_	CONJ	C---------	_	6	cc	_	Translit=wa
 13	إِجرَاءَاتٍ	_	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	6	conj	_	Translit=ʾiǧrāʾātin
 14	لِ	_	ADP	P---------	AdpType=Prep	15	case	_	Translit=li
 15	حَالَاتِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	13	nmod	_	Translit=ḥālāti
@@ -16961,7 +16961,7 @@
 33	اَلأَوَّلِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	32	amod	_	Translit=al-ʾawwali
 34	)	_	PUNCT	G---------	_	32	punct	_	Translit=)
 35	مِن	_	ADP	P---------	AdpType=Prep	36	case	_	Translit=min
-36	عَامِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	32	nmod	_	Translit=ʿāmi
+36	عَامِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	30	nmod	_	Translit=ʿāmi
 37	٢٠٠٢	_	NUM	Q---------	NumForm=Digit	36	nummod	_	Translit=2002
 38	.	_	PUNCT	G---------	_	1	punct	_	Translit=.
 
@@ -16993,7 +16993,7 @@
 24	اَلدَّولَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	22	dobj	_	Translit=ad-dawlati
 25	،	_	PUNCT	G---------	_	24	punct	_	Translit=،
 26	إِلَّا	_	PART	F---------	_	14	cc	_	Translit=ʾillā
-27	أَنَّ	_	CONJ	C---------	_	14	nmod	_	Translit=ʾanna
+27	أَنَّ	_	CONJ	C---------	_	14	cc	_	Translit=ʾanna
 28	هَا	_	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	30	nsubj	_	Translit=hā
 29	لَم	_	PART	F---------	_	30	neg	_	Translit=lam
 30	تُعَالِج	_	VERB	VIJA-3FS--	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	14	conj	_	Translit=tuʿāliǧ
@@ -17113,7 +17113,7 @@
 12	أُوبِك	_	X	X---------	Foreign=Foreign	9	nmod	_	Translit=ʾūbik
 13	مِثلَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	14	case	_	Translit=miṯla
 14	إِيرَانَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	9	nmod	_	Translit=ʾīrāna
-15	وَ	_	CONJ	C---------	_	14	nmod	_	Translit=wa
+15	وَ	_	CONJ	C---------	_	14	cc	_	Translit=wa
 16	اَلجَزَائِرِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	14	conj	_	Translit=al-ǧazāʾiri
 17	وَ	_	CONJ	C---------	_	14	cc	_	Translit=wa
 18	اَلعِرَاقِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	14	conj	_	Translit=al-ʿirāqi
@@ -17192,7 +17192,7 @@
 37	(	_	PUNCT	G---------	_	38	punct	_	Translit=(
 38	نِيسَانَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	36	appos	_	Translit=nīsāna
 39	)	_	PUNCT	G---------	_	38	punct	_	Translit=)
-40	اَلحَالِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	38	amod	_	Translit=al-ḥālīyi
+40	اَلحَالِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	36	amod	_	Translit=al-ḥālīyi
 41	بَعدَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	42	case	_	Translit=baʿda
 42	تَوَقُّفٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	10	nmod	_	Translit=tawaqqufin
 43	اِستَمَرَّ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	42	acl	_	Translit=istamarra
@@ -17221,7 +17221,7 @@
 17	مُتَأَخِّرَةٍ	_	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	16	amod	_	Translit=mutaʾaḫḫiratin
 18	يَومَ	_	NOUN	N------S4R	Case=Acc|Definite=Red|Number=Sing	10	nmod	_	Translit=yawma
 19	اَلسَّبتِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	18	nmod	_	Translit=as-sabti
-20	وَ	_	CONJ	C---------	_	10	nmod	_	Translit=wa
+20	وَ	_	CONJ	C---------	_	10	cc	_	Translit=wa
 21	يَسِيرُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	10	conj	_	Translit=yasīru
 22	بِ	_	ADP	P---------	AdpType=Prep	23	case	_	Translit=bi
 23	مُعَدَّلِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	21	nmod	_	Translit=muʿaddali
@@ -17254,7 +17254,7 @@
 9	بَرمِيلٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	8	nmod	_	Translit=barmīlin
 10	فِي	_	ADP	P---------	AdpType=Prep	11	case	_	Translit=fī
 11	اَلصَّهَارِيجِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	8	nmod	_	Translit=aṣ-ṣahārīǧi
-12	وَ	_	CONJ	C---------	_	5	nmod	_	Translit=wa
+12	وَ	_	CONJ	C---------	_	5	cc	_	Translit=wa
 13	اَلآنَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	14	nmod	_	Translit=al-ʾāna
 14	أَصبَحَ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	5	conj	_	Translit=ʾaṣbaḥa
 15	لَدَي	_	ADP	P---------	AdpType=Prep	16	case	_	Translit=laday
@@ -17368,8 +17368,8 @@
 53	هَا	_	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	55	cop	_	Translit=hā
 54	لِ	_	ADP	P---------	AdpType=Prep	53	case	_	Translit=li
 55	اَلتَّجرِبَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	46	nsubj	_	Translit=at-taǧribati
-56	بِ	_	ADP	P---------	AdpType=Prep	59	case	_	Translit=bi
-57	اَلرَّغمِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	56	mwe	_	Translit=ar-raġmi
+56	بِ	_	ADP	P---------	AdpType=Prep	59	cc	_	Translit=bi
+57	اَلرَّغمِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	59	cc	_	Translit=ar-raġmi
 58	مِن	_	ADP	P---------	AdpType=Prep	59	case	_	Translit=min
 59	طَرحِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	46	nmod	_	Translit=ṭarḥi
 60	اَلكَمِّيَّةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	59	nmod	_	Translit=al-kammīyati
@@ -17771,7 +17771,7 @@
 23	مُرَشَّحِينَ	_	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	21	nmod	_	Translit=muraššaḥīna
 24	لِ	_	ADP	P---------	AdpType=Prep	25	case	_	Translit=li
 25	اَلمَنصِبِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	23	nmod	_	Translit=al-manṣibi
-26	وَ	_	CONJ	C---------	_	20	nmod	_	Translit=wa
+26	وَ	_	CONJ	C---------	_	20	cc	_	Translit=wa
 27	يَختَارُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	20	conj	_	Translit=yaḫtāru
 28	وَاحِدًا	_	NUM	QI----M-4I	Case=Acc|Definite=Ind|Gender=Masc|NumForm=Word|NumValue=1	27	dobj	_	Translit=wāḥidan
 29	مِن	_	ADP	P---------	AdpType=Prep	30	case	_	Translit=min
@@ -17840,7 +17840,7 @@
 19	لِ	_	ADP	P---------	AdpType=Prep	20	case	_	Translit=li
 20	اَلسِّيَاسَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	17	nmod	_	Translit=as-siyāsāti
 21	"	_	PUNCT	G---------	_	17	punct	_	Translit="
-22	وَ	_	CONJ	C---------	_	14	nmod	_	Translit=wa
+22	وَ	_	CONJ	C---------	_	14	cc	_	Translit=wa
 23	أَنَّ	_	CONJ	C---------	_	25	mark	_	Translit=ʾanna
 24	هَا	_	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	Translit=hā
 25	ضَمَّت	_	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	14	conj	_	Translit=ḍammat
@@ -17858,7 +17858,7 @@
 37	مَسؤُولٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	36	nmod	_	Translit=masʾūlin
 38	عَن	_	ADP	P---------	AdpType=Prep	39	case	_	Translit=ʿan
 39	لَجنَةٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	37	dobj	_	Translit=laǧnatin
-40	وَ	_	CONJ	C---------	_	36	nmod	_	Translit=wa
+40	وَ	_	CONJ	C---------	_	36	cc	_	Translit=wa
 41	إِنَّمَا	_	CONJ	C---------	_	36	cc	_	Translit=ʾinnamā
 42	صَارَ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	43	cop	_	Translit=ṣāra
 43	أَقرَبَ	_	ADJ	A-----MS4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	36	conj	_	Translit=ʾaqraba
@@ -17979,7 +17979,7 @@
 29	فِي	_	ADP	P---------	AdpType=Prep	31	cc	_	Translit=fī
 30	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	31	cc	_	Translit=hā
 31	اَلجَيشُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	24	appos	_	Translit=al-ǧayšu
-32	وَ	_	CONJ	C---------	_	31	nmod	_	Translit=wa
+32	وَ	_	CONJ	C---------	_	31	cc	_	Translit=wa
 33	اَلشُّرطَةُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	31	conj	_	Translit=aš-šurṭatu
 34	وَ	_	CONJ	C---------	_	31	cc	_	Translit=wa
 35	اَلِاستِخبَارَاتُ	_	NOUN	N------P1D	Case=Nom|Definite=Def|Number=Plur	31	conj	_	Translit=al-i-ʼstiḫbārātu
@@ -18025,7 +18025,7 @@
 22	محمد	_	X	U---------	_	24	nmod	_	Translit=mHmd
 23	حسين	_	X	U---------	_	24	nmod	_	Translit=Hsyn
 24	طنطاوي	_	X	U---------	_	20	nmod	_	Translit=TnTAwy
-25	وَ	_	CONJ	C---------	_	20	nmod	_	Translit=wa
+25	وَ	_	CONJ	C---------	_	20	cc	_	Translit=wa
 26	رَئِيسِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	20	conj	_	Translit=raʾīsi
 27	اَلأَركَانِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	26	nmod	_	Translit=al-ʾarkāni
 28	حمدي	_	X	U---------	_	29	nmod	_	Translit=Hmdy
@@ -18066,7 +18066,7 @@
 
 # sent_id s-p15
 # orig_file_sentence UMH_ARB_20040705.0017#15
-1	لٰكِنَّ	_	CONJ	C---------	_	3	nmod	_	Translit=lākinna
+1	لٰكِنَّ	_	CONJ	C---------	_	3	cc	_	Translit=lākinna
 2	سليمان	_	X	U---------	_	3	nsubj	_	Translit=slymAn
 3	ظَلَّ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	0	root	_	Translit=ẓalla
 4	خَلفَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	5	case	_	Translit=ḫalfa
@@ -18157,7 +18157,7 @@
 25	كامل	_	X	U---------	_	26	nmod	_	Translit=kAml
 26	بهاء	_	X	U---------	_	22	nmod	_	Translit=bhA'
 27	الدين	_	X	U---------	_	26	nmod	_	Translit=Aldyn
-28	وَ	_	CONJ	C---------	_	22	nmod	_	Translit=wa
+28	وَ	_	CONJ	C---------	_	22	cc	_	Translit=wa
 29	وَزِيرَ	_	NOUN	N------S4R	Case=Acc|Definite=Red|Number=Sing	22	conj	_	Translit=wazīra
 30	اَلشَّبَابِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	29	nmod	_	Translit=aš-šabābi
 31	على	_	X	U---------	_	33	nmod	_	Translit=ElY
@@ -18342,14 +18342,14 @@
 17	وَحدَ	_	NOUN	N------S4R	Case=Acc|Definite=Red|Number=Sing	16	nmod	_	Translit=waḥda
 18	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	nmod	_	Translit=hā
 19	وَ	_	CONJ	C---------	_	15	cc	_	Translit=wa
-20	إِنَّمَا	_	CONJ	C---------	_	15	nmod	_	Translit=ʾinnamā
+20	إِنَّمَا	_	CONJ	C---------	_	15	cc	_	Translit=ʾinnamā
 21	يُهَدِّدُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	15	conj	_	Translit=yuhaddidu
 22	اَلأَمنَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	21	dobj	_	Translit=al-ʾamna
 23	فِي	_	ADP	P---------	AdpType=Prep	24	case	_	Translit=fī
 24	اَلعَالَمِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	22	nmod	_	Translit=al-ʿālami
 25	أَجمَعَ	_	ADJ	A-----MS4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	24	amod	_	Translit=ʾaǧmaʿa
 26	،	_	PUNCT	G---------	_	25	punct	_	Translit=،
-27	وَ	_	CONJ	C---------	_	15	nmod	_	Translit=wa
+27	وَ	_	CONJ	C---------	_	15	cc	_	Translit=wa
 28	لِ	_	ADP	P---------	AdpType=Prep	15	cc	_	Translit=li
 29	هٰذَا	_	PRON	SD----MS2-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	15	cc	_	Translit=hāḏā
 30	فَ	_	CONJ	C---------	_	31	cc	_	Translit=fa
@@ -18807,7 +18807,7 @@
 59	اَلسِّلَعِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	58	amod	_	Translit=as-silaʿīyati
 60	سَوَاءً	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	61	cc	_	Translit=sawāʾan
 61	اَلسَّلبِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	55	amod	_	Translit=as-salbīyati
-62	أَو	_	CONJ	C---------	_	61	nmod	_	Translit=ʾaw
+62	أَو	_	CONJ	C---------	_	61	cc	_	Translit=ʾaw
 63	اَلإِيجَابِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	61	conj	_	Translit=al-ʾīǧābīyati
 64	.	_	PUNCT	G---------	_	1	punct	_	Translit=.
 
@@ -19114,7 +19114,7 @@
 12	اَلمِصرِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	amod	_	Translit=al-miṣrīyati
 13	فِي	_	ADP	P---------	AdpType=Prep	14	case	_	Translit=fī
 14	اَلأَقطَانِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	11	nmod	_	Translit=al-ʾaqṭāni
-15	وَ	_	CONJ	C---------	_	14	nmod	_	Translit=wa
+15	وَ	_	CONJ	C---------	_	14	cc	_	Translit=wa
 16	اَلغُزُولِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	14	conj	_	Translit=al-ġuzūli
 17	وَ	_	CONJ	C---------	_	14	cc	_	Translit=wa
 18	اَلمَنسُوجَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	14	conj	_	Translit=al-mansūǧāti
@@ -19192,7 +19192,7 @@
 18	وَ	_	CONJ	C---------	_	6	cc	_	Translit=wa
 19	كَذٰلِكَ	_	ADV	D---------	_	20	advmod:emph	_	Translit=kaḏālika
 20	اَلمَنسُوجَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	6	conj	_	Translit=al-mansūǧāti
-21	اَلأَمرُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	6	nmod	_	Translit=al-ʾamru
+21	اَلأَمرُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	6	cc	_	Translit=al-ʾamru
 22	اَلَّذِي	_	PRON	SR----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	cc	_	Translit=allaḏī
 23	سَ	_	PART	F---------	_	24	aux	_	Translit=sa
 24	يُؤَدِّي	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	6	conj	_	Translit=yuʾaddī
@@ -19371,7 +19371,7 @@
 11	إِنذَارًا	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	10	dobj	_	Translit=ʾinḏāran
 12	لِ	_	ADP	P---------	AdpType=Prep	13	case	_	Translit=li
 13	إِسرَائِيلَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	10	dobj	_	Translit=ʾisrāʾīla
-14	وَ	_	CONJ	C---------	_	10	nmod	_	Translit=wa
+14	وَ	_	CONJ	C---------	_	10	cc	_	Translit=wa
 15	لَن	_	PART	F---------	_	16	neg	_	Translit=lan
 16	نواصل	_	X	U---------	_	10	conj	_	Translit=nwASl
 17	اَلِانتِظَارَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	16	dobj	_	Translit=al-i-ʼntiẓāra
@@ -19522,8 +19522,8 @@
 7	اَلغَازِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	4	nmod	_	Translit=al-ġāzi
 8	لِ	_	ADP	P---------	AdpType=Prep	9	case	_	Translit=li
 9	إِسرَائِيلَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	4	nmod	_	Translit=ʾisrāʾīla
-10	بِ	_	ADP	P---------	AdpType=Prep	13	case	_	Translit=bi
-11	اَلإِضَافَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	10	mwe	_	Translit=al-ʾiḍāfati
+10	بِ	_	ADP	P---------	AdpType=Prep	13	cc	_	Translit=bi
+11	اَلإِضَافَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	13	cc	_	Translit=al-ʾiḍāfati
 12	إِلَى	_	ADP	P---------	AdpType=Prep	13	case	_	Translit=ʾilā
 13	مَجمُوعَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	4	nmod	_	Translit=maǧmūʿati
 14	يام	_	X	U---------	_	15	nmod	_	Translit=yAm
@@ -19723,7 +19723,7 @@
 15	بَينَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	16	case	_	Translit=bayna
 16	مُحَافِظِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	14	nmod	_	Translit=muḥāfiẓi
 17	اَلبَنكِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	16	nmod	_	Translit=al-banki
-18	وَ	_	CONJ	C---------	_	16	nmod	_	Translit=wa
+18	وَ	_	CONJ	C---------	_	16	cc	_	Translit=wa
 19	اَلحُكُومَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	16	conj	_	Translit=al-ḥukūmati
 20	وَ	_	CONJ	C---------	_	16	cc	_	Translit=wa
 21	اَلحِزبِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	16	conj	_	Translit=al-ḥizbi
@@ -20083,7 +20083,7 @@
 17	وَ	_	CONJ	C---------	_	2	cc	_	Translit=wa
 18	تَشمَلُ	_	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	2	conj	_	Translit=tašmalu
 19	اَلتَّخطِيطَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	18	dobj	_	Translit=at-taḫṭīṭa
-20	وَ	_	CONJ	C---------	_	19	nmod	_	Translit=wa
+20	وَ	_	CONJ	C---------	_	19	cc	_	Translit=wa
 21	اَلمَالِيَّةَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	19	conj	_	Translit=al-mālīyata
 22	وَ	_	CONJ	C---------	_	19	cc	_	Translit=wa
 23	اَلتِّجَارَةَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	19	conj	_	Translit=at-tiǧārata
@@ -20412,7 +20412,7 @@
 13	أَلفَ	_	NUM	QM-----S4R	Case=Acc|Definite=Red|Number=Sing|NumForm=Word	12	nummod	_	Translit=ʾalfa
 14	مَشرُوعٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	13	nmod	_	Translit=mašrūʿin
 15	،	_	PUNCT	G---------	_	14	punct	_	Translit=،
-16	وَ	_	CONJ	C---------	_	9	nmod	_	Translit=wa
+16	وَ	_	CONJ	C---------	_	9	cc	_	Translit=wa
 17	تُسَاهِمُ	_	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	9	conj	_	Translit=tusāhimu
 18	بِ	_	ADP	P---------	AdpType=Prep	20	case	_	Translit=bi
 19	حَوَالَي	_	ADP	P---------	AdpType=Prep	20	case	_	Translit=ḥawālay
@@ -20528,7 +20528,7 @@
 30	مِن	_	ADP	P---------	AdpType=Prep	32	case	_	Translit=min
 31	خِلَالِ	_	ADP	PI------2-	AdpType=Prep|Case=Gen	32	case	_	Translit=ḫilāli
 32	اَلمُشَارَكَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	27	nmod	_	Translit=al-mušārakati
-33	وَ	_	CONJ	C---------	_	32	nmod	_	Translit=wa
+33	وَ	_	CONJ	C---------	_	32	cc	_	Translit=wa
 34	اَلمُرَابَحَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	32	conj	_	Translit=al-murābaḥati
 35	وَ	_	CONJ	C---------	_	32	cc	_	Translit=wa
 36	تَجَنُّبِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	32	conj	_	Translit=taǧannubi
@@ -20595,7 +20595,7 @@
 16	اَلإِقرَاضِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	15	nmod	_	Translit=al-ʾiqrāḍi
 17	بِ	_	ADP	P---------	AdpType=Prep	18	case	_	Translit=bi
 18	اَلفَائِدَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	16	nmod	_	Translit=al-fāʾidati
-19	وَ	_	CONJ	C---------	_	2	nmod	_	Translit=wa
+19	وَ	_	CONJ	C---------	_	2	cc	_	Translit=wa
 20	اِنتَقَدَ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	2	conj	_	Translit=intaqada
 21	أَسَالِيبَ	_	NOUN	N------P4R	Case=Acc|Definite=Red|Number=Plur	20	dobj	_	Translit=ʾasālība
 22	اَلتَّموِيلِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	21	nmod	_	Translit=at-tamwīli
@@ -20690,7 +20690,7 @@
 44	تَوقِيعِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	39	conj	_	Translit=tawqīʿi
 45	هِ	_	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	44	nmod	_	Translit=hi
 46	خَاصَّةً	_	ADJ	A-----FS4I	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	1	cc	_	Translit=ḫāṣṣatan
-47	إِنَّ	_	PART	F---------	_	1	nmod	_	Translit=ʾinna
+47	إِنَّ	_	PART	F---------	_	1	cc	_	Translit=ʾinna
 48	هُ	_	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	cc	_	Translit=hu
 49	بِ	_	ADP	P---------	AdpType=Prep	50	case	_	Translit=bi
 50	إِبرَامِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	54	nmod	_	Translit=ʾibrāmi
@@ -20807,7 +20807,7 @@
 9	اَلجَمعِيَّةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	8	nmod	_	Translit=al-ǧamʿīyati
 10	اَلمِصرِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	amod	_	Translit=al-miṣrīyati
 11	اَلأُوكرَانِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	amod	_	Translit=al-ʾūkrānīyati
-12	أَو	_	CONJ	C---------	_	8	nmod	_	Translit=ʾaw
+12	أَو	_	CONJ	C---------	_	8	cc	_	Translit=ʾaw
 13	مِن	_	ADP	P---------	AdpType=Prep	14	case	_	Translit=min
 14	أَعضَاءِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	8	conj	_	Translit=ʾaʿḍāʾi
 15	اتجاد	_	X	U---------	_	14	nmod	_	Translit=AtjAd
@@ -20903,7 +20903,7 @@
 17	اَلمُقَامَةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	16	amod	_	Translit=al-muqāmati
 18	فِي	_	ADP	P---------	AdpType=Prep	19	case	_	Translit=fī
 19	أوكرانيا	_	X	U---------	_	17	advmod	_	Translit=>wkrAnyA
-20	وَ	_	CONJ	C---------	_	7	nmod	_	Translit=wa
+20	وَ	_	CONJ	C---------	_	7	cc	_	Translit=wa
 21	تَمَثُّلِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	7	conj	_	Translit=tamaṯṯuli
 22	أَكبَرِ	_	ADJ	A-----MS2R	Case=Gen|Definite=Red|Gender=Masc|Number=Sing	21	amod	_	Translit=ʾakbari
 23	قَدرٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	22	nmod	_	Translit=qadrin
@@ -20942,7 +20942,7 @@
 56	بَينَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	57	case	_	Translit=bayna
 57	اَلبَلَدَينِ	_	NOUN	N------D2D	Case=Gen|Definite=Def|Number=Dual	54	nmod	_	Translit=al-baladayni
 58	خَاصَّةً	_	ADJ	A-----FS4I	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	44	cc	_	Translit=ḫāṣṣatan
-59	أَنَّ	_	CONJ	C---------	_	44	nmod	_	Translit=ʾanna
+59	أَنَّ	_	CONJ	C---------	_	44	cc	_	Translit=ʾanna
 60	هُ	_	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	44	cc	_	Translit=hu
 61	كَانَ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	44	conj	_	Translit=kāna
 62	يُوجَدُ	_	VERB	VIIP-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	61	xcomp	_	Translit=yūǧadu
@@ -21373,7 +21373,7 @@
 37	اَلقَومِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	35	amod	_	Translit=al-qawmīyi
 38	"	_	PUNCT	G---------	_	35	punct	_	Translit="
 39	،	_	PUNCT	G---------	_	38	punct	_	Translit=،
-40	وَ	_	CONJ	C---------	_	1	nmod	_	Translit=wa
+40	وَ	_	CONJ	C---------	_	1	cc	_	Translit=wa
 41	رَجَّحَ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	1	conj	_	Translit=raǧǧaḥa
 42	كِفَّةَ	_	NOUN	N------S4R	Case=Acc|Definite=Red|Number=Sing	41	dobj	_	Translit=kiffata
 43	هُ	_	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	42	nmod	_	Translit=hu
@@ -21573,7 +21573,7 @@
 25	مِن	_	ADP	P---------	AdpType=Prep	26	case	_	Translit=min
 26	أَرَاضِي	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	16	nmod	_	Translit=ʾarāḍī
 27	هِم	_	PRON	SP---3MP2-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	26	nmod	_	Translit=him
-28	وَ	_	CONJ	C---------	_	12	nmod	_	Translit=wa
+28	وَ	_	CONJ	C---------	_	12	cc	_	Translit=wa
 29	هُوَ	_	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	nsubj	_	Translit=huwa
 30	يُرِيدُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	12	conj	_	Translit=yurīdu
 31	اَلأَرضَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	30	dobj	_	Translit=al-ʾarḍa
@@ -21676,7 +21676,7 @@
 19	اَلأَغلَبِيَّةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	18	nmod	_	Translit=al-ʾaġlabīyati
 20	يَهُودِيَّةً	_	ADJ	A-----FS4I	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	19	amod	_	Translit=yahūdīyatan
 21	،	_	PUNCT	G---------	_	20	punct	_	Translit=،
-22	وَ	_	CONJ	C---------	_	2	nmod	_	Translit=wa
+22	وَ	_	CONJ	C---------	_	2	cc	_	Translit=wa
 23	هٰذَا	_	PRON	SD----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	25	nsubj	_	Translit=hāḏā
 24	هُوَ	_	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	cc	_	Translit=huwa
 25	اَلمَقصُودُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	2	conj	_	Translit=al-maqṣūdu
@@ -21863,7 +21863,7 @@
 62	سَوَاءً	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	64	cc	_	Translit=sawāʾan
 63	كَانُوا	_	VERB	VP-A-3MP--	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Voice=Act	64	cop	_	Translit=kānū
 64	يَهُودًا	_	ADJ	A-----MP4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	59	acl	_	Translit=yahūdan
-65	أَم	_	CONJ	C---------	_	64	nmod	_	Translit=ʾam
+65	أَم	_	CONJ	C---------	_	64	cc	_	Translit=ʾam
 66	عَرَبًا	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	64	conj	_	Translit=ʿaraban
 67	،	_	PUNCT	G---------	_	66	punct	_	Translit=،
 68	لِأَنَّ	_	CONJ	C---------	_	71	mark	_	Translit=li-ʾanna
@@ -22028,7 +22028,7 @@
 44	حَالَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	41	dobj	_	Translit=ḥālati
 45	دِفَاعٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	44	nmod	_	Translit=difāʿin
 46	،	_	PUNCT	G---------	_	45	punct	_	Translit=،
-47	وَ	_	CONJ	C---------	_	34	nmod	_	Translit=wa
+47	وَ	_	CONJ	C---------	_	34	cc	_	Translit=wa
 48	يَجِبُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	34	conj	_	Translit=yaǧibu
 49	أَن	_	CONJ	C---------	_	50	mark	_	Translit=ʾan
 50	يَكُونَ	_	VERB	VISA-3MS--	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	48	csubj	_	Translit=yakūna
@@ -22281,7 +22281,7 @@
 18	شَبَابِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	17	nmod	_	Translit=šabābi
 19	اَلبَدوِ	_	ADJ	A-----MP2D	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	18	amod	_	Translit=al-badwi
 20	،	_	PUNCT	G---------	_	19	punct	_	Translit=،
-21	وَ	_	CONJ	C---------	_	12	nmod	_	Translit=wa
+21	وَ	_	CONJ	C---------	_	12	cc	_	Translit=wa
 22	رَأَى	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	12	conj	_	Translit=raʾā
 23	فِي	_	ADP	P---------	AdpType=Prep	24	case	_	Translit=fī
 24	ذٰلِكَ	_	PRON	SD----MS2-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	22	iobj	_	Translit=ḏālika
@@ -22492,7 +22492,7 @@
 32	اَلأَطرَافِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	31	nmod	_	Translit=al-ʾaṭrāfi
 33	سَوَاءً	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	34	cc	_	Translit=sawāʾan
 34	اَلحُكُومَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	31	nmod	_	Translit=al-ḥukūmati
-35	أَو	_	CONJ	C---------	_	34	nmod	_	Translit=ʾaw
+35	أَو	_	CONJ	C---------	_	34	cc	_	Translit=ʾaw
 36	اَلبَنكِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	34	conj	_	Translit=al-banki
 37	اَلمَركَزِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	36	amod	_	Translit=al-markazīyi
 38	أَو	_	CONJ	C---------	_	34	cc	_	Translit=ʾaw
@@ -22623,7 +22623,7 @@
 44	تَنفِيذِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	42	conj	_	Translit=tanfīḏi
 45	اَلسِّيَاسَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	44	nmod	_	Translit=as-siyāsāti
 46	اَلِائتِمَانِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	45	amod	_	Translit=al-i-ʼʾtimānīyati
-47	وَ	_	CONJ	C---------	_	46	nmod	_	Translit=wa
+47	وَ	_	CONJ	C---------	_	46	cc	_	Translit=wa
 48	اَلنَّقدِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	46	conj	_	Translit=an-naqdīyati
 49	وَ	_	CONJ	C---------	_	46	cc	_	Translit=wa
 50	اَلمَصرِفِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	46	conj	_	Translit=al-maṣrifīyati
@@ -22724,7 +22724,7 @@
 41	هُنَاكَ	_	ADV	D---------	_	40	advmod	_	Translit=hunāka
 42	بُنُوكٌ	_	NOUN	N------P1I	Case=Nom|Definite=Ind|Number=Plur	40	nsubj	_	Translit=bunūkun
 43	عَامَّةٌ	_	ADJ	A-----FS1I	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	42	amod	_	Translit=ʿāmmatun
-44	وَ	_	CONJ	C---------	_	43	nmod	_	Translit=wa
+44	وَ	_	CONJ	C---------	_	43	cc	_	Translit=wa
 45	خَاصَّةٌ	_	ADJ	A-----FS1I	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	43	conj	_	Translit=ḫāṣṣatun
 46	وَ	_	CONJ	C---------	_	43	cc	_	Translit=wa
 47	اِستِثمَارِيَّةٌ	_	ADJ	A-----FS1I	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	43	conj	_	Translit=istiṯmārīyatun
@@ -22770,7 +22770,7 @@
 34	بِ	_	ADP	P---------	AdpType=Prep	35	case	_	Translit=bi
 35	أَسعَارِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	33	nmod	_	Translit=ʾasʿāri
 36	اَلفَائِدَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	35	nmod	_	Translit=al-fāʾidati
-37	أَو	_	CONJ	C---------	_	33	nmod	_	Translit=ʾaw
+37	أَو	_	CONJ	C---------	_	33	cc	_	Translit=ʾaw
 38	اَلإِصدَارَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	33	conj	_	Translit=al-ʾiṣdārāti
 39	اَلنَّقدِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	38	amod	_	Translit=an-naqdīyati
 40	.	_	PUNCT	G---------	_	1	punct	_	Translit=.
@@ -22962,7 +22962,7 @@
 24	عَلَي	_	ADP	P---------	AdpType=Prep	25	case	_	Translit=ʿalay
 25	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nmod	_	Translit=hā
 26	وَ	_	CONJ	C---------	_	6	cc	_	Translit=wa
-27	لٰكِن	_	CONJ	C---------	_	6	nmod	_	Translit=lākin
+27	لٰكِن	_	CONJ	C---------	_	6	cc	_	Translit=lākin
 28	لَم	_	PART	F---------	_	29	neg	_	Translit=lam
 29	يُحَدِّد	_	VERB	VIJA-3MS--	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	6	conj	_	Translit=yuḥaddid
 30	اَلآلِيَّةَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	29	xcomp	_	Translit=al-ʾālīyata
@@ -22970,7 +22970,7 @@
 32	لِ	_	ADP	P---------	AdpType=Prep	33	case	_	Translit=li
 33	تَنفِيذِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	30	nmod	_	Translit=tanfīḏi
 34	ذٰلِكَ	_	DET	SD----MS2-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	33	det	_	Translit=ḏālika
-35	مِمَّا	_	CONJ	C---------	_	29	nmod	_	Translit=mimmā
+35	مِمَّا	_	CONJ	C---------	_	29	cc	_	Translit=mimmā
 36	جَعَلَ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	29	conj	_	Translit=ǧaʿala
 37	هُ	_	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	dobj	_	Translit=hu
 38	مُجَرَّدَ	_	NOUN	N------S4R	Case=Acc|Definite=Red|Number=Sing	36	dobj	_	Translit=muǧarrada
@@ -23037,7 +23037,7 @@
 47	إِلَى	_	ADP	P---------	AdpType=Prep	48	case	_	Translit=ʾilā
 48	اَلرِّبحِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	46	nmod	_	Translit=ar-ribḥi
 49	وَ	_	CONJ	C---------	_	44	cc	_	Translit=wa
-50	لٰكِنَّ	_	CONJ	C---------	_	44	nmod	_	Translit=lākinna
+50	لٰكِنَّ	_	CONJ	C---------	_	44	cc	_	Translit=lākinna
 51	وُجُودَ	_	NOUN	N------S4R	Case=Acc|Definite=Red|Number=Sing	56	nsubj	_	Translit=wuǧūda
 52	رَأسمَالَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	51	nmod	_	Translit=raʾsmāla
 53	قَوِيٍّ	_	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	52	amod	_	Translit=qawīyin
@@ -23082,7 +23082,7 @@
 30	اَلمَعنِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	29	amod	_	Translit=al-maʿnīyati
 31	سَوَاءً	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	32	cc	_	Translit=sawāʾan
 32	اَلحُكُومَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	29	nmod	_	Translit=al-ḥukūmati
-33	أَو	_	CONJ	C---------	_	32	nmod	_	Translit=ʾaw
+33	أَو	_	CONJ	C---------	_	32	cc	_	Translit=ʾaw
 34	اَلبَنكِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	32	conj	_	Translit=al-banki
 35	اَلمَركَزِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	34	amod	_	Translit=al-markazīyi
 36	أَو	_	CONJ	C---------	_	32	cc	_	Translit=ʾaw
@@ -23289,12 +23289,12 @@
 29	وَ	_	CONJ	C---------	_	28	cc	_	Translit=wa
 30	غَيرُ	_	NOUN	N------S1R	Case=Nom|Definite=Red|Number=Sing	28	conj	_	Translit=ġayru
 31	حَقِيقِيَّةٍ	_	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	30	amod	_	Translit=ḥaqīqīyatin
-32	بِدَايَةً	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	28	cc	_	Translit=bidāyatan
-33	مِن	_	ADP	P---------	AdpType=Prep	32	case	_	Translit=min
-34	اَلثَّمَانِينِيَّاتِ	_	ADJ	A-----FP2D	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	32	cc	_	Translit=aṯ-ṯamānīnīyāti
-35	وَ	_	CONJ	C---------	_	32	cc	_	Translit=wa
+32	بِدَايَةً	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	34	cc	_	Translit=bidāyatan
+33	مِن	_	ADP	P---------	AdpType=Prep	34	case	_	Translit=min
+34	اَلثَّمَانِينِيَّاتِ	_	ADJ	A-----FP2D	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	28	advmod	_	Translit=aṯ-ṯamānīnīyāti
+35	وَ	_	CONJ	C---------	_	34	cc	_	Translit=wa
 36	حَتَّى	_	ADP	P---------	AdpType=Prep	37	case	_	Translit=ḥattā
-37	اَلآنِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	32	conj	_	Translit=al-ʾāni
+37	اَلآنِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	34	conj	_	Translit=al-ʾāni
 38	،	_	PUNCT	G---------	_	37	punct	_	Translit=،
 39	وَ	_	CONJ	C---------	_	28	cc	_	Translit=wa
 40	أَنَّ	_	CONJ	C---------	_	48	mark	_	Translit=ʾanna
@@ -23335,8 +23335,8 @@
 7	فِي	_	ADP	P---------	AdpType=Prep	8	case	_	Translit=fī
 8	مُعَدَّلِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	5	nmod	_	Translit=muʿaddali
 9	اَلِاستِثمَارَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	8	nmod	_	Translit=al-i-ʼstiṯmārāti
-10	بِ	_	ADP	P---------	AdpType=Prep	13	case	_	Translit=bi
-11	اَلنِّسبَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	10	mwe	_	Translit=an-nisbati
+10	بِ	_	ADP	P---------	AdpType=Prep	13	cc	_	Translit=bi
+11	اَلنِّسبَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	13	cc	_	Translit=an-nisbati
 12	إِلَى	_	ADP	P---------	AdpType=Prep	13	case	_	Translit=ʾilā
 13	اَلنَّاتِجِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	5	nmod	_	Translit=an-nātiǧi
 14	اَلمَحَلِّيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	amod	_	Translit=al-maḥallīyi
@@ -23443,7 +23443,7 @@
 56	تَمَلُّكِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	54	nmod	_	Translit=tamalluki
 57	وَسَائِلِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	56	nmod	_	Translit=wasāʾili
 58	اَلإِنتَاجِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	57	nmod	_	Translit=al-ʾintāǧi
-59	وَ	_	CONJ	C---------	_	56	nmod	_	Translit=wa
+59	وَ	_	CONJ	C---------	_	56	cc	_	Translit=wa
 60	ضَخِّ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	56	conj	_	Translit=ḍaḫḫi
 61	اَلِاستِثمَارَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	60	nmod	_	Translit=al-i-ʼstiṯmārāti
 62	وَ	_	CONJ	C---------	_	56	cc	_	Translit=wa
@@ -23494,7 +23494,7 @@
 24	إِسكَانٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	22	nmod	_	Translit=ʾiskānin
 25	سِيَاحِيٍّ	_	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	24	amod	_	Translit=siyāḥīyin
 26	،	_	PUNCT	G---------	_	25	punct	_	Translit=،
-27	وَ	_	CONJ	C---------	_	41	nmod	_	Translit=wa
+27	وَ	_	CONJ	C---------	_	7	cc	_	Translit=wa
 28	بِ	_	ADP	P---------	AdpType=Prep	7	cc	_	Translit=bi
 29	اَلتَّالِي	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	cc	_	Translit=at-tālī
 30	تَحَوَّلَت	_	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	7	conj	_	Translit=taḥawwalat
@@ -23656,7 +23656,7 @@
 28	مَوَارِدِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	26	nmod	_	Translit=mawāridi
 29	اَلدَّولَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	28	nmod	_	Translit=ad-dawlati
 30	وَ	_	CONJ	C---------	_	26	cc	_	Translit=wa
-31	لٰكِنَّ	_	CONJ	C---------	_	26	nmod	_	Translit=lākinna
+31	لٰكِنَّ	_	CONJ	C---------	_	26	cc	_	Translit=lākinna
 32	هَا	_	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	34	nsubj	_	Translit=hā
 33	لَم	_	PART	F---------	_	34	neg	_	Translit=lam
 34	تُحَقِّق	_	VERB	VIJA-3FS--	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	26	conj	_	Translit=tuḥaqqiq
@@ -23819,7 +23819,7 @@
 7	قَدَّمَت	_	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	2	ccomp	_	Translit=qaddamat
 8	مَزَايَا	_	NOUN	N------P4I	Case=Acc|Definite=Ind|Number=Plur	7	dobj	_	Translit=mazāyā
 9	عَدِيدَةً	_	ADJ	A-----FS4I	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	8	amod	_	Translit=ʿadīdatan
-10	وَ	_	CONJ	C---------	_	8	nmod	_	Translit=wa
+10	وَ	_	CONJ	C---------	_	8	cc	_	Translit=wa
 11	إِعفَاءَاتٍ	_	NOUN	N------P4I	Case=Acc|Definite=Ind|Number=Plur	8	conj	_	Translit=ʾiʿfāʾātin
 12	ضَرِيبِيَّةً	_	ADJ	A-----FS4I	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	11	amod	_	Translit=ḍarībīyatan
 13	وَ	_	CONJ	C---------	_	8	cc	_	Translit=wa
@@ -23837,8 +23837,8 @@
 # sent_id s-p15
 # orig_file_sentence UMH_ARB_20040809.0076#15
 1	وَ	_	CONJ	C---------	_	0	root	_	Translit=wa
-2	بِ	_	ADP	P---------	AdpType=Prep	5	case	_	Translit=bi
-3	اَلنِّسبَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	2	mwe	_	Translit=an-nisbati
+2	بِ	_	ADP	P---------	AdpType=Prep	5	cc	_	Translit=bi
+3	اَلنِّسبَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	5	cc	_	Translit=an-nisbati
 4	لِ	_	ADP	P---------	AdpType=Prep	5	case	_	Translit=li
 5	اَلِاستِثمَارَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	16	nsubj	_	Translit=al-i-ʼstiṯmārāti
 6	اَلعَرَبِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	5	amod	_	Translit=al-ʿarabīyati
@@ -23888,9 +23888,9 @@
 1	اَلتَّقرِيرُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	Translit=at-taqrīru
 2	يُؤَكِّدُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	Translit=yuʾakkidu
 3	أَيضًا	_	ADV	D---------	_	2	advmod:emph	_	Translit=ʾayḍan
-4	أَنَّ	_	CONJ	C---------	_	5	mark	_	Translit=ʾanna
-5	هُ	_	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	cc	_	Translit=hu
-6	تَمَّ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	5	cc	_	Translit=tamma
+4	أَنَّ	_	CONJ	C---------	_	6	mark	_	Translit=ʾanna
+5	هُ	_	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	cc	_	Translit=hu
+6	تَمَّ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	2	ccomp	_	Translit=tamma
 7	هُرُوبُ	_	NOUN	N------S1R	Case=Nom|Definite=Red|Number=Sing	6	nsubj	_	Translit=hurūbu
 8	٩٠	_	NUM	Q---------	NumForm=Digit	7	nummod	_	Translit=90
 9	مِليَارَ	_	NUM	QM-----S4R	Case=Acc|Definite=Red|Number=Sing|NumForm=Word	8	nummod	_	Translit=milyāra
@@ -23900,8 +23900,8 @@
 13	مِصرِيَّةٍ	_	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	12	amod	_	Translit=miṣrīyatin
 14	إِلَى	_	ADP	P---------	AdpType=Prep	15	case	_	Translit=ʾilā
 15	اَلخَارِجِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	6	nmod	_	Translit=al-ḫāriǧi
-16	وَ	_	CONJ	C---------	_	5	cc	_	Translit=wa
-17	عَدَمَ	_	NOUN	N------S4R	Case=Acc|Definite=Red|Number=Sing	5	conj	_	Translit=ʿadama
+16	وَ	_	CONJ	C---------	_	6	cc	_	Translit=wa
+17	عَدَمَ	_	NOUN	N------S4R	Case=Acc|Definite=Red|Number=Sing	6	conj	_	Translit=ʿadama
 18	قُدرَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	17	nmod	_	Translit=qudrati
 19	اَلحُكُومَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	18	nmod	_	Translit=al-ḥukūmati
 20	عَلَى	_	ADP	P---------	AdpType=Prep	21	case	_	Translit=ʿalā
@@ -23910,14 +23910,14 @@
 23	رَغمَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	24	case	_	Translit=raġma
 24	كُلِّ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	17	nmod	_	Translit=kulli
 25	اَلحَوَافِزِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	24	nmod	_	Translit=al-ḥawāfizi
-26	وَ	_	CONJ	C---------	_	25	nmod	_	Translit=wa
+26	وَ	_	CONJ	C---------	_	25	cc	_	Translit=wa
 27	اَلتَّنَازُلَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	25	conj	_	Translit=at-tanāzulāti
 28	اَلَّتِي	_	PRON	SR----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	25	cc	_	Translit=allatī
 29	تُقَدِّمُ	_	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	25	acl	_	Translit=tuqaddimu
 30	هَا	_	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	29	dobj	_	Translit=hā
 31	لِ	_	ADP	P---------	AdpType=Prep	32	case	_	Translit=li
 32	اَلعَرَبِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	29	iobj	_	Translit=al-ʿarabi
-33	وَ	_	CONJ	C---------	_	32	nmod	_	Translit=wa
+33	وَ	_	CONJ	C---------	_	32	cc	_	Translit=wa
 34	اَلأَجَانِبِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	32	conj	_	Translit=al-ʾaǧānibi
 35	وَ	_	CONJ	C---------	_	32	cc	_	Translit=wa
 36	رِجَالِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	32	conj	_	Translit=riǧāli
@@ -24299,7 +24299,7 @@
 21	اَلمُنتَجِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	18	nmod	_	Translit=al-muntaǧi
 22	اَلمِصرِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	21	amod	_	Translit=al-miṣrīyi
 23	،	_	PUNCT	G---------	_	22	punct	_	Translit=،
-24	وَ	_	CONJ	C---------	_	18	nmod	_	Translit=wa
+24	وَ	_	CONJ	C---------	_	18	cc	_	Translit=wa
 25	بِ	_	ADP	P---------	AdpType=Prep	18	cc	_	Translit=bi
 26	اَلتَّالِي	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	cc	_	Translit=at-tālī
 27	رَفعِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	18	conj	_	Translit=rafʿi
@@ -24346,7 +24346,7 @@
 34	اَلقَصِيرِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	33	amod	_	Translit=al-qaṣīri
 35	فَقَط	_	ADV	D---------	_	34	advmod:emph	_	Translit=faqaṭ
 36	إِلَّا	_	PART	F---------	_	22	cc	_	Translit=ʾillā
-37	أَنَّ	_	CONJ	C---------	_	22	nmod	_	Translit=ʾanna
+37	أَنَّ	_	CONJ	C---------	_	22	cc	_	Translit=ʾanna
 38	هُ	_	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	cc	_	Translit=hu
 39	لَا	_	PART	F---------	_	40	neg	_	Translit=lā
 40	يُمكِنُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	22	conj	_	Translit=yumkinu
@@ -24363,7 +24363,7 @@
 51	اَلبَعِيدِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	50	amod	_	Translit=al-baʿīdi
 52	إِضَافَةً	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	40	cc	_	Translit=ʾiḍāfatan
 53	إِلَى	_	ADP	P---------	AdpType=Prep	40	cc	_	Translit=ʾilā
-54	أَنَّ	_	CONJ	C---------	_	40	nmod	_	Translit=ʾanna
+54	أَنَّ	_	CONJ	C---------	_	40	cc	_	Translit=ʾanna
 55	اَلحُكُومَةَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	57	nsubj	_	Translit=al-ḥukūmata
 56	لَم	_	PART	F---------	_	57	neg	_	Translit=lam
 57	تَنظُر	_	VERB	VIJA-3FS--	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	40	conj	_	Translit=tanẓur
@@ -24412,7 +24412,7 @@
 24	مِن	_	ADP	P---------	AdpType=Prep	25	case	_	Translit=min
 25	مُؤَسَّسَاتٍ	_	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	18	nmod	_	Translit=muʾassasātin
 26	مَالِيَّةٍ	_	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	25	amod	_	Translit=mālīyatin
-27	وَ	_	CONJ	C---------	_	25	nmod	_	Translit=wa
+27	وَ	_	CONJ	C---------	_	25	cc	_	Translit=wa
 28	خُطُوطٍ	_	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	25	conj	_	Translit=ḫuṭūṭin
 29	مِلَاحِيَّةٍ	_	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	28	amod	_	Translit=milāḥīyatin
 30	وَ	_	CONJ	C---------	_	25	cc	_	Translit=wa
@@ -24772,7 +24772,7 @@
 12	اَلِاستِثمَارِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	amod	_	Translit=al-i-ʼstiṯmārīyati
 13	سَوَاءً	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	14	cc	_	Translit=sawāʾan
 14	اَلمَحَلِّيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	amod	_	Translit=al-maḥallīyati
-15	أَو	_	CONJ	C---------	_	14	nmod	_	Translit=ʾaw
+15	أَو	_	CONJ	C---------	_	14	cc	_	Translit=ʾaw
 16	اَلأَجنَبِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	14	conj	_	Translit=al-ʾaǧnabīyati
 17	.	_	PUNCT	G---------	_	1	punct	_	Translit=.
 
@@ -24816,7 +24816,7 @@
 9	اَلِاقتِصَادِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	8	nmod	_	Translit=al-i-ʼqtiṣādi
 10	اَلعَالَمِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	amod	_	Translit=al-ʿālamīyi
 11	،	_	PUNCT	G---------	_	10	punct	_	Translit=،
-12	وَ	_	CONJ	C---------	_	8	nmod	_	Translit=wa
+12	وَ	_	CONJ	C---------	_	8	cc	_	Translit=wa
 13	أَحدَاثِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	8	conj	_	Translit=ʾaḥdāṯi
 14	سِبتَمبِرَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	13	nmod	_	Translit=sibtambira
 15	وَ	_	CONJ	C---------	_	8	cc	_	Translit=wa
@@ -24933,7 +24933,7 @@
 64	اَلوِلَايَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	60	nmod	_	Translit=al-wilāyāti
 65	اَلمُتَّحِدَةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	64	amod	_	Translit=al-muttaḥidati
 66	اَلأَمرِيكِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	64	amod	_	Translit=al-ʾamrīkīyati
-67	وَ	_	CONJ	C---------	_	64	nmod	_	Translit=wa
+67	وَ	_	CONJ	C---------	_	64	cc	_	Translit=wa
 68	أُستُرَالِيَا	_	X	X---------	Foreign=Foreign	64	conj	_	Translit=ʾusturāliyā
 69	وَ	_	CONJ	C---------	_	64	cc	_	Translit=wa
 70	سُورِيَا	_	X	X---------	Foreign=Foreign	64	conj	_	Translit=sūriyā
@@ -24965,7 +24965,7 @@
 22	اَلأُخرَى	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	21	amod	_	Translit=al-ʾuḫrā
 23	مِثلَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	24	case	_	Translit=miṯla
 24	اَلزَّيتِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	21	nmod	_	Translit=az-zayti
-25	وَ	_	CONJ	C---------	_	24	nmod	_	Translit=wa
+25	وَ	_	CONJ	C---------	_	24	cc	_	Translit=wa
 26	اَلسُّكَّرِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	24	conj	_	Translit=as-sukkari
 27	وَ	_	CONJ	C---------	_	24	cc	_	Translit=wa
 28	اَلأَرزِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	24	conj	_	Translit=al-ʾarzi
@@ -25256,7 +25256,7 @@
 15	اَلفِلَسطِينِيُّونَ	_	NOUN	N------P1D	Case=Nom|Definite=Def|Number=Plur	12	nsubj	_	Translit=al-filasṭīnīyūna
 16	لِ	_	ADP	P---------	AdpType=Prep	17	case	_	Translit=li
 17	اَلضَّربِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	12	dobj	_	Translit=aḍ-ḍarbi
-18	وَ	_	CONJ	C---------	_	17	nmod	_	Translit=wa
+18	وَ	_	CONJ	C---------	_	17	cc	_	Translit=wa
 19	اَلقَتلِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	17	conj	_	Translit=al-qatli
 20	وَ	_	CONJ	C---------	_	17	cc	_	Translit=wa
 21	اَلتَّشرِيدِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	17	conj	_	Translit=at-tašrīdi
@@ -25441,7 +25441,7 @@
 35	اَلذَّهَبِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	32	nmod	_	Translit=aḏ-ḏahabi
 36	مِثلَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	37	cc	_	Translit=miṯla
 37	اَلعِقَالِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	27	appos	_	Translit=al-ʿiqāli
-38	وَ	_	CONJ	C---------	_	37	nmod	_	Translit=wa
+38	وَ	_	CONJ	C---------	_	37	cc	_	Translit=wa
 39	اَلبُشتِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	37	conj	_	Translit=al-bušti
 40	وَ	_	CONJ	C---------	_	37	cc	_	Translit=wa
 41	اَلمَفرُوشَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	37	conj	_	Translit=al-mafrūšāti
@@ -25751,7 +25751,7 @@
 54	اِستِغلَالِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	52	conj	_	Translit=istiġlāli
 55	اَلسُّلطَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	54	nmod	_	Translit=as-sulṭati
 56	فَضلًا	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	47	cc	_	Translit=faḍlan
-57	عَن	_	ADP	P---------	AdpType=Prep	47	nmod	_	Translit=ʿan
+57	عَن	_	ADP	P---------	AdpType=Prep	47	cc	_	Translit=ʿan
 58	اِرتِكَابِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	47	conj	_	Translit=irtikābi
 59	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	58	nmod	_	Translit=hā
 60	اَلعَدِيدِ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	58	amod	_	Translit=al-ʿadīdi
@@ -26002,9 +26002,9 @@
 35	كُلِّ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	23	nmod	_	Translit=kulli
 36	حُرِّيَّةٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	35	nmod	_	Translit=ḥurrīyatin
 37	وَ	_	CONJ	C---------	_	35	cc	_	Translit=wa
-38	مِن	_	ADP	P---------	AdpType=Prep	39	case	_	Translit=min
-39	دُونِ	_	ADP	PI------2-	AdpType=Prep|Case=Gen	35	conj	_	Translit=dūni
-40	اَلتَّعَرُّضِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	39	nmod	_	Translit=at-taʿarruḍi
+38	مِن	_	ADP	P---------	AdpType=Prep	40	case	_	Translit=min
+39	دُونِ	_	ADP	PI------2-	AdpType=Prep|Case=Gen	40	case	_	Translit=dūni
+40	اَلتَّعَرُّضِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	35	conj	_	Translit=at-taʿarruḍi
 41	لِ	_	ADP	P---------	AdpType=Prep	42	case	_	Translit=li
 42	أَيِّ	_	ADJ	A-----MS2R	Case=Gen|Definite=Red|Gender=Masc|Number=Sing	40	amod	_	Translit=ʾayyi
 43	مضايقات	_	X	U---------	_	42	nmod	_	Translit=mDAyqAt
@@ -26126,7 +26126,7 @@
 21	اَلمَعلُومَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	17	nmod	_	Translit=al-maʿlūmāti
 22	،	_	PUNCT	G---------	_	21	punct	_	Translit=،
 23	إلا	_	X	U---------	_	2	cc	_	Translit=<lA
-24	أَنَّ	_	CONJ	C---------	_	2	nmod	_	Translit=ʾanna
+24	أَنَّ	_	CONJ	C---------	_	2	cc	_	Translit=ʾanna
 25	مَصَادِرَ	_	NOUN	N------P4I	Case=Acc|Definite=Ind|Number=Plur	29	nsubj	_	Translit=maṣādira
 26	لِيبِيَّةً	_	ADJ	A-----FS4I	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	25	amod	_	Translit=lībīyatan
 27	شِبهَ	_	NOUN	N------S4R	Case=Acc|Definite=Red|Number=Sing	25	nmod	_	Translit=šibha
@@ -26175,7 +26175,7 @@
 70	مُتَّهَمَةٌ	_	ADJ	A-----FS1I	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	56	dobj	_	Translit=muttahamatun
 71	بِ	_	ADP	P---------	AdpType=Prep	72	case	_	Translit=bi
 72	اَلفَسَادِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	70	nmod	_	Translit=al-fasādi
-73	وَ	_	CONJ	C---------	_	72	nmod	_	Translit=wa
+73	وَ	_	CONJ	C---------	_	72	cc	_	Translit=wa
 74	اَلقِيَامِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	72	conj	_	Translit=al-qiyāmi
 75	بِ	_	ADP	P---------	AdpType=Prep	76	case	_	Translit=bi
 76	بَعضِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	74	nmod	_	Translit=baʿḍi
@@ -26370,7 +26370,7 @@
 54	هَدَفِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	45	nmod	_	Translit=hadafi
 55	تَسهِيلِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	54	nmod	_	Translit=tashīli
 56	اَلمُتَابَعَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	55	nmod	_	Translit=al-mutābaʿati
-57	وَ	_	CONJ	C---------	_	55	nmod	_	Translit=wa
+57	وَ	_	CONJ	C---------	_	55	cc	_	Translit=wa
 58	اَلتَّقيِيمِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	55	conj	_	Translit=at-taqyīmi
 59	وَ	_	CONJ	C---------	_	55	cc	_	Translit=wa
 60	اَلمُحَاسَبَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	55	conj	_	Translit=al-muḥāsabati
@@ -26391,7 +26391,7 @@
 11	هُ	_	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	dobj	_	Translit=hu
 12	بِ	_	ADP	P---------	AdpType=Prep	13	case	_	Translit=bi
 13	ضُعفِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	10	iobj	_	Translit=ḍuʿfi
-14	وَ	_	CONJ	C---------	_	13	nmod	_	Translit=wa
+14	وَ	_	CONJ	C---------	_	13	cc	_	Translit=wa
 15	غُمُوضِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	13	conj	_	Translit=ġumūḍi
 16	اَلعَلَاقَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	13	nmod	_	Translit=al-ʿalāqāti
 17	اَلإِدَارِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	16	amod	_	Translit=al-ʾidārīyati
@@ -26540,7 +26540,7 @@
 29	تَرقِيَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	27	nmod	_	Translit=tarqiyati
 30	حُقُوقِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	29	nmod	_	Translit=ḥuqūqi
 31	اَلإِنسَانِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	30	nmod	_	Translit=al-ʾinsāni
-32	وَ	_	CONJ	C---------	_	29	nmod	_	Translit=wa
+32	وَ	_	CONJ	C---------	_	29	cc	_	Translit=wa
 33	تَحسِينِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	29	conj	_	Translit=taḥsīni
 34	أَوضَاعِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	33	nmod	_	Translit=ʾawḍāʿi
 35	اَلسُّجُونِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	34	nmod	_	Translit=as-suǧūni
@@ -27021,7 +27021,7 @@
 8	أَمَامَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	9	case	_	Translit=ʾamāma
 9	اَلسَّلَامِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	7	nmod	_	Translit=as-salāmi
 10	وَ	_	CONJ	C---------	_	2	cc	_	Translit=wa
-11	كَمَا	_	CONJ	C---------	_	2	nmod	_	Translit=kamā
+11	كَمَا	_	CONJ	C---------	_	2	cc	_	Translit=kamā
 12	أَوضَحَ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	2	conj	_	Translit=ʾawḍaḥa
 13	اَلرَّئِيسُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	12	nsubj	_	Translit=ar-raʾīsu
 14	بُوش	_	X	X---------	Foreign=Foreign	13	nmod	_	Translit=būš
@@ -27152,7 +27152,7 @@
 43	فِي	_	ADP	P---------	AdpType=Prep	44	case	_	Translit=fī
 44	اَلقَضِيَّةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	41	nmod	_	Translit=al-qaḍīyati
 45	اَلفِلَسطِينِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	44	amod	_	Translit=al-filasṭīnīyati
-46	وَ	_	CONJ	C---------	_	30	nmod	_	Translit=wa
+46	وَ	_	CONJ	C---------	_	30	cc	_	Translit=wa
 47	أَنَّ	_	CONJ	C---------	_	49	mark	_	Translit=ʾanna
 48	هُنَاكَ	_	ADV	D---------	_	49	advmod	_	Translit=hunāka
 49	مَسؤُولِيَّاتٍ	_	NOUN	N------P4I	Case=Acc|Definite=Ind|Number=Plur	30	conj	_	Translit=masʾūlīyātin
@@ -27277,7 +27277,7 @@
 18	عَلَى	_	ADP	P---------	AdpType=Prep	19	case	_	Translit=ʿalā
 19	اَلقِيَادَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	17	dobj	_	Translit=al-qiyādati
 20	اَلفِلَسطِينِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	19	amod	_	Translit=al-filasṭīnīyati
-21	وَ	_	CONJ	C---------	_	10	nmod	_	Translit=wa
+21	وَ	_	CONJ	C---------	_	10	cc	_	Translit=wa
 22	ضَمَانِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	10	conj	_	Translit=ḍamāni
 23	تَحسِينِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	22	nmod	_	Translit=taḥsīni
 24	اَلأَوضَاعِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	23	nmod	_	Translit=al-ʾawḍāʿi
@@ -27318,8 +27318,8 @@
 59	اَلِانتِفَاضَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	57	nmod	_	Translit=al-i-ʼntifāḍati
 60	/	_	PUNCT	G---------	_	56	punct	_	Translit=/
 61	وَ	_	CONJ	C---------	_	7	cc	_	Translit=wa
-62	إِنَّ	_	CONJ	C---------	_	63	mark	_	Translit=ʾinna
-63	هُ	_	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	65	cop	_	Translit=hu
+62	إِنَّ	_	CONJ	C---------	_	65	mark	_	Translit=ʾinna
+63	هُ	_	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	65	cc	_	Translit=hu
 64	مِن	_	ADP	P---------	AdpType=Prep	65	case	_	Translit=min
 65	اَلمُهِمِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	conj	_	Translit=al-muhimmi
 66	جِدًّا	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	65	nmod	_	Translit=ǧiddan
@@ -27434,7 +27434,7 @@
 23	اَلمَزِيدِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	21	dobj	_	Translit=al-mazīdi
 24	مِن	_	ADP	P---------	AdpType=Prep	25	case	_	Translit=min
 25	اَلطَّائِرَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	23	nmod	_	Translit=aṭ-ṭāʾirāti
-26	وَ	_	CONJ	C---------	_	25	nmod	_	Translit=wa
+26	وَ	_	CONJ	C---------	_	25	cc	_	Translit=wa
 27	بَيَانَاتِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	25	conj	_	Translit=bayānāti
 28	اَلأَقمَارِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	27	nmod	_	Translit=al-ʾaqmāri
 29	اَلصِّنَاعِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	28	amod	_	Translit=aṣ-ṣināʿīyati
@@ -27989,7 +27989,7 @@
 26	مازن	_	X	U---------	_	25	nmod	_	Translit=mAzn
 27	يُدرِكُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	22	ccomp	_	Translit=yudriku
 28	ذلك	_	X	U---------	_	27	dobj	_	Translit=*lk
-29	وَ	_	CONJ	C---------	_	27	nmod	_	Translit=wa
+29	وَ	_	CONJ	C---------	_	27	cc	_	Translit=wa
 30	لَن	_	PART	F---------	_	31	neg	_	Translit=lan
 31	يَقبَلَ	_	VERB	VISA-3MS--	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	27	conj	_	Translit=yaqbala
 32	أَن	_	CONJ	C---------	_	33	mark	_	Translit=ʾan
@@ -28096,7 +28096,7 @@
 13	اَلسَّابِقَةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	amod	_	Translit=as-sābiqati
 14	لِ	_	ADP	P---------	AdpType=Prep	15	case	_	Translit=li
 15	صَدَّامٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	12	nmod	_	Translit=ṣaddāmin
-16	وَ	_	CONJ	C---------	_	10	nmod	_	Translit=wa
+16	وَ	_	CONJ	C---------	_	10	cc	_	Translit=wa
 17	رُؤَسَاءَ	_	NOUN	N------P4R	Case=Acc|Definite=Red|Number=Plur	10	conj	_	Translit=ruʾasāʾa
 18	اَلعَشَائِرِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	17	nmod	_	Translit=al-ʿašāʾiri
 19	وَ	_	CONJ	C---------	_	10	cc	_	Translit=wa
@@ -28641,7 +28641,7 @@
 38	اَلدَّعمِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	36	dobj	_	Translit=ad-daʿmi
 39	مِن	_	ADP	P---------	AdpType=Prep	40	case	_	Translit=min
 40	أَمرِيكَا	_	X	X---------	Foreign=Foreign	38	nmod	_	Translit=ʾamrīkā
-41	وَ	_	CONJ	C---------	_	40	nmod	_	Translit=wa
+41	وَ	_	CONJ	C---------	_	40	cc	_	Translit=wa
 42	برِيطَانِيَا	_	X	X---------	Foreign=Foreign	40	conj	_	Translit=brīṭāniyā
 43	وَ	_	CONJ	C---------	_	40	cc	_	Translit=wa
 44	أُورُوبَا	_	X	X---------	Foreign=Foreign	40	conj	_	Translit=ʾūrūbā
@@ -28690,8 +28690,8 @@
 9	مِحوَرِيَّةِ	_	ADJ	A-----FS2R	Case=Gen|Definite=Red|Gender=Fem|Number=Sing	7	conj	_	Translit=miḥwarīyati
 10	دَورِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	9	nmod	_	Translit=dawri
 11	مِصرَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	10	nmod	_	Translit=miṣra
-12	بِ	_	ADP	P---------	AdpType=Prep	15	case	_	Translit=bi
-13	اَلنِّسبَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	12	mwe	_	Translit=an-nisbati
+12	بِ	_	ADP	P---------	AdpType=Prep	15	cc	_	Translit=bi
+13	اَلنِّسبَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	15	cc	_	Translit=an-nisbati
 14	لِ	_	ADP	P---------	AdpType=Prep	15	case	_	Translit=li
 15	اَلشَّأنِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	10	nmod	_	Translit=aš-šaʾni
 16	اَلعِرَاقِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	amod	_	Translit=al-ʿirāqīyi
@@ -28707,7 +28707,7 @@
 26	عَلَى	_	ADP	P---------	AdpType=Prep	27	case	_	Translit=ʿalā
 27	اَلمُستَوَيَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	24	nmod	_	Translit=al-mustawayāti
 28	اَلسِّيَاسِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	27	amod	_	Translit=as-siyāsīyati
-29	وَ	_	CONJ	C---------	_	28	nmod	_	Translit=wa
+29	وَ	_	CONJ	C---------	_	28	cc	_	Translit=wa
 30	اَلِاقتِصَادِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	28	conj	_	Translit=al-i-ʼqtiṣādīyati
 31	وَ	_	CONJ	C---------	_	28	cc	_	Translit=wa
 32	اَلتَّنمَوِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	28	conj	_	Translit=at-tanmawīyati
@@ -28790,8 +28790,8 @@
 4	"	_	PUNCT	G---------	_	26	punct	_	Translit="
 5	أَنَّ	_	CONJ	C---------	_	26	mark	_	Translit=ʾanna
 6	هُ	_	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	cc	_	Translit=hu
-7	عَلَى	_	ADP	P---------	AdpType=Prep	10	case	_	Translit=ʿalā
-8	اَلرَّغمِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	7	mwe	_	Translit=ar-raġmi
+7	عَلَى	_	ADP	P---------	AdpType=Prep	10	cc	_	Translit=ʿalā
+8	اَلرَّغمِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	10	cc	_	Translit=ar-raġmi
 9	مِن	_	ADP	P---------	AdpType=Prep	10	case	_	Translit=min
 10	وُجُودِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	26	nmod	_	Translit=wuǧūdi
 11	بَعضِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	10	nmod	_	Translit=baʿḍi
@@ -28979,7 +28979,7 @@
 9	لِ	_	ADP	P---------	AdpType=Prep	10	case	_	Translit=li
 10	شُؤُونِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	7	nmod	_	Translit=šuʾūni
 11	اَللَّاجِئِينَ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	10	nmod	_	Translit=al-lāǧiʾīna
-12	وَ	_	CONJ	C---------	_	5	nmod	_	Translit=wa
+12	وَ	_	CONJ	C---------	_	5	cc	_	Translit=wa
 13	مَسؤُولِينَ	_	NOUN	N------P4I	Case=Acc|Definite=Ind|Number=Plur	5	conj	_	Translit=masʾūlīna
 14	مِن	_	ADP	P---------	AdpType=Prep	15	case	_	Translit=min
 15	اَلحُكُومَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	13	nmod	_	Translit=al-ḥukūmati
@@ -29103,7 +29103,7 @@
 17	مَسؤُولُو	_	NOUN	N------P1R	Case=Nom|Definite=Red|Number=Plur	15	nsubj	_	Translit=masʾūlū
 18	اَلحُكُومَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	17	nmod	_	Translit=al-ḥukūmati
 19	اَلمَركَزِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	18	amod	_	Translit=al-markazīyati
-20	وَ	_	CONJ	C---------	_	18	nmod	_	Translit=wa
+20	وَ	_	CONJ	C---------	_	18	cc	_	Translit=wa
 21	اَلحُكُومَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	18	conj	_	Translit=al-ḥukūmati
 22	اَلمَحَلِّيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	21	amod	_	Translit=al-maḥallīyati
 23	والمجلس	_	X	U---------	_	18	cc	_	Translit=wAlmjls
@@ -29221,7 +29221,7 @@
 25	جينسنك	_	X	U---------	_	23	nmod	_	Translit=jynsnk
 26	وَزِيرُ	_	NOUN	N------S1R	Case=Nom|Definite=Red|Number=Sing	23	nmod	_	Translit=wazīru
 27	اَلتِّجَارَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	26	nmod	_	Translit=at-tiǧārati
-28	وَ	_	CONJ	C---------	_	27	nmod	_	Translit=wa
+28	وَ	_	CONJ	C---------	_	27	cc	_	Translit=wa
 29	اَلصِّنَاعَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	27	conj	_	Translit=aṣ-ṣināʿati
 30	وَ	_	CONJ	C---------	_	27	cc	_	Translit=wa
 31	اَلطَّاقَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	27	conj	_	Translit=aṭ-ṭāqati
@@ -29247,7 +29247,7 @@
 51	مَعَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	52	case	_	Translit=maʿa
 52	اَلوِلَايَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	49	nmod	_	Translit=al-wilāyāti
 53	اَلمُتَّحِدَةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	52	amod	_	Translit=al-muttaḥidati
-54	وَ	_	CONJ	C---------	_	52	nmod	_	Translit=wa
+54	وَ	_	CONJ	C---------	_	52	cc	_	Translit=wa
 55	اَليَابَانِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	52	conj	_	Translit=al-yābāni
 56	وَ	_	CONJ	C---------	_	52	cc	_	Translit=wa
 57	اَلصِّينِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	52	conj	_	Translit=aṣ-ṣīni
@@ -29272,8 +29272,8 @@
 7	دَولَةَ	_	NOUN	N------S4R	Case=Acc|Definite=Red|Number=Sing	6	dobj	_	Translit=dawlata
 8	اَلإِمَارَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	7	nmod	_	Translit=al-ʾimārāti
 9	حَالِيًّا	_	ADJ	A-----MS4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	advmod	_	Translit=ḥālīyan
-10	إِنَّ	_	CONJ	C---------	_	11	mark	_	Translit=ʾinna
-11	اَلمَوقِفَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	2	nsubj	_	Translit=al-mawqifa
+10	إِنَّ	_	CONJ	C---------	_	21	mark	_	Translit=ʾinna
+11	اَلمَوقِفَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	21	nsubj	_	Translit=al-mawqifa
 12	اَلمَبدَئِيَّ	_	ADJ	A-----MS4D	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	11	amod	_	Translit=al-mabdaʾīya
 13	لِ	_	ADP	P---------	AdpType=Prep	14	case	_	Translit=li
 14	حُكُومَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	11	nmod	_	Translit=ḥukūmati
@@ -29283,18 +29283,18 @@
 18	أَنَّ	_	CONJ	C---------	_	21	cop	_	Translit=ʾanna
 19	هُ	_	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	cc	_	Translit=hu
 20	لَا	_	PART	F---------	_	21	neg	_	Translit=lā
-21	يُمكِنُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	11	conj	_	Translit=yumkinu
+21	يُمكِنُ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	2	iobj	_	Translit=yumkinu
 22	اَلتَّسَامُحُ	_	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	21	nsubj	_	Translit=at-tasāmuḥu
 23	تُجَاهَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	24	case	_	Translit=tuǧāha
 24	اَلأَسلِحَةِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	21	dobj	_	Translit=al-ʾasliḥati
 25	اَلنَّوَوِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	24	amod	_	Translit=an-nawawīyati
 26	فِي	_	ADP	P---------	AdpType=Prep	27	case	_	Translit=fī
 27	اَلشَّمَالِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	24	nmod	_	Translit=aš-šamāli
-28	وَ	_	CONJ	C---------	_	11	cc	_	Translit=wa
+28	وَ	_	CONJ	C---------	_	21	cc	_	Translit=wa
 29	أَنَّ	_	CONJ	C---------	_	32	cop	_	Translit=ʾanna
 30	هٰذِهِ	_	DET	SD----FS4-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	31	det	_	Translit=hāḏihi
 31	اَلمَسأَلَةَ	_	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	32	appos	_	Translit=al-masʾalata
-32	يَنبَغِي	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	11	conj	_	Translit=yanbaġī
+32	يَنبَغِي	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	21	conj	_	Translit=yanbaġī
 33	حَلُّ	_	NOUN	N------S1R	Case=Nom|Definite=Red|Number=Sing	32	nsubj	_	Translit=ḥallu
 34	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	33	nmod	_	Translit=hā
 35	بِ	_	ADP	P---------	AdpType=Prep	36	case	_	Translit=bi
@@ -29496,7 +29496,7 @@
 31	كَافَّةَ	_	NOUN	N------S4R	Case=Acc|Definite=Red|Number=Sing	30	dobj	_	Translit=kāffata
 32	اَلمَجَالَاتِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	31	nmod	_	Translit=al-maǧālāti
 33	اَلِاقتِصَادِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	32	amod	_	Translit=al-i-ʼqtiṣādīyati
-34	وَ	_	CONJ	C---------	_	33	nmod	_	Translit=wa
+34	وَ	_	CONJ	C---------	_	33	cc	_	Translit=wa
 35	اَلثَّقَافِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	33	conj	_	Translit=aṯ-ṯaqāfīyati
 36	وَ	_	CONJ	C---------	_	33	cc	_	Translit=wa
 37	غَيرِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	33	conj	_	Translit=ġayri
@@ -29645,13 +29645,13 @@
 40	لَيسَ	_	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	43	cop	_	Translit=laysa
 41	فَقَط	_	ADV	D---------	_	43	advmod:emph	_	Translit=faqaṭ
 42	فِي	_	ADP	P---------	AdpType=Prep	43	case	_	Translit=fī
-43	مَجَالِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	31	advmod:emph	_	Translit=maǧāli
+43	مَجَالِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	31	advcl	_	Translit=maǧāli
 44	اَلطَّاقَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	43	nmod	_	Translit=aṭ-ṭāqati
 45	وَ	_	CONJ	C---------	_	43	cc	_	Translit=wa
-46	لٰكِن	_	CONJ	C---------	_	43	nmod	_	Translit=lākin
-47	أَيضًا	_	ADV	D---------	_	43	conj	_	Translit=ʾayḍan
-48	كَ	_	ADP	P---------	AdpType=Prep	47	case	_	Translit=ka
-49	مَحَطَّةٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	47	advmod:emph	_	Translit=maḥaṭṭatin
+46	لٰكِن	_	CONJ	C---------	_	43	cc	_	Translit=lākin
+47	أَيضًا	_	ADV	D---------	_	49	advmod:emph	_	Translit=ʾayḍan
+48	كَ	_	ADP	P---------	AdpType=Prep	49	case	_	Translit=ka
+49	مَحَطَّةٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	43	conj	_	Translit=maḥaṭṭatin
 50	لِ	_	ADP	P---------	AdpType=Prep	51	case	_	Translit=li
 51	اَلِاستِثمَارِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	49	nmod	_	Translit=al-i-ʼstiṯmāri
 52	.	_	PUNCT	G---------	_	1	punct	_	Translit=.
@@ -29806,7 +29806,7 @@
 18	شَعبِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	15	nmod	_	Translit=šaʿbi
 19	اَلعِرَاقِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	18	nmod	_	Translit=al-ʿirāqi
 20	،	_	PUNCT	G---------	_	19	punct	_	Translit=،
-21	وَ	_	CONJ	C---------	_	13	nmod	_	Translit=wa
+21	وَ	_	CONJ	C---------	_	13	cc	_	Translit=wa
 22	إِعَادَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	13	conj	_	Translit=ʾiʿādati
 23	اَلتَّعمِيرِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	22	nmod	_	Translit=at-taʿmīri
 24	،	_	PUNCT	G---------	_	23	punct	_	Translit=،
@@ -29843,23 +29843,23 @@
 2	تُستَخدَمُ	_	VERB	VIIP-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	0	root	_	Translit=tustaḫdamu
 3	أَموَالُ	_	NOUN	N------P1R	Case=Nom|Definite=Red|Number=Plur	2	nsubjpass	_	Translit=ʾamwālu
 4	اَلصُّندُوقِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	3	nmod	_	Translit=aṣ-ṣundūqi
-5	"	_	PUNCT	G---------	_	6	punct	_	Translit="
-6	بناء	_	X	U---------	_	2	cc	_	Translit=bnA'
-7	عَلَى	_	ADP	P---------	AdpType=Prep	6	case	_	Translit=ʿalā
-8	تَوجِيهِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	6	cc	_	Translit=tawǧīhi
+5	"	_	PUNCT	G---------	_	8	punct	_	Translit="
+6	بناء	_	X	U---------	_	8	cc	_	Translit=bnA'
+7	عَلَى	_	ADP	P---------	AdpType=Prep	8	case	_	Translit=ʿalā
+8	تَوجِيهِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	2	nmod	_	Translit=tawǧīhi
 9	اَلسُّلطَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	8	nmod	_	Translit=as-sulṭati
-10	"	_	PUNCT	G---------	_	6	punct	_	Translit="
+10	"	_	PUNCT	G---------	_	8	punct	_	Translit="
 11	،	_	PUNCT	G---------	_	10	punct	_	Translit=،
-12	وَ	_	CONJ	C---------	_	6	nmod	_	Translit=wa
+12	وَ	_	CONJ	C---------	_	8	cc	_	Translit=wa
 13	بِ	_	ADP	P---------	AdpType=Prep	14	case	_	Translit=bi
-14	اَلتَّشَاوُرِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	6	conj	_	Translit=at-tašāwuri
+14	اَلتَّشَاوُرِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	8	conj	_	Translit=at-tašāwuri
 15	مَعَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	16	case	_	Translit=maʿa
 16	اَلسُّلطَةِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	14	nmod	_	Translit=as-sulṭati
 17	اَلعِرَاقِيَّةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	16	amod	_	Translit=al-ʿirāqīyati
 18	المؤقتة	_	X	U---------	_	16	nmod	_	Translit=Alm&qtp
-19	وَ	_	CONJ	C---------	_	6	cc	_	Translit=wa
+19	وَ	_	CONJ	C---------	_	8	cc	_	Translit=wa
 20	حَتَّى	_	ADP	P---------	AdpType=Prep	21	case	_	Translit=ḥattā
-21	تَشكِيلِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	6	conj	_	Translit=taškīli
+21	تَشكِيلِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	8	conj	_	Translit=taškīli
 22	حُكُومَةٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	21	nmod	_	Translit=ḥukūmatin
 23	عِرَاقِيَّةٍ	_	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	22	amod	_	Translit=ʿirāqīyatin
 24	.	_	PUNCT	G---------	_	2	punct	_	Translit=.
@@ -29883,7 +29883,7 @@
 15	اَلأُمَمِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	13	nmod	_	Translit=al-ʾumami
 16	اَلمُتَّحِدَةِ	_	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	amod	_	Translit=al-muttaḥidati
 17	،	_	PUNCT	G---------	_	16	punct	_	Translit=،
-18	وَ	_	CONJ	C---------	_	6	nmod	_	Translit=wa
+18	وَ	_	CONJ	C---------	_	6	cc	_	Translit=wa
 19	صُندُوقِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	6	conj	_	Translit=ṣundūqi
 20	اَلنَّقدِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	19	nmod	_	Translit=an-naqdi
 21	اَلدُّوَلِيِّ	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	19	amod	_	Translit=ad-duwalīyi
@@ -30031,8 +30031,8 @@
 23	فِي	_	ADP	P---------	AdpType=Prep	24	case	_	Translit=fī
 24	نَهرِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	22	nmod	_	Translit=nahri
 25	دِجلَةٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	24	nmod	_	Translit=diǧlatin
-26	بِ	_	ADP	P---------	AdpType=Prep	29	case	_	Translit=bi
-27	اَلقُربِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	26	mwe	_	Translit=al-qurbi
+26	بِ	_	ADP	P---------	AdpType=Prep	29	cc	_	Translit=bi
+27	اَلقُربِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	29	cc	_	Translit=al-qurbi
 28	مِن	_	ADP	P---------	AdpType=Prep	29	case	_	Translit=min
 29	مَدِينَةِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	22	nmod	_	Translit=madīnati
 30	سامراء	_	X	U---------	_	29	nmod	_	Translit=sAmrA'
