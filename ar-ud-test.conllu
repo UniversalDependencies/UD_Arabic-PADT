@@ -6463,7 +6463,7 @@
 20	بِن	_	PROPN	Z---------	_	17	nmod	_	Translit=bin
 21	علي	_	X	U---------	_	20	nmod	_	Translit=Ely
 22	صَبَاحَ	_	NOUN	N------S4R	Case=Acc|Definite=Red|Number=Sing	16	nmod	_	Translit=ṣabāḥa
-23	أَمسِ	_	ADV	D---------	_	22	nmod	_	Translit=ʾamsi
+23	أَمسِ	_	ADV	D---------	_	22	advmod	_	Translit=ʾamsi
 24	بِ	_	ADP	P---------	AdpType=Prep	25	case	_	Translit=bi
 25	اَلسَّيِّدِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	16	nmod	_	Translit=as-sayyidi
 26	محمد	_	X	U---------	_	27	nmod	_	Translit=mHmd
@@ -16662,7 +16662,7 @@
 53	رُويتِرز	_	X	X---------	Foreign=Foreign	51	nsubj	_	Translit=rūytirz
 54	أَوَّلَ	_	ADJ	A-----MS4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	51	advmod	_	Translit=ʾawwala
 55	مِن	_	ADP	P---------	AdpType=Prep	56	case	_	Translit=min
-56	أَمسِ	_	ADV	D---------	_	54	nmod	_	Translit=ʾamsi
+56	أَمسِ	_	ADV	D---------	_	54	advmod	_	Translit=ʾamsi
 57	.	_	PUNCT	G---------	_	1	punct	_	Translit=.
 
 # sent_id s-p3
@@ -18416,7 +18416,7 @@
 91	هِ	_	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	90	nmod	_	Translit=hi
 92	مَعَ	_	ADP	PI------4-	AdpType=Prep|Case=Acc	93	case	_	Translit=maʿa
 93	اَلمَسؤُولِينَ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	90	nmod	_	Translit=al-masʾūlīna
-94	هُنَاكَ	_	ADV	D---------	_	90	nmod	_	Translit=hunāka
+94	هُنَاكَ	_	ADV	D---------	_	90	advmod	_	Translit=hunāka
 95	.	_	PUNCT	G---------	_	1	punct	_	Translit=.
 
 # sent_id s-p4
@@ -19167,7 +19167,7 @@
 65	لِ	_	ADP	P---------	AdpType=Prep	66	case	_	Translit=li
 66	دُخُولِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	56	dobj	_	Translit=duḫūli
 67	اَلأَسوَاقِ	_	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	66	nmod	_	Translit=al-ʾaswāqi
-68	هُنَاكَ	_	ADV	D---------	_	67	nmod	_	Translit=hunāka
+68	هُنَاكَ	_	ADV	D---------	_	67	advmod	_	Translit=hunāka
 69	.	_	PUNCT	G---------	_	1	punct	_	Translit=.
 
 # sent_id s-p4
@@ -29039,7 +29039,7 @@
 10	اروا	_	X	U---------	_	9	nmod	_	Translit=ArwA
 11	أَوَّلَ	_	ADJ	A-----MS4R	Case=Acc|Definite=Red|Gender=Masc|Number=Sing	4	advmod	_	Translit=ʾawwala
 12	مِن	_	ADP	P---------	AdpType=Prep	13	case	_	Translit=min
-13	أَمسِ	_	ADV	D---------	_	11	nmod	_	Translit=ʾamsi
+13	أَمسِ	_	ADV	D---------	_	11	advmod	_	Translit=ʾamsi
 14	اَلَّتِي	_	PRON	SR----FS4-	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	5	cc	_	Translit=allatī
 15	سَ	_	PART	F---------	_	16	aux	_	Translit=sa
 16	يَتِمُّ	_	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	acl	_	Translit=yatimmu
