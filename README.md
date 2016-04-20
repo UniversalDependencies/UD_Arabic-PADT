@@ -42,6 +42,7 @@ Shadi Saleh and Zdeněk Žabokrtský.
 2016-05-15 v1.3
   * The _%_ symbols are now attached as `nmod` instead of `cc`.
   * Chains of auxiliaries have been removed as the negative copula لَيسَ / _laysa_ is now treated as copula and not as auxiliary verb.
+  * Fixed adverbs that were attached as nmod; correct: advmod.
 
 2015-11-15 v1.2
   * Modified version from HamleDT 3.0
