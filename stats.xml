@@ -94,8 +94,8 @@
     <dep name="mwe">4</dep>
     <dep name="neg">1275</dep>
     <dep name="nmod">74123</dep>
-    <dep name="nsubj">15761</dep>
-    <dep name="nsubjpass">552</dep>
+    <dep name="nsubj">15750</dep>
+    <dep name="nsubjpass">563</dep>
     <dep name="nummod">3712</dep>
     <dep name="parataxis">5502</dep>
     <dep name="punct">22435</dep>

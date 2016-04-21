@@ -17641,7 +17641,7 @@
 5	هَامِشِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	3	nmod	_	Translit=hāmiši
 6	هٰذَا	_	DET	SD----MS2-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	Translit=hāḏā
 7	اَلمَعرِضِ	_	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	5	nmod	_	Translit=al-maʿriḍi
-8	٣٢	_	NUM	Q---------	NumForm=Digit	3	nsubj	_	Translit=32
+8	٣٢	_	NUM	Q---------	NumForm=Digit	3	nsubjpass	_	Translit=32
 9	مُحَاضَرَةً	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	8	nmod	_	Translit=muḥāḍaratan
 10	وَ	_	CONJ	C---------	_	9	cc	_	Translit=wa
 11	نَدوَةً	_	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	9	conj	_	Translit=nadwatan
@@ -25573,7 +25573,7 @@
 9	فِي	_	ADP	P---------	AdpType=Prep	10	case	_	Translit=fī
 10	تَشكِيلِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	8	nmod	_	Translit=taškīli
 11	هَا	_	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nmod	_	Translit=hā
-12	آرَاءُ	_	NOUN	N------P1R	Case=Nom|Definite=Red|Number=Plur	8	nsubj	_	Translit=ʾārāʾu
+12	آرَاءُ	_	NOUN	N------P1R	Case=Nom|Definite=Red|Number=Plur	8	nsubjpass	_	Translit=ʾārāʾu
 13	رِجَالِ	_	NOUN	N------P2R	Case=Gen|Definite=Red|Number=Plur	12	nmod	_	Translit=riǧāli
 14	قَانُونٍ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	13	nmod	_	Translit=qānūnin
 15	عَرَبٍ	_	ADJ	A-----MP2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	13	amod	_	Translit=ʿarabin
@@ -25922,7 +25922,7 @@
 3	سَ	_	PART	F---------	_	4	auxpass	_	Translit=sa
 4	يُحَالُ	_	VERB	VIIP-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	0	root	_	Translit=yuḥālu
 5	صدام	_	X	U---------	_	6	nsubj	_	Translit=SdAm
-6	حسين	_	X	U---------	_	4	nsubj	_	Translit=Hsyn
+6	حسين	_	X	U---------	_	4	nsubjpass	_	Translit=Hsyn
 7	وَ	_	CONJ	C---------	_	6	cc	_	Translit=wa
 8	أَعضَاءُ	_	NOUN	N------P1R	Case=Nom|Definite=Red|Number=Plur	6	conj	_	Translit=ʾaʿḍāʾu
 9	نِظَامِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	8	nmod	_	Translit=niẓāmi
@@ -27635,7 +27635,7 @@
 # orig_file_sentence XIN_ARB_20030503.0052#8
 1	سَ	_	PART	F---------	_	2	auxpass	_	Translit=sa
 2	تُزَالُ	_	VERB	VIIP-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	0	root	_	Translit=tuzālu
-3	اَلمَقَاعِدُ	_	NOUN	N------P1D	Case=Nom|Definite=Def|Number=Plur	2	nsubj	_	Translit=al-maqāʿidu
+3	اَلمَقَاعِدُ	_	NOUN	N------P1D	Case=Nom|Definite=Def|Number=Plur	2	nsubjpass	_	Translit=al-maqāʿidu
 4	وَ	_	CONJ	C---------	_	3	cc	_	Translit=wa
 5	حَتَّى	_	ADV	D---------	_	3	advmod:emph	_	Translit=ḥattā
 6	اَلسَّجَّادُ	_	NOUN	N------P1D	Case=Nom|Definite=Def|Number=Plur	3	conj	_	Translit=as-saǧǧādu

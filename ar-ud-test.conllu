@@ -15297,7 +15297,7 @@
 16	شَهرِ	_	NOUN	N------S2R	Case=Gen|Definite=Red|Number=Sing	14	nmod	_	Translit=šahri
 17	أُكتُوبِرَ	_	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	16	nmod	_	Translit=ʾuktūbira
 18	اَلمَاضِي	_	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	16	amod	_	Translit=al-māḍī
-19	٢٦	_	NUM	Q---------	NumForm=Digit	14	nsubj	_	Translit=26
+19	٢٦	_	NUM	Q---------	NumForm=Digit	14	nsubjpass	_	Translit=26
 20	مِليَارًا	_	NUM	QM-----S4I	Case=Acc|Definite=Ind|Number=Sing|NumForm=Word	19	nummod	_	Translit=milyāran
 21	وَ	_	CONJ	C---------	_	19	cc	_	Translit=wa
 22	٩٩٧	_	NUM	Q---------	NumForm=Digit	19	conj	_	Translit=997
