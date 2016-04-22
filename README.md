@@ -40,6 +40,7 @@ Shadi Saleh and Zdeněk Žabokrtský.
 ## Changelog
 
 2016-05-15 v1.3
+  * Added lemmas, roots, transliteration and English glosses.
   * The _%_ symbols are now attached as `nmod` instead of `cc`.
   * Chains of auxiliaries have been removed as the negative copula لَيسَ / _laysa_ is now treated as copula and not as auxiliary verb.
   * Fixed adverbs that were attached as nmod; correct: advmod.
