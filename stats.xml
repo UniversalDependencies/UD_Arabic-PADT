@@ -5,84 +5,84 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>7664</sentences><tokens>282384</tokens><words>282384</words><fused>0</fused></total>
+    <total><sentences>7664</sentences><tokens>242056</tokens><words>282384</words><fused>38333</fused></total>
   </size>
-  <lemmas unique="16761" /><!-- وَ, هُوَ, فِي, ., لِ, بِ, مِن, ،, ", عَلَى, أَنَّ, إِلَى, اَلَّذِي, هٰذَا, عَن -->
-  <forms unique="35631" /><!-- وَ, فِي, ., لِ, بِ, مِن, ،, ", هَا, أَنَّ, عَلَى, إِلَى, هُ, هِ, اَلَّتِي -->
-  <fusions unique="0" /><!--  -->
+  <lemmas unique="16814" /><!-- وَ, هُوَ, فِي, ., لِ, بِ, مِن, ،, ", عَلَى, أَنَّ, إِلَى, اَلَّذِي, هٰذَا, عَن -->
+  <forms unique="26373" /><!-- و, ., في, ل, ب, من, ،, ", ه, ها, على, أن, ان, الى, إلى -->
+  <fusions unique="13846" /><!-- وقال, انه, أنه, ومن, فيها, وقد, وفي, وكان, وهو, بها, فيه, واضاف, لها, ولا, بما -->
   <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
   <tags unique="16">
     <tag name="ADJ">29221</tag><!-- مِصرِيّ, جَدِيد, آخَر, أَوَّل, إِسرَائِيلِيّ, أَمرِيكِيّ, عَرَبِيّ, مُتَّحِد, فِلَسطِينِيّ, مَاضِي -->
     <tag name="ADP">41879</tag><!-- فِي, لِ, بِ, مِن, عَلَى, إِلَى, عَن, مَعَ, بَينَ, خِلَالَ -->
     <tag name="ADV">1044</tag><!-- هُنَاكَ, أَمسِ, أَيضًا, كَذٰلِكَ, فَقَط, حَتَّى, هُنَا, سِيَّمَا, مَعًا, ثَمَّةَ -->
-    <tag name="AUX">32</tag><!-- لَيس, أَلَا, عَاد -->
+    <tag name="AUX">39</tag><!-- لَيس, أَلَا, عَاد -->
     <tag name="CONJ">23968</tag><!-- وَ, أَنَّ, أَن, إِنَّ, فَ, أَو, كَمَا, حَيثُ, لٰكِنَّ, لِ -->
     <tag name="DET">1890</tag><!-- هٰذَا, مَا, ذٰلِكَ, مَن, اَلَّذِي, ذُو, كَيفَ, كِلَا, لِمَاذَا, مَاذَا -->
     <tag name="INTJ">8</tag><!-- مَرحَبًا, بِلَاش, حَيَّ, مَا -->
     <tag name="NOUN">92051</tag><!-- يَوم, رَئِيس, دَولَة, شَرِكَة, وَزِير, مِصر, عَام, دُولَار, حُكُومَة, مِنطَقَة -->
-    <tag name="NUM">7756</tag><!-- مِليُون, أَلف, ١٥, ٣, ثَلَاثَة, مِليَار, ٦, ٢, ٨, ٧ -->
+    <tag name="NUM">7756</tag><!-- مِليُون, أَلف, 15, 3, ثَلَاثَة, مِليَار, 6, 2, 8, 7 -->
     <tag name="PART">3797</tag><!-- سَ, لَا, قَد, لَم, إِنَّ, إِلَّا, لَن, سَوفَ, أَمَّا, مَا -->
     <tag name="PRON">13870</tag><!-- هُوَ, اَلَّذِي, مَا, ذٰلِكَ, هٰذَا, مَن, كَيفَ, أَينَ, كَم, مَاذَا -->
     <tag name="PROPN">187</tag><!-- بِن, عَبداَللّٰه, عَبداَلعَزِيز, طٰهٰ, بُورسَعِيد, عَبداَلمُنعِم, أَبُوظَبِي, أَبُورُدَينَة, أُمّ, عَبداَلحَلِيم -->
     <tag name="PUNCT">22439</tag><!-- ., ،, ", -, ), (, /, », «, : -->
     <tag name="SYM">394</tag><!-- %, +, / -->
-    <tag name="VERB">21550</tag><!-- كَان, قَال, تَمّ, أَكَّد, أَعلَن, أَضَاف, أَشَار, وَصَل, ذَكَر, بَلَغ -->
+    <tag name="VERB">21543</tag><!-- كَان, قَال, تَمّ, أَكَّد, أَعلَن, أَضَاف, أَشَار, وَصَل, ذَكَر, بَلَغ -->
     <tag name="X">22298</tag><!-- ب, محمد, اف, وَاشِنطُن, عبد, وذلك, مبارك, سُورِيَا, أَفرِيقِيَا, شَارُون -->
   </tags>
   <!-- Statistics of features and values. The comments with the most frequent word forms are optional (but easy to obtain). -->
   <feats unique="36">
-    <feat name="Abbr" value="Yes" upos="X">501</feat><!-- ب, د, أَ, ف, م, ر, كلم, ت, غ, كجم -->
-    <feat name="AdpType" value="Prep" upos="ADP">41879</feat><!-- فِي, لِ, بِ, مِن, عَلَى, إِلَى, عَن, مَعَ, بَينَ, خِلَالَ -->
-    <feat name="Aspect" value="Imp" upos="AUX,VERB">10050</feat><!-- يَتِمُّ, يُمكِنُ, يَكُونُ, يَكُونَ, تَكُونُ, يَجِبُ, تَكُونَ, يَعنِي, يَقُولُ, يُذكَرُ -->
-    <feat name="Aspect" value="Perf" upos="AUX,VERB">11480</feat><!-- قَالَ, كَانَ, كَانَت, أَكَّدَ, أَضَافَ, تَمَّ, أَعلَنَ, أَشَارَ, أَوضَحَ, لَيسَ -->
-    <feat name="Case" value="Acc" upos="ADJ,ADP,DET,NOUN,NUM,PRON">28843</feat><!-- هُ, مَعَ, هَا, بَينَ, خِلَالَ, بَعدَ, اَليَومَ, مِليُونَ, حَولَ, قَبلَ -->
-    <feat name="Case" value="Gen" upos="ADJ,ADP,DET,NOUN,NUM,PRON">96902</feat><!-- هَا, هِ, اَلَّتِي, هُ, مِصرَ, هٰذِهِ, هِم, دُولَارٍ, اَلَّذِي, هٰذَا -->
-    <feat name="Case" value="Nom" upos="ADJ,ADP,DET,NOUN,NUM,PRON">18257</feat><!-- هُوَ, هِيَ, رَئِيسُ, وَزِيرُ, اَلَّذِي, اَلَّتِي, اَلدُّكتُورُ, هٰذَا, اَلحُكُومَةُ, مِصرُ -->
-    <feat name="Definite" value="Com" upos="ADJ,NUM">44</feat><!-- اَلثَّالِثَ, اَلأَوَّلِي, اَلذَّاتِيَّةِ, اَلسَّابِعَ, اَلقَصِيرَةِ, اَلحَادِيَةَ, اَلخَامِسَةَ, اَلمُستَنِدِي, اَلأَربَعَ, اَلبَعِيدَةِ -->
-    <feat name="Definite" value="Def" upos="ADJ,NOUN,NUM">59133</feat><!-- اَلعِرَاقِ, اَليَومَ, اَلمِصرِيَّةِ, اَلمُتَّحِدَةِ, اَلخَارِجِيَّةِ, اَلحُكُومَةِ, اَلدُّوَلِ, اَلمِصرِيِّ, اَلمَاضِي, اَلرَّئِيسِ -->
-    <feat name="Definite" value="Ind" upos="ADJ,NOUN,NUM">26821</feat><!-- مِصرَ, دُولَارٍ, جُنَيهٍ, إِسرَائِيلَ, مَايُو, أُخرَى, أَكثَرَ, حَالِيًّا, جَدِيدَةٍ, مِصرُ -->
-    <feat name="Definite" value="Red" upos="ADJ,NOUN,NUM">37455</feat><!-- مِليُونَ, مَجلِسِ, رَئِيسُ, وَزِيرُ, يَومَ, كُلِّ, رَئِيسِ, غَيرِ, أَيِّ, بَعضِ -->
-    <feat name="Foreign" value="Foreign" upos="X">5095</feat><!-- وَاشِنطُن, سُورِيَا, أَفرِيقِيَا, شَارُون, اَلسَّارس, أُوبِك, رُوسِيَا, فَرَنسَا, بَاوِل, بُوش -->
-    <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NUM,PRON,VERB">28895</feat><!-- هَا, اَلَّتِي, هٰذِهِ, اَلمِصرِيَّةِ, كَانَت, اَلمُتَّحِدَةِ, هِيَ, أُخرَى, اَلعَرَبِيَّةِ, اَلأَمرِيكِيَّةِ -->
-    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NUM,PRON,VERB">37161</feat><!-- هُ, هِ, اَلَّذِي, قَالَ, هٰذَا, هُم, هِم, كَانَ, هُوَ, ذٰلِكَ -->
-    <feat name="Mood" value="Imp" upos="VERB">52</feat><!-- حَاوِل, دِ, دَعُوا, أَرخِص, اُخدُمُوا, اُكسُونَ, اِبحَث, اِحرَص, اِفتَحُوا, اِنتَبِه -->
-    <feat name="Mood" value="Ind" upos="VERB">8070</feat><!-- يَتِمُّ, يُمكِنُ, يَكُونُ, تَكُونُ, يَجِبُ, يَعنِي, يَقُولُ, يُذكَرُ, تَضُمُّ, تَبلُغُ -->
-    <feat name="Mood" value="Jus" upos="AUX,VERB">665</feat><!-- يَكُن, تَكُن, يَتِمَّ, تَتَجَاوَز, تَعُد, يَصدُر, يُمكِن, يَعُد, يَستَبعِد, تَتَطَلَّع -->
-    <feat name="Mood" value="Sub" upos="VERB">1315</feat><!-- يَكُونَ, تَكُونَ, تَصِلَ, يَصِلَ, يَتِمَّ, تُصبِحَ, تَقُومَ, يُؤَدِّيَ, تَدخُلَ, تَستَطِيعَ -->
-    <feat name="Negative" value="Neg" upos="ADJ,NOUN,NUM">25</feat><!-- بُدَّ, أَفرِيقِيَّ, أَفرِيقِيُّ, أَمَلَ, أَهَمِّيَّةِ, أَوسَطِيِّ, أَيَادِيَ, بَدِيلَ, تَعَازِي, جَدوَى -->
-    <feat name="Number" value="Dual" upos="ADJ,DET,NOUN,NUM,PRON,VERB">1501</feat><!-- اَلبَلَدَينِ, هُمَا, اَلجَانِبَينِ, اَلطَّرَفَينِ, هِمَا, أُسبُوعَينِ, اَلدَّولَتَينِ, يَومَينِ, وَزِيرَي, اَلمَاضِيَينِ -->
-    <feat name="Number" value="Plur" upos="ADJ,DET,NOUN,NUM,PRON,VERB">24717</feat><!-- هُم, هِم, اَلدُّوَلِ, اَلوِلَايَاتِ, اَلشَّرِكَاتِ, اَلَّذِينَ, اَلوُزَرَاءِ, اَلأَعمَالِ, اَلفِلَسطِينِيِّينَ, اَلأُمَمِ -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,VERB">132631</feat><!-- هَا, هُ, هِ, اَلَّتِي, اَلَّذِي, هٰذِهِ, قَالَ, هٰذَا, مِصرَ, كَانَ -->
-    <feat name="NumForm" value="Digit" upos="NUM">5521</feat><!-- ١٥, ٣, ٦, ٢, ٨, ٧, ٤, ١١, ١٠, ١٢ -->
-    <feat name="NumForm" value="Word" upos="NUM">2235</feat><!-- مِليُونَ, مِليُونِ, أَلفَ, أَلفِ, مِليَارِ, اَلمِئَةِ, مَلَايِينِ, مِليَارَ, اَلمِائَةِ, ثَلَاثَةِ -->
-    <feat name="NumValue" value="1" upos="NUM">32</feat><!-- وَاحِدٍ, وَاحِدٌ, وَاحِدًا, وَاحِدَةٍ, اَلوَاحِدِ, وَاحِدَةً, أَحَدَ, اَلوَاحِدَ, اَلوَاحِدَةِ -->
-    <feat name="NumValue" value="2" upos="NUM">29</feat><!-- عَشَرَ, عَشرَةَ -->
-    <feat name="NumValue" value="3" upos="NUM">519</feat><!-- ثَلَاثَةِ, اَلثَّلَاثَةِ, أَربَعَةِ, سِتَّةِ, ثَلَاثَةَ, ثَلَاثِ, اَلثَّلَاثِ, اَلأَربَعَةِ, أَربَعَةَ, خَمسِ -->
-    <feat name="Person" value="1" upos="PRON,VERB">236</feat><!-- نَا, ِي, نَحنُ, أَعتَقِدُ, نُرِيدُ, نِي, أَنَا, كُنتُ, نَستَورِدُ, نَقُولُ -->
-    <feat name="Person" value="2" upos="PRON,VERB">293</feat><!-- كَ, كُم, تُحِبُّ, أَنتَ, أَنتُم, تَتَجَنَّبَ, تَتَعَرَّضُ, تَجِدُ, تَحصُلُ, تَخَلَّيتُم -->
-    <feat name="Person" value="3" upos="AUX,PRON,VERB">30992</feat><!-- هَا, هُ, هِ, قَالَ, هُم, هِم, كَانَ, هُوَ, كَانَت, هِيَ -->
-    <feat name="PronType" value="Dem" upos="DET,PRON">2049</feat><!-- هٰذِهِ, هٰذَا, ذٰلِكَ, تِلكَ, هٰؤُلَاءِ, هٰذَينِ, أُولٰئِكَ, ذِي, كِلَا, ذَاكَ -->
-    <feat name="PronType" value="Prs" upos="PRON">9991</feat><!-- هَا, هُ, هِ, هُم, هِم, هُوَ, هِيَ, كَ, نَا, هُمَا -->
-    <feat name="PronType" value="Rel" upos="DET,PRON">2513</feat><!-- اَلَّتِي, اَلَّذِي, اَلَّذِينَ, اَللَّذَينِ, اَللَّتَينِ, اَللَّوَاتِي, اَللَّاتِي, اَللَّتَانِ, اَللَّذَانِ -->
-    <feat name="VerbForm" value="Fin" upos="AUX,VERB">10102</feat><!-- يَتِمُّ, يُمكِنُ, يَكُونُ, يَكُونَ, تَكُونُ, يَجِبُ, تَكُونَ, يَعنِي, يَقُولُ, يُذكَرُ -->
-    <feat name="Voice" value="Act" upos="AUX,VERB">20311</feat><!-- قَالَ, كَانَ, كَانَت, أَكَّدَ, أَضَافَ, تَمَّ, أَعلَنَ, أَشَارَ, يَتِمُّ, يُمكِنُ -->
-    <feat name="Voice" value="Pass" upos="VERB">1219</feat><!-- يُذكَرُ, يُوجَدُ, يُتَوَقَّعُ, قُتِلَ, أُصِيبَ, تُعَدُّ, تُعتَبَرُ, يُعَدُّ, يُعتَبَرُ, تُوجَدُ -->
+    <feat name="Abbr" value="Yes" upos="X">501</feat><!-- ب, د, ف, أ, م, ر, كلم, ت, غ, كجم -->
+    <feat name="AdpType" value="Prep" upos="ADP">41879</feat><!-- في, ل, ب, من, على, الى, إلى, عن, فى, مع -->
+    <feat name="Aspect" value="Imp" upos="AUX,VERB">10050</feat><!-- يتم, يكون, يمكن, تكون, تصل, يجب, يصل, يقول, يذكر, تقوم -->
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">11480</feat><!-- قال, كان, كانت, أضاف, تم, أكد, أشار, أوضح, ليس, أعلن -->
+    <feat name="Case" value="Acc" upos="ADJ,ADP,DET,NOUN,NUM,PRON">28843</feat><!-- ه, مع, ها, بين, بعد, خلال, اليوم, مليون, حول, قبل -->
+    <feat name="Case" value="Gen" upos="ADJ,ADP,DET,NOUN,NUM,PRON">96902</feat><!-- ها, ه, التي, هم, مصر, دولار, هذه, الذي, العراق, هذا -->
+    <feat name="Case" value="Nom" upos="ADJ,ADP,DET,NOUN,NUM,PRON">18257</feat><!-- هو, هي, رئيس, وزير, الذي, الدكتور, التي, الحكومة, مصر, الرئيس -->
+    <feat name="Definite" value="Com" upos="ADJ,NUM">44</feat><!-- الثالث, الأولى, الذاتية, السابع, القصيرة, الحادية, الخامسة, المستندي, الاربع, البعيدة -->
+    <feat name="Definite" value="Def" upos="ADJ,NOUN,NUM">59133</feat><!-- اليوم, المصرية, الحكومة, المتحدة, العراق, الرئيس, العام, المصري, الماضي, الخارجية -->
+    <feat name="Definite" value="Ind" upos="ADJ,NOUN,NUM">26821</feat><!-- مصر, دولار, جنيه, مايو, إسرائيل, جديدة, خاصة, عدد, أخرى, لبنان -->
+    <feat name="Definite" value="Red" upos="ADJ,NOUN,NUM">37455</feat><!-- رئيس, مليون, وزير, كل, غير, مجلس, عام, بعض, يوم, نفس -->
+    <feat name="Foreign" value="Foreign" upos="X">5095</feat><!-- واشنطن, سوريا, شارون, السارس, أفريقيا, روسيا, فرنسا, باول, تركيا, بوش -->
+    <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NUM,PRON,VERB">28895</feat><!-- ها, التي, هذه, المصرية, المتحدة, كانت, هي, العربية, جديدة, الدولية -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NUM,PRON,VERB">37161</feat><!-- ه, هم, قال, الذي, هذا, كان, هو, المصري, الماضي, ذلك -->
+    <feat name="Mood" value="Imp" upos="VERB">52</feat><!-- حاول, د, دعوا, حث, ابحث, احرص, اخدموا, افتحوا, اكسون, انتبه -->
+    <feat name="Mood" value="Ind" upos="VERB">8070</feat><!-- يمكن, يتم, يكون, تكون, يجب, يقول, يذكر, يعني, تعتبر, تبلغ -->
+    <feat name="Mood" value="Jus" upos="AUX,VERB">665</feat><!-- يكن, تكن, يتم, يصدر, يحدد, يعد, تتجاوز, تعد, يمكن, يستبعد -->
+    <feat name="Mood" value="Sub" upos="VERB">1315</feat><!-- يكون, تكون, تصل, يصل, يتم, تصبح, تقوم, تدخل, تستطيع, يؤدي -->
+    <feat name="Negative" value="Neg" upos="ADJ,NOUN,NUM">25</feat><!-- بد, أفريقي, أمل, أوسطي, افريقي, اهمية, ايادي, بديل, تعازى, جدوى -->
+    <feat name="Number" value="Dual" upos="ADJ,DET,NOUN,NUM,PRON,VERB">1501</feat><!-- البلدين, هما, الجانبين, الطرفين, اسبوعين, الدولتين, يومين, وزيري, الماضيين, سنتين -->
+    <feat name="Number" value="Plur" upos="ADJ,DET,NOUN,NUM,PRON,VERB">24717</feat><!-- هم, الولايات, الدول, الشركات, دول, الذين, الوزراء, شركات, أسعار, العلاقات -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,VERB">132631</feat><!-- ه, ها, التي, مصر, قال, الذي, هذه, هذا, اليوم, رئيس -->
+    <feat name="NumForm" value="Digit" upos="NUM">5521</feat><!-- 15, 3, 6, 2, 8, 7, 4, 11, 10, 12 -->
+    <feat name="NumForm" value="Word" upos="NUM">2235</feat><!-- مليون, مليار, ألف, ثلاثة, ملايين, المئة, بليون, الف, المائة, عشرة -->
+    <feat name="NumValue" value="1" upos="NUM">32</feat><!-- واحد, واحدة, الواحد, واحداً, أحد, الواحدة, واحدا -->
+    <feat name="NumValue" value="2" upos="NUM">29</feat><!-- عشر, عشرة -->
+    <feat name="NumValue" value="3" upos="NUM">519</feat><!-- ثلاثة, خمسة, ثلاث, ستة, الثلاثة, اربعة, الثلاث, خمس, سبعة, أربعة -->
+    <feat name="Person" value="1" upos="PRON,VERB">236</feat><!-- نا, ي, نحن, نريد, ني, كنت, نستورد, نعرف, أعتقد, أنا -->
+    <feat name="Person" value="2" upos="PRON,VERB">293</feat><!-- ك, كم, تحب, أنت, تواجه, تتجنب, تتعرض, تجد, تحصل, تخليتم -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">30992</feat><!-- ه, ها, هم, قال, كان, هو, كانت, هي, أضاف, تم -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">2049</feat><!-- هذه, هذا, ذلك, ذٰلك, هٰذا, تلك, هٰذه, هؤلاء, هذين, ذي -->
+    <feat name="PronType" value="Prs" upos="PRON">9991</feat><!-- ه, ها, هم, هو, هي, ك, هما, نا, هن, كم -->
+    <feat name="PronType" value="Rel" upos="DET,PRON">2513</feat><!-- التي, الذي, الذين, التى, الذى, اللذين, اللتين, اللواتي, اللتان, اللذان -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">10102</feat><!-- يتم, يكون, يمكن, تكون, تصل, يجب, يصل, يقول, يذكر, تقوم -->
+    <feat name="Voice" value="Act" upos="AUX,VERB">20311</feat><!-- قال, كان, كانت, أضاف, تم, أكد, يتم, يكون, يمكن, أشار -->
+    <feat name="Voice" value="Pass" upos="VERB">1219</feat><!-- يذكر, يوجد, قتل, يتوقع, تعد, تعتبر, يعد, أصيب, توجد, يعتبر -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="31">
-    <dep name="acl">5296</dep>
-    <dep name="advcl">1612</dep>
-    <dep name="advmod">3251</dep>
+    <dep name="acl">5294</dep>
+    <dep name="advcl">1607</dep>
+    <dep name="advmod">3252</dep>
     <dep name="advmod:emph">1337</dep>
     <dep name="amod">24373</dep>
     <dep name="appos">1036</dep>
-    <dep name="aux">1700</dep>
+    <dep name="aux">1707</dep>
     <dep name="auxpass">113</dep>
-    <dep name="case">40806</dep>
+    <dep name="case">40789</dep>
     <dep name="cc">21006</dep>
     <dep name="ccomp">3182</dep>
-    <dep name="conj">13351</dep>
-    <dep name="cop">904</dep>
+    <dep name="conj">13352</dep>
+    <dep name="cop">891</dep>
     <dep name="csubj">527</dep>
     <dep name="csubjpass">1</dep>
     <dep name="dep">1568</dep>
@@ -90,16 +90,16 @@
     <dep name="dobj">17783</dep>
     <dep name="foreign">745</dep>
     <dep name="iobj">1644</dep>
-    <dep name="mark">7534</dep>
+    <dep name="mark">7551</dep>
     <dep name="mwe">4</dep>
     <dep name="neg">1275</dep>
-    <dep name="nmod">74123</dep>
+    <dep name="nmod">74133</dep>
     <dep name="nsubj">15750</dep>
     <dep name="nsubjpass">563</dep>
     <dep name="nummod">3712</dep>
     <dep name="parataxis">5499</dep>
     <dep name="punct">22435</dep>
     <dep name="root">7664</dep>
-    <dep name="xcomp">1746</dep>
+    <dep name="xcomp">1747</dep>
   </deps>
 </treebank>
