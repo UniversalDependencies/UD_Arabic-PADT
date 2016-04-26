@@ -40,10 +40,12 @@ Shadi Saleh and Zdeněk Žabokrtský.
 ## Changelog
 
 2016-05-15 v1.3
+  * Unvocalized surface forms are now the main word forms in the FORM column. Fused tokens are shown. Vocalized forms available as MISC attributes.
   * Added lemmas, roots, transliteration and English glosses.
   * The _%_ symbols are now attached as `nmod` instead of `cc`.
   * Chains of auxiliaries have been removed as the negative copula لَيسَ / _laysa_ is now treated as copula and not as auxiliary verb.
   * Fixed adverbs that were attached as nmod; correct: advmod.
+  * Fixed sentence ids.
 
 2015-11-15 v1.2
   * Modified version from HamleDT 3.0
