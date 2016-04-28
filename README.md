@@ -47,6 +47,7 @@ Shadi Saleh and Zdeněk Žabokrtský.
   * Fixed adverbs that were attached as nmod; correct: advmod.
   * Fixed sentence ids.
   * Added the MISC attribute SpaceAfter=No.
+  * Improved conversion of AuxY.
 
 2015-11-15 v1.2
   * Modified version from HamleDT 3.0
