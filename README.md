@@ -39,6 +39,9 @@ Shadi Saleh and Zdeněk Žabokrtský.
 
 ## Changelog
 
+2017-03-01 v2.0
+  * Converted to UD v2 guidelines.
+
 2016-05-15 v1.3
   * Unvocalized surface forms are now the main word forms in the FORM column. Fused tokens are shown. Vocalized forms available as MISC attributes.
   * Added lemmas, roots, transliteration and English glosses.
