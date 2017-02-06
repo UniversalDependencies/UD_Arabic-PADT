@@ -41,6 +41,8 @@ Shadi Saleh and Zdeněk Žabokrtský.
 
 2017-03-01 v2.0
   * Converted to UD v2 guidelines.
+  * Reconsidered PRON vs. DET.
+  * Improved advmod vs. obl distinction.
 
 2016-05-15 v1.3
   * Unvocalized surface forms are now the main word forms in the FORM column. Fused tokens are shown. Vocalized forms available as MISC attributes.
