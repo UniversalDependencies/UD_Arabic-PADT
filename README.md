@@ -43,6 +43,10 @@ Shadi Saleh and Zdeněk Žabokrtský.
   * Converted to UD v2 guidelines.
   * Reconsidered PRON vs. DET.
   * Improved advmod vs. obl distinction.
+  * Changed train-dev-test split to be compatible with UD_Arabic-NYUAD, which in turn follows Diab et al.
+    (Mona Diab, Nizar Habash, Owen Rambow, Ryan Roth. 2013. LDC Arabic treebanks and associated corpora:
+    Data divisions manual. arXiv preprint arXiv:1309.5652.)
+    Some documents appear both in UD_Arabic and in UD_Arabic-NYUAD, and we want these to end up in the same section in both treebanks.
 
 2016-05-15 v1.3
   * Unvocalized surface forms are now the main word forms in the FORM column. Fused tokens are shown. Vocalized forms available as MISC attributes.
