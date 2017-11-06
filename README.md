@@ -1,8 +1,14 @@
-http://universaldependencies.github.io/docs/ar/overview/introduction.html
+# Summary
 
 The Arabic UD treebank is based on the
 [Prague Arabic Dependency Treebank](http://ufal.mff.cuni.cz/padt/) (PADT),
 created at the Charles University in Prague.
+
+
+# Introduction
+
+http://universaldependencies.github.io/docs/ar/overview/introduction.html
+
 The treebank consists of 7,664 sentences (282,384 tokens) and its domain is mainly newswire.
 The annotation is licensed under the terms of
 [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -14,7 +20,7 @@ conversion of PADT data. The conversion procedure has been designed by Dan Zeman
 The main coordinator of the original PADT project was Otakar Smrž.
 
 
-## Acknowledgments
+# Acknowledgments
 
 We wish to thank all of the contributors to the original PADT annotation effort, including
 Otakar Smrž, Jan Hajič, Petr Zemánek, Petr Pajas, Jan Šnaidauf, Emanuel Beška, Jakub Kráčmar,
@@ -37,9 +43,9 @@ Shadi Saleh and Zdeněk Žabokrtský.
   Marrakech, Morocco.
 
 
-## Changelog
+# Changelog
 
-2017-03-01 v2.0
+* 2017-03-01 v2.0
   * Converted to UD v2 guidelines.
   * Reconsidered PRON vs. DET.
   * Improved advmod vs. obl distinction.
@@ -48,7 +54,7 @@ Shadi Saleh and Zdeněk Žabokrtský.
     Data divisions manual. arXiv preprint arXiv:1309.5652.)
     Some documents appear both in UD_Arabic and in UD_Arabic-NYUAD, and we want these to end up in the same section in both treebanks.
 
-2016-05-15 v1.3
+* 2016-05-15 v1.3
   * Unvocalized surface forms are now the main word forms in the FORM column. Fused tokens are shown. Vocalized forms available as MISC attributes.
   * Added lemmas, roots, transliteration and English glosses.
   * The _%_ symbols are now attached as `nmod` instead of `cc`.
@@ -58,16 +64,21 @@ Shadi Saleh and Zdeněk Žabokrtský.
   * Added the MISC attribute SpaceAfter=No.
   * Improved conversion of AuxY.
 
-2015-11-15 v1.2
+* 2015-11-15 v1.2
   * Modified version from HamleDT 3.0
 
 
-=== Machine-readable metadata =================================================
-Documentation status: stub
-Data source: automatic
+=== Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v1.2
 License: CC BY-NC-SA 3.0
+Includes text: yes
 Genre: news
+Lemmas: converted from manual
+UPOS: converted from manual
+XPOS: manual native
+Features: converted from manual
+Relations: converted from manual
 Contributors: Zeman, Daniel; Žabokrtský, Zdeněk; Saleh, Shadi
+Contributing: elsewhere
 Contact: zeman@ufal.mff.cuni.cz
 ===============================================================================
