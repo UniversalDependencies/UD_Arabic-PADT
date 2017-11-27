@@ -48,6 +48,7 @@ Shadi Saleh and Zdeněk Žabokrtský.
 * 2018-05-15 v2.2
   * Prepositional objects are now obl:arg.
   * Fixed relative pronouns that were attached as 'cc' to their antecedents.
+  * Multi-word prepositions annotated with the 'fixed' relation.
 
 * 2017-03-01 v2.0
   * Converted to UD v2 guidelines.
