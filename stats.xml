@@ -86,13 +86,13 @@
     <dep name="csubj">530</dep>
     <dep name="csubj:pass">1</dep>
     <dep name="dep">1547</dep>
-    <dep name="det">2106</dep>
+    <dep name="det">2095</dep>
     <dep name="fixed">869</dep>
     <dep name="flat:foreign">745</dep>
     <dep name="iobj">350</dep>
     <dep name="mark">7639</dep>
     <dep name="nmod">61836</dep>
-    <dep name="nsubj">17831</dep>
+    <dep name="nsubj">17842</dep>
     <dep name="nsubj:pass">769</dep>
     <dep name="nummod">3712</dep>
     <dep name="obj">9422</dep>
