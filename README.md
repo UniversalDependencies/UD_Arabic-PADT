@@ -1,6 +1,6 @@
 # Summary
 
-The Arabic UD treebank is based on the
+The Arabic-PADT UD treebank is based on the
 [Prague Arabic Dependency Treebank](http://ufal.mff.cuni.cz/padt/) (PADT),
 created at the Charles University in Prague.
 
@@ -44,6 +44,14 @@ Shadi Saleh and Zdeněk Žabokrtský.
 
 
 # Changelog
+
+* 2018-04-15 v2.2
+  * Repository renamed from UD_Arabic to UD_Arabic-PADT.
+  * Added enhanced representation of dependencies propagated across coordination.
+    The distinction of shared and private dependents is derived deterministically from the original Prague annotation.
+  * Prepositional objects are now obl:arg.
+  * Fixed relative pronouns that were attached as 'cc' to their antecedents.
+  * Multi-word prepositions annotated with the 'fixed' relation.
 
 * 2017-03-01 v2.0
   * Converted to UD v2 guidelines.
