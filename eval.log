@@ -1,11 +1,11 @@
 Running the following version of tools/evaluate_treebank.pl:
-commit 95f84696ecc537764b7772395d073132bd715b77
+commit 87d374bbd458d29331d76014d05c52eaac32518d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Apr 11 08:54:01 2018 +0200
+Date:   Wed Apr 11 09:21:53 2018 +0200
 Evaluating the following revision of UD_Arabic-PADT:
-commit 1f907156b405d04163fc8bb57ac67f6ca536694f
-Merge: b1cce59 fba94b4
+commit 3620be60e91ed5c43eec13953fff8eb4e7e8ddb4
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed Apr 11 09:13:44 2018 +0200
 Size: counted 282384 of 282384 words (nodes).
 Size: min(0, log((N/1000)**2)) = 11.2865356935804.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,7 +19,7 @@ Features: 212638 out of 282384 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 28 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 0 bugs.
+Udapi: found 25651 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 282384 words.
 Genres: found 1 out of 14 known.
 validate.py --lang ar --max-err=10 UD_Arabic-PADT/ar_padt-ud-dev.conllu
@@ -35,8 +35,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.816946695254345) = 0.209473511603678
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
-(weight=0.307692307692308) * (score{udapi}=1) = 0.307692307692308
+(weight=0.307692307692308) * (score{udapi}=0.0916270043628534) = 0.0281929244193395
 (weight=0.0769230769230769) * (score{udeprels}=0.605405405405405) = 0.0465696465696466
-(TOTAL score=0.801507497755311) * (availability=1) * (validity=1) = 0.801507497755311
-STARS = 4
-UD_Arabic-PADT	0.801507497755311	4
+(TOTAL score=0.522008114482343) * (availability=1) * (validity=1) = 0.522008114482343
+STARS = 2.5
+UD_Arabic-PADT	0.522008114482343	2.5
