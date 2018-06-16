@@ -45,6 +45,10 @@ Shadi Saleh and Zdeněk Žabokrtský.
 
 # Changelog
 
+* 2018-11-15 v2.3
+  * Fixed partial word forms of those multiword tokens where original morphological analysis
+    was not disambiguated but existed.
+
 * 2018-04-15 v2.2
   * Repository renamed from UD_Arabic to UD_Arabic-PADT.
   * Added enhanced representation of dependencies propagated across coordination.
