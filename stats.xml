@@ -95,10 +95,10 @@
     <dep name="flat:foreign">745</dep>
     <dep name="iobj">357</dep>
     <dep name="mark">7581</dep>
-    <dep name="nmod">63502</dep>
+    <dep name="nmod">63507</dep>
     <dep name="nsubj">17837</dep>
     <dep name="nsubj:pass">771</dep>
-    <dep name="nummod">3739</dep>
+    <dep name="nummod">3734</dep>
     <dep name="obj">8272</dep>
     <dep name="obl">14565</dep>
     <dep name="obl:arg">9670</dep>
