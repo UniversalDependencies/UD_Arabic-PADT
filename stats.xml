@@ -76,9 +76,9 @@
   <deps unique="33">
     <dep name="acl">5336</dep>
     <dep name="advcl">1640</dep>
-    <dep name="advmod">2890</dep>
+    <dep name="advmod">2896</dep>
     <dep name="advmod:emph">1191</dep>
-    <dep name="amod">24383</dep>
+    <dep name="amod">24394</dep>
     <dep name="appos">1036</dep>
     <dep name="aux">1671</dep>
     <dep name="aux:pass">110</dep>
@@ -86,7 +86,7 @@
     <dep name="cc">14859</dep>
     <dep name="ccomp">3212</dep>
     <dep name="conj">13139</dep>
-    <dep name="cop">749</dep>
+    <dep name="cop">732</dep>
     <dep name="csubj">534</dep>
     <dep name="csubj:pass">1</dep>
     <dep name="dep">1560</dep>
