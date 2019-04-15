@@ -86,7 +86,7 @@
     <dep name="cc">14987</dep>
     <dep name="ccomp">3212</dep>
     <dep name="conj">13139</dep>
-    <dep name="cop">775</dep>
+    <dep name="cop">749</dep>
     <dep name="csubj">534</dep>
     <dep name="csubj:pass">1</dep>
     <dep name="dep">1560</dep>
@@ -98,7 +98,7 @@
     <dep name="nmod">63502</dep>
     <dep name="nsubj">17837</dep>
     <dep name="nsubj:pass">771</dep>
-    <dep name="nummod">3713</dep>
+    <dep name="nummod">3739</dep>
     <dep name="obj">8272</dep>
     <dep name="obl">14565</dep>
     <dep name="obl:arg">9670</dep>
