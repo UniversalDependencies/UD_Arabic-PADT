@@ -45,6 +45,9 @@ Shadi Saleh and Zdeněk Žabokrtský.
 
 # Changelog
 
+* 2019-05-15 v2.4
+  * Fixed various bugs found by the new UD validator.
+
 * 2018-11-15 v2.3
   * Fixed partial word forms of those multiword tokens where original morphological analysis
     was not disambiguated but existed.

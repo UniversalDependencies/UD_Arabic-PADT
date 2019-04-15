@@ -27,13 +27,13 @@
     <tag name="PART">3854</tag><!-- سَ, لَا, قَد, لَم, إِنَّ, إِلَّا, لَن, سَوفَ, أَمَّا, مَا -->
     <tag name="PRON">10877</tag><!-- هُوَ -->
     <tag name="PROPN">245</tag><!-- بِن, عَبداَللّٰه, عَبداَلعَزِيز, طٰهٰ, بُورسَعِيد, أَبُو, عَبداَلمُنعِم, نَرُوج, أَبُوظَبِي, أَبُورُدَينَة -->
-    <tag name="PUNCT">22450</tag><!-- ., ،, ", -, ), (, /, », «, : -->
-    <tag name="SYM">383</tag><!-- %, +, / -->
+    <tag name="PUNCT">22445</tag><!-- ., ،, ", -, ), (, /, », «, : -->
+    <tag name="SYM">388</tag><!-- %, +, /, < -->
     <tag name="VERB">21116</tag><!-- قَال, كَان, تَمّ, أَكَّد, أَعلَن, أَضَاف, أَشَار, وَصَل, ذَكَر, بَلَغ -->
     <tag name="X">16381</tag><!-- ب, محمد, اف, عبد, مبارك, أَفرِيقِيَا, وَاشِنطُن, شَارُون, سُورِيَا, اَلسَّارس -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="36">
+  <feats unique="37">
     <feat name="Abbr" value="Yes" upos="X">504</feat><!-- ب, د, ف, أ, م, ر, كلم, ت, غ, كجم -->
     <feat name="AdpType" value="Prep" upos="ADP">42555</feat><!-- في, ل, ب, من, على, الى, إلى, عن, فى, مع -->
     <feat name="Aspect" value="Imp" upos="AUX,VERB">10224</feat><!-- يتم, يمكن, يكون, تكون, تصل, يجب, يصل, يقول, يذكر, تقوم -->
@@ -41,6 +41,7 @@
     <feat name="Case" value="Acc" upos="ADJ,ADP,DET,NOUN,NUM,PRON">29086</feat><!-- ه, مع, بين, ها, بعد, خلال, اليوم, مليون, حول, قبل -->
     <feat name="Case" value="Gen" upos="ADJ,ADP,DET,NOUN,NUM,PRON,PROPN">98249</feat><!-- ها, ه, التي, هم, مصر, دولار, هذه, الذي, العراق, هذا -->
     <feat name="Case" value="Nom" upos="ADJ,ADP,DET,NOUN,NUM,PRON">19465</feat><!-- هو, هي, رئيس, وزير, الذي, التي, الدكتور, الحكومة, مصر, الرئيس -->
+    <feat name="ConjType" value="Oper" upos="SYM">5</feat><!-- < -->
     <feat name="Definite" value="Com" upos="ADJ,NUM">45</feat><!-- الثالث, الأولى, الذاتية, السابع, القصيرة, الحادية, الخامسة, الطويلة, المستندي, الاربع -->
     <feat name="Definite" value="Cons" upos="ADJ,NOUN,NUM,PROPN">38093</feat><!-- رئيس, مليون, وزير, كل, غير, مجلس, عام, بعض, يوم, نفس -->
     <feat name="Definite" value="Def" upos="ADJ,NOUN,NUM,PROPN">59523</feat><!-- اليوم, المصرية, الحكومة, المتحدة, العراق, الرئيس, العام, المصري, الماضي, الخارجية -->
@@ -85,7 +86,7 @@
     <dep name="cc">15146</dep>
     <dep name="ccomp">3212</dep>
     <dep name="conj">13139</dep>
-    <dep name="cop">890</dep>
+    <dep name="cop">775</dep>
     <dep name="csubj">534</dep>
     <dep name="csubj:pass">1</dep>
     <dep name="dep">1560</dep>
@@ -94,12 +95,12 @@
     <dep name="flat:foreign">745</dep>
     <dep name="iobj">357</dep>
     <dep name="mark">7634</dep>
-    <dep name="nmod">62851</dep>
+    <dep name="nmod">62931</dep>
     <dep name="nsubj">17837</dep>
     <dep name="nsubj:pass">771</dep>
     <dep name="nummod">3713</dep>
     <dep name="obj">8272</dep>
-    <dep name="obl">14178</dep>
+    <dep name="obl">14213</dep>
     <dep name="obl:arg">9670</dep>
     <dep name="orphan">223</dep>
     <dep name="parataxis">5481</dep>
