@@ -89,7 +89,7 @@
     <dep name="cop">499</dep>
     <dep name="csubj">534</dep>
     <dep name="csubj:pass">1</dep>
-    <dep name="dep">1560</dep>
+    <dep name="dep">1565</dep>
     <dep name="det">2112</dep>
     <dep name="dislocated">203</dep>
     <dep name="fixed">2852</dep>
@@ -105,7 +105,7 @@
     <dep name="obl:arg">9670</dep>
     <dep name="orphan">223</dep>
     <dep name="parataxis">5501</dep>
-    <dep name="punct">22446</dep>
+    <dep name="punct">22441</dep>
     <dep name="root">7664</dep>
     <dep name="xcomp">1931</dep>
   </deps>
