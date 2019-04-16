@@ -18,7 +18,7 @@
     <tag name="ADJ">29351</tag><!-- مِصرِيّ, جَدِيد, آخَر, أَوَّل, إِسرَائِيلِيّ, أَمرِيكِيّ, عَرَبِيّ, مُتَّحِد, فِلَسطِينِيّ, مَاضِي -->
     <tag name="ADP">42555</tag><!-- فِي, لِ, بِ, مِن, عَلَى, إِلَى, عَن, مَعَ, بَينَ, خِلَالَ -->
     <tag name="ADV">1879</tag><!-- هُنَاكَ, أَمسِ, أَيضًا, كَذٰلِكَ, فَقَط, حَتَّى, هُنَا, سِيَّمَا, مَعًا, ثَمَّةَ -->
-    <tag name="AUX">2167</tag><!-- سَ, قَد, كَان, لَيس, سَوفَ, مَا, هَل, إِلَّا, رُبَّمَا, أَ -->
+    <tag name="AUX">2165</tag><!-- سَ, قَد, كَان, لَيس, سَوفَ, مَا, هَل, إِلَّا, رُبَّمَا, أَ -->
     <tag name="CCONJ">25241</tag><!-- وَ, أَنَّ, أَن, إِنَّ, فَ, أَو, كَمَا, حَيثُ, لٰكِنَّ, لِ -->
     <tag name="DET">5896</tag><!-- اَلَّذِي, هٰذَا, مَا, ذٰلِكَ, مَن, كَيفَ, أَينَ, مَاذَا, كَم, مَتَى -->
     <tag name="INTJ">8</tag><!-- مَرحَبًا, بِلَاش, حَيَّ, مَا -->
@@ -30,7 +30,7 @@
     <tag name="PUNCT">22445</tag><!-- ., ،, ", -, ), (, /, », «, : -->
     <tag name="SYM">388</tag><!-- %, +, /, < -->
     <tag name="VERB">21300</tag><!-- قَال, كَان, تَمّ, أَكَّد, أَعلَن, أَضَاف, أَشَار, وَصَل, ذَكَر, بَلَغ -->
-    <tag name="X">16379</tag><!-- ب, محمد, اف, عبد, مبارك, أَفرِيقِيَا, وَاشِنطُن, شَارُون, سُورِيَا, اَلسَّارس -->
+    <tag name="X">16381</tag><!-- ب, محمد, اف, عبد, مبارك, أَفرِيقِيَا, وَاشِنطُن, شَارُون, سُورِيَا, اَلسَّارس -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="37">
@@ -86,7 +86,7 @@
     <dep name="cc">14566</dep>
     <dep name="ccomp">3212</dep>
     <dep name="conj">13139</dep>
-    <dep name="cop">526</dep>
+    <dep name="cop">509</dep>
     <dep name="csubj">534</dep>
     <dep name="csubj:pass">1</dep>
     <dep name="dep">1560</dep>
@@ -96,12 +96,12 @@
     <dep name="flat:foreign">745</dep>
     <dep name="iobj">357</dep>
     <dep name="mark">7473</dep>
-    <dep name="nmod">63791</dep>
+    <dep name="nmod">63800</dep>
     <dep name="nsubj">17837</dep>
     <dep name="nsubj:pass">771</dep>
     <dep name="nummod">3734</dep>
     <dep name="obj">8272</dep>
-    <dep name="obl">14976</dep>
+    <dep name="obl">14984</dep>
     <dep name="obl:arg">9670</dep>
     <dep name="orphan">223</dep>
     <dep name="parataxis">5481</dep>
