@@ -17,7 +17,7 @@
   <tags unique="16">
     <tag name="ADJ">29351</tag><!-- مِصرِيّ, جَدِيد, آخَر, أَوَّل, إِسرَائِيلِيّ, أَمرِيكِيّ, عَرَبِيّ, مُتَّحِد, فِلَسطِينِيّ, مَاضِي -->
     <tag name="ADP">42555</tag><!-- فِي, لِ, بِ, مِن, عَلَى, إِلَى, عَن, مَعَ, بَينَ, خِلَالَ -->
-    <tag name="ADV">1879</tag><!-- هُنَاكَ, أَمسِ, أَيضًا, كَذٰلِكَ, فَقَط, حَتَّى, هُنَا, سِيَّمَا, مَعًا, ثَمَّةَ -->
+    <tag name="ADV">1071</tag><!-- هُنَاكَ, أَمسِ, أَيضًا, كَذٰلِكَ, فَقَط, حَتَّى, هُنَا, سِيَّمَا, مَعًا, ثَمَّةَ -->
     <tag name="AUX">2165</tag><!-- سَ, قَد, كَان, لَيس, سَوفَ, مَا, هَل, إِلَّا, رُبَّمَا, أَ -->
     <tag name="CCONJ">25241</tag><!-- وَ, أَنَّ, أَن, إِنَّ, فَ, أَو, كَمَا, حَيثُ, لٰكِنَّ, لِ -->
     <tag name="DET">5896</tag><!-- اَلَّذِي, هٰذَا, مَا, ذٰلِكَ, مَن, كَيفَ, أَينَ, مَاذَا, كَم, مَتَى -->
@@ -30,7 +30,7 @@
     <tag name="PUNCT">22445</tag><!-- ., ،, ", -, ), (, /, », «, : -->
     <tag name="SYM">388</tag><!-- %, +, /, < -->
     <tag name="VERB">21300</tag><!-- قَال, كَان, تَمّ, أَكَّد, أَعلَن, أَضَاف, أَشَار, وَصَل, ذَكَر, بَلَغ -->
-    <tag name="X">16381</tag><!-- ب, محمد, اف, عبد, مبارك, أَفرِيقِيَا, وَاشِنطُن, شَارُون, سُورِيَا, اَلسَّارس -->
+    <tag name="X">17189</tag><!-- ب, محمد, اف, وَاشِنطُن, عبد, أَفرِيقِيَا, مبارك, سُورِيَا, شَارُون, اَلسَّارس -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="37">
@@ -46,7 +46,7 @@
     <feat name="Definite" value="Cons" upos="ADJ,NOUN,NUM,PROPN">38093</feat><!-- رئيس, مليون, وزير, كل, غير, مجلس, عام, بعض, يوم, نفس -->
     <feat name="Definite" value="Def" upos="ADJ,NOUN,NUM,PROPN">59523</feat><!-- اليوم, المصرية, الحكومة, المتحدة, العراق, الرئيس, العام, المصري, الماضي, الخارجية -->
     <feat name="Definite" value="Ind" upos="ADJ,NOUN,NUM">27596</feat><!-- مصر, دولار, جنيه, مايو, إسرائيل, جديدة, خاصة, عدد, أخرى, لبنان -->
-    <feat name="Foreign" value="Yes" upos="ADV,X">5097</feat><!-- واشنطن, سوريا, شارون, السارس, أفريقيا, روسيا, فرنسا, باول, تركيا, بوش -->
+    <feat name="Foreign" value="Yes" upos="X">5097</feat><!-- واشنطن, سوريا, شارون, السارس, أفريقيا, روسيا, فرنسا, باول, تركيا, بوش -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">29136</feat><!-- ها, التي, هذه, المصرية, المتحدة, كانت, هي, العربية, جديدة, الدولية -->
     <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,VERB">38293</feat><!-- ه, هم, قال, الذي, هذا, كان, هو, نا, المصري, الماضي -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">54</feat><!-- حاول, د, دعوا, حث, ابحث, احرص, اخدموا, افتحوا, اكسون, انتبه -->
@@ -76,13 +76,13 @@
   <deps unique="35">
     <dep name="acl">5336</dep>
     <dep name="advcl">1644</dep>
-    <dep name="advmod">2914</dep>
+    <dep name="advmod">2106</dep>
     <dep name="advmod:emph">1172</dep>
     <dep name="amod">24421</dep>
     <dep name="appos">833</dep>
-    <dep name="aux">1592</dep>
+    <dep name="aux">1593</dep>
     <dep name="aux:pass">110</dep>
-    <dep name="case">40295</dep>
+    <dep name="case">40294</dep>
     <dep name="cc">14524</dep>
     <dep name="ccomp">3212</dep>
     <dep name="conj">13139</dep>
@@ -96,17 +96,17 @@
     <dep name="fixed">2852</dep>
     <dep name="flat:foreign">745</dep>
     <dep name="iobj">357</dep>
-    <dep name="mark">7475</dep>
+    <dep name="mark">7476</dep>
     <dep name="nmod">63816</dep>
     <dep name="nsubj">17837</dep>
     <dep name="nsubj:pass">771</dep>
     <dep name="nummod">3743</dep>
     <dep name="obj">8272</dep>
-    <dep name="obl">15010</dep>
+    <dep name="obl">15818</dep>
     <dep name="obl:arg">9670</dep>
     <dep name="orphan">223</dep>
     <dep name="parataxis">5503</dep>
-    <dep name="punct">22440</dep>
+    <dep name="punct">22439</dep>
     <dep name="root">7664</dep>
     <dep name="xcomp">1931</dep>
   </deps>
