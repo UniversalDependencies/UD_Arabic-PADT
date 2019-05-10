@@ -6,31 +6,34 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>7664</sentences><tokens>242056</tokens><words>282384</words><fused>38333</fused></total>
+    <train><sentences>6075</sentences><tokens>191869</tokens><words>223881</words><fused>30459</fused></train>
+    <dev><sentences>909</sentences><tokens>25986</tokens><words>30239</words><fused>4010</fused></dev>
+    <test><sentences>680</sentences><tokens>24201</tokens><words>28264</words><fused>3864</fused></test>
   </size>
-  <lemmas unique="15302" /><!-- وَ, هُوَ, فِي, ., لِ, بِ, مِن, ،, ", عَلَى, أَنَّ, إِلَى, اَلَّذِي, هٰذَا, كَان -->
+  <lemmas unique="15302" /><!-- وَ, هُوَ, فِي, ., لِ, بِ, مِن, ،, ", عَلَى, أَنَّ, إِلَى, اَلَّذِي, هٰذَا, كَان -->
   <forms unique="24904" /><!-- و, ., في, ل, ب, من, ،, ه, ", ها, على, أن, ان, الى, إلى -->
   <fusions unique="13846" /><!-- وقال, انه, أنه, ومن, فيها, وقد, وفي, وكان, وهو, بها, فيه, واضاف, لها, ولا, بما -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">29351</tag><!-- مِصرِيّ, جَدِيد, آخَر, أَوَّل, إِسرَائِيلِيّ, أَمرِيكِيّ, عَرَبِيّ, مُتَّحِد, فِلَسطِينِيّ, مَاضِي -->
+    <tag name="ADJ">29351</tag><!-- مِصرِيّ, جَدِيد, آخَر, أَوَّل, إِسرَائِيلِيّ, أَمرِيكِيّ, عَرَبِيّ, مُتَّحِد, فِلَسطِينِيّ, مَاضِي -->
     <tag name="ADP">42555</tag><!-- فِي, لِ, بِ, مِن, عَلَى, إِلَى, عَن, مَعَ, بَينَ, خِلَالَ -->
-    <tag name="ADV">1049</tag><!-- هُنَاكَ, أَمسِ, أَيضًا, كَذٰلِكَ, فَقَط, حَتَّى, هُنَا, سِيَّمَا, مَعًا, ثَمَّةَ -->
-    <tag name="AUX">685</tag><!-- كَان, لَيس, عَدّ, اِعتَبَر, زَال, قَال, ظَلّ, أَصبَح, عَاد, أَعلَن -->
-    <tag name="CCONJ">25241</tag><!-- وَ, أَنَّ, أَن, إِنَّ, فَ, أَو, كَمَا, حَيثُ, لٰكِنَّ, لِ -->
-    <tag name="DET">5896</tag><!-- اَلَّذِي, هٰذَا, مَا, ذٰلِكَ, مَن, كَيفَ, أَينَ, مَاذَا, كَم, مَتَى -->
-    <tag name="INTJ">8</tag><!-- مَرحَبًا, بِلَاش, حَيَّ, مَا -->
+    <tag name="ADV">1071</tag><!-- هُنَاكَ, أَمسِ, أَيضًا, كَذٰلِكَ, فَقَط, حَتَّى, هُنَا, سِيَّمَا, مَعًا, ثَمَّةَ -->
+    <tag name="AUX">2165</tag><!-- سَ, قَد, كَان, لَيس, سَوفَ, مَا, هَل, إِلَّا, رُبَّمَا, أَ -->
+    <tag name="CCONJ">25241</tag><!-- وَ, أَنَّ, أَن, إِنَّ, فَ, أَو, كَمَا, حَيثُ, لٰكِنَّ, لِ -->
+    <tag name="DET">5896</tag><!-- اَلَّذِي, هٰذَا, مَا, ذٰلِكَ, مَن, كَيفَ, أَينَ, مَاذَا, كَم, مَتَى -->
+    <tag name="INTJ">8</tag><!-- مَرحَبًا, بِلَاش, حَيَّ, مَا -->
     <tag name="NOUN">93705</tag><!-- يَوم, رَئِيس, دَولَة, وَزِير, شَرِكَة, مِصر, عَام, دُولَار, حُكُومَة, مِنطَقَة -->
     <tag name="NUM">7758</tag><!-- مِليُون, أَلف, 15, 3, ثَلَاثَة, مِليَار, 6, 2, 8, 7 -->
-    <tag name="PART">3854</tag><!-- سَ, لَا, قَد, لَم, إِنَّ, إِلَّا, لَن, سَوفَ, أَمَّا, مَا -->
+    <tag name="PART">2190</tag><!-- لَا, لَم, إِنَّ, لَن, إِلَّا, قَد, أَمَّا, اَل, هَل, رُبَّمَا -->
     <tag name="PRON">10877</tag><!-- هُوَ -->
     <tag name="PROPN">245</tag><!-- بِن, عَبداَللّٰه, عَبداَلعَزِيز, طٰهٰ, بُورسَعِيد, أَبُو, عَبداَلمُنعِم, نَرُوج, أَبُوظَبِي, أَبُورُدَينَة -->
-    <tag name="PUNCT">22450</tag><!-- ., ،, ", -, ), (, /, », «, : -->
-    <tag name="SYM">383</tag><!-- %, +, / -->
-    <tag name="VERB">21116</tag><!-- قَال, كَان, تَمّ, أَكَّد, أَعلَن, أَضَاف, أَشَار, وَصَل, ذَكَر, بَلَغ -->
-    <tag name="X">17211</tag><!-- ب, محمد, اف, وَاشِنطُن, عبد, أَفرِيقِيَا, مبارك, سُورِيَا, شَارُون, اَلسَّارس -->
+    <tag name="PUNCT">22445</tag><!-- ., ،, ", -, ), (, /, », «, : -->
+    <tag name="SYM">388</tag><!-- %, +, /, < -->
+    <tag name="VERB">21300</tag><!-- قَال, كَان, تَمّ, أَكَّد, أَعلَن, أَضَاف, أَشَار, وَصَل, ذَكَر, بَلَغ -->
+    <tag name="X">17189</tag><!-- ب, محمد, اف, وَاشِنطُن, عبد, أَفرِيقِيَا, مبارك, سُورِيَا, شَارُون, اَلسَّارس -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="36">
+  <feats unique="37">
     <feat name="Abbr" value="Yes" upos="X">504</feat><!-- ب, د, ف, أ, م, ر, كلم, ت, غ, كجم -->
     <feat name="AdpType" value="Prep" upos="ADP">42555</feat><!-- في, ل, ب, من, على, الى, إلى, عن, فى, مع -->
     <feat name="Aspect" value="Imp" upos="AUX,VERB">10224</feat><!-- يتم, يمكن, يكون, تكون, تصل, يجب, يصل, يقول, يذكر, تقوم -->
@@ -38,6 +41,7 @@
     <feat name="Case" value="Acc" upos="ADJ,ADP,DET,NOUN,NUM,PRON">29086</feat><!-- ه, مع, بين, ها, بعد, خلال, اليوم, مليون, حول, قبل -->
     <feat name="Case" value="Gen" upos="ADJ,ADP,DET,NOUN,NUM,PRON,PROPN">98249</feat><!-- ها, ه, التي, هم, مصر, دولار, هذه, الذي, العراق, هذا -->
     <feat name="Case" value="Nom" upos="ADJ,ADP,DET,NOUN,NUM,PRON">19465</feat><!-- هو, هي, رئيس, وزير, الذي, التي, الدكتور, الحكومة, مصر, الرئيس -->
+    <feat name="ConjType" value="Oper" upos="SYM">5</feat><!-- < -->
     <feat name="Definite" value="Com" upos="ADJ,NUM">45</feat><!-- الثالث, الأولى, الذاتية, السابع, القصيرة, الحادية, الخامسة, الطويلة, المستندي, الاربع -->
     <feat name="Definite" value="Cons" upos="ADJ,NOUN,NUM,PROPN">38093</feat><!-- رئيس, مليون, وزير, كل, غير, مجلس, عام, بعض, يوم, نفس -->
     <feat name="Definite" value="Def" upos="ADJ,NOUN,NUM,PROPN">59523</feat><!-- اليوم, المصرية, الحكومة, المتحدة, العراق, الرئيس, العام, المصري, الماضي, الخارجية -->
@@ -66,42 +70,44 @@
     <feat name="PronType" value="Rel" upos="DET">2537</feat><!-- التي, الذي, الذين, التى, الذى, اللذين, اللتين, اللواتي, ما, اللتان -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">10278</feat><!-- يتم, يمكن, يكون, تكون, تصل, يجب, يصل, يقول, يذكر, تقوم -->
     <feat name="Voice" value="Act" upos="AUX,VERB">20523</feat><!-- قال, كان, كانت, أضاف, تم, أكد, يتم, يمكن, يكون, أشار -->
-    <feat name="Voice" value="Pass" upos="AUX,VERB">1224</feat><!-- يذكر, يوجد, قتل, يتوقع, تعد, تعتبر, يعد, أصيب, توجد, يعتبر -->
+    <feat name="Voice" value="Pass" upos="VERB">1224</feat><!-- يذكر, يوجد, قتل, يتوقع, تعد, تعتبر, يعد, أصيب, توجد, يعتبر -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="33">
+  <deps unique="35">
     <dep name="acl">5336</dep>
-    <dep name="advcl">1640</dep>
-    <dep name="advmod">2968</dep>
-    <dep name="advmod:emph">1337</dep>
-    <dep name="amod">24383</dep>
-    <dep name="appos">1036</dep>
-    <dep name="aux">1706</dep>
-    <dep name="aux:pass">113</dep>
-    <dep name="case">40874</dep>
-    <dep name="cc">15146</dep>
+    <dep name="advcl">1644</dep>
+    <dep name="advmod">2106</dep>
+    <dep name="advmod:emph">1172</dep>
+    <dep name="amod">24421</dep>
+    <dep name="appos">833</dep>
+    <dep name="aux">1593</dep>
+    <dep name="aux:pass">110</dep>
+    <dep name="case">40294</dep>
+    <dep name="cc">14524</dep>
     <dep name="ccomp">3212</dep>
     <dep name="conj">13139</dep>
-    <dep name="cop">891</dep>
-    <dep name="csubj">537</dep>
+    <dep name="cop">465</dep>
+    <dep name="csubj">534</dep>
     <dep name="csubj:pass">1</dep>
-    <dep name="dep">1547</dep>
-    <dep name="det">2112</dep>
+    <dep name="dep">1565</dep>
+    <dep name="det">2114</dep>
+    <dep name="discourse">1</dep>
+    <dep name="dislocated">203</dep>
     <dep name="fixed">2852</dep>
     <dep name="flat:foreign">745</dep>
     <dep name="iobj">357</dep>
-    <dep name="mark">7634</dep>
-    <dep name="nmod">61768</dep>
-    <dep name="nsubj">17847</dep>
+    <dep name="mark">7476</dep>
+    <dep name="nmod">63816</dep>
+    <dep name="nsubj">17837</dep>
     <dep name="nsubj:pass">771</dep>
-    <dep name="nummod">3713</dep>
-    <dep name="obj">9355</dep>
-    <dep name="obl">14133</dep>
+    <dep name="nummod">3743</dep>
+    <dep name="obj">8272</dep>
+    <dep name="obl">15818</dep>
     <dep name="obl:arg">9670</dep>
     <dep name="orphan">223</dep>
-    <dep name="parataxis">5481</dep>
-    <dep name="punct">22446</dep>
+    <dep name="parataxis">5503</dep>
+    <dep name="punct">22439</dep>
     <dep name="root">7664</dep>
-    <dep name="xcomp">1747</dep>
+    <dep name="xcomp">1931</dep>
   </deps>
 </treebank>
