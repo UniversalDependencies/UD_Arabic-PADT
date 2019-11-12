@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Arabic-PADT:
-commit 5a83383e527f4880db9200e0ca667b90af6cba61
-Merge: 8fd19b6 2ebffb9
+commit 8e65280e7e2ec838fb600686d7976d43b07850d8
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri May 10 20:55:23 2019 +0200
 Size: counted 282384 of 282384 words (nodes).
 Size: min(0, log((N/1000)**2)) = 11.2865356935804.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -27,8 +27,14 @@ validate.py --lang ar --max-err=10 UD_Arabic-PADT/ar_padt-ud-dev.conllu
 validate.py --lang ar --max-err=10 UD_Arabic-PADT/ar_padt-ud-test.conllu
 *** PASSED ***
 validate.py --lang ar --max-err=10 UD_Arabic-PADT/ar_padt-ud-train.conllu
-*** PASSED ***
-Validity: 1
+[Line 34137 Sent afp.20000815.0110:p5u1 Node 6]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'PUNCT'
+[Line 34137 Sent afp.20000815.0110:p5u1 Node 6]: [L3 Syntax upos-rel-punct] 'PUNCT' must be 'punct' but it is 'cop'
+[Line 34137 Sent afp.20000815.0110:p5u1 Node 6]: [L5 Syntax cop-lemma] '"' is not a copula in language [ar]
+[Line 175678 Sent ummah.20040726.0018:p9u1 Node 27]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [18, 19, 20]
+Syntax errors: 4
+*** FAILED *** with 4 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
 (weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
@@ -37,6 +43,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
 (weight=0.307692307692308) * (score{udapi}=0.209480707122217) = 0.0644556021914513
 (weight=0.0769230769230769) * (score{udeprels}=0.648648648648649) = 0.0498960498960499
-(TOTAL score=0.560627576964181) * (availability=1) * (validity=1) = 0.560627576964181
-STARS = 3
-UD_Arabic-PADT	0.560627576964181	3
+(TOTAL score=0.560627576964181) * (availability=1) * (validity=0.01) = 0.00560627576964181
+STARS = 0
+UD_Arabic-PADT	0.00560627576964181	0
