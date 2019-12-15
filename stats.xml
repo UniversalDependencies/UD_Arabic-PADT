@@ -73,8 +73,9 @@
     <feat name="Voice" value="Pass" upos="VERB">1224</feat><!-- يذكر, يوجد, قتل, يتوقع, تعد, تعتبر, يعد, أصيب, توجد, يعتبر -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="35">
-    <dep name="acl">5336</dep>
+  <deps unique="36">
+    <dep name="acl">3127</dep>
+    <dep name="acl:relcl">2209</dep>
     <dep name="advcl">1646</dep>
     <dep name="advmod">2104</dep>
     <dep name="advmod:emph">1224</dep>
