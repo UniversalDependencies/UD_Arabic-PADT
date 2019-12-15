@@ -66,6 +66,7 @@ Shadi Saleh and Zdeněk Žabokrtský.
   * Added enhanced relations with case information.
   * Added empty nodes to enhanced graphs (but orphans are just converted to dep).
   * Added enhanced relations around relative clauses.
+  * Distinguishing SCONJ from CCONJ.
 
 * 2019-05-15 v2.4
   * Fixed various bugs found by the new UD validator.
