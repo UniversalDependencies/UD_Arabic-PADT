@@ -17,7 +17,7 @@
   <tags unique="17">
     <tag name="ADJ">29351</tag><!-- مِصرِيّ, جَدِيد, آخَر, أَوَّل, إِسرَائِيلِيّ, أَمرِيكِيّ, عَرَبِيّ, مُتَّحِد, فِلَسطِينِيّ, مَاضِي -->
     <tag name="ADP">42555</tag><!-- فِي, لِ, بِ, مِن, عَلَى, إِلَى, عَن, مَعَ, بَينَ, خِلَالَ -->
-    <tag name="ADV">1075</tag><!-- هُنَاكَ, أَمسِ, أَيضًا, كَذٰلِكَ, فَقَط, حَتَّى, هُنَا, سِيَّمَا, مَعًا, ثَمَّةَ -->
+    <tag name="ADV">1092</tag><!-- هُنَاكَ, أَمسِ, أَيضًا, كَذٰلِكَ, فَقَط, حَتَّى, هُنَا, سِيَّمَا, مَعًا, ثَمَّةَ -->
     <tag name="AUX">2154</tag><!-- سَ, قَد, كَان, لَيس, سَوفَ, مَا, هَل, رُبَّمَا, أَ, عَاد -->
     <tag name="CCONJ">19784</tag><!-- وَ, فَ, أَو, كَمَا, حَيثُ, لٰكِنَّ, لِ, إِذَا, لِأَنَّ, مِمَّا -->
     <tag name="DET">5896</tag><!-- اَلَّذِي, هٰذَا, مَا, ذٰلِكَ, مَن, كَيفَ, أَينَ, مَاذَا, كَم, مَتَى -->
@@ -31,7 +31,7 @@
     <tag name="SCONJ">5457</tag><!-- أَنَّ, أَن, إِنَّ, إِن -->
     <tag name="SYM">388</tag><!-- %, +, /, < -->
     <tag name="VERB">21296</tag><!-- قَال, كَان, تَمّ, أَكَّد, أَعلَن, أَضَاف, أَشَار, وَصَل, ذَكَر, بَلَغ -->
-    <tag name="X">17185</tag><!-- ب, محمد, اف, وَاشِنطُن, عبد, أَفرِيقِيَا, مبارك, سُورِيَا, شَارُون, اَلسَّارس -->
+    <tag name="X">17168</tag><!-- ب, محمد, اف, وَاشِنطُن, عبد, أَفرِيقِيَا, مبارك, سُورِيَا, شَارُون, اَلسَّارس -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="37">
@@ -75,17 +75,17 @@
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="36">
-    <dep name="acl">3132</dep>
+    <dep name="acl">3134</dep>
     <dep name="acl:relcl">2203</dep>
-    <dep name="advcl">1645</dep>
-    <dep name="advmod">2098</dep>
+    <dep name="advcl">1695</dep>
+    <dep name="advmod">2179</dep>
     <dep name="advmod:emph">1037</dep>
     <dep name="amod">24421</dep>
-    <dep name="appos">831</dep>
+    <dep name="appos">822</dep>
     <dep name="aux">1584</dep>
     <dep name="aux:pass">110</dep>
-    <dep name="case">40351</dep>
-    <dep name="cc">14524</dep>
+    <dep name="case">40339</dep>
+    <dep name="cc">14442</dep>
     <dep name="ccomp">3212</dep>
     <dep name="conj">13139</dep>
     <dep name="cop">462</dep>
@@ -95,21 +95,21 @@
     <dep name="det">2150</dep>
     <dep name="discourse">1</dep>
     <dep name="dislocated">203</dep>
-    <dep name="fixed">2704</dep>
+    <dep name="fixed">2705</dep>
     <dep name="flat:foreign">745</dep>
     <dep name="iobj">353</dep>
-    <dep name="mark">7630</dep>
-    <dep name="nmod">63062</dep>
-    <dep name="nsubj">17836</dep>
-    <dep name="nsubj:pass">772</dep>
+    <dep name="mark">7642</dep>
+    <dep name="nmod">63065</dep>
+    <dep name="nsubj">17834</dep>
+    <dep name="nsubj:pass">775</dep>
     <dep name="nummod">3743</dep>
-    <dep name="obj">8224</dep>
-    <dep name="obl">15888</dep>
+    <dep name="obj">8225</dep>
+    <dep name="obl">15893</dep>
     <dep name="obl:arg">10461</dep>
     <dep name="orphan">223</dep>
-    <dep name="parataxis">5504</dep>
+    <dep name="parataxis">5452</dep>
     <dep name="punct">22440</dep>
     <dep name="root">7664</dep>
-    <dep name="xcomp">1931</dep>
+    <dep name="xcomp">1930</dep>
   </deps>
 </treebank>
