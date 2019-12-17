@@ -81,10 +81,10 @@
     <dep name="advmod">2098</dep>
     <dep name="advmod:emph">1037</dep>
     <dep name="amod">24421</dep>
-    <dep name="appos">833</dep>
+    <dep name="appos">831</dep>
     <dep name="aux">1584</dep>
     <dep name="aux:pass">110</dep>
-    <dep name="case">40354</dep>
+    <dep name="case">40351</dep>
     <dep name="cc">14524</dep>
     <dep name="ccomp">3212</dep>
     <dep name="conj">13139</dep>
@@ -98,10 +98,10 @@
     <dep name="fixed">2704</dep>
     <dep name="flat:foreign">745</dep>
     <dep name="iobj">353</dep>
-    <dep name="mark">7627</dep>
-    <dep name="nmod">63060</dep>
-    <dep name="nsubj">17837</dep>
-    <dep name="nsubj:pass">771</dep>
+    <dep name="mark">7630</dep>
+    <dep name="nmod">63062</dep>
+    <dep name="nsubj">17836</dep>
+    <dep name="nsubj:pass">772</dep>
     <dep name="nummod">3743</dep>
     <dep name="obj">8224</dep>
     <dep name="obl">15888</dep>
