@@ -62,6 +62,9 @@ Shadi Saleh and Zdeněk Žabokrtský.
 
 # Changelog
 
+* 2021-05-15 v2.8
+  * Fixed order of multi-word lemmas in enhanced deprels.
+
 * 2020-05-15 v2.6
   * Added enhanced relations with case information.
   * Added empty nodes to enhanced graphs (but orphans are just converted to dep).
