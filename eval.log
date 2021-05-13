@@ -1,11 +1,11 @@
-Running the following version of tools/evaluate_treebank.pl:
-commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
+Running the following version of UD tools:
+commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Apr 21 19:02:58 2018 +0200
+Date:   Thu May 6 20:16:19 2021 +0200
 Evaluating the following revision of UD_Arabic-PADT:
-commit b24e3f871d1736b02cd0672bb4d7df86c2be56ab
+commit 7e1f46fa8e9d2c2361f5192a4e7437d0a61c845c
+Merge: 0d8db1c b930881
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 10 17:36:54 2020 +0200
 Size: counted 282384 of 282384 words (nodes).
 Size: min(0, log((N/1000)**2)) = 11.2865356935804.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,7 +19,9 @@ Features: 216347 out of 282384 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 22399 bugs.
+Udapi:
+               TOTAL      22397
+Udapi: found 22397 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 282384 words.
 Genres: found 1 out of 17 known.
 validate.py --lang ar --max-err=10 UD_Arabic-PADT/ar_padt-ud-dev.conllu
@@ -35,8 +37,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.816946695254345) = 0.209473511603678
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.8) = 0.0615384615384615
-(weight=0.307692307692308) * (score{udapi}=0.206789336506318) = 0.0636274881557901
+(weight=0.307692307692308) * (score{udapi}=0.206860162048841) = 0.0636492806304127
 (weight=0.0769230769230769) * (score{udeprels}=0.648648648648649) = 0.0498960498960499
-(TOTAL score=0.563419372430782) * (availability=1) * (validity=1) = 0.563419372430782
+(TOTAL score=0.563441164905405) * (availability=1) * (validity=1) = 0.563441164905405
 STARS = 3
-UD_Arabic-PADT	0.563419372430782	3
+UD_Arabic-PADT	0.563441164905405	3
