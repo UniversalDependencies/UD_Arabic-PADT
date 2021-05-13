@@ -88,7 +88,7 @@
     <dep name="cc">14442</dep>
     <dep name="ccomp">3212</dep>
     <dep name="conj">13139</dep>
-    <dep name="cop">462</dep>
+    <dep name="cop">460</dep>
     <dep name="csubj">534</dep>
     <dep name="csubj:pass">1</dep>
     <dep name="dep">1566</dep>
@@ -99,8 +99,8 @@
     <dep name="flat:foreign">745</dep>
     <dep name="iobj">353</dep>
     <dep name="mark">7642</dep>
-    <dep name="nmod">63065</dep>
-    <dep name="nsubj">17834</dep>
+    <dep name="nmod">63068</dep>
+    <dep name="nsubj">17833</dep>
     <dep name="nsubj:pass">775</dep>
     <dep name="nummod">3743</dep>
     <dep name="obj">8225</dep>
