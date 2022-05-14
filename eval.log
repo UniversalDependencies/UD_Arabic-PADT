@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 2 22:17:19 2021 +0100
+commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
+Author: www-data (nschneid) <nschneid@github.com>
+Date:   Wed May 11 05:10:30 2022 +0200
 Evaluating the following revision of UD_Arabic-PADT:
-commit 71d9a389ba4de9153b00b6ae4cddbcfb117eb64e
+commit ce29b6f892484af196d69e41077e48edd0e0887a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 13 08:51:13 2021 +0200
+Date:   Wed Nov 3 15:54:34 2021 +0100
 Size: counted 282384 of 282384 words (nodes).
 Size: min(0, log((N/1000)**2)) = 11.2865356935804.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,12 +25,63 @@ Udapi: found 22397 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 282384 words.
 Genres: found 1 out of 17 known.
 validate.py --lang ar --max-err=10 UD_Arabic-PADT/ar_padt-ud-dev.conllu
-*** PASSED ***
+[Line 10 Sent afp.20000715.0001:p1u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '4:nmod:gen'
+
+The following 54 enhanced relations are currently permitted in language [ar]:
+acl, acl:relcl, advcl, advmod, advmod:emph, amod, appos, aux, aux:pass, case, cc, cc:preconj, ccomp, clf, compound, compound:prt, conj, cop, csubj, csubj:pass, csubj:pass:xsubj, csubj:xsubj, dep, det, discourse, dislocated, expl, fixed, flat, flat:foreign, flat:name, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:pass, nsubj:pass:xsubj, nsubj:xsubj, nummod, obj, obl, obl:arg, obl:tmod, orphan, parataxis, punct, ref, reparandum, root, vocative, xcomp
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_edeprel.pl for details.
+
+[Line 35 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '15:nmod:gen'
+[Line 38 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:فِي:gen' in '17:obl:فِي:gen'
+[Line 43 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'advcl:عِندَمَا' in '17:advcl:عِندَمَا'
+[Line 46 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:عَلَى:gen' in '24:obl:arg:عَلَى:gen'
+[Line 49 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '27:nmod:gen'
+[Line 51 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:بَعدَ:gen' in '24:obl:بَعدَ:gen'
+[Line 55 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'advcl:لِ' in '24:advcl:لِ'
+[Line 64 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '40:nmod:gen'
+...suppressing further errors regarding Enhanced
+Enhanced errors: 8955
+*** FAILED *** with 8955 errors
+Exit code: 1
 validate.py --lang ar --max-err=10 UD_Arabic-PADT/ar_padt-ud-test.conllu
-*** PASSED ***
+[Line 13 Sent assabah.20041005.0017:p1u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '7:nmod:gen'
+
+The following 54 enhanced relations are currently permitted in language [ar]:
+acl, acl:relcl, advcl, advmod, advmod:emph, amod, appos, aux, aux:pass, case, cc, cc:preconj, ccomp, clf, compound, compound:prt, conj, cop, csubj, csubj:pass, csubj:pass:xsubj, csubj:xsubj, dep, det, discourse, dislocated, expl, fixed, flat, flat:foreign, flat:name, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:pass, nsubj:pass:xsubj, nsubj:xsubj, nummod, obj, obl, obl:arg, obl:tmod, orphan, parataxis, punct, ref, reparandum, root, vocative, xcomp
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_edeprel.pl for details.
+
+[Line 22 Sent assabah.20041005.0017:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '3:nmod:gen'
+[Line 25 Sent assabah.20041005.0017:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'advcl:فِي_حِينَ' in '1:advcl:فِي_حِينَ'
+[Line 37 Sent assabah.20041005.0017:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:بِ_مُوجِب:gen' in '15:nmod:بِ_مُوجِب:gen'
+[Line 39 Sent assabah.20041005.0017:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '19:nmod:gen'
+[Line 46 Sent assabah.20041005.0017:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:عَن:gen' in '19:nmod:عَن:gen'
+[Line 47 Sent assabah.20041005.0017:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '25:nmod:gen'
+[Line 57 Sent assabah.20041005.0017:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:لِ:gen' in '33:nmod:لِ:gen'
+[Line 72 Sent assabah.20041005.0017:p3u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:acc' in '6:nmod:acc'
+...suppressing further errors regarding Enhanced
+Enhanced errors: 9025
+*** FAILED *** with 9025 errors
+Exit code: 1
 validate.py --lang ar --max-err=10 UD_Arabic-PADT/ar_padt-ud-train.conllu
-*** PASSED ***
-Validity: 1
+[Line 9 Sent afp.20000715.0075:p1u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '3:nmod:gen'
+
+The following 54 enhanced relations are currently permitted in language [ar]:
+acl, acl:relcl, advcl, advmod, advmod:emph, amod, appos, aux, aux:pass, case, cc, cc:preconj, ccomp, clf, compound, compound:prt, conj, cop, csubj, csubj:pass, csubj:pass:xsubj, csubj:xsubj, dep, det, discourse, dislocated, expl, fixed, flat, flat:foreign, flat:name, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:pass, nsubj:pass:xsubj, nsubj:xsubj, nummod, obj, obl, obl:arg, obl:tmod, orphan, parataxis, punct, ref, reparandum, root, vocative, xcomp
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_edeprel.pl for details.
+
+[Line 12 Sent afp.20000715.0075:p1u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:عَلَى:gen' in '3:obl:arg:عَلَى:gen'
+[Line 13 Sent afp.20000715.0075:p1u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '7:nmod:gen'
+[Line 14 Sent afp.20000715.0075:p1u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '8:nmod:gen'
+[Line 35 Sent afp.20000715.0075:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '11:nmod:gen'
+[Line 44 Sent afp.20000715.0075:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:فِي:gen' in '10:obl:فِي:gen'
+[Line 45 Sent afp.20000715.0075:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '20:nmod:gen'
+[Line 47 Sent afp.20000715.0075:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:acc' in '22:obl:acc'
+[Line 55 Sent afp.20000715.0075:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '30:nmod:gen'
+...suppressing further errors regarding Enhanced
+Enhanced errors: 69841
+*** FAILED *** with 69841 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
 (weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
@@ -39,6 +90,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.8) = 0.0615384615384615
 (weight=0.307692307692308) * (score{udapi}=0.206860162048841) = 0.0636492806304127
 (weight=0.0769230769230769) * (score{udeprels}=0.648648648648649) = 0.0498960498960499
-(TOTAL score=0.563441164905405) * (availability=1) * (validity=1) = 0.563441164905405
-STARS = 3
-UD_Arabic-PADT	0.563441164905405	3
+(TOTAL score=0.563441164905405) * (availability=1) * (validity=0.01) = 0.00563441164905405
+STARS = 0
+UD_Arabic-PADT	0.00563441164905405	0
