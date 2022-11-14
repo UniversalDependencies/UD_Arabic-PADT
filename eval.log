@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
-Author: www-data (nschneid) <nschneid@github.com>
-Date:   Wed May 11 05:10:30 2022 +0200
-Evaluating the following revision of UD_Arabic-PADT:
-commit ce29b6f892484af196d69e41077e48edd0e0887a
+commit 13e6b709a8bc643c3f902800321a7beda46feb8d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Nov 3 15:54:34 2021 +0100
+Date:   Sun Nov 13 22:03:41 2022 +0100
+Evaluating the following revision of UD_Arabic-PADT:
+commit 05706d59d6d3c5197b3bd7e3123fd9fd04911d5d
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sat May 14 13:38:23 2022 +0200
 Size: counted 282384 of 282384 words (nodes).
 Size: min(0, log((N/1000)**2)) = 11.2865356935804.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -40,8 +40,19 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 55 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'advcl:لِ' in '24:advcl:لِ'
 [Line 64 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '40:nmod:gen'
 ...suppressing further errors regarding Enhanced
+[Line 350 Sent afp.20000715.0001:p7u1 Node 16]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [15, 19]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 919 Sent afp.20000715.0002:p4u1 Node 32]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [31, 34]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 2066 Sent afp.20000715.0006:p2u1 Node 10]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [11, 34]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 2308 Sent afp.20000715.0006:p6u1 Node 4]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [9, 29]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 2360 Sent afp.20000715.0006:p6u1 Node 51]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [50, 53]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 2367 Sent afp.20000715.0006:p6u1 Node 57]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [56, 59]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 3084 Sent afp.20000715.0010:p3u2 Node 25]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [24, 26]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 3582 Sent afp.20000715.0011:p7u1 Node 10]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [9, 12]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 3727 Sent afp.20000715.0012:p3u1 Node 14]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [12, 17]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+...suppressing further errors regarding Syntax
 Enhanced errors: 8955
-*** FAILED *** with 8955 errors
+Syntax errors: 122
+*** FAILED *** with 9077 errors
 Exit code: 1
 validate.py --lang ar --max-err=10 UD_Arabic-PADT/ar_padt-ud-test.conllu
 [Line 13 Sent assabah.20041005.0017:p1u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '7:nmod:gen'
@@ -59,8 +70,19 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 57 Sent assabah.20041005.0017:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:لِ:gen' in '33:nmod:لِ:gen'
 [Line 72 Sent assabah.20041005.0017:p3u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:acc' in '6:nmod:acc'
 ...suppressing further errors regarding Enhanced
+[Line 618 Sent assabah.20041013.0022:p5u1 Node 47]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [45, 75]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 899 Sent assabah.20041013.0022:p9u1 Node 28]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [26, 30]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 1316 Sent assabah.20041020.0001:p7u1 Node 67]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [66, 68]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 1620 Sent assabah.20041022.0016:p8u1 Node 28]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [27, 31]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 1638 Sent assabah.20041022.0016:p8u1 Node 44]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [43, 45]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 2326 Sent alhayat.20010207.0075:p3u1 Node 20]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [19, 22]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 2377 Sent alhayat.20010207.0075:p3u1 Node 66]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [65, 69]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 2412 Sent alhayat.20010207.0075:p4u1 Node 6]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [5, 8]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 2427 Sent alhayat.20010207.0075:p4u1 Node 21]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [20, 24]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+...suppressing further errors regarding Syntax
 Enhanced errors: 9025
-*** FAILED *** with 9025 errors
+Syntax errors: 115
+*** FAILED *** with 9140 errors
 Exit code: 1
 validate.py --lang ar --max-err=10 UD_Arabic-PADT/ar_padt-ud-train.conllu
 [Line 9 Sent afp.20000715.0075:p1u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '3:nmod:gen'
@@ -78,8 +100,19 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 47 Sent afp.20000715.0075:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:acc' in '22:obl:acc'
 [Line 55 Sent afp.20000715.0075:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '30:nmod:gen'
 ...suppressing further errors regarding Enhanced
+[Line 1897 Sent afp.20000715.0084:p4u1 Node 19]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [18, 21]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 2206 Sent afp.20000715.0085:p5u1 Node 5]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [6, 8]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 2286 Sent afp.20000715.0086:p3u1 Node 7]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [6, 8]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 3063 Sent afp.20000815.0004:p2u1 Node 22]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [21, 24]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 4127 Sent afp.20000815.0007:p4u1 Node 14]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [13, 15]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 4817 Sent afp.20000815.0010:p4u1 Node 9]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [8, 11]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 5001 Sent afp.20000815.0010:p9u1 Node 21]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [20, 22]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 5067 Sent afp.20000815.0010:p11u1 Node 14]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [13, 17]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 5144 Sent afp.20000815.0010:p13u1 Node 2]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [3, 5]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+...suppressing further errors regarding Syntax
 Enhanced errors: 69841
-*** FAILED *** with 69841 errors
+Syntax errors: 806
+*** FAILED *** with 70647 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
