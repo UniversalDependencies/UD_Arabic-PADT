@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Arabic-PADT:
-commit 5c0ceb4f8ea26e5ea7b0d91bbdc8d2a1d1a951c7
+commit d761c551bc2650da54615e5705a8d5c2161f66da
+Merge: c84633e 8d9b0d8
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 09:27:39 2023 +0200
 Size: counted 282384 of 282384 words (nodes).
 Size: min(0, log((N/1000)**2)) = 11.2865356935804.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,8 +20,8 @@ Features: source of annotation (from README) factor is 0.8.
 Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL      22397
-Udapi: found 22397 bugs.
+               TOTAL      22386
+Udapi: found 22386 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 282384 words.
 Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ar --max-err=10 UD_Arabic-PADT/ar_padt-ud-dev.conllu
@@ -39,6 +39,7 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 51 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:بَعدَ:gen' in '24:obl:بَعدَ:gen'
 [Line 55 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'advcl:لِ' in '24:advcl:لِ'
 [Line 64 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '40:nmod:gen'
+[Line 73 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:عَلَى:gen' in '47:obl:arg:عَلَى:gen'
 ...suppressing further errors regarding Enhanced
 [Line 350 Sent afp.20000715.0001:p7u1 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [15, 19] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 919 Sent afp.20000715.0002:p4u1 Node 32]: [L3 Syntax too-many-subjects] Multiple subjects [31, 34] not subtyped as ':outer'.
@@ -49,6 +50,7 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 3084 Sent afp.20000715.0010:p3u2 Node 25]: [L3 Syntax too-many-subjects] Multiple subjects [24, 26] not subtyped as ':outer'.
 [Line 3582 Sent afp.20000715.0011:p7u1 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [9, 12] not subtyped as ':outer'.
 [Line 3727 Sent afp.20000715.0012:p3u1 Node 14]: [L3 Syntax too-many-subjects] Multiple subjects [12, 17] not subtyped as ':outer'.
+[Line 4449 Sent afp.20000715.0013:p7u1 Node 9]: [L3 Syntax too-many-subjects] Multiple subjects [8, 10] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 [Line 22930 Sent assabah.20041023.0012:p5u1 Node 26]: [L3 Warning fixed-gap] Gaps in fixed expression [26, 28, 30, 32] 'بين * و * و * و'
 [Line 24290 Sent ummah.20040407.0016:p8u1 Node 39]: [L3 Warning fixed-gap] Gaps in fixed expression [39, 41] 'و * ل'
@@ -56,10 +58,10 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 29467 Sent ummah.20040715.0026:p2u1 Node 29]: [L3 Warning fixed-gap] Gaps in fixed expression [29, 31] 'و * ب'
 [Line 32629 Sent ummah.20040726.0072:p7u1 Node 47]: [L3 Warning fixed-gap] Gaps in fixed expression [47, 49] 'و * في'
 [Line 33255 Sent ummah.20040809.0030:p3u1 Node 30]: [L3 Warning fixed-gap] Gaps in fixed expression [30, 33, 34] 'و * * بناء على'
-Enhanced errors: 8955
+Enhanced errors: 8959
 Syntax errors: 122
 Warnings: 6
-*** FAILED *** with 9077 errors
+*** FAILED *** with 9081 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang ar --max-err=10 UD_Arabic-PADT/ar_padt-ud-test.conllu
 [Line 13 Sent assabah.20041005.0017:p1u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '7:nmod:gen'
@@ -76,6 +78,7 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 47 Sent assabah.20041005.0017:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '25:nmod:gen'
 [Line 57 Sent assabah.20041005.0017:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:لِ:gen' in '33:nmod:لِ:gen'
 [Line 72 Sent assabah.20041005.0017:p3u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:acc' in '6:nmod:acc'
+[Line 73 Sent assabah.20041005.0017:p3u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '8:nmod:gen'
 ...suppressing further errors regarding Enhanced
 [Line 618 Sent assabah.20041013.0022:p5u1 Node 47]: [L3 Syntax too-many-subjects] Multiple subjects [45, 75] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 899 Sent assabah.20041013.0022:p9u1 Node 28]: [L3 Syntax too-many-subjects] Multiple subjects [26, 30] not subtyped as ':outer'.
@@ -86,12 +89,13 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 2377 Sent alhayat.20010207.0075:p3u1 Node 66]: [L3 Syntax too-many-subjects] Multiple subjects [65, 69] not subtyped as ':outer'.
 [Line 2412 Sent alhayat.20010207.0075:p4u1 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [5, 8] not subtyped as ':outer'.
 [Line 2427 Sent alhayat.20010207.0075:p4u1 Node 21]: [L3 Syntax too-many-subjects] Multiple subjects [20, 24] not subtyped as ':outer'.
+[Line 2451 Sent alhayat.20010207.0075:p4u1 Node 41]: [L3 Syntax too-many-subjects] Multiple subjects [21, 40] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 [Line 10841 Sent alhayat.20010911.0008:p16u1 Node 20]: [L3 Warning fixed-gap] Gaps in fixed expression [20, 22] 'و * ب'
-[Line 21491 Sent ummah.20040715.0033:p3u1 Node 40]: [L3 Warning fixed-gap] Gaps in fixed expression [40, 42, 43] 'و * نتيجة ل'
-[Line 24678 Sent ummah.20040726.0071:p8u2 Node 48]: [L3 Warning fixed-gap] Gaps in fixed expression [48, 50] 'ف * علي'
-[Line 33018 Sent xinhua.20030503.0158:p3u1 Node 20]: [L3 Warning fixed-gap] Gaps in fixed expression [20, 22, 23] 'و * مقارنة ب'
-[Line 34056 Sent xinhua.20030503.0190:p3u1 Node 20]: [L3 Warning fixed-gap] Gaps in fixed expression [20, 22] 'في * بين'
+[Line 21490 Sent ummah.20040715.0033:p3u1 Node 40]: [L3 Warning fixed-gap] Gaps in fixed expression [40, 42, 43] 'و * نتيجة ل'
+[Line 24677 Sent ummah.20040726.0071:p8u2 Node 48]: [L3 Warning fixed-gap] Gaps in fixed expression [48, 50] 'ف * علي'
+[Line 33017 Sent xinhua.20030503.0158:p3u1 Node 20]: [L3 Warning fixed-gap] Gaps in fixed expression [20, 22, 23] 'و * مقارنة ب'
+[Line 34055 Sent xinhua.20030503.0190:p3u1 Node 20]: [L3 Warning fixed-gap] Gaps in fixed expression [20, 22] 'في * بين'
 Enhanced errors: 9025
 Syntax errors: 115
 Warnings: 5
@@ -112,6 +116,7 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 45 Sent afp.20000715.0075:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '20:nmod:gen'
 [Line 47 Sent afp.20000715.0075:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:acc' in '22:obl:acc'
 [Line 55 Sent afp.20000715.0075:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '30:nmod:gen'
+[Line 62 Sent afp.20000715.0075:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:عَلَى:gen' in '30:obl:arg:عَلَى:gen'
 ...suppressing further errors regarding Enhanced
 [Line 1897 Sent afp.20000715.0084:p4u1 Node 19]: [L3 Syntax too-many-subjects] Multiple subjects [18, 21] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 2206 Sent afp.20000715.0085:p5u1 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [6, 8] not subtyped as ':outer'.
@@ -122,16 +127,18 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 5001 Sent afp.20000815.0010:p9u1 Node 21]: [L3 Syntax too-many-subjects] Multiple subjects [20, 22] not subtyped as ':outer'.
 [Line 5067 Sent afp.20000815.0010:p11u1 Node 14]: [L3 Syntax too-many-subjects] Multiple subjects [13, 17] not subtyped as ':outer'.
 [Line 5144 Sent afp.20000815.0010:p13u1 Node 2]: [L3 Syntax too-many-subjects] Multiple subjects [3, 5] not subtyped as ':outer'.
+[Line 5347 Sent afp.20000815.0010:p18u1 Node 2]: [L3 Syntax too-many-subjects] Multiple subjects [3, 15] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 [Line 8943 Sent afp.20000815.0026:p4u1 Node 19]: [L3 Warning fixed-gap] Gaps in fixed expression [19, 21] 'و * في'
 [Line 18003 Sent afp.20000815.0051:p9u1 Node 22]: [L3 Warning fixed-gap] Gaps in fixed expression [22, 33] 'امام * * * * * * * * * * و'
 [Line 19038 Sent afp.20000815.0055:p2u1 Node 29]: [L3 Warning fixed-gap] Gaps in fixed expression [29, 31] 'و * خلال'
 [Line 23303 Sent afp.20000815.0072:p5u1 Node 23]: [L3 Warning fixed-gap] Gaps in fixed expression [23, 25] 'و * خلال'
-[Line 24826 Sent afp.20000815.0072:p38u1 Node 24]: [L3 Warning fixed-gap] Gaps in fixed expression [24, 26, 27] 'و * بناء على'
-[Line 26492 Sent afp.20000815.0080:p6u1 Node 20]: [L3 Warning fixed-gap] Gaps in fixed expression [20, 23] 'و * * عبر'
-[Line 30869 Sent afp.20000815.0098:p2u1 Node 26]: [L3 Warning fixed-gap] Gaps in fixed expression [26, 28, 29] 'و * بناء على'
-[Line 38579 Sent afp.20000815.0126:p4u1 Node 23]: [L3 Warning fixed-gap] Gaps in fixed expression [23, 25] 'و * في'
-[Line 38968 Sent afp.20000815.0127:p2u1 Node 28]: [L3 Warning fixed-gap] Gaps in fixed expression [28, 30] 'و * بعد'
+[Line 24818 Sent afp.20000815.0072:p38u1 Node 24]: [L3 Warning fixed-gap] Gaps in fixed expression [24, 26, 27] 'و * بناء على'
+[Line 26484 Sent afp.20000815.0080:p6u1 Node 20]: [L3 Warning fixed-gap] Gaps in fixed expression [20, 23] 'و * * عبر'
+[Line 30861 Sent afp.20000815.0098:p2u1 Node 26]: [L3 Warning fixed-gap] Gaps in fixed expression [26, 28, 29] 'و * بناء على'
+[Line 38571 Sent afp.20000815.0126:p4u1 Node 23]: [L3 Warning fixed-gap] Gaps in fixed expression [23, 25] 'و * في'
+[Line 38960 Sent afp.20000815.0127:p2u1 Node 28]: [L3 Warning fixed-gap] Gaps in fixed expression [28, 30] 'و * بعد'
+[Line 44516 Sent afp.20000815.0151:p10u1 Node 19]: [L3 Warning fixed-gap] Gaps in fixed expression [19, 21, 22] 'و * بناء على'
 ...suppressing further errors regarding Warning
 Enhanced errors: 69841
 Syntax errors: 806
@@ -145,8 +152,8 @@ Validity: 0.01
 (weight=0.256410256410256) * (score{size}=0.816946695254345) = 0.209473511603678
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.8) = 0.0615384615384615
-(weight=0.307692307692308) * (score{udapi}=0.206860162048841) = 0.0636492806304127
+(weight=0.307692307692308) * (score{udapi}=0.207249702532721) = 0.0637691392408374
 (weight=0.0769230769230769) * (score{udeprels}=0.648648648648649) = 0.0498960498960499
-(TOTAL score=0.563441164905405) * (availability=1) * (validity=0.01) = 0.00563441164905405
+(TOTAL score=0.563561023515829) * (availability=1) * (validity=0.01) = 0.00563561023515829
 STARS = 0
-UD_Arabic-PADT	0.00563441164905405	0
+UD_Arabic-PADT	0.00563561023515829	0
