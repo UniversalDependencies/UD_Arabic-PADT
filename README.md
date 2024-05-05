@@ -62,6 +62,12 @@ Shadi Saleh and Zdeněk Žabokrtský.
 
 # Changelog
 
+* 2024-05-15 v2.14
+  * Word roots in MISC: consonants separated by spaces instead of underscores.
+  * Added the enhanced relation subtype nsubj:xsubj.
+  * More restrictive use of orphans and empty nodes: Not in non-verbal coordinated sentences.
+  * Improved form and position of abstract predicates in gapping.
+
 * 2021-05-15 v2.8
   * Fixed order of multi-word lemmas in enhanced deprels.
 
