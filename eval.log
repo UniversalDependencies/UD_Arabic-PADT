@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Arabic-PADT:
-commit d761c551bc2650da54615e5705a8d5c2161f66da
-Merge: c84633e 8d9b0d8
+commit e8a39fbcbfbe2ed63d55ade3e6a4bec1afd8ffd8
+Merge: a0ebb30 e894521
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 282384 of 282384 words (nodes).
 Size: min(0, log((N/1000)**2)) = 11.2865356935804.
@@ -25,22 +25,6 @@ Udapi: found 22386 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 282384 words.
 Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ar --max-err=10 UD_Arabic-PADT/ar_padt-ud-dev.conllu
-[Line 10 Sent afp.20000715.0001:p1u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '4:nmod:gen'
-
-The following 54 enhanced relations are currently permitted in language [ar]:
-acl, acl:relcl, advcl, advmod, advmod:emph, amod, appos, aux, aux:pass, case, cc, cc:preconj, ccomp, clf, compound, compound:prt, conj, cop, csubj, csubj:pass, csubj:pass:xsubj, csubj:xsubj, dep, det, discourse, dislocated, expl, fixed, flat, flat:foreign, flat:name, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:pass, nsubj:pass:xsubj, nsubj:xsubj, nummod, obj, obl, obl:arg, obl:tmod, orphan, parataxis, punct, ref, reparandum, root, vocative, xcomp
-See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_edeprel.pl for details.
-
-[Line 35 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '15:nmod:gen'
-[Line 38 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:فِي:gen' in '17:obl:فِي:gen'
-[Line 43 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'advcl:عِندَمَا' in '17:advcl:عِندَمَا'
-[Line 46 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:عَلَى:gen' in '24:obl:arg:عَلَى:gen'
-[Line 49 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '27:nmod:gen'
-[Line 51 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:بَعدَ:gen' in '24:obl:بَعدَ:gen'
-[Line 55 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'advcl:لِ' in '24:advcl:لِ'
-[Line 64 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '40:nmod:gen'
-[Line 73 Sent afp.20000715.0001:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:عَلَى:gen' in '47:obl:arg:عَلَى:gen'
-...suppressing further errors regarding Enhanced
 [Line 350 Sent afp.20000715.0001:p7u1 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [15, 19] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 919 Sent afp.20000715.0002:p4u1 Node 32]: [L3 Syntax too-many-subjects] Multiple subjects [31, 34] not subtyped as ':outer'.
 [Line 2066 Sent afp.20000715.0006:p2u1 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [11, 34] not subtyped as ':outer'.
@@ -58,28 +42,11 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 29467 Sent ummah.20040715.0026:p2u1 Node 29]: [L3 Warning fixed-gap] Gaps in fixed expression [29, 31] 'و * ب'
 [Line 32629 Sent ummah.20040726.0072:p7u1 Node 47]: [L3 Warning fixed-gap] Gaps in fixed expression [47, 49] 'و * في'
 [Line 33255 Sent ummah.20040809.0030:p3u1 Node 30]: [L3 Warning fixed-gap] Gaps in fixed expression [30, 33, 34] 'و * * بناء على'
-Enhanced errors: 8959
 Syntax errors: 122
 Warnings: 6
-*** FAILED *** with 9081 errors
+*** FAILED *** with 122 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang ar --max-err=10 UD_Arabic-PADT/ar_padt-ud-test.conllu
-[Line 13 Sent assabah.20041005.0017:p1u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '7:nmod:gen'
-
-The following 54 enhanced relations are currently permitted in language [ar]:
-acl, acl:relcl, advcl, advmod, advmod:emph, amod, appos, aux, aux:pass, case, cc, cc:preconj, ccomp, clf, compound, compound:prt, conj, cop, csubj, csubj:pass, csubj:pass:xsubj, csubj:xsubj, dep, det, discourse, dislocated, expl, fixed, flat, flat:foreign, flat:name, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:pass, nsubj:pass:xsubj, nsubj:xsubj, nummod, obj, obl, obl:arg, obl:tmod, orphan, parataxis, punct, ref, reparandum, root, vocative, xcomp
-See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_edeprel.pl for details.
-
-[Line 22 Sent assabah.20041005.0017:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '3:nmod:gen'
-[Line 25 Sent assabah.20041005.0017:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'advcl:فِي_حِينَ' in '1:advcl:فِي_حِينَ'
-[Line 37 Sent assabah.20041005.0017:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:بِ_مُوجِب:gen' in '15:nmod:بِ_مُوجِب:gen'
-[Line 39 Sent assabah.20041005.0017:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '19:nmod:gen'
-[Line 46 Sent assabah.20041005.0017:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:عَن:gen' in '19:nmod:عَن:gen'
-[Line 47 Sent assabah.20041005.0017:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '25:nmod:gen'
-[Line 57 Sent assabah.20041005.0017:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:لِ:gen' in '33:nmod:لِ:gen'
-[Line 72 Sent assabah.20041005.0017:p3u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:acc' in '6:nmod:acc'
-[Line 73 Sent assabah.20041005.0017:p3u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '8:nmod:gen'
-...suppressing further errors regarding Enhanced
 [Line 618 Sent assabah.20041013.0022:p5u1 Node 47]: [L3 Syntax too-many-subjects] Multiple subjects [45, 75] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 899 Sent assabah.20041013.0022:p9u1 Node 28]: [L3 Syntax too-many-subjects] Multiple subjects [26, 30] not subtyped as ':outer'.
 [Line 1316 Sent assabah.20041020.0001:p7u1 Node 67]: [L3 Syntax too-many-subjects] Multiple subjects [66, 68] not subtyped as ':outer'.
@@ -96,28 +63,11 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 24677 Sent ummah.20040726.0071:p8u2 Node 48]: [L3 Warning fixed-gap] Gaps in fixed expression [48, 50] 'ف * علي'
 [Line 33017 Sent xinhua.20030503.0158:p3u1 Node 20]: [L3 Warning fixed-gap] Gaps in fixed expression [20, 22, 23] 'و * مقارنة ب'
 [Line 34055 Sent xinhua.20030503.0190:p3u1 Node 20]: [L3 Warning fixed-gap] Gaps in fixed expression [20, 22] 'في * بين'
-Enhanced errors: 9025
 Syntax errors: 115
 Warnings: 5
-*** FAILED *** with 9140 errors
+*** FAILED *** with 115 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang ar --max-err=10 UD_Arabic-PADT/ar_padt-ud-train.conllu
-[Line 9 Sent afp.20000715.0075:p1u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '3:nmod:gen'
-
-The following 54 enhanced relations are currently permitted in language [ar]:
-acl, acl:relcl, advcl, advmod, advmod:emph, amod, appos, aux, aux:pass, case, cc, cc:preconj, ccomp, clf, compound, compound:prt, conj, cop, csubj, csubj:pass, csubj:pass:xsubj, csubj:xsubj, dep, det, discourse, dislocated, expl, fixed, flat, flat:foreign, flat:name, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nsubj:pass, nsubj:pass:xsubj, nsubj:xsubj, nummod, obj, obl, obl:arg, obl:tmod, orphan, parataxis, punct, ref, reparandum, root, vocative, xcomp
-See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_edeprel.pl for details.
-
-[Line 12 Sent afp.20000715.0075:p1u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:عَلَى:gen' in '3:obl:arg:عَلَى:gen'
-[Line 13 Sent afp.20000715.0075:p1u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '7:nmod:gen'
-[Line 14 Sent afp.20000715.0075:p1u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '8:nmod:gen'
-[Line 35 Sent afp.20000715.0075:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '11:nmod:gen'
-[Line 44 Sent afp.20000715.0075:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:فِي:gen' in '10:obl:فِي:gen'
-[Line 45 Sent afp.20000715.0075:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '20:nmod:gen'
-[Line 47 Sent afp.20000715.0075:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:acc' in '22:obl:acc'
-[Line 55 Sent afp.20000715.0075:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'nmod:gen' in '30:nmod:gen'
-[Line 62 Sent afp.20000715.0075:p2u1]: [L4 Enhanced unknown-edeprel] Unknown enhanced relation type 'obl:arg:عَلَى:gen' in '30:obl:arg:عَلَى:gen'
-...suppressing further errors regarding Enhanced
 [Line 1897 Sent afp.20000715.0084:p4u1 Node 19]: [L3 Syntax too-many-subjects] Multiple subjects [18, 21] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 2206 Sent afp.20000715.0085:p5u1 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [6, 8] not subtyped as ':outer'.
 [Line 2286 Sent afp.20000715.0086:p3u1 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [6, 8] not subtyped as ':outer'.
@@ -140,10 +90,9 @@ See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_ede
 [Line 38960 Sent afp.20000815.0127:p2u1 Node 28]: [L3 Warning fixed-gap] Gaps in fixed expression [28, 30] 'و * بعد'
 [Line 44516 Sent afp.20000815.0151:p10u1 Node 19]: [L3 Warning fixed-gap] Gaps in fixed expression [19, 21, 22] 'و * بناء على'
 ...suppressing further errors regarding Warning
-Enhanced errors: 69841
 Syntax errors: 806
 Warnings: 76
-*** FAILED *** with 70647 errors
+*** FAILED *** with 806 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
