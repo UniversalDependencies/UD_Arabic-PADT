@@ -62,6 +62,9 @@ Shadi Saleh and Zdeněk Žabokrtský.
 
 # Changelog
 
+* 2025-05-15 v2.16
+  * Adjectives heading clauses are acl(:relcl) rather than amod.
+
 * 2024-05-15 v2.14
   * Word roots in MISC: consonants separated by spaces instead of underscores.
   * Added the enhanced relation subtype nsubj:xsubj.
