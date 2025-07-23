@@ -74,42 +74,44 @@
     <feat name="Voice" value="Pass" upos="VERB">1224</feat><!-- يذكر, يوجد, قتل, يتوقع, تعد, تعتبر, يعد, أصيب, توجد, يعتبر -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="36">
-    <dep name="acl">3251</dep>
-    <dep name="acl:relcl">2203</dep>
-    <dep name="advcl">1695</dep>
+  <deps unique="38">
+    <dep name="acl">3248</dep>
+    <dep name="acl:relcl">2204</dep>
+    <dep name="advcl">1690</dep>
+    <dep name="advcl:pred">1746</dep>
     <dep name="advmod">2179</dep>
     <dep name="advmod:emph">1037</dep>
-    <dep name="amod">24304</dep>
+    <dep name="amod">22775</dep>
     <dep name="appos">822</dep>
     <dep name="aux">1584</dep>
     <dep name="aux:pass">110</dep>
     <dep name="case">40339</dep>
     <dep name="cc">14442</dep>
     <dep name="ccomp">3212</dep>
+    <dep name="compound">10</dep>
     <dep name="conj">13166</dep>
     <dep name="cop">460</dep>
     <dep name="csubj">534</dep>
     <dep name="csubj:pass">1</dep>
     <dep name="dep">1566</dep>
-    <dep name="det">2150</dep>
+    <dep name="det">1786</dep>
     <dep name="discourse">1</dep>
     <dep name="dislocated">203</dep>
     <dep name="fixed">2705</dep>
-    <dep name="flat:foreign">745</dep>
+    <dep name="flat">745</dep>
     <dep name="iobj">107</dep>
     <dep name="mark">7642</dep>
-    <dep name="nmod">63067</dep>
+    <dep name="nmod">65650</dep>
     <dep name="nsubj">17833</dep>
     <dep name="nsubj:pass">775</dep>
-    <dep name="nummod">3743</dep>
+    <dep name="nummod">3048</dep>
     <dep name="obj">8471</dep>
     <dep name="obl">15894</dep>
     <dep name="obl:arg">10461</dep>
     <dep name="orphan">196</dep>
-    <dep name="parataxis">5452</dep>
+    <dep name="parataxis">5454</dep>
     <dep name="punct">22440</dep>
     <dep name="root">7664</dep>
-    <dep name="xcomp">1930</dep>
+    <dep name="xcomp">184</dep>
   </deps>
 </treebank>
