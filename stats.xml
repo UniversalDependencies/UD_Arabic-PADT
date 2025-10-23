@@ -19,7 +19,7 @@
     <tag name="ADP">42555</tag><!-- فِي, لِ, بِ, مِن, عَلَى, إِلَى, عَن, مَعَ, بَينَ, خِلَالَ -->
     <tag name="ADV">1092</tag><!-- هُنَاكَ, أَمسِ, أَيضًا, كَذٰلِكَ, فَقَط, حَتَّى, هُنَا, سِيَّمَا, مَعًا, ثَمَّةَ -->
     <tag name="AUX">2154</tag><!-- سَ, قَد, كَان, لَيس, سَوفَ, مَا, هَل, رُبَّمَا, أَ, عَاد -->
-    <tag name="CCONJ">19784</tag><!-- وَ, فَ, أَو, كَمَا, حَيثُ, لٰكِنَّ, لِ, إِذَا, لِأَنَّ, مِمَّا -->
+    <tag name="CCONJ">19766</tag><!-- وَ, فَ, أَو, كَمَا, حَيثُ, لٰكِنَّ, لِ, إِذَا, لِأَنَّ, مِمَّا -->
     <tag name="DET">5896</tag><!-- اَلَّذِي, هٰذَا, مَا, ذٰلِكَ, مَن, كَيفَ, أَينَ, مَاذَا, كَم, مَتَى -->
     <tag name="INTJ">8</tag><!-- مَرحَبًا, بِلَاش, حَيَّ, مَا -->
     <tag name="NOUN">93705</tag><!-- يَوم, رَئِيس, دَولَة, وَزِير, شَرِكَة, مِصر, عَام, دُولَار, حُكُومَة, مِنطَقَة -->
@@ -28,7 +28,7 @@
     <tag name="PRON">10877</tag><!-- هُوَ -->
     <tag name="PROPN">245</tag><!-- بِن, عَبداَللّٰه, عَبداَلعَزِيز, طٰهٰ, بُورسَعِيد, أَبُو, عَبداَلمُنعِم, نَرُوج, أَبُوظَبِي, أَبُورُدَينَة -->
     <tag name="PUNCT">22445</tag><!-- ., ،, ", -, ), (, /, », «, : -->
-    <tag name="SCONJ">5457</tag><!-- أَنَّ, أَن, إِنَّ, إِن -->
+    <tag name="SCONJ">5475</tag><!-- أَنَّ, أَن, إِنَّ, إِن, إِذَا -->
     <tag name="SYM">388</tag><!-- %, +, /, < -->
     <tag name="VERB">21296</tag><!-- قَال, كَان, تَمّ, أَكَّد, أَعلَن, أَضَاف, أَشَار, وَصَل, ذَكَر, بَلَغ -->
     <tag name="X">17168</tag><!-- ب, محمد, اف, وَاشِنطُن, عبد, أَفرِيقِيَا, مبارك, سُورِيَا, شَارُون, اَلسَّارس -->
@@ -49,7 +49,7 @@
     <feat name="Definite" value="Ind" upos="ADJ,NOUN,NUM">27596</feat><!-- مصر, دولار, جنيه, مايو, إسرائيل, جديدة, خاصة, عدد, أخرى, لبنان -->
     <feat name="ExtPos" value="ADP" upos="ADP,ADV,CCONJ,PART,X">1520</feat><!-- ب, من, في, على, و, ل, فى, عن, إلى, الى -->
     <feat name="ExtPos" value="ADV" upos="ADJ">6</feat><!-- خاصة, بعيداً, غالبا -->
-    <feat name="ExtPos" value="SCONJ" upos="ADP,ADV,CCONJ,PART,SCONJ,X">605</feat><!-- أن, إن, في, و, على, ب, من, اذا, ف, ل -->
+    <feat name="ExtPos" value="SCONJ" upos="ADP,ADV,CCONJ,DET,PART,SCONJ,X">623</feat><!-- أن, إن, في, و, على, ب, من, ما, اذا, ف -->
     <feat name="Foreign" value="Yes" upos="X">5097</feat><!-- واشنطن, سوريا, شارون, السارس, أفريقيا, روسيا, فرنسا, باول, تركيا, بوش -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">29136</feat><!-- ها, التي, هذه, المصرية, المتحدة, كانت, هي, العربية, جديدة, الدولية -->
     <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,VERB">38293</feat><!-- ه, هم, قال, الذي, هذا, كان, هو, نا, المصري, الماضي -->
@@ -103,13 +103,13 @@
     <dep name="fixed">2607</dep>
     <dep name="flat">745</dep>
     <dep name="iobj">107</dep>
-    <dep name="mark">7648</dep>
+    <dep name="mark">7666</dep>
     <dep name="nmod">69920</dep>
     <dep name="nsubj">16901</dep>
     <dep name="nsubj:pass">738</dep>
     <dep name="nummod">3048</dep>
     <dep name="obj">8471</dep>
-    <dep name="obl">13642</dep>
+    <dep name="obl">13624</dep>
     <dep name="obl:arg">8441</dep>
     <dep name="orphan">196</dep>
     <dep name="parataxis">5454</dep>
