@@ -70,8 +70,8 @@
     <feat name="Person" value="3" upos="AUX,DET,PRON,VERB">31534</feat><!-- ه, ها, هم, قال, كان, هو, كانت, هي, أضاف, تم -->
     <feat name="Polarity" value="Neg" upos="ADJ,NOUN,NUM">25</feat><!-- بد, أفريقي, أمل, أوسطي, افريقي, اهمية, ايادي, بديل, تعازى, جدوى -->
     <feat name="PronType" value="Dem" upos="DET">2131</feat><!-- هذه, هذا, ذلك, ذٰلك, هٰذا, تلك, هٰذه, هؤلاء, هذين, كلا -->
-    <feat name="PronType" value="Int" upos="DET,PRON">1242</feat><!-- ما, من, كم, كيف, ماذا, أين, متى, لماذا -->
-    <feat name="PronType" value="Prs" upos="PRON">10850</feat><!-- ه, ها, هم, هو, نا, هي, هما, ك, ي, ني -->
+    <feat name="PronType" value="Int" upos="DET,PRON">1246</feat><!-- ما, من, كم, كيف, ماذا, أين, متى, لماذا, اين, مَن -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">10863</feat><!-- ه, ها, هم, هو, نا, هي, هما, ك, ي, ني -->
     <feat name="PronType" value="Rel" upos="DET">2533</feat><!-- التي, الذي, الذين, التى, الذى, اللذين, اللتين, اللواتي, اللتان, اللذان -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">10278</feat><!-- يتم, يمكن, يكون, تكون, تصل, يجب, يصل, يقول, يذكر, تقوم -->
     <feat name="Voice" value="Act" upos="AUX,VERB">20523</feat><!-- قال, كان, كانت, أضاف, تم, أكد, يتم, يمكن, يكون, أشار -->
