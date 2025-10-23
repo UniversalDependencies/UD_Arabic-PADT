@@ -34,7 +34,7 @@
     <tag name="X">17168</tag><!-- ب, محمد, اف, وَاشِنطُن, عبد, أَفرِيقِيَا, مبارك, سُورِيَا, شَارُون, اَلسَّارس -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="37">
+  <feats unique="38">
     <feat name="Abbr" value="Yes" upos="X">504</feat><!-- ب, د, ف, أ, م, ر, كلم, ت, غ, كجم -->
     <feat name="AdpType" value="Prep" upos="ADP">42555</feat><!-- في, ل, ب, من, على, الى, إلى, عن, فى, مع -->
     <feat name="Aspect" value="Imp" upos="AUX,VERB">10224</feat><!-- يتم, يمكن, يكون, تكون, تصل, يجب, يصل, يقول, يذكر, تقوم -->
@@ -47,6 +47,7 @@
     <feat name="Definite" value="Cons" upos="ADJ,NOUN,NUM,PROPN">38093</feat><!-- رئيس, مليون, وزير, كل, غير, مجلس, عام, بعض, يوم, نفس -->
     <feat name="Definite" value="Def" upos="ADJ,NOUN,NUM,PROPN">59523</feat><!-- اليوم, المصرية, الحكومة, المتحدة, العراق, الرئيس, العام, المصري, الماضي, الخارجية -->
     <feat name="Definite" value="Ind" upos="ADJ,NOUN,NUM">27596</feat><!-- مصر, دولار, جنيه, مايو, إسرائيل, جديدة, خاصة, عدد, أخرى, لبنان -->
+    <feat name="ExtPos" value="ADP" upos="ADP,ADV,CCONJ,PART,X">1520</feat><!-- ب, من, في, على, و, ل, فى, عن, إلى, الى -->
     <feat name="Foreign" value="Yes" upos="X">5097</feat><!-- واشنطن, سوريا, شارون, السارس, أفريقيا, روسيا, فرنسا, باول, تركيا, بوش -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">29136</feat><!-- ها, التي, هذه, المصرية, المتحدة, كانت, هي, العربية, جديدة, الدولية -->
     <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,VERB">38293</feat><!-- ه, هم, قال, الذي, هذا, كان, هو, نا, المصري, الماضي -->
