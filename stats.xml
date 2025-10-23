@@ -82,7 +82,7 @@
     <dep name="advmod">2179</dep>
     <dep name="advmod:emph">1037</dep>
     <dep name="amod">22775</dep>
-    <dep name="appos">822</dep>
+    <dep name="appos">824</dep>
     <dep name="aux">1584</dep>
     <dep name="aux:pass">110</dep>
     <dep name="case">40339</dep>
@@ -100,13 +100,13 @@
     <dep name="flat">745</dep>
     <dep name="iobj">107</dep>
     <dep name="mark">7642</dep>
-    <dep name="nmod">65650</dep>
+    <dep name="nmod">69920</dep>
     <dep name="nsubj">16901</dep>
     <dep name="nsubj:pass">738</dep>
     <dep name="nummod">3048</dep>
     <dep name="obj">8471</dep>
-    <dep name="obl">15894</dep>
-    <dep name="obl:arg">10461</dep>
+    <dep name="obl">13642</dep>
+    <dep name="obl:arg">8441</dep>
     <dep name="orphan">196</dep>
     <dep name="parataxis">5454</dep>
     <dep name="punct">22440</dep>
