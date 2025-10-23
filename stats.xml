@@ -34,7 +34,7 @@
     <tag name="X">17168</tag><!-- ب, محمد, اف, وَاشِنطُن, عبد, أَفرِيقِيَا, مبارك, سُورِيَا, شَارُون, اَلسَّارس -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="38">
+  <feats unique="39">
     <feat name="Abbr" value="Yes" upos="X">504</feat><!-- ب, د, ف, أ, م, ر, كلم, ت, غ, كجم -->
     <feat name="AdpType" value="Prep" upos="ADP">42555</feat><!-- في, ل, ب, من, على, الى, إلى, عن, فى, مع -->
     <feat name="Aspect" value="Imp" upos="AUX,VERB">10224</feat><!-- يتم, يمكن, يكون, تكون, تصل, يجب, يصل, يقول, يذكر, تقوم -->
@@ -68,8 +68,9 @@
     <feat name="Person" value="3" upos="AUX,DET,PRON,VERB">31534</feat><!-- ه, ها, هم, قال, كان, هو, كانت, هي, أضاف, تم -->
     <feat name="Polarity" value="Neg" upos="ADJ,NOUN,NUM">25</feat><!-- بد, أفريقي, أمل, أوسطي, افريقي, اهمية, ايادي, بديل, تعازى, جدوى -->
     <feat name="PronType" value="Dem" upos="DET">2125</feat><!-- هذه, هذا, ذلك, ذٰلك, هٰذا, تلك, هٰذه, هؤلاء, هذين, كلا -->
+    <feat name="PronType" value="Int" upos="DET">1025</feat><!-- ما -->
     <feat name="PronType" value="Prs" upos="PRON">10877</feat><!-- ه, ها, هم, هو, نا, هي, هما, ك, ي, ني -->
-    <feat name="PronType" value="Rel" upos="DET">2537</feat><!-- التي, الذي, الذين, التى, الذى, اللذين, اللتين, اللواتي, ما, اللتان -->
+    <feat name="PronType" value="Rel" upos="DET">2533</feat><!-- التي, الذي, الذين, التى, الذى, اللذين, اللتين, اللواتي, اللتان, اللذان -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">10278</feat><!-- يتم, يمكن, يكون, تكون, تصل, يجب, يصل, يقول, يذكر, تقوم -->
     <feat name="Voice" value="Act" upos="AUX,VERB">20523</feat><!-- قال, كان, كانت, أضاف, تم, أكد, يتم, يمكن, يكون, أشار -->
     <feat name="Voice" value="Pass" upos="VERB">1224</feat><!-- يذكر, يوجد, قتل, يتوقع, تعد, تعتبر, يعد, أصيب, توجد, يعتبر -->
@@ -77,7 +78,7 @@
   <!-- Statistics of universal dependency relations. -->
   <deps unique="37">
     <dep name="acl">3248</dep>
-    <dep name="acl:relcl">2204</dep>
+    <dep name="acl:relcl">2203</dep>
     <dep name="advcl">1690</dep>
     <dep name="advcl:pred">1746</dep>
     <dep name="advmod">2179</dep>
@@ -93,11 +94,11 @@
     <dep name="conj">13166</dep>
     <dep name="cop">460</dep>
     <dep name="csubj">464</dep>
-    <dep name="dep">2606</dep>
+    <dep name="dep">2605</dep>
     <dep name="det">1786</dep>
     <dep name="discourse">1</dep>
     <dep name="dislocated">203</dep>
-    <dep name="fixed">2705</dep>
+    <dep name="fixed">2707</dep>
     <dep name="flat">745</dep>
     <dep name="iobj">107</dep>
     <dep name="mark">7642</dep>
