@@ -1,7 +1,118 @@
-Usage:   perl -I ./tools ./tools/evaluate_treebank.pl <ud-treebank-name>
-Example: perl -I ./tools ./tools/evaluate_treebank.pl UD_Czech-PDTC
-Before running, make sure the current folder is one level above the clones of UD GitHub repositories.
-Specifically, the subfolders should include the evaluated treebank(s), as well as the tools folder,
-from which this script is invoked and which also holds the validator.
-$0 == tools/evaluate_treebank.pl
-The script must be invoked using relative path (starting with a dot) from the superordinate folder at tools/evaluate_treebank.pl line 40.
+Running the following version of UD tools:
+commit 26e6c87a2f518322d15901a351199b6be6569062
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri Nov 7 15:39:58 2025 +0100
+Evaluating the following revision of UD_Arabic-PADT:
+commit 1168a0f1221592db35ee0e2a765e70defc84789b
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 18:38:54 2025 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'ar_padt'
+Language code (from CoNLL-U file name) = 'ar'
+Found the following data files: ar_padt-ud-dev.conllu, ar_padt-ud-test.conllu, ar_padt-ud-train.conllu
+Size: counted 282384 of 282384 words (nodes).
+Size: min(0, log((N/1000)**2)) = 11.2865356935804.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Found more than 10000 training words.
+Split: Found at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 0.8.
+Universal POS tags: 17 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 0.8.
+Features: 218145 out of 282384 total words have one or more features.
+Features: source of annotation (from README) factor is 0.8.
+Universal relations: 31 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 0.8.
+Genres: found 1 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang ar --max-err=10 UD_Arabic-PADT/ar_padt-ud-dev.conllu
+[Line 1286 Sent afp.20000715.0002:p12u1]: [L3 Warning fixed-without-extpos] Fixed expression 'اعتبارا من' does not have the 'ExtPos' feature
+[Line 1698 Sent afp.20000715.0004:p6u1]: [L3 Warning fixed-without-extpos] Fixed expression 'تمهيدا ل' does not have the 'ExtPos' feature
+[Line 3446 Sent afp.20000715.0011:p3u1]: [L3 Warning fixed-without-extpos] Fixed expression 'لاحقا الى' does not have the 'ExtPos' feature
+[Line 3474 Sent afp.20000715.0011:p4u1]: [L3 Syntax too-many-objects] Multiple direct objects [10, 11] ('اليوم al-yawma', 'السبت as-sabta') under the predicate 'مقررا muqarraran'.
+[Line 5227 Sent afp.20000715.0016:p3u1]: [L3 Warning fixed-without-extpos] Fixed expression 'بدلا من' does not have the 'ExtPos' feature
+[Line 5423 Sent afp.20000715.0016:p7u1]: [L3 Warning fixed-without-extpos] Fixed expression 'بدلا من' does not have the 'ExtPos' feature
+[Line 6468 Sent afp.20000715.0019:p9u1]: [L3 Warning fixed-without-extpos] Fixed expression 'فضلا عن' does not have the 'ExtPos' feature
+[Line 8045 Sent afp.20000715.0026:p3u1]: [L3 Syntax too-many-objects] Multiple direct objects [28, 30, 32, 35, 36] ('سلفادور salfādūr', 'جامايكا jAmAyokA', 'هندوراس hunoduwrAs', 'فيسنت fysnt', 'وغرينادين wġrynādyn') under the predicate 'و wa'.
+[Line 8058 Sent afp.20000715.0026:p3u1]: [L3 Syntax too-many-objects] Multiple direct objects [40, 42, 44, 46] ('بربادوس brbādws', 'كوستاريكا kūstārīkā', 'غواتيمالا ġuwātīmālā', 'الولايات al-wilāyāti') under the predicate 'و wa'.
+[Line 14471 Sent afp.20000715.0045:p4u1]: [L3 Syntax too-many-objects] Multiple direct objects [25, 27] ('الرئيس ar-raʾīsa', 'رسالة risālatan') under the predicate 'سلم sallama'.
+[Line 14787 Sent afp.20000715.0048:p4u1]: [L3 Syntax too-many-objects] Multiple direct objects [9, 18] ('تجزئة taǧziʾatan', 'الحط al-ḥaṭṭa') under the predicate 'اجرى ʾaǧrā'.
+[Line 15080 Sent afp.20000715.0049:p2u1]: [L3 Warning fixed-without-extpos] Fixed expression 'نظرا ل' does not have the 'ExtPos' feature
+[Line 15867 Sent afp.20000715.0050:p6u2]: [L3 Warning fixed-without-extpos] Fixed expression 'نتيجة ل' does not have the 'ExtPos' feature
+[Line 16142 Sent afp.20000715.0051:p7u1]: [L3 Warning fixed-without-extpos] Fixed expression 'علاوة عن' does not have the 'ExtPos' feature
+[Line 16173 Sent afp.20000715.0051:p7u1]: [L3 Warning fixed-without-extpos] Fixed expression 'نظرا ل' does not have the 'ExtPos' feature
+[Line 17263 Sent afp.20000715.0058:p3u1]: [L3 Syntax too-many-objects] Multiple direct objects [16, 17] ('الصغير aṣ-ṣaġīra', 'نسخة nusḫatan') under the predicate 'منح manaḥa'.
+[Line 17331 Sent afp.20000715.0058:p5u1]: [L3 Syntax too-many-objects] Multiple direct objects [6, 13] ('ه hu', 'نسخة nusḫatan') under the predicate 'أهدى ʾahdā'.
+...suppressing further errors regarding Warning
+[Line 22082 Sent assabah.20041016.0019:p4u1]: [L3 Syntax too-many-objects] Multiple direct objects [24, 25] ('ه hu', 'مبلغا mablaġan') under the predicate 'نهبوا nahabū'.
+[Line 23433 Sent ummah.20040407.0002:p3u1]: [L3 Syntax too-many-objects] Multiple direct objects [4, 6, 13] ('القيادة al-qiyādata', 'حازمة ḥāzimatan', 'الولايات al-wilāyāti') under the predicate 'اعتبر iʿtabara'.
+[Line 27694 Sent ummah.20040705.0014:p3u4]: [L3 Syntax too-many-objects] Multiple direct objects [35, 36] ('بتروكندا btrwkndā', 'واوكسيدنتال wāwksydntāl') under the predicate 'يضم yaḍummu'.
+...suppressing further errors regarding Syntax
+Syntax errors: 15
+Warnings: 35
+*** FAILED *** with 15 errors
+Exit code: 1
+/net/work/people/zeman/unidep/tools/validate.py --lang ar --max-err=10 UD_Arabic-PADT/ar_padt-ud-test.conllu
+[Line 702 Sent assabah.20041013.0022:p6u1]: [L3 Warning fixed-without-extpos] Fixed expression 'وفقا ل' does not have the 'ExtPos' feature
+[Line 776 Sent assabah.20041013.0022:p7u1]: [L3 Syntax too-many-objects] Multiple direct objects [17, 18] ('ايران ʾīrāna', 'وقودا waqūdan') under the predicate 'يمنح yamnaḥu'.
+[Line 784 Sent assabah.20041013.0022:p7u1]: [L3 Warning fixed-without-extpos] Fixed expression 'وفقا ل' does not have the 'ExtPos' feature
+[Line 1594 Sent assabah.20041022.0016:p8u1]: [L3 Warning fixed-without-extpos] Fixed expression 'نظرا ل' does not have the 'ExtPos' feature
+[Line 2868 Sent alhayat.20010207.0075:p9u1]: [L3 Warning fixed-without-extpos] Fixed expression 'وفقاً ل' does not have the 'ExtPos' feature
+[Line 2899 Sent alhayat.20010207.0075:p9u1]: [L3 Warning fixed-without-extpos] Fixed expression 'علاوة على' does not have the 'ExtPos' feature
+[Line 3636 Sent alhayat.20010208.0022:p5u1]: [L3 Warning fixed-without-extpos] Fixed expression 'إضافة الى' does not have the 'ExtPos' feature
+[Line 3992 Sent alhayat.20010211.0080:p6u1]: [L3 Syntax too-many-objects] Multiple direct objects [74, 78] ('قادة qādata', 'اتخاذ ittiḫāḏa') under the predicate 'طالب ṭālaba'.
+[Line 4576 Sent alhayat.20010214.0068:p5u1]: [L3 Syntax too-many-objects] Multiple direct objects [119, 121] ('جموع ǧumūʿa', 'العمل al-ʿamala') under the predicate 'ناشد nāšada'.
+[Line 5643 Sent alhayat.20010407.0221:p5u1]: [L3 Warning fixed-without-extpos] Fixed expression 'علاوة على' does not have the 'ExtPos' feature
+[Line 7297 Sent alhayat.20010417.0149:p5u1]: [L3 Warning fixed-without-extpos] Fixed expression 'جرياً على' does not have the 'ExtPos' feature
+[Line 7797 Sent alhayat.20010422.0178:p3u1]: [L3 Syntax too-many-objects] Multiple direct objects [54, 55] ('الجماعة al-ǧamāʿata', 'املاً ʾamalan') under the predicate 'اعطى ʾaʿṭā'.
+[Line 9126 Sent alhayat.20010425.0156:p6u1]: [L3 Warning fixed-without-extpos] Fixed expression 'بدءاً من' does not have the 'ExtPos' feature
+[Line 9295 Sent alhayat.20010425.0156:p6u1]: [L3 Syntax too-many-objects] Multiple direct objects [202, 206] ('أحد ʾaḥada', 'اصطحاب iṣṭiḥāba') under the predicate 'كلف kallafa'.
+[Line 9352 Sent alhayat.20010425.0156:p6u1]: [L3 Syntax too-many-objects] Multiple direct objects [246, 248] ('ه hu', 'تقديم taqdīma') under the predicate 'كلف kallafa'.
+[Line 9511 Sent alhayat.20010425.0156:p8u1]: [L3 Warning fixed-without-extpos] Fixed expression 'اضافة الى' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+[Line 12674 Sent alhayat.20011108.0027:p9u1]: [L3 Syntax too-many-objects] Multiple direct objects [58, 59] ('الحزب al-ḥizba', 'ارهابياً ʾirhābīyan') under the predicate 'تعتبر taʿtabiru'.
+[Line 13373 Sent alhayat.20020116.0063:p4u1]: [L3 Syntax too-many-objects] Multiple direct objects [9, 13] ('الوفود al-wufūda', 'موقف mawqifa') under the predicate 'يبلغ yubliġu'.
+[Line 15146 Sent annahar.20021130.0096:p11u1]: [L3 Syntax too-many-objects] Multiple direct objects [45, 50] ('طعما ṭaʿman', 'بهجة bhǧat') under the predicate 'يعرفوا yʿrfwā'.
+[Line 18502 Sent ummah.20040705.0001:p1u1]: [L3 Syntax too-many-objects] Multiple direct objects [7, 9] ('الدول ad-duwala', 'مائة miʾata') under the predicate 'يمهل yumhilu'.
+...suppressing further errors regarding Syntax
+Syntax errors: 15
+Warnings: 53
+*** FAILED *** with 15 errors
+Exit code: 1
+/net/work/people/zeman/unidep/tools/validate.py --lang ar --max-err=10 UD_Arabic-PADT/ar_padt-ud-train.conllu
+[Line 3432 Sent afp.20000815.0005:p5u1]: [L3 Syntax too-many-objects] Multiple direct objects [27, 29] ('ها hā', 'منطقة minṭaqatan') under the predicate 'تعتبر taʿtabiru'.
+[Line 6437 Sent afp.20000815.0017:p11u1]: [L3 Syntax too-many-objects] Multiple direct objects [4, 6] ('القدس al-qudsa', 'عاصمة ʿāṣimata') under the predicate 'تعتبر taʿtabiru'.
+[Line 7640 Sent afp.20000815.0022:p4u1]: [L3 Warning fixed-without-extpos] Fixed expression 'خلافا ل' does not have the 'ExtPos' feature
+[Line 7770 Sent afp.20000815.0022:p5u1]: [L3 Warning fixed-without-extpos] Fixed expression 'بدلا من' does not have the 'ExtPos' feature
+[Line 8592 Sent afp.20000815.0023:p10u1]: [L3 Syntax too-many-objects] Multiple direct objects [33, 35] ('البيان al-bayāna', 'ضعيف ḍaʿīfa') under the predicate 'اعتبروا iʿtabarū'.
+[Line 8911 Sent afp.20000815.0026:p3u1]: [L3 Syntax too-many-objects] Multiple direct objects [34, 35] ('نا nā', 'دفعة dafʿatan') under the predicate 'يعطي yuʿṭī'.
+[Line 8943 Sent afp.20000815.0026:p4u1]: [L3 Warning fixed-gap] Gaps in fixed expression [19, 21] 'و * في'
+[Line 9492 Sent afp.20000815.0027:p4u1]: [L3 Warning fixed-without-extpos] Fixed expression 'بدلا من' does not have the 'ExtPos' feature
+[Line 10568 Sent afp.20000815.0030:p3u1]: [L3 Warning fixed-without-extpos] Fixed expression 'اضافة الى' does not have the 'ExtPos' feature
+[Line 11532 Sent afp.20000815.0034:p2u1]: [L3 Warning fixed-without-extpos] Fixed expression 'ذلك لان' does not have the 'ExtPos' feature
+[Line 12221 Sent afp.20000815.0034:p14u1]: [L3 Warning fixed-without-extpos] Fixed expression 'اعتبارا من' does not have the 'ExtPos' feature
+[Line 12794 Sent afp.20000815.0038:p3u1]: [L3 Warning fixed-without-extpos] Fixed expression 'انطلاقا من' does not have the 'ExtPos' feature
+[Line 14333 Sent afp.20000815.0040:p10u1]: [L3 Warning fixed-without-extpos] Fixed expression 'طبقا ل' does not have the 'ExtPos' feature
+[Line 15721 Sent afp.20000815.0044:p2u1]: [L3 Warning fixed-without-extpos] Fixed expression 'اعتبارا من' does not have the 'ExtPos' feature
+[Line 16033 Sent afp.20000815.0044:p8u1]: [L3 Syntax too-many-objects] Multiple direct objects [29, 30] ('ني nī', 'المجازفة al-muǧāzafata') under the predicate 'علمت ʿallamat'.
+[Line 16042 Sent afp.20000815.0044:p8u1]: [L3 Syntax too-many-objects] Multiple direct objects [36, 37] ('ني nī', 'الراحة ar-rāḥata') under the predicate 'منح manaḥa'.
+[Line 16050 Sent afp.20000815.0044:p8u1]: [L3 Syntax too-many-objects] Multiple direct objects [43, 44] ('ني nī', 'ناجحا nāǧiḥan') under the predicate 'جعل ǧaʿala'.
+...suppressing further errors regarding Warning
+[Line 26406 Sent afp.20000815.0080:p4u1]: [L3 Syntax too-many-objects] Multiple direct objects [48, 50] ('ناخيتشيفان nāḫītšīfān', '880 880') under the predicate 'تزود tuzawwidu'.
+[Line 26667 Sent afp.20000815.0082:p5u1]: [L3 Syntax too-many-objects] Multiple direct objects [26, 32] ('نتائج natāʾiǧa', 'ثمينة ṯamīnatan') under the predicate 'اعتبر iʿtabara'.
+[Line 32702 Sent afp.20000815.0104:p5u1]: [L3 Syntax too-many-objects] Multiple direct objects [23, 30] ('انتخاب intiḫāba', 'رسميا rasmīyan') under the predicate 'يجعلوا yaǧʿalū'.
+...suppressing further errors regarding Syntax
+Syntax errors: 108
+Warnings: 343
+*** FAILED *** with 108 errors
+Exit code: 1
+Validity: 0.01
+(weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
+(weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
+(weight=0.111111111111111) * (score{lemmas}=0.8) = 0.0888888888888889
+(weight=0.37037037037037) * (score{size}=0.816946695254345) = 0.302572850094202
+(weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
+(weight=0.111111111111111) * (score{tags}=0.8) = 0.0888888888888889
+(weight=0.111111111111111) * (score{udeprels}=0.67027027027027) = 0.0744744744744745
+(TOTAL score=0.72396090481559) * (availability=1) * (validity=0.01) = 0.0072396090481559
+STARS = 0
+UD_Arabic-PADT	0.0072396090481559	0
