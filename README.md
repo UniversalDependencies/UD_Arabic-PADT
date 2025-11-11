@@ -62,6 +62,10 @@ Shadi Saleh and Zdeněk Žabokrtský.
 
 # Changelog
 
+* 2025-11-15 v2.17
+  * Relation subtype flat:foreign merged with flat after newly run conversion.
+  * Optional depictives are now annotated with "advcl:pred" (previously "xcomp").
+
 * 2025-05-15 v2.16
   * Adjectives heading clauses are acl(:relcl) rather than amod.
 
@@ -122,6 +126,7 @@ Shadi Saleh and Zdeněk Žabokrtský.
 Data available since: UD v1.2
 License: CC BY-NC-SA 3.0
 Includes text: yes
+Parallel: no
 Genre: news
 Lemmas: converted from manual
 UPOS: converted from manual
