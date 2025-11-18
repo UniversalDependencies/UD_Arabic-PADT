@@ -46,6 +46,9 @@ and Kamila Hassanová.
 Further corrections of additional data (not part of PADT release 1.0) were done by
 Shadi Saleh and Zdeněk Žabokrtský.
 
+The improvements done in 2023–2026 benefited from
+the COST Action CA21167 [UniDive](https://unidive.lisn.upsaclay.fr/).
+
 
 ## References
 
