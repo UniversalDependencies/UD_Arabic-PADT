@@ -1370,7 +1370,7 @@
 # sent_id = assabah.20041022.0016:p2u1
 # text = هل تتعمق الأزمة السياسية والاقتصادية في لبنان؟
 # orig_file_sentence ASB_ARB_20041022.0016#2
-1	هل	هَل	AUX	F---------	_	2	aux	2:aux	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
+1	هل	هَل	PART	F---------	_	2	discourse	2:discourse	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
 2	تتعمق	تَعَمَّق	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	0:root	Vform=تَتَعَمَّقُ|Gloss=delve_into,be_immersed,penetrate|Root=` m q|Translit=tataʿammaqu|LTranslit=taʿammaq
 3	الأزمة	أَزمَة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	2	nsubj	2:nsubj	Vform=اَلأَزمَةُ|Gloss=crisis|Root=' z m|Translit=al-ʾazmatu|LTranslit=ʾazmat
 4	السياسية	سِيَاسِيّ	ADJ	A-----FS1D	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	amod	3:amod	Vform=اَلسِّيَاسِيَّةُ|Gloss=political|Root=s w s|Translit=as-siyāsīyatu|LTranslit=siyāsīy
@@ -7671,7 +7671,7 @@
 198	السليم	سَلِيم	ADJ	A-----MS4D	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	197	amod	197:amod	SpaceAfter=No|Vform=اَلسَّلِيمَ|Gloss=safe|Root=s l m|Translit=as-salīma|LTranslit=salīm
 199	،	،	PUNCT	G---------	_	198	punct	198:punct	Vform=،|Translit=,
 200	لكن	لٰكِن	CCONJ	C---------	_	202	cc	202:cc	Vform=لٰكِن|Gloss=however,but|Root=l k n|Translit=lākin|LTranslit=lākin
-201	هل	هَل	AUX	F---------	_	202	aux	202:aux	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
+201	هل	هَل	PART	F---------	_	202	discourse	202:discourse	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
 202	تستطيع	اِستَطَاع	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	189	conj	1:parataxis|189:conj	Vform=تَستَطِيعُ|Gloss=be_able,be_capable,be_possible|Root=.t w `|Translit=tastaṭīʿu|LTranslit=istaṭāʿ
 203	»	»	PUNCT	G---------	_	204	punct	204:punct	SpaceAfter=No|Vform=»|Translit=Â»
 204	مصر	مِصر	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	202	nsubj	202:nsubj	Vform=مِصرُ|Gloss=Egypt|Root=m .s r|Translit=miṣru|LTranslit=miṣr

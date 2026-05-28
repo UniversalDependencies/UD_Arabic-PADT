@@ -22944,7 +22944,7 @@
 37	الحارق	حَارِق	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	36	nmod	36:nmod:gen	Vform=اَلحَارِقِ|Gloss=arsonist,burner|Root=.h r q|Translit=al-ḥāriqi|LTranslit=ḥāriq
 38	الوحيد	وَحِيد	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	36	amod	36:amod	SpaceAfter=No|Vform=اَلوَحِيدِ|Gloss=only,sole,alone,exclusive|Root=w .h d|Translit=al-waḥīdi|LTranslit=waḥīd
 39	:	:	PUNCT	G---------	_	36	punct	36:punct	Vform=:|Translit=:
-40	هل	هَل	AUX	F---------	_	41	aux	41:aux|45:aux	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
+40	هل	هَل	PART	F---------	_	41	discourse	41:discourse|45:discourse	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
 41	نقبل	نقبل	X	U---------	_	36	nmod	36:nmod	Vform=نقبل|Root=OOV|Translit=nqbl
 42-43	باسرائيل	_	_	_	_	_	_	_	_
 42	ب	بِ	ADP	P---------	AdpType=Prep	43	case	43:case	Gloss=by,with|LTranslit=bi|Root=bi|Translit=bi|Vform=بِ
@@ -23157,7 +23157,7 @@
 64	خرائط	خَرِيطَة	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	62	conj	61:nmod:gen|62:conj	Gloss=map,chart|LTranslit=ḫarīṭat|Root=_h r .t|Translit=ḫarāʾiṭa|Vform=خَرَائِطَ
 65-66	وهل	_	_	_	_	_	_	_	_
 65	و	وَ	CCONJ	C---------	_	72	cc	72:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
-66	هل	هَل	AUX	F---------	_	72	aux	72:aux	Gloss=whether|LTranslit=hal|Root=hal|Translit=hal|Vform=هَل
+66	هل	هَل	PART	F---------	_	72	discourse	72:discourse	Gloss=whether|LTranslit=hal|Root=hal|Translit=hal|Vform=هَل
 67-68	معركتنا	_	_	_	_	_	_	_	_
 67	معركة	مَعرَكَة	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	72	nsubj	72:nsubj	Gloss=battle,campaign|LTranslit=maʿrakat|Root=` r k|Translit=maʿrakatu|Vform=مَعرَكَةُ
 68	نا	هُوَ	PRON	SP---1MP2-	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	67	nmod	67:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=nā|Vform=نَا
@@ -34755,7 +34755,7 @@
 # orig_file_sentence UMH_ARB_20040809.0077#10
 1-2	وهل	_	_	_	_	_	_	_	_
 1	و	وَ	CCONJ	C---------	_	0	root	0:root	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
-2	هل	هَل	AUX	F---------	_	4	aux	4:aux	Gloss=whether|LTranslit=hal|Root=hal|Translit=hal|Vform=هَل
+2	هل	هَل	PART	F---------	_	4	discourse	4:discourse	Gloss=whether|LTranslit=hal|Root=hal|Translit=hal|Vform=هَل
 3-4	سيصل	_	_	_	_	_	_	_	_
 3	س	سَ	AUX	F---------	_	4	aux	4:aux	Gloss=will|LTranslit=sa|Root=sa|Translit=sa|Vform=سَ
 4	يصل	وَصَل	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	parataxis	1:parataxis	Gloss=arrive_at,reach|LTranslit=waṣal|Root=w .s l|Translit=yaṣilu|Vform=يَصِلُ
