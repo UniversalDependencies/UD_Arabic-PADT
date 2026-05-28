@@ -18,7 +18,7 @@
     <tag name="ADJ">29351</tag><!-- مِصرِيّ, جَدِيد, آخَر, أَوَّل, إِسرَائِيلِيّ, أَمرِيكِيّ, عَرَبِيّ, مُتَّحِد, فِلَسطِينِيّ, مَاضِي -->
     <tag name="ADP">42555</tag><!-- فِي, لِ, بِ, مِن, عَلَى, إِلَى, عَن, مَعَ, بَينَ, خِلَالَ -->
     <tag name="ADV">1092</tag><!-- هُنَاكَ, أَمسِ, أَيضًا, كَذٰلِكَ, فَقَط, حَتَّى, هُنَا, سِيَّمَا, مَعًا, ثَمَّةَ -->
-    <tag name="AUX">2133</tag><!-- سَ, قَد, كَان, لَيس, سَوفَ, مَا, رُبَّمَا, عَاد, عَلَّ -->
+    <tag name="AUX">2132</tag><!-- سَ, قَد, كَان, لَيس, سَوفَ, مَا, رُبَّمَا, عَلَّ -->
     <tag name="CCONJ">19766</tag><!-- وَ, فَ, أَو, كَمَا, حَيثُ, لٰكِنَّ, لِ, إِذَا, لِأَنَّ, مِمَّا -->
     <tag name="DET">5896</tag><!-- اَلَّذِي, هٰذَا, مَا, ذٰلِكَ, مَن, كَيفَ, أَينَ, مَاذَا, كَم, مَتَى -->
     <tag name="INTJ">8</tag><!-- مَرحَبًا, بِلَاش, حَيَّ, مَا -->
@@ -30,7 +30,7 @@
     <tag name="PUNCT">22445</tag><!-- ., ،, ", -, ), (, /, », «, : -->
     <tag name="SCONJ">5475</tag><!-- أَنَّ, أَن, إِنَّ, إِن, إِذَا -->
     <tag name="SYM">388</tag><!-- %, +, /, < -->
-    <tag name="VERB">21296</tag><!-- قَال, كَان, تَمّ, أَكَّد, أَعلَن, أَضَاف, أَشَار, وَصَل, ذَكَر, بَلَغ -->
+    <tag name="VERB">21297</tag><!-- قَال, كَان, تَمّ, أَكَّد, أَعلَن, أَضَاف, أَشَار, وَصَل, ذَكَر, بَلَغ -->
     <tag name="X">17168</tag><!-- ب, محمد, اف, وَاشِنطُن, عبد, أَفرِيقِيَا, مبارك, سُورِيَا, شَارُون, اَلسَّارس -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -81,13 +81,13 @@
   <deps unique="37">
     <dep name="acl">3248</dep>
     <dep name="acl:relcl">2203</dep>
-    <dep name="advcl">1690</dep>
+    <dep name="advcl">1694</dep>
     <dep name="advcl:pred">1746</dep>
     <dep name="advmod">2179</dep>
     <dep name="advmod:emph">1037</dep>
     <dep name="amod">22775</dep>
     <dep name="appos">824</dep>
-    <dep name="aux">1563</dep>
+    <dep name="aux">1562</dep>
     <dep name="aux:pass">110</dep>
     <dep name="case">40339</dep>
     <dep name="cc">14442</dep>
@@ -115,6 +115,6 @@
     <dep name="parataxis">5454</dep>
     <dep name="punct">22440</dep>
     <dep name="root">7664</dep>
-    <dep name="xcomp">184</dep>
+    <dep name="xcomp">181</dep>
   </deps>
 </treebank>
