@@ -66,7 +66,7 @@ the COST Action CA21167 [UniDive](https://unidive.lisn.upsaclay.fr/).
 # Changelog
 
 * 2026-11-15 v2.19
-  * Question particle "hal" is PART/discourse, not AUX.
+  * Question particles "hal" and "a" are PART/discourse, not AUX.
 
 * 2025-11-15 v2.17
   * Relation subtype flat:foreign merged with flat after newly run conversion.

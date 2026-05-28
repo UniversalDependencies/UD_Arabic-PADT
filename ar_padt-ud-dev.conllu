@@ -34872,7 +34872,7 @@
 2	*	*	PUNCT	G---------	_	3	punct	3:punct	Vform=ذ|Translit=*
 3	ثم	ثُمَّ	CCONJ	C---------	_	0	root	0:root	Vform=ثُمَّ|Gloss=then,thereupon,therefore|Root=_t m m|Translit=ṯumma|LTranslit=ṯumma
 4-5	أليس	_	_	_	_	_	_	_	_
-4	أ	أَ	AUX	F---------	_	7	aux	7:aux	Gloss=whether,indeed|LTranslit=ʾa|Root='a|Translit=ʾa|Vform=أَ
+4	أ	أَ	PART	F---------	_	7	discourse	7:discourse	Gloss=whether,indeed|LTranslit=ʾa|Root='a|Translit=ʾa|Vform=أَ
 5	ليس	لَيس	AUX	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	7	cop	7:cop	Gloss=be_not,is_not|LTranslit=lays|Root=l y s|Translit=laysa|Vform=لَيسَ
 6	من	مِن	ADP	P---------	AdpType=Prep	7	case	7:case	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
 7	الأفضل	أَفضَل	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	parataxis	3:parataxis	Vform=اَلأَفضَلِ|Gloss=better_/_best|Root=f .d l|Translit=al-ʾafḍali|LTranslit=ʾafḍal
@@ -35100,7 +35100,7 @@
 # text = أليس هذا أفضل من أن نزرع القمح في رومانيا؟!
 # orig_file_sentence UMH_ARB_20040809.0077#20
 1-2	أليس	_	_	_	_	_	_	_	_
-1	أ	أَ	AUX	F---------	_	4	aux	4:aux	Gloss=whether,indeed|LTranslit=ʾa|Root='a|Translit=ʾa|Vform=أَ
+1	أ	أَ	PART	F---------	_	4	discourse	4:discourse	Gloss=whether,indeed|LTranslit=ʾa|Root='a|Translit=ʾa|Vform=أَ
 2	ليس	لَيس	AUX	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	4	cop	4:cop	Gloss=be_not,is_not|LTranslit=lays|Root=l y s|Translit=laysa|Vform=لَيسَ
 3	هذا	هٰذَا	DET	SD----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	4:nsubj	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
 4	أفضل	أَفضَل	ADJ	A-----MS4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	0:root	Vform=أَفضَلَ|Gloss=better_/_best|Root=f .d l|Translit=ʾafḍala|LTranslit=ʾafḍal
