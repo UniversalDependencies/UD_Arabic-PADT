@@ -65,6 +65,10 @@ the COST Action CA21167 [UniDive](https://unidive.lisn.upsaclay.fr/).
 
 # Changelog
 
+* 2026-11-15 v2.19
+  * Question particles "hal" and "a" are PART/discourse, not AUX.
+  * Pronominal copula "huwa" was not attached as cop; fixed.
+
 * 2025-11-15 v2.17
   * Relation subtype flat:foreign merged with flat after newly run conversion.
   * Optional depictives are now annotated with "advcl:pred" (previously "xcomp").

@@ -18516,7 +18516,7 @@
 2	الى	إِلَى	ADP	P---------	AdpType=Prep	6	case	6:case	Vform=إِلَى|Gloss=to,towards|Root=' l y|Translit=ʾilā|LTranslit=ʾilā
 3	ان	أَنَّ	SCONJ	C---------	_	6	mark	6:mark	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
 4	دمشق	دِمَشق	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	6	nsubj	6:nsubj	Vform=دِمَشقَ|Gloss=Damascus|Root=dima^sq|Translit=dimašqa|LTranslit=dimašq
-5	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nmod	6:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+5	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	cop	6:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 6	المحطة	مَحَطَّة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	1	obl:arg	1:obl:arg:إِلَى_أَنَّ	Vform=اَلمَحَطَّةُ|Gloss=station|Root=.h .t .t|Translit=al-maḥaṭṭatu|LTranslit=maḥaṭṭat
 7	الاولى	أَوَّل	ADJ	A-----FS1D	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	6	amod	6:amod	Vform=اَلأُولَى|Gloss=first,foremost,early|Root=' w l|Translit=al-ʾūlā|LTranslit=ʾawwal
 8	في	فِي	ADP	P---------	AdpType=Prep	9	case	9:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
@@ -19258,7 +19258,7 @@
 20	ها	هُوَ	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	obj	19:obj	Gloss=he,she,it|LTranslit=huwa|Translit=hā|Vform=هَا
 21	العام	عَام	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	16	obl	16:obl:acc|19:obl:acc	Vform=اَلعَامَ|Gloss=year|Root=` w m|Translit=al-ʿāma|LTranslit=ʿām
 22	1967	1967	NUM	Q---------	NumForm=Digit	21	nummod	21:nummod	Vform=١٩٦٧|Translit=1967
-23	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	nmod	24:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+23	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	cop	24:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 24-25	عاصمتها	_	_	_	_	_	_	_	_
 24	عاصمة	عَاصِمَة	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	5	obj	5:obj	Gloss=capital_city|LTranslit=ʿāṣimat|Root=` .s m|Translit=ʿāṣimatu|Vform=عَاصِمَةُ
 25	ها	هُوَ	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	nmod	24:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hā|Vform=هَا
@@ -22412,7 +22412,7 @@
 17	إسرائيل	إِسرَائِيل	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	15	nmod	15:nmod:لِ:gen	Gloss=Israel|LTranslit=ʾisrāʾīl|Root='isrA'Il|Translit=ʾisrāʾīla|Vform=إِسرَائِيلَ
 18	"	"	PUNCT	G---------	_	17	punct	17:punct	SpaceAfter=No|Vform="|Translit="
 19	ما	مَا	DET	S---------	PronType=Int	2	obj	2:obj	Vform=مَا|Gloss=what,which|Root=mA|Translit=mā|LTranslit=mā
-20	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	nmod	19:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+20	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	cop	19:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 21	الجرائم	جَرِيمَة	NOUN	N------P1D	Case=Nom|Definite=Def|Number=Plur	19	nsubj	19:nsubj|23:nsubj	Vform=اَلجَرَائِمُ|Gloss=crime|Root=^g r m|Translit=al-ǧarāʾimu|LTranslit=ǧarīmat
 22	التي	اَلَّذِي	DET	SR----FS1-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	23	nsubj	21:ref	Vform=اَلَّتِي|Gloss=that,which|Root=l|Translit=allatī|LTranslit=allaḏī
 23-24	اقترفتها	_	_	_	_	_	_	_	_
@@ -23479,7 +23479,7 @@
 31-32	واين	_	_	_	_	_	_	_	_
 31	و	وَ	CCONJ	C---------	_	32	cc	32:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
 32	أين	أَينَ	DET	S---------	PronType=Int	30	conj	19:ccomp|30:conj	Gloss=where|LTranslit=ʾayna|Root='ayn|Translit=ʾayna|Vform=أَينَ
-33	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	32	nmod	32:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+33	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	32	cop	32:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 34	الخطوط	خَطّ	NOUN	N------P1D	Case=Nom|Definite=Def|Number=Plur	32	nsubj	32:nsubj	Vform=اَلخُطُوطُ|Gloss=line|Root=_h .t .t|Translit=al-ḫuṭūṭu|LTranslit=ḫaṭṭ
 35	الحمر	أَحمَر	ADJ	A-----MP1D	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	34	amod	34:amod	Vform=اَلحُمرُ|Gloss=red|Root=.h m r|Translit=al-ḥumru|LTranslit=ʾaḥmar
 36-37	لكل	_	_	_	_	_	_	_	_
@@ -25892,7 +25892,7 @@
 7-8	وكشمير	_	_	_	_	_	_	_	_
 7	و	وَ	CCONJ	C---------	_	8	cc	8:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
 8	كشمير	كَشمِير	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	6	conj	5:nmod|6:conj	Gloss=Kashmir|LTranslit=kašmīr|Root=ka^smIr|Translit=kašmīra|Vform=كَشمِيرَ
-9	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nmod	10:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+9	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	cop	10:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 10	جزء	جُزء	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	2	obj	2:obj	Vform=جُزءٌ|Gloss=section,piece,portion,part,fraction|Root=^g z '|Translit=ǧuzʾun|LTranslit=ǧuzʾ
 11	لا	لَا	PART	F---------	_	12	advmod	12:advmod	Vform=لَا|Gloss=no,not|Root=lA|Translit=lā|LTranslit=lā
 12	يتجزأ	تَجَزَّأ	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	10	acl	10:acl	Vform=يَتَجَزَّأُ|Gloss=be_divided,be_separated|Root=^g z '|Translit=yataǧazzaʾu|LTranslit=taǧazzaʾ
@@ -26775,24 +26775,24 @@
 19	المتحدة	مُتَّحِد	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	18	amod	18:amod	Vform=اَلمُتَّحِدَةِ|Gloss=united|Root=w .h d|Translit=al-muttaḥidati|LTranslit=muttaḥid
 20	كوفي	كوفي	X	U---------	_	21	nmod	21:nmod	Vform=كوفي|Root=OOV|Translit=kwfy
 21	انان	أَنَان	X	X---------	Foreign=Yes	15	nmod	15:nmod	Vform=أَنَان|Gloss=Annan|Root='anAn|Translit=ʾanān|LTranslit=ʾanān
-22	ان	أَنَّ	SCONJ	C---------	_	28	mark	28:mark	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
-23	واشنطن	وَاشِنطُن	X	X---------	Foreign=Yes	28	nsubj	28:nsubj	Vform=وَاشِنطُن|Gloss=Washington|Root=wA^sin.tun|Translit=wāšinṭun|LTranslit=wāšinṭun
+22	ان	أَنَّ	SCONJ	C---------	_	29	mark	29:mark	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
+23	واشنطن	وَاشِنطُن	X	X---------	Foreign=Yes	29	nsubj	29:nsubj	Vform=وَاشِنطُن|Gloss=Washington|Root=wA^sin.tun|Translit=wāšinṭun|LTranslit=wāšinṭun
 24-25	ولندن	_	_	_	_	_	_	_	_
 24	و	وَ	CCONJ	C---------	_	25	cc	25:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
-25	لندن	لَندَن	X	X---------	Foreign=Yes	23	conj	23:conj|28:nsubj	Gloss=London|LTranslit=landan|Root=landan|Translit=landan|Vform=لَندَن
-26	"	"	PUNCT	G---------	_	28	punct	28:punct	SpaceAfter=No|Vform="|Translit="
-27	لم	لَم	PART	F---------	_	28	advmod	28:advmod	Vform=لَم|Gloss=not|Root=lam|Translit=lam|LTranslit=lam
-28	تعودا	عَاد	VERB	VIJA-3FD--	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Dual|Person=3|VerbForm=Fin|Voice=Act	2	ccomp	2:ccomp	Vform=تَعُودَا|Gloss=return,go_back,no_longer|Root=` w d|Translit=taʿūdā|LTranslit=ʿād
-29	قادرتين	قَادِر	ADJ	A-----FD4I	Case=Acc|Definite=Ind|Gender=Fem|Number=Dual	28	xcomp	28:xcomp	Vform=قَادِرَتَينِ|Gloss=capable,able|Root=q d r|Translit=qādiratayni|LTranslit=qādir
+25	لندن	لَندَن	X	X---------	Foreign=Yes	23	conj	23:conj|29:nsubj	Gloss=London|LTranslit=landan|Root=landan|Translit=landan|Vform=لَندَن
+26	"	"	PUNCT	G---------	_	29	punct	29:punct	SpaceAfter=No|Vform="|Translit="
+27	لم	لَم	PART	F---------	_	29	advmod	29:advmod	Vform=لَم|Gloss=not|Root=lam|Translit=lam|LTranslit=lam
+28	تعودا	عَاد	VERB	VIJA-3FD--	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Dual|Person=3|VerbForm=Fin|Voice=Act	29	advcl	29:advcl	Vform=تَعُودَا|Gloss=return,go_back,no_longer|Root=` w d|Translit=taʿūdā|LTranslit=ʿād
+29	قادرتين	قَادِر	ADJ	A-----FD4I	Case=Acc|Definite=Ind|Gender=Fem|Number=Dual	2	ccomp	2:ccomp	Vform=قَادِرَتَينِ|Gloss=capable,able|Root=q d r|Translit=qādiratayni|LTranslit=qādir
 30	على	عَلَى	ADP	P---------	AdpType=Prep	31	case	31:case	Vform=عَلَى|Gloss=on,above|Root=` l w|Translit=ʿalā|LTranslit=ʿalā
-31	اخفاء	إِخفَاء	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	28	obl:arg	28:obl:arg:عَلَى:gen	Vform=إِخفَاءِ|Gloss=hiding,concealment|Root=_h f y|Translit=ʾiḫfāʾi|LTranslit=ʾiḫfāʾ
+31	اخفاء	إِخفَاء	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	29	obl:arg	29:obl:arg:عَلَى:gen	Vform=إِخفَاءِ|Gloss=hiding,concealment|Root=_h f y|Translit=ʾiḫfāʾi|LTranslit=ʾiḫfāʾ
 32-33	مواقفهما	_	_	_	_	_	_	_	_
 32	مواقف	مَوقِف	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	31	nmod	31:nmod:gen	Gloss=position|LTranslit=mawqif|Root=w q f|Translit=mawāqifi|Vform=مَوَاقِفِ
 33	هما	هُوَ	PRON	SP---3MD2-	Case=Gen|Gender=Masc|Number=Dual|Person=3|PronType=Prs	32	nmod	32:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=himā|Vform=هِمَا
 34	تجاه	تُجَاهَ	ADP	PI------4-	AdpType=Prep|Case=Acc	35	case	35:case	Vform=تُجَاهَ|Gloss=towards,facing|Root=w ^g h|Translit=tuǧāha|LTranslit=tuǧāha
 35	العراق	عِرَاق	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	32	nmod	32:nmod:تُجَاهَ:gen	Vform=اَلعِرَاقِ|Gloss=Iraq|Root=` r q|Translit=al-ʿirāqi|LTranslit=ʿirāq
 36	بل	بَل	CCONJ	C---------	_	37	cc	37:cc	Vform=بَل|Gloss=but_rather,in_fact|Root=bal|Translit=bal|LTranslit=bal
-37	اخذتا	أَخَذ	VERB	VP-A-3FD--	Aspect=Perf|Gender=Fem|Number=Dual|Person=3|Voice=Act	29	conj	28:xcomp|29:conj	Vform=أَخَذَتَا|Gloss=take,begin,adopt,observe,follow|Root=' _h _d|Translit=ʾaḫaḏatā|LTranslit=ʾaḫaḏ
+37	اخذتا	أَخَذ	VERB	VP-A-3FD--	Aspect=Perf|Gender=Fem|Number=Dual|Person=3|Voice=Act	29	conj	2:ccomp|29:conj	Vform=أَخَذَتَا|Gloss=take,begin,adopt,observe,follow|Root=' _h _d|Translit=ʾaḫaḏatā|LTranslit=ʾaḫaḏ
 38	تتماديان	تَمَادَى	VERB	VIIA-3FD--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Dual|Person=3|VerbForm=Fin|Voice=Act	37	advcl:pred	37:advcl:pred	Vform=تَتَمَادَيَانِ|Gloss=go_far,continue,persevere|Root=m d y|Translit=tatamādayāni|LTranslit=tamādā
 39	في	فِي	ADP	P---------	AdpType=Prep	40	case	40:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
 40	التعبير	تَعبِير	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	38	obl:arg	38:obl:arg:فِي:gen	Vform=اَلتَّعبِيرِ|Gloss=expression|Root=` b r|Translit=at-taʿbīri|LTranslit=taʿbīr
@@ -26829,7 +26829,7 @@
 64	ميثاق	مِيثَاق	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	57	conj	53:obj|57:conj	Gloss=treaty,pact,charter|LTranslit=mīṯāq|Root=w _t q|Translit=mīṯāqa|Vform=مِيثَاقَ
 65	ها	هُوَ	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	64	nmod	64:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hā|Vform=هَا
 66	الدولي	دَولِيّ	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	64	nmod	64:nmod:gen	SpaceAfter=No|Vform=اَلدَّولِيِّ|Gloss=international,state|Root=d w l|Translit=ad-dawlīyi|LTranslit=dawlīy
-67	"	"	PUNCT	G---------	_	28	punct	28:punct	SpaceAfter=No|Vform="|Translit="
+67	"	"	PUNCT	G---------	_	29	punct	29:punct	SpaceAfter=No|Vform="|Translit="
 68	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 
 # newpar id = afp.20000815.0084:p4
@@ -29171,7 +29171,7 @@
 43	و	وَ	CCONJ	C---------	_	1	cc	1:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
 44	هٰذا	هٰذَا	DET	SD----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	45	det	45:det	Gloss=this,these|LTranslit=hāḏā|Root=h|Translit=hāḏā|Vform=هٰذَا
 45	الدين	دَين	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	47	nsubj	47:nsubj	Vform=اَلدَّينُ|Gloss=debt|Root=d y n|Translit=ad-daynu|LTranslit=dayn
-46	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	47	nmod	47:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+46	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	47	cop	47:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 47	احد	أَحَد	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	1	parataxis	1:parataxis	Vform=أَحَدُ|Gloss=one,someone|Root=' .h d|Translit=ʾaḥadu|LTranslit=ʾaḥad
 48	العوامل	عَامِل	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	47	nmod	47:nmod:gen	Vform=اَلعَوَامِلِ|Gloss=factor,agent,coefficient|Root=` m l|Translit=al-ʿawāmili|LTranslit=ʿāmil
 49	المهمة	مُهِمّ	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	48	amod	48:amod	Vform=اَلمُهِمَّةِ|Gloss=important,serious|Root=h m m|Translit=al-muhimmati|LTranslit=muhimm
@@ -30616,7 +30616,7 @@
 11	ل	لِ	ADP	P---------	AdpType=Prep	12	case	12:case	Gloss=for,to|LTranslit=li|Root=l|Translit=li|Vform=لِ
 12	إنقاذ	إِنقَاذ	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	8	obl	8:obl:لِ:gen	Gloss=rescue,salvation,relief|LTranslit=ʾinqāḏ|Root=n q _d|Translit=ʾinqāḏi|Vform=إِنقَاذِ
 13	الطاقم	طَاقِم	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	12	nmod	12:nmod:gen	Vform=اَلطَّاقِمِ|Gloss=crew|Root=.t q m|Translit=aṭ-ṭāqimi|LTranslit=ṭāqim
-14	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nmod	15:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+14	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	cop	15:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 15	كناية	كِنَايَة	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	1	parataxis	1:parataxis	Vform=كِنَايَةٌ|Gloss=allusion,equivocal|Root=k n y|Translit=kināyatun|LTranslit=kināyat
 16	عن	عَن	ADP	P---------	AdpType=Prep	17	case	17:case	Vform=عَن|Gloss=about,from|Root=`an|Translit=ʿan|LTranslit=ʿan
 17	كبسولة	كَبسُولَة	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	15	nmod	15:nmod:عَن:gen	Vform=كَبسُولَةٍ|Gloss=capsule|Root=kabsUl|Translit=kabsūlatin|LTranslit=kabsūlat
@@ -44653,7 +44653,7 @@
 64	و	وَ	CCONJ	C---------	_	1	cc	1:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
 65	هٰذا	هٰذَا	DET	SD----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	66	det	66:det	Gloss=this,these|LTranslit=hāḏā|Root=h|Translit=hāḏā|Vform=هٰذَا
 66	الدين	دَين	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	68	nsubj	68:nsubj	Vform=اَلدَّينُ|Gloss=debt|Root=d y n|Translit=ad-daynu|LTranslit=dayn
-67	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	68	nmod	68:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+67	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	68	cop	68:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 68	احد	أَحَد	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	1	parataxis	1:parataxis	Vform=أَحَدُ|Gloss=one,someone|Root=' .h d|Translit=ʾaḥadu|LTranslit=ʾaḥad
 69	العوامل	عَامِل	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	68	nmod	68:nmod:gen	Vform=اَلعَوَامِلِ|Gloss=factor,agent,coefficient|Root=` m l|Translit=al-ʿawāmili|LTranslit=ʿāmil
 70	المهمة	مُهِمّ	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	69	amod	69:amod	Vform=اَلمُهِمَّةِ|Gloss=important,serious|Root=h m m|Translit=al-muhimmati|LTranslit=muhimm
@@ -48239,7 +48239,7 @@
 30	ان	أَن	SCONJ	C---------	_	31	mark	31:mark	Vform=أَن|Gloss=to|Root=' n|Translit=ʾan|LTranslit=ʾan
 31	اعرف	اعرف	X	U---------	_	29	obj	29:obj	Vform=اعرف|Root=OOV|Translit=āʿrf
 32	ما	مَا	DET	S---------	PronType=Int	31	obj	31:obj	Vform=مَا|Gloss=what,which|Root=mA|Translit=mā|LTranslit=mā
-33	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	32	nmod	32:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+33	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	32	cop	32:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 34-35	فلسفته	_	_	_	_	_	_	_	_
 34	فلسفة	فَلسَفَة	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	32	nsubj	32:nsubj	Gloss=philosophy|LTranslit=falsafat|Root=f l s f|Translit=falsafatu|Vform=فَلسَفَةُ
 35	ه	هُوَ	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	nmod	34:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hu|Vform=هُ
@@ -48673,7 +48673,7 @@
 3	ك	هُوَ	PRON	SP---2MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=ka|Vform=كَ
 4	هذا	هٰذَا	DET	SD----MS4-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	5	det	5:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
 5	الأسبوع	أُسبُوع	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	2	nmod	2:nmod:acc	Vform=اَلأُسبُوعَ|Gloss=week|Root=s b `|Translit=al-ʾusbūʿa|LTranslit=ʾusbūʿ
-6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	cop	7:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 7	يوم	يَوم	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	0	root	0:root	Vform=يَومُ|Gloss=day,today|Root=y w m|Translit=yawmu|LTranslit=yawm
 8	الخميس	خَمِيس	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	7	nmod	7:nmod:gen	SpaceAfter=No|Vform=اَلخَمِيسِ|Gloss=Thursday|Root=_h m s|Translit=al-ḫamīsi|LTranslit=ḫamīs
 9	.	.	PUNCT	G---------	_	7	punct	7:punct	Vform=.|Translit=.
@@ -48753,7 +48753,7 @@
 3	ك	هُوَ	PRON	SP---2MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=ka|Vform=كَ
 4	هذا	هٰذَا	DET	SD----MS4-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	5	det	5:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
 5	الأسبوع	أُسبُوع	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	2	nmod	2:nmod:acc	Vform=اَلأُسبُوعَ|Gloss=week|Root=s b `|Translit=al-ʾusbūʿa|LTranslit=ʾusbūʿ
-6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	cop	7:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 7	يوم	يَوم	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	0	root	0:root	Vform=يَومُ|Gloss=day,today|Root=y w m|Translit=yawmu|LTranslit=yawm
 8	الأربعاء	أَربِعَاء	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	7	nmod	7:nmod:gen	SpaceAfter=No|Vform=اَلأَربِعَاءِ|Gloss=Wednesday|Root=r b `|Translit=al-ʾarbiʿāʾi|LTranslit=ʾarbiʿāʾ
 9	.	.	PUNCT	G---------	_	7	punct	7:punct	Vform=.|Translit=.
@@ -48859,7 +48859,7 @@
 3	ك	هُوَ	PRON	SP---2MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=ka|Vform=كَ
 4	هذا	هٰذَا	DET	SD----MS4-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	5	det	5:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
 5	الأسبوع	أُسبُوع	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	2	nmod	2:nmod:acc	Vform=اَلأُسبُوعَ|Gloss=week|Root=s b `|Translit=al-ʾusbūʿa|LTranslit=ʾusbūʿ
-6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	cop	7:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 7	يوم	يَوم	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	0	root	0:root	Vform=يَومُ|Gloss=day,today|Root=y w m|Translit=yawmu|LTranslit=yawm
 8	الخميس	خَمِيس	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	7	nmod	7:nmod:gen	SpaceAfter=No|Vform=اَلخَمِيسِ|Gloss=Thursday|Root=_h m s|Translit=al-ḫamīsi|LTranslit=ḫamīs
 9	.	.	PUNCT	G---------	_	7	punct	7:punct	Vform=.|Translit=.
@@ -48963,7 +48963,7 @@
 3	ك	هُوَ	PRON	SP---2MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=ka|Vform=كَ
 4	هذا	هٰذَا	DET	SD----MS4-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	5	det	5:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
 5	الأسبوع	أُسبُوع	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	2	nmod	2:nmod:acc	Vform=اَلأُسبُوعَ|Gloss=week|Root=s b `|Translit=al-ʾusbūʿa|LTranslit=ʾusbūʿ
-6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	cop	7:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 7	يوم	يَوم	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	0	root	0:root	Vform=يَومُ|Gloss=day,today|Root=y w m|Translit=yawmu|LTranslit=yawm
 8	الأربعاء	أَربِعَاء	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	7	nmod	7:nmod:gen	SpaceAfter=No|Vform=اَلأَربِعَاءِ|Gloss=Wednesday|Root=r b `|Translit=al-ʾarbiʿāʾi|LTranslit=ʾarbiʿāʾ
 9	.	.	PUNCT	G---------	_	7	punct	7:punct	Vform=.|Translit=.
@@ -49072,7 +49072,7 @@
 3	ك	هُوَ	PRON	SP---2MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=ka|Vform=كَ
 4	هذا	هٰذَا	DET	SD----MS4-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	5	det	5:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
 5	الأسبوع	أُسبُوع	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	2	nmod	2:nmod:acc	Vform=اَلأُسبُوعَ|Gloss=week|Root=s b `|Translit=al-ʾusbūʿa|LTranslit=ʾusbūʿ
-6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	cop	7:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 7	يوم	يَوم	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	0	root	0:root	Vform=يَومُ|Gloss=day,today|Root=y w m|Translit=yawmu|LTranslit=yawm
 8	الثلاثاء	ثُلَاثَاء	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	7	nmod	7:nmod:gen	SpaceAfter=No|Vform=اَلثُّلَاثَاءِ|Gloss=Tuesday|Root=_t l _t|Translit=aṯ-ṯulāṯāʾi|LTranslit=ṯulāṯāʾ
 9	.	.	PUNCT	G---------	_	7	punct	7:punct	Vform=.|Translit=.
@@ -49184,7 +49184,7 @@
 3	ك	هُوَ	PRON	SP---2MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=ka|Vform=كَ
 4	هذا	هٰذَا	DET	SD----MS4-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	5	det	5:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
 5	الأسبوع	أُسبُوع	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	2	nmod	2:nmod:acc	Vform=اَلأُسبُوعَ|Gloss=week|Root=s b `|Translit=al-ʾusbūʿa|LTranslit=ʾusbūʿ
-6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	cop	7:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 7	يوم	يَوم	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	0	root	0:root	Vform=يَومُ|Gloss=day,today|Root=y w m|Translit=yawmu|LTranslit=yawm
 8	الخميس	خَمِيس	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	7	nmod	7:nmod:gen	SpaceAfter=No|Vform=اَلخَمِيسِ|Gloss=Thursday|Root=_h m s|Translit=al-ḫamīsi|LTranslit=ḫamīs
 9	.	.	PUNCT	G---------	_	7	punct	7:punct	Vform=.|Translit=.
@@ -49403,7 +49403,7 @@
 3	ك	هُوَ	PRON	SP---2MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=ka|Vform=كَ
 4	هذا	هٰذَا	DET	SD----MS4-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	5	det	5:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
 5	الأسبوع	أُسبُوع	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	2	nmod	2:nmod:acc	Vform=اَلأُسبُوعَ|Gloss=week|Root=s b `|Translit=al-ʾusbūʿa|LTranslit=ʾusbūʿ
-6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	cop	7:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 7	يوم	يَوم	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	0	root	0:root	Vform=يَومُ|Gloss=day,today|Root=y w m|Translit=yawmu|LTranslit=yawm
 8	السبت	سَبت	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	7	dep	7:dep	SpaceAfter=No|Vform=اَلسَّبتِ|Gloss=Saturday,Sabbath|Root=s b t|Translit=as-sabti|LTranslit=sabt
 9	.	.	PUNCT	G---------	_	7	punct	7:punct	Vform=.|Translit=.
@@ -49510,7 +49510,7 @@
 3	ك	هُوَ	PRON	SP---2MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=ka|Vform=كَ
 4	هذا	هٰذَا	DET	SD----MS4-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	5	det	5:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
 5	الأسبوع	أُسبُوع	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	2	nmod	2:nmod:acc	Vform=اَلأُسبُوعَ|Gloss=week|Root=s b `|Translit=al-ʾusbūʿa|LTranslit=ʾusbūʿ
-6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	cop	7:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 7	يوم	يَوم	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	0	root	0:root	Vform=يَومُ|Gloss=day,today|Root=y w m|Translit=yawmu|LTranslit=yawm
 8	الجمعة	جُمعَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	7	nmod	7:nmod:gen	SpaceAfter=No|Vform=اَلجُمعَةِ|Gloss=Friday|Root=^g m `|Translit=al-ǧumʿati|LTranslit=ǧumʿat
 9	.	.	PUNCT	G---------	_	7	punct	7:punct	Vform=.|Translit=.
@@ -49597,7 +49597,7 @@
 3	ك	هُوَ	PRON	SP---2MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=ka|Vform=كَ
 4	هذا	هٰذَا	DET	SD----MS4-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	5	det	5:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
 5	الأسبوع	أُسبُوع	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	2	nmod	2:nmod:acc	Vform=اَلأُسبُوعَ|Gloss=week|Root=s b `|Translit=al-ʾusbūʿa|LTranslit=ʾusbūʿ
-6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	cop	7:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 7	يوم	يَوم	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	0	root	0:root	Vform=يَومُ|Gloss=day,today|Root=y w m|Translit=yawmu|LTranslit=yawm
 8	الخميس	خَمِيس	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	7	nmod	7:nmod:gen	SpaceAfter=No|Vform=اَلخَمِيسِ|Gloss=Thursday|Root=_h m s|Translit=al-ḫamīsi|LTranslit=ḫamīs
 9	.	.	PUNCT	G---------	_	7	punct	7:punct	Vform=.|Translit=.
@@ -49718,7 +49718,7 @@
 3	ك	هُوَ	PRON	SP---2MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=ka|Vform=كَ
 4	هذا	هٰذَا	DET	SD----MS4-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	5	det	5:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
 5	الأسبوع	أُسبُوع	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	1	nmod	1:nmod:acc	Vform=اَلأُسبُوعَ|Gloss=week|Root=s b `|Translit=al-ʾusbūʿa|LTranslit=ʾusbūʿ
-6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	cop	7:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 7	يوم	يَوم	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	0	root	0:root	Vform=يَومُ|Gloss=day,today|Root=y w m|Translit=yawmu|LTranslit=yawm
 8	الخميس	خَمِيس	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	7	nmod	7:nmod:gen	SpaceAfter=No|Vform=اَلخَمِيسِ|Gloss=Thursday|Root=_h m s|Translit=al-ḫamīsi|LTranslit=ḫamīs
 9	.	.	PUNCT	G---------	_	7	punct	7:punct	Vform=.|Translit=.
@@ -49801,7 +49801,7 @@
 3	ك	هُوَ	PRON	SP---2MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=ka|Vform=كَ
 4	هذا	هٰذَا	DET	SD----MS4-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	5	det	5:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
 5	الأسبوع	أُسبُوع	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	2	nmod	2:nmod:acc	Vform=اَلأُسبُوعَ|Gloss=week|Root=s b `|Translit=al-ʾusbūʿa|LTranslit=ʾusbūʿ
-6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	cop	7:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 7	يوم	يَوم	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	0	root	0:root	Vform=يَومُ|Gloss=day,today|Root=y w m|Translit=yawmu|LTranslit=yawm
 8	الثلاثاء	ثُلَاثَاء	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	7	nmod	7:nmod:gen	SpaceAfter=No|Vform=اَلثُّلَاثَاءِ|Gloss=Tuesday|Root=_t l _t|Translit=aṯ-ṯulāṯāʾi|LTranslit=ṯulāṯāʾ
 9	.	.	PUNCT	G---------	_	7	punct	7:punct	Vform=.|Translit=.
@@ -53474,7 +53474,7 @@
 40	)	)	PUNCT	G---------	_	30	punct	30:punct	Vform=)|Translit=)
 41	لان	لِأَنَّ	CCONJ	C---------	_	44	mark	44:mark	Vform=لِأَنَّ|Gloss=because|Root=' n|Translit=li-ʾanna|LTranslit=li-ʾanna
 42	التجمع	تَجَمُّع	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	44	nsubj	44:nsubj	Vform=اَلتَّجَمُّعَ|Gloss=gathering,assembly|Root=^g m `|Translit=at-taǧammuʿa|LTranslit=taǧammuʿ
-43	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	44	nmod	44:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+43	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	44	cop	44:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 44	الذي	اَلَّذِي	DET	SR----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	24	obl	24:obl:لِأَنَّ	Vform=اَلَّذِي|Gloss=that,which|Root=l|Translit=allaḏī|LTranslit=allaḏī
 45	طلب	طَلَب	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	44	acl	44:acl	Vform=طَلَبَ|Gloss=request|Root=.t l b|Translit=ṭalaba|LTranslit=ṭalab
 46	تاجيل	تَأجِيل	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	45	obj	45:obj	Vform=تَأجِيلَ|Gloss=postponement,delay|Root=' ^g l|Translit=taʾǧīla|LTranslit=taʾǧīl
@@ -61285,7 +61285,7 @@
 23	و	وَ	CCONJ	C---------	_	27	cc	27:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
 24	المعالم	مَعلَم	NOUN	N------P1D	Case=Nom|Definite=Def|Number=Plur	27	nsubj	27:nsubj	Gloss=sign,mark,features,sights|LTranslit=maʿlam|Root=` l m|Translit=al-maʿālimu|Vform=اَلمَعَالِمُ
 25	الدينية	دِينِيّ	ADJ	A-----FS1D	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	24	amod	24:amod	Vform=اَلدِّينِيَّةُ|Gloss=religious|Root=d y n|Translit=ad-dīnīyatu|LTranslit=dīnīy
-26	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	nmod	27:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+26	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	cop	27:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 27	احدى	إِحدَى	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	3	conj	1:parataxis|3:conj	Vform=إِحدَى|Gloss=one,someone|Root=' .h d|Translit=ʾiḥdā|LTranslit=ʾiḥdā
 28	اهم	أَهَمّ	ADJ	A-----MS2R	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	27	nmod	27:nmod:gen	Vform=أَهَمِّ|Gloss=more_/_most_important|Root=h m m|Translit=ʾahammi|LTranslit=ʾahamm
 29	هذه	هٰذَا	DET	SD----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	30	det	30:det	Vform=هٰذِهِ|Gloss=this,these|Root=h|Translit=hāḏihi|LTranslit=hāḏā
@@ -69253,7 +69253,7 @@
 32	الاتصالات	اِتِّصَال	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	30	nmod	30:nmod:لِ:gen	Gloss=contact,communication,connection,relation,relationship|LTranslit=ittiṣāl|Root=w .s l|Translit=al-i-ʼttiṣālāti|Vform=اَلِاتِّصَالَاتِ
 33	قيمة	قِيمَة	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	29	obj	29:obj	Vform=قِيمَةَ|Gloss=value,worth,amount,quantity|Root=q w m|Translit=qīmata|LTranslit=qīmat
 34	الرخصة	رُخصَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	33	nmod	33:nmod:gen	Vform=اَلرُّخصَةِ|Gloss=license,permit|Root=r _h .s|Translit=ar-ruḫṣati|LTranslit=ruḫṣat
-35	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	40	nmod	40:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+35	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	40	cop	40:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 36	في	فِي	ADP	P---------	AdpType=Prep	37	case	37:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
 37	حد	حَدّ	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	40	nmod	40:nmod:فِي:gen	Vform=حَدِّ|Gloss=extent,limit,border,frontier,stop,halt|Root=.h d d|Translit=ḥaddi|LTranslit=ḥadd
 38-39	ذاتها	_	_	_	_	_	_	_	_
@@ -71145,7 +71145,7 @@
 10	«	«	PUNCT	G---------	_	9	punct	9:punct	Vform=«|Translit=Â«
 11	ان	إِنَّ	SCONJ	C---------	_	14	mark	14:mark	Vform=إِنَّ|Gloss=that|Root=' n|Translit=ʾinna|LTranslit=ʾinna
 12	الطرق	طَرِيقَة	NOUN	N------P4D	Case=Acc|Definite=Def|Number=Plur	14	nsubj	14:nsubj|45:nsubj	Vform=اَلطُّرُقَ|Gloss=method,procedure,manners|Root=.t r q|Translit=aṭ-ṭuruqa|LTranslit=ṭarīqat
-13	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nmod	14:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+13	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	cop	14:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 14	طريق	طَرِيق	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	2	obj	2:obj	Vform=طَرِيقٌ|Gloss=road,way|Root=.t r q|Translit=ṭarīqun|LTranslit=ṭarīq
 15	يربط	رَبَط	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	14	acl	14:acl	Vform=يَربُطُ|Gloss=tie,connect|Root=r b .t|Translit=yarbuṭu|LTranslit=rabaṭ
 16	بين	بَينَ	ADP	PI------4-	AdpType=Prep|Case=Acc	17	case	17:case	Vform=بَينَ|Gloss=between,among|Root=b y n|Translit=bayna|LTranslit=bayna
@@ -74216,7 +74216,7 @@
 # sent_id = alhayat.20010911.0033:p15u1
 # text = هل يستمر هذا الوضع الى أن يأتي طرف ما، بأحد أسلحة الدمار الشامل يستعمله ضد اسرائيل؟ اليورانيوم المشع، من مستوى عسكري، يهرب من روسيا كل يوم، وكذلك الأسلحة الكيماوية والجرثومية، وقد ضبطت محاولات عديدة حتى الآن. غير ان هذه مثل العمليات الفدائية في اسرائيل، فقد تضبط محاولة واثنتان، وعشرون، إلا انه لا يمكن ضبط كل محاولة، وقد تقع كارثة حقيقية في النهاية تبدو العمليات الانتحارية معها من نوع الألعاب النارية بالمقارنة.
 # orig_file_sentence HYT_ARB_20010911.0033#15
-1	هل	هَل	AUX	F---------	_	2	aux	2:aux	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
+1	هل	هَل	PART	F---------	_	2	discourse	2:discourse	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
 2	يستمر	اِستَمَرّ	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	0:root	Vform=يَستَمِرُّ|Gloss=continue,last|Root=m r r|Translit=yastamirru|LTranslit=istamarr
 3	هذا	هٰذَا	DET	SD----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	4:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
 4	الوضع	وَضع	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	2	nsubj	2:nsubj	Vform=اَلوَضعُ|Gloss=laying_down,putting,placing|Root=w .d `|Translit=al-waḍʿu|LTranslit=waḍʿ
@@ -75803,7 +75803,7 @@
 48	إصابات	إِصَابَة	NOUN	N------P1R	Case=Nom|Definite=Cons|Number=Plur	47	obj	47:obj	Gloss=casualty,injury|LTranslit=ʾiṣābat|Root=.s w b|Translit=ʾiṣābātu|Vform=إِصَابَاتُ
 49	هم	هُوَ	PRON	SP---3MP2-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	48	nmod	48:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hum|Vform=هُم
 50	،	،	PUNCT	G---------	_	49	punct	49:punct	Vform=،|Translit=,
-51	هم	هُوَ	PRON	SP---3MP1-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	53	dep	53:dep|56:dep|59:dep	Vform=هُم|Gloss=he,she,it|Translit=hum|LTranslit=huwa
+51	هم	هُوَ	PRON	SP---3MP1-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	53	cop	53:cop|56:cop|59:cop	Vform=هُم|Gloss=he,she,it|Translit=hum|LTranslit=huwa
 52	هشام	هشام	X	U---------	_	53	nmod	53:nmod	Vform=هشام|Root=OOV|Translit=hšām
 53	محمد	مُحَمَّد	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	23	xcomp	23:xcomp	Vform=مُحَمَّدٌ|Gloss=Muhammad,Mohamed|Root=.h m d|Translit=muḥammadun|LTranslit=muḥammad
 54-55	وجبار	_	_	_	_	_	_	_	_
@@ -77040,13 +77040,13 @@
 57	هناك	هُنَاكَ	ADV	D---------	_	61	advmod	61:advmod	Vform=هُنَاكَ|Gloss=there|Root=hunA|Translit=hunāka|LTranslit=hunāka
 58	اجترار	اِجتِرَار	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	61	nsubj	61:nsubj	Vform=اِجتِرَارُ|Gloss=ruminate,repeat|Root=^g r r|Translit=iǧtirāru|LTranslit=iǧtirār
 59	الماضي	مَاضِي	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	58	nmod	58:nmod:gen	Vform=اَلمَاضِي|Gloss=past|Root=m .d y|Translit=al-māḍī|LTranslit=māḍī
-60	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	61	nmod	61:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+60	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	61	cop	61:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 61	الموضوع	مَوضُوع	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	3	parataxis	3:parataxis	SpaceAfter=No|Vform=اَلمَوضُوعُ|Gloss=subject,theme,issue|Root=w .d `|Translit=al-mawḍūʿu|LTranslit=mawḍūʿ
 62	.	.	PUNCT	G---------	_	3	punct	3:punct	Vform=.|Translit=.
 63	هنا	هُنَا	ADV	D---------	_	67	advmod	67:advmod	Vform=هُنَا|Gloss=here|Root=hunA|Translit=hunā|LTranslit=hunā
 64	اجتراح	اجتراح	X	U---------	_	67	nsubj	67:nsubj	Vform=اجتراح|Root=OOV|Translit=āǧtrāḥ
 65	المستقبل	مُستَقبَل	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	64	nmod	64:nmod:gen	Vform=اَلمُستَقبَلِ|Gloss=future|Root=q b l|Translit=al-mustaqbali|LTranslit=mustaqbal
-66	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	67	nmod	67:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+66	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	67	cop	67:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 67	المسألة	مَسأَلَة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	3	parataxis	3:parataxis	SpaceAfter=No|Vform=اَلمَسأَلَةُ|Gloss=issue,affair,matter,question|Root=s ' l|Translit=al-masʾalatu|LTranslit=masʾalat
 68	.	.	PUNCT	G---------	_	3	punct	3:punct	Vform=.|Translit=.
 69-70	والمستقبل	_	_	_	_	_	_	_	_
@@ -79160,7 +79160,7 @@
 115	يهم	يهم	X	U---------	_	114	nmod	114:nmod	Vform=يهم|Root=OOV|Translit=yhm
 116	الولايات	وِلَايَة	NOUN	N------P4D	Case=Acc|Definite=Def|Number=Plur	115	obj	115:obj	Vform=اَلوِلَايَاتِ|Gloss=state,province|Root=w l y|Translit=al-wilāyāti|LTranslit=wilāyat
 117	المتحدة	مُتَّحِد	ADJ	A-----FS4D	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	116	amod	116:amod	Vform=اَلمُتَّحِدَةَ|Gloss=united|Root=w .h d|Translit=al-muttaḥidata|LTranslit=muttaḥid
-118	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	120	nmod	120:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+118	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	120	cop	120:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 119	»	»	PUNCT	G---------	_	120	punct	120:punct	SpaceAfter=No|Vform=»|Translit=Â»
 120	جمع	جَمع	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	112	obj	112:obj	Vform=جَمعُ|Gloss=gathering,collection,joining|Root=^g m `|Translit=ǧamʿu|LTranslit=ǧamʿ
 121	المعلومات	مَعلُومَة	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	120	nmod	120:nmod:gen	Vform=اَلمَعلُومَاتِ|Gloss=information,known_fact,data|Root=` l m|Translit=al-maʿlūmāti|LTranslit=maʿlūmat
@@ -80007,7 +80007,7 @@
 71	نوعاً	نَوع	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	75	nsubj	75:nsubj	Vform=نَوعًا|Gloss=type,kind,form|Root=n w `|Translit=nawʿan|LTranslit=nawʿ
 72	من	مِن	ADP	P---------	AdpType=Prep	73	case	73:case	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
 73	البكتــيريا	بَكتِيرِيَا	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	71	nmod	71:nmod:مِن:gen	Vform=اَلبَكتِيرِيَا|Gloss=bacteria|Root=baktIr|Translit=al-baktīriyā|LTranslit=baktīriyā
-74	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	75	nmod	75:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+74	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	75	cop	75:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 75	السبب	سَبَب	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	63	iobj	63:iobj	SpaceAfter=No|Vform=اَلسَّبَبُ|Gloss=reason,cause|Root=s b b|Translit=as-sababu|LTranslit=sabab
 76	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 77-78	ولم	_	_	_	_	_	_	_	_
@@ -81451,7 +81451,7 @@
 22-23	وحدها	_	_	_	_	_	_	_	_
 22	وحد	وَحد	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	21	nmod	21:nmod:acc	Gloss=self,by_oneself,alone,only|LTranslit=waḥd|Root=w .h d|Translit=waḥda|Vform=وَحدَ
 23	ها	هُوَ	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	22	nmod	22:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hā|Vform=هَا
-24	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	nmod	25:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+24	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	cop	25:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 25	الضمانة	ضَمَانَة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	18	obj	18:obj	Vform=اَلضَّمَانَةُ|Gloss=guarantee,security,insurance|Root=.d m n|Translit=aḍ-ḍamānatu|LTranslit=ḍamānat
 26-27	والملاذ	_	_	_	_	_	_	_	_
 26	و	وَ	CCONJ	C---------	_	27	cc	27:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
@@ -82405,7 +82405,7 @@
 57	أن	أَنَّ	SCONJ	C---------	_	61	mark	61:mark	Gloss=that|LTranslit=ʾanna|Root=' n|Translit=ʾanna|Vform=أَنَّ
 58	الارهاب	إِرهَاب	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	61	nsubj	61:nsubj	Vform=اَلإِرهَابَ|Gloss=terrorism,terrorizing|Root=r h b|Translit=al-ʾirhāba|LTranslit=ʾirhāb
 59	الاسلامي	إِسلَامِيّ	ADJ	A-----MS4D	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	58	amod	58:amod	Vform=اَلإِسلَامِيَّ|Gloss=Islamic,Islamist,Muslim|Root=s l m|Translit=al-ʾislāmīya|LTranslit=ʾislāmīy
-60	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	61	nmod	61:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+60	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	61	cop	61:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 61	العدو	عَدُوّ	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	49	obl:arg	49:obl:arg:أَنَّ	Vform=اَلعَدُوُّ|Gloss=enemy|Root=` d w|Translit=al-ʿadūwu|LTranslit=ʿadūw
 62	الاول	أَوَّل	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	61	amod	61:amod	Vform=اَلأَوَّلُ|Gloss=first,foremost,early|Root=' w l|Translit=al-ʾawwalu|LTranslit=ʾawwal
 63-64	للعالم	_	_	_	_	_	_	_	_
@@ -82522,7 +82522,7 @@
 19	في	فِي	ADP	P---------	AdpType=Prep	20	case	20:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
 20	الولايات	وِلَايَة	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	18	obl	18:obl:فِي:gen	Vform=اَلوِلَايَاتِ|Gloss=state,province|Root=w l y|Translit=al-wilāyāti|LTranslit=wilāyat
 21	المتحدة	مُتَّحِد	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	20	amod	20:amod	Vform=اَلمُتَّحِدَةِ|Gloss=united|Root=w .h d|Translit=al-muttaḥidati|LTranslit=muttaḥid
-22	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nmod	23:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+22	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	cop	23:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 23	هجوم	هُجُوم	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	15	nsubj	15:nsubj	Vform=هُجُومٌ|Gloss=attack,charge,assault|Root=h ^g m|Translit=huǧūmun|LTranslit=huǧūm
 24	ارهابي	إِرهَابِيّ	ADJ	A-----MS1I	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	23	amod	23:amod	Vform=إِرهَابِيٌّ|Gloss=terrorist|Root=r h b|Translit=ʾirhābīyun|LTranslit=ʾirhābīy
 25-26	فإن	_	_	_	_	_	_	_	_
@@ -90167,7 +90167,7 @@
 14	حول	حَولَ	ADP	PI------4-	AdpType=Prep|Case=Acc	15	case	15:case	Vform=حَولَ|Gloss=around,about|Root=.h w l|Translit=ḥawla|LTranslit=ḥawla
 15	تصريحات	تَصرِيح	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	12	obl:arg	12:obl:arg:حَولَ:gen	Vform=تَصرِيحَاتِ|Gloss=declaration,statement|Root=.s r .h|Translit=taṣrīḥāti|LTranslit=taṣrīḥ
 16	جيم	جيم	X	U---------	_	15	nmod	15:nmod	Vform=جيم|Root=OOV|Translit=ǧym
-17	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+17	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	cop	7:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 18-19	أنه	_	_	_	_	_	_	_	_
 18	أن	أَنَّ	SCONJ	C---------	ExtPos=SCONJ	20	mark	20:mark	Gloss=that|LTranslit=ʾanna|Root=' n|Translit=ʾanna|Vform=أَنَّ
 19	ه	هُوَ	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	fixed	18:fixed	Gloss=he,she,it|LTranslit=huwa|Translit=hu|Vform=هُ
@@ -91407,7 +91407,7 @@
 32-33	وانقرة	_	_	_	_	_	_	_	_
 32	و	وَ	CCONJ	C---------	_	33	cc	33:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
 33	أنقرة	أَنقَرَة	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	31	conj	28:dep|31:conj	Gloss=Ankara|LTranslit=ʾanqarat|Root='anqar|Translit=ʾanqaratu|Vform=أَنقَرَةُ
-34	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	nmod	35:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+34	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	cop	35:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 35	وضع	وَضع	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	13	obj	13:obj	Vform=وَضعُ|Gloss=laying_down,putting,placing|Root=w .d `|Translit=waḍʿu|LTranslit=waḍʿ
 36	الادارة	إِدَارَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	35	nmod	35:nmod:gen	Vform=اَلإِدَارَةِ|Gloss=administration,management,bureau|Root=d w r|Translit=al-ʾidārati|LTranslit=ʾidārat
 37	الكردية	كُردِيّ	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	36	amod	36:amod	Vform=اَلكُردِيَّةِ|Gloss=Kurdish,Kurds|Root=k r d|Translit=al-kurdīyati|LTranslit=kurdīy
@@ -91543,7 +91543,7 @@
 5	احد	أَحَد	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	9	nsubj	9:nsubj	Vform=أَحَدَ|Gloss=one,someone|Root=' .h d|Translit=ʾaḥada|LTranslit=ʾaḥad
 6	تلك	ذٰلِكَ	DET	SD----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	7	det	7:det	Vform=تِلكَ|Gloss=that,those|Root=k|Translit=tilka|LTranslit=ḏālika
 7	الخطوط	خَطّ	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	5	nmod	5:nmod:gen	Vform=اَلخُطُوطِ|Gloss=line|Root=_h .t .t|Translit=al-ḫuṭūṭi|LTranslit=ḫaṭṭ
-8	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	9:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+8	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	cop	9:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 9	التحرك	تَحَرُّك	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	2	obl:arg	2:obl:arg:أَنَّ	Vform=اَلتَّحَرُّكِ|Gloss=movement,motion,activity|Root=.h r k|Translit=at-taḥarruki|LTranslit=taḥarruk
 10	الى	إِلَى	ADP	P---------	AdpType=Prep	11	case	11:case	Vform=إِلَى|Gloss=to,towards|Root=' l y|Translit=ʾilā|LTranslit=ʾilā
 11	المنطقة	مِنطَقَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	9	nmod	9:nmod:إِلَى:gen	Vform=اَلمِنطَقَةِ|Gloss=area,zone,territory|Root=n .t q|Translit=al-minṭaqati|LTranslit=minṭaqat
@@ -92868,7 +92868,7 @@
 50	في	فِي	ADP	P---------	AdpType=Prep	51	case	51:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
 51	مجلس	مَجلِس	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	47	nmod	47:nmod:فِي:gen	Vform=مَجلِسِ|Gloss=council,board,Majlis|Root=^g l s|Translit=maǧlisi|LTranslit=maǧlis
 52	الأمة	أُمَّة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	51	nmod	51:nmod:gen	Vform=اَلأُمَّةِ|Gloss=nation,people|Root=' m m|Translit=al-ʾummati|LTranslit=ʾummat
-53	هم	هُوَ	PRON	SP---3MP1-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	54	nmod	54:nmod:nom	Vform=هُم|Gloss=he,she,it|Translit=hum|LTranslit=huwa
+53	هم	هُوَ	PRON	SP---3MP1-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	54	cop	54:cop	Vform=هُم|Gloss=he,she,it|Translit=hum|LTranslit=huwa
 54	مَن	مَن	DET	S---------	PronType=Int	43	obl:arg	43:obl:arg:عَلَى:gen	Vform=مَن|Gloss=who|Root=man|Translit=man|LTranslit=man
 55-56	له	_	_	_	_	_	_	_	_
 55	ل	لِ	ADP	P---------	AdpType=Prep	56	case	56:case	Gloss=for,to|LTranslit=li|Root=l|Translit=la|Vform=لَ
@@ -97543,7 +97543,7 @@
 32	ب	بِ	ADP	P---------	AdpType=Prep	33	case	33:case	Gloss=by,with|LTranslit=bi|Root=bi|Translit=bi|Vform=بِ
 33	ها	هُوَ	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	31	obl:arg	31:obl:arg:بِ:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hā|Vform=هَا
 34	الحكومة	حُكُومَة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	31	nsubj	31:nsubj	Vform=اَلحُكُومَةُ|Gloss=government,administration|Root=.h k m|Translit=al-ḥukūmatu|LTranslit=ḥukūmat
-35	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	36	nmod	36:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+35	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	36	cop	36:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 36	التي	اَلَّذِي	DET	SR----FS1-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	23	obj	23:obj	Vform=اَلَّتِي|Gloss=that,which|Root=l|Translit=allatī|LTranslit=allaḏī
 37-38	سيسمح	_	_	_	_	_	_	_	_
 37	س	سَ	AUX	F---------	_	38	aux:pass	38:aux:pass	Gloss=will|LTranslit=sa|Root=sa|Translit=sa|Vform=سَ
@@ -99798,7 +99798,7 @@
 29-30	سيتم	_	_	_	_	_	_	_	_
 29	س	سَ	AUX	F---------	_	30	aux	30:aux	Gloss=will|LTranslit=sa|Root=sa|Translit=sa|Vform=سَ
 30	يتم	تَمّ	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	28	acl	28:acl	Gloss=conclude,take_place|LTranslit=tamm|Root=t m m|Translit=yatimmu|Vform=يَتِمُّ
-31	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nmod	28:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+31	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	cop	28:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 32	تصفية	تَصفِيَة	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	28	nsubj	28:nsubj	Vform=تَصفِيَةُ|Gloss=settlement|Root=.s f w|Translit=taṣfiyatu|LTranslit=taṣfiyat
 33	حصص	حِصَّة	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	32	nmod	32:nmod:gen	Vform=حِصَصِ|Gloss=share,portion,quota|Root=.h .s .s|Translit=ḥiṣaṣi|LTranslit=ḥiṣṣat
 34	المال	مَال	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	33	nmod	33:nmod:gen	Vform=اَلمَالِ|Gloss=money,capital,funds,assets|Root=m w l|Translit=al-māli|LTranslit=māl
@@ -101249,7 +101249,7 @@
 30	ب	بِ	ADP	P---------	AdpType=Prep	31	case	31:case	Gloss=by,with|LTranslit=bi|Root=bi|Translit=bi|Vform=بِ
 31	رمة	رُمَّة	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	28	nmod	28:nmod:بِ:gen	Gloss=entire,complete|LTranslit=rummat|Root=r m m|Translit=rummati|Vform=رُمَّةِ
 32	ها	هُوَ	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	31	nmod	31:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hā|Vform=هَا
-33	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	34	nmod	34:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+33	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	34	cop	34:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 34	بيع	بَيع	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	7	conj	2:ccomp|7:conj	Vform=بَيعٌ|Gloss=sale|Root=b y `|Translit=bayʿun|LTranslit=bayʿ
 35-36	لمشاريع	_	_	_	_	_	_	_	_
 35	ل	لِ	ADP	P---------	AdpType=Prep	36	case	36:case	Gloss=for,to|LTranslit=li|Root=l|Translit=li|Vform=لِ
@@ -102548,7 +102548,7 @@
 17	ثبات	ثَبَات	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	21	nsubj	21:nsubj	Vform=ثَبَاتَ|Gloss=reliability,constancy|Root=_t b t|Translit=ṯabāta|LTranslit=ṯabāt
 18	سعر	سِعر	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	17	nmod	17:nmod:gen	Vform=سِعرِ|Gloss=price,rate|Root=s ` r|Translit=siʿri|LTranslit=siʿr
 19	الصرف	صَرف	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	18	nmod	18:nmod:gen	Vform=اَلصَّرفِ|Gloss=diverting,spending|Root=.s r f|Translit=aṣ-ṣarfi|LTranslit=ṣarf
-20	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nmod	21:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+20	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	cop	21:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 21	الخطأ	خَطَأ	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	15	obj	15:obj	SpaceAfter=No|Vform=اَلخَطَأُ|Gloss=mistake,error,fault|Root=_h .t '|Translit=al-ḫaṭaʾu|LTranslit=ḫaṭaʾ
 22	،	،	PUNCT	G---------	_	21	punct	21:punct	Vform=،|Translit=,
 23-24	وان	_	_	_	_	_	_	_	_
@@ -103305,10 +103305,10 @@
 68	مهمة	مَهَمَّة	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	72	nsubj	72:nsubj	Gloss=task,assignment,mission|LTranslit=mahammat|Root=h m m|Translit=mahammata|Vform=مَهَمَّةَ
 69	ه	هُوَ	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	68	nmod	68:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hu|Vform=هُ
 70	الاولى	أَوَّل	ADJ	A-----FS4D	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	68	amod	68:amod	Vform=اَلأُولَى|Gloss=first,foremost,early|Root=' w l|Translit=al-ʾūlā|LTranslit=ʾawwal
-71	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	72	nmod	72:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+71	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	72	cop	72:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 72	معرفة	مَعرِفَة	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	50	obj	50:obj	Vform=مَعرِفَةُ|Gloss=knowledge,information,acquaintance,culture,education|Root=` r f|Translit=maʿrifatu|LTranslit=maʿrifat
 73	»	»	PUNCT	G---------	_	75	punct	75:punct	SpaceAfter=No|Vform=»|Translit=Â»
-74	هل	هَل	AUX	F---------	_	75	aux	75:aux	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
+74	هل	هَل	PART	F---------	_	75	discourse	75:discourse	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
 75	يريد	أَرَاد	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	72	acl	72:acl	Vform=يُرِيدُ|Gloss=want,desire,intend|Root=r w d|Translit=yurīdu|LTranslit=ʾarād
 76	السياسيون	سِيَاسِيّ	NOUN	N------P1D	Case=Nom|Definite=Def|Number=Plur	75	nsubj	75:nsubj	Vform=اَلسِّيَاسِيُّونَ|Gloss=politician,statesman|Root=s w s|Translit=as-siyāsīyūna|LTranslit=siyāsīy
 77	السلام	سَلَام	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	75	obj	75:obj	Vform=اَلسَّلَامَ|Gloss=peace|Root=s l m|Translit=as-salāma|LTranslit=salām
@@ -103672,7 +103672,7 @@
 105-106	والسريع	_	_	_	_	_	_	_	_
 105	و	وَ	CCONJ	C---------	_	106	cc	106:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
 106	السريع	سَرِيع	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	104	conj	103:amod|104:conj	Gloss=quick,prompt|LTranslit=sarīʿ|Root=s r `|Translit=as-sarīʿu|Vform=اَلسَّرِيعُ
-107	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	108	nmod	108:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+107	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	108	cop	108:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 108	رفع	رَفع	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	81	conj	2:parataxis|81:conj	Vform=رَفعُ|Gloss=raising,lifting,increasing|Root=r f `|Translit=rafʿu|LTranslit=rafʿ
 109	سعر	سِعر	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	108	nmod	108:nmod:gen	Vform=سِعرِ|Gloss=price,rate|Root=s ` r|Translit=siʿri|LTranslit=siʿr
 110	صرف	صَرف	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	109	nmod	109:nmod:gen	Vform=صَرفِ|Gloss=diverting,spending|Root=.s r f|Translit=ṣarfi|LTranslit=ṣarf
@@ -104220,7 +104220,7 @@
 8	سوريا	سُورِيَا	X	X---------	Foreign=Yes	6	conj	4:nmod:بَينَ:gen|6:conj	Gloss=Syria|LTranslit=sūriyā|Root=sUr|Translit=sūriyā|Vform=سُورِيَا
 9	حول	حَولَ	ADP	PI------4-	AdpType=Prep|Case=Acc	10	case	10:case	Vform=حَولَ|Gloss=around,about|Root=.h w l|Translit=ḥawla|LTranslit=ḥawla
 10	لبنان	لُبنَان	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	4	nmod	4:nmod:حَولَ:gen	Vform=لُبنَانَ|Gloss=Lebanon|Root=lubnAn|Translit=lubnāna|LTranslit=lubnān
-11	هل	هَل	AUX	F---------	_	12	aux	12:aux	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
+11	هل	هَل	PART	F---------	_	12	discourse	12:discourse	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
 12	يُعقل	عَقَّل	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	0:root	Vform=يُعَقِّلُ|Gloss=make_reasonable|Root=` q l|Translit=yuʿaqqilu|LTranslit=ʿaqqal
 13	أن	أَن	SCONJ	C---------	_	14	mark	14:mark	Vform=أَن|Gloss=to|Root=' n|Translit=ʾan|LTranslit=ʾan
 14	يراهن	رَاهَن	VERB	VISA-3MS--	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	12	csubj	12:csubj	Vform=يُرَاهِنَ|Gloss=wager,bet|Root=r h n|Translit=yurāhina|LTranslit=rāhan
@@ -104233,7 +104233,7 @@
 # sent_id = annahar.20021101.0003:p2u1
 # text = هل صحيح ان بعض "قرنة شهوان" "يجر البعض الآخر للرهان على الولايات المتحدة املاً في احداث تغيير داخلي يبدأ باضعاف دور سوريا في لبنان بعد ضرب العراق وان هذا الرهان هو الذي اهاج السلطة والموالين لها وحركها للوقوف بقوة ضد "قرنة شهوان" بهدف تصفيتها والغائها؟
 # orig_file_sentence NHR_ARB_20021101.0003#2
-1	هل	هَل	AUX	F---------	_	2	aux	2:aux	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
+1	هل	هَل	PART	F---------	_	2	discourse	2:discourse	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
 2	صحيح	صَحِيح	ADJ	A-----MS1I	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	0:root	Vform=صَحِيحٌ|Gloss=true,correct|Root=.s .h .h|Translit=ṣaḥīḥun|LTranslit=ṣaḥīḥ
 3	ان	أَنَّ	SCONJ	C---------	_	10	mark	10:mark	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
 4	بعض	بَعض	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	10	nsubj	10:nsubj	Vform=بَعضَ|Gloss=some,several|Root=b ` .d|Translit=baʿḍa|LTranslit=baʿḍ
@@ -104832,7 +104832,7 @@
 121	اوضح	أَوضَح	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	96	conj	1:parataxis|96:conj	Vform=أَوضَحَ|Gloss=clarify,explain,indicate|Root=w .d .h|Translit=ʾawḍaḥa|LTranslit=ʾawḍaḥ
 122	ان	أَنَّ	SCONJ	C---------	_	125	mark	125:mark	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
 123	هذا	هذا	X	U---------	_	125	nsubj	125:nsubj	Vform=هذا|Root=OOV|Translit=hḏā
-124	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	125	nmod	125:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+124	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	125	cop	125:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 125	رأي	رَأي	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	121	obj	121:obj	Vform=رَأيُ|Gloss=opinion,view,idea|Root=r ' y|Translit=raʾyu|LTranslit=raʾy
 126	الادارة	إِدَارَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	125	nmod	125:nmod:gen	Vform=اَلإِدَارَةِ|Gloss=administration,management,bureau|Root=d w r|Translit=al-ʾidārati|LTranslit=ʾidārat
 127	الاميركية	أَمِيرِكِيّ	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	126	amod	126:amod	Vform=اَلأَمِيرِكِيَّةِ|Gloss=American|Root='amIrik|Translit=al-ʾamīrikīyati|LTranslit=ʾamīrikīy
@@ -105198,7 +105198,7 @@
 8	اذا	إِذَا	CCONJ	C---------	_	12	mark	12:mark	Vform=إِذَا|Gloss=if,whether|Root='i_d|Translit=ʾiḏā|LTranslit=ʾiḏā
 9	كان	كَان	AUX	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	12	cop	12:cop	Vform=كَانَ|Gloss=be,is,exist|Root=k w n|Translit=kāna|LTranslit=kān
 10	هذا	هٰذَا	DET	SD----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	12:nsubj	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
-11	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod	12:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+11	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	cop	12:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 12	وضع	وَضع	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	2	advcl	2:advcl:إِذَا	Vform=وَضعُ|Gloss=laying_down,putting,placing|Root=w .d `|Translit=waḍʿu|LTranslit=waḍʿ
 13	العلاقات	عَلَاقَة	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	12	nmod	12:nmod:gen	Vform=اَلعَلَاقَاتِ|Gloss=connection,relation,link,ties,contacts,straps,cords|Root=` l q|Translit=al-ʿalāqāti|LTranslit=ʿalāqat
 14	الاميركية	أَمِيرِكِيّ	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	amod	13:amod	Vform=اَلأَمِيرِكِيَّةِ|Gloss=American|Root='amIrik|Translit=al-ʾamīrikīyati|LTranslit=ʾamīrikīy
@@ -105571,7 +105571,7 @@
 104-105	لأنها	_	_	_	_	_	_	_	_
 104	لأن	لِأَنَّ	CCONJ	C---------	_	107	mark	107:mark	Gloss=because|LTranslit=li-ʾanna|Root=' n|Translit=li-ʾanna|Vform=لِأَنَّ
 105	ها	هُوَ	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	107	nsubj	107:nsubj	Gloss=he,she,it|LTranslit=huwa|Translit=hā|Vform=هَا
-106	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	107	nmod	107:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+106	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	107	cop	107:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 107	الطريق	طَرِيق	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	84	obl	84:obl:لِأَنَّ|88:obl:لِأَنَّ|96:obl:لِأَنَّ	Vform=اَلطَّرِيقُ|Gloss=road,way|Root=.t r q|Translit=aṭ-ṭarīqu|LTranslit=ṭarīq
 108	الاوفر	أَوفَر	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	107	amod	107:amod	SpaceAfter=No|Vform=اَلأَوفَرُ|Gloss=more_/_most_ample,more_/_most_abundant|Root=w f r|Translit=al-ʾawfaru|LTranslit=ʾawfar
 109	؟	؟	PUNCT	G---------	_	1	punct	1:punct	Vform=؟|Translit=?
@@ -105645,7 +105645,7 @@
 6-7	للمنطقة	_	_	_	_	_	_	_	_
 6	ل	لِ	ADP	P---------	AdpType=Prep	7	case	7:case	Gloss=for,to|LTranslit=li|Root=l|Translit=li|Vform=لِ
 7	المنطقة	مِنطَقَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	2	nmod	2:nmod:لِ:gen	Gloss=area,zone,territory|LTranslit=minṭaqat|Root=n .t q|Translit=al-minṭaqati|Vform=اَلمِنطَقَةِ
-8	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	9:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+8	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	cop	9:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 9	المشروع	مَشرُوع	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	0	root	0:root	Vform=اَلمَشرُوعُ|Gloss=project,enterprise|Root=^s r `|Translit=al-mašrūʿu|LTranslit=mašrūʿ
 10	الأميركي	أَمِيرِكِيّ	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	amod	9:amod	Vform=اَلأَمِيرِكِيُّ|Gloss=American|Root='amIrik|Translit=al-ʾamīrikīyu|LTranslit=ʾamīrikīy
 
@@ -105767,7 +105767,7 @@
 55	المصطلحات	مُصطَلَح	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	52	obl	52:obl:بِ:gen	Gloss=technical_term,terminology|LTranslit=muṣṭalaḥ|Root=.s l .h|Translit=al-muṣṭalaḥāti|Vform=اَلمُصطَلَحَاتِ
 56	الاميركية	أَمِيرِكِيّ	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	55	amod	55:amod	Vform=اَلأَمِيرِكِيَّةِ|Gloss=American|Root='amIrik|Translit=al-ʾamīrikīyati|LTranslit=ʾamīrikīy
 57	-	-	PUNCT	G---------	_	55	punct	55:punct	Vform=-|Translit=-
-58	هل	هَل	AUX	F---------	_	59	aux	59:aux	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
+58	هل	هَل	PART	F---------	_	59	discourse	59:discourse	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
 59	يعني	عَنَى	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	52	csubj	52:csubj	Vform=يَعنِي|Gloss=mean,signify,concern|Root=` n y|Translit=yaʿnī|LTranslit=ʿanā
 60	ذلك	ذلك	X	U---------	_	59	nsubj	59:nsubj	Vform=ذلك|Root=OOV|Translit=ḏlk
 61	اسقاط	اسقاط	X	U---------	_	59	obj	59:obj	Vform=اسقاط|Root=OOV|Translit=āsqāṭ
@@ -105796,7 +105796,7 @@
 # sent_id = annahar.20021101.0004:p4u1
 # text = هل هناك في هذه "اللحظة" مشروع تغييري آخر في المنطقة؟
 # orig_file_sentence NHR_ARB_20021101.0004#4
-1	هل	هَل	AUX	F---------	_	2	aux	2:aux	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
+1	هل	هَل	PART	F---------	_	2	discourse	2:discourse	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
 2	هناك	هُنَاكَ	ADV	D---------	_	0	root	0:root	Vform=هُنَاكَ|Gloss=there|Root=hunA|Translit=hunāka|LTranslit=hunāka
 3	في	فِي	ADP	P---------	AdpType=Prep	6	case	6:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
 4	هذه	هٰذَا	DET	SD----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	6	det	6:det	Vform=هٰذِهِ|Gloss=this,these|Root=h|Translit=hāḏihi|LTranslit=hāḏā
@@ -106388,7 +106388,7 @@
 13	النهاية	نِهَايَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	11	nmod	11:nmod:gen	Vform=اَلنِّهَايَةِ|Gloss=end,termination|Root=n h y|Translit=an-nihāyati|LTranslit=nihāyat
 14	الفكرية	فِكرِيّ	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	amod	13:amod	Vform=اَلفِكرِيَّةِ|Gloss=intellectual,mental,spiritual|Root=f k r|Translit=al-fikrīyati|LTranslit=fikrīy
 15	المحزنة	المحزنة	X	U---------	_	13	nmod	13:nmod	Vform=المحزنة|Root=OOV|Translit=ālmḥznat
-16	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	nmod	17:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+16	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	cop	17:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 17-18	تعبيرها	_	_	_	_	_	_	_	_
 17	تعبير	تَعبِير	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	5	obj	5:obj	Gloss=expression|LTranslit=taʿbīr|Root=` b r|Translit=taʿbīru|Vform=تَعبِيرُ
 18	ها	هُوَ	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	nmod	17:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hā|Vform=هَا
@@ -106461,7 +106461,7 @@
 3	-	-	PUNCT	G---------	_	2	punct	2:punct	Vform=-|Translit=-
 4	فكريا	فِكرِيّ	ADJ	A-----MS4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	1	nmod	1:nmod:acc	Vform=فِكرِيًّا|Gloss=intellectual,mental,spiritual|Root=f k r|Translit=fikrīyan|LTranslit=fikrīy
 5	-	-	PUNCT	G---------	_	4	punct	4:punct	Vform=-|Translit=-
-6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	cop	7:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 7	كيفية	كَيفِيَّة	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	0	root	0:root	Vform=كَيفِيَّةُ|Gloss=manner,mode,way|Root=k y f|Translit=kayfīyatu|LTranslit=kayfīyat
 8	انقاذ	انقاذ	X	U---------	_	7	nmod	7:nmod	Vform=انقاذ|Root=OOV|Translit=ānqāḏ
 9	"	"	PUNCT	G---------	_	10	punct	10:punct	SpaceAfter=No|Vform="|Translit="
@@ -106498,7 +106498,7 @@
 33-34	بما	_	_	_	_	_	_	_	_
 33	ب	بِ	ADP	P---------	AdpType=Prep|ExtPos=ADP	34	case	34:case	Gloss=by,with|LTranslit=bi|Root=bi|Translit=bi|Vform=بِ
 34	ما	مَا	DET	S---------	PronType=Int	18	conj	10:nmod:بِ:gen|18:conj	Gloss=what,which|LTranslit=mā|Root=mA|Translit=mā|Vform=مَا
-35	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	34	obl	34:obl:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+35	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	34	cop	34:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 36	في	فِي	ADP	P---------	AdpType=Prep	33	fixed	33:fixed	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
 37-38	تعريفها	_	_	_	_	_	_	_	_
 37	تعريف	تَعرِيف	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	34	obl:arg	34:obl:arg:gen	Gloss=identification,notification|LTranslit=taʿrīf|Root=` r f|Translit=taʿrīfi|Vform=تَعرِيفِ
@@ -106618,7 +106618,7 @@
 17	"	"	PUNCT	G---------	_	18	punct	18:punct	SpaceAfter=No|Vform="|Translit="
 18	فتح	فَتح	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	16	nmod	16:nmod:gen	SpaceAfter=No|Vform=فَتحِ|Gloss=Fatah_(_PLO_branch_)|Root=f t .h|Translit=fatḥi|LTranslit=fatḥ
 19	"	"	PUNCT	G---------	_	18	punct	18:punct	Vform="|Translit="
-20	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	nmod	21:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+20	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	cop	21:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 21	الاستثناء	اِستِثنَاء	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	52	parataxis	52:parataxis	Vform=اَلِاستِثنَاءُ|Gloss=exception,exclusion|Root=_t n y|Translit=al-i-ʼstiṯnāʾu|LTranslit=istiṯnāʾ
 22	الايجابي	إِيجَابِيّ	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	21	amod	21:amod	Vform=اَلإِيجَابِيُّ|Gloss=positive,affirmative|Root=w ^g b|Translit=al-ʾīǧābīyu|LTranslit=ʾīǧābīy
 23-24	لحالة	_	_	_	_	_	_	_	_
@@ -106872,7 +106872,7 @@
 # sent_id = annahar.20021101.0004:p18u1
 # text = هل لا تزال "الوطنية العربية" قادرة على الخروج من رجعيتها الحالية كمجرد قوة دفاع عن اوضاع قائمة مفلسة... لكي يكون ممكنا مواجهة السياسة الاميركية بما هو قادر على كسر وحدانية مشروعها التغييري؟
 # orig_file_sentence NHR_ARB_20021101.0004#18
-1	هل	هَل	AUX	F---------	_	3	aux	3:aux	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
+1	هل	هَل	PART	F---------	_	3	discourse	3:discourse	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
 2	لا	لَا	PART	F---------	_	3	advmod	3:advmod	Vform=لَا|Gloss=no,not|Root=lA|Translit=lā|LTranslit=lā
 3	تزال	زَال	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	0:root	Vform=تَزَالُ|Gloss=cease,stop_being,stop_doing|Root=z y l|Translit=tazālu|LTranslit=zāl
 4	"	"	PUNCT	G---------	_	5	punct	5:punct	SpaceAfter=No|Vform="|Translit="
@@ -107369,7 +107369,7 @@
 44	الوحدة	وَحدَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	40	obl:arg	40:obl:arg:إِلَى:gen	Vform=اَلوَحدَةِ|Gloss=unity,oneness,unit|Root=w .h d|Translit=al-waḥdati|LTranslit=waḥdat
 45	الوطنية	وَطَنِيّ	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	44	amod	44:amod	Vform=اَلوَطَنِيَّةِ|Gloss=nationalist|Root=w .t n|Translit=al-waṭanīyati|LTranslit=waṭanīy
 46	التي	اَلَّذِي	DET	SR----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	48	nsubj	48:nsubj	Vform=اَلَّتِي|Gloss=that,which|Root=l|Translit=allatī|LTranslit=allaḏī
-47	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	48	dep	48:dep	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+47	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	48	cop	48:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 48	القاعدة	قَاعِدَة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	44	nmod	44:nmod:nom	Vform=اَلقَاعِدَةُ|Gloss=base|Root=q ` d|Translit=al-qāʿidatu|LTranslit=qāʿidat
 49	الوحيدة	وَحِيد	ADJ	A-----FS1D	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	48	amod	48:amod	Vform=اَلوَحِيدَةُ|Gloss=only,sole,alone,exclusive|Root=w .h d|Translit=al-waḥīdatu|LTranslit=waḥīd
 50-51	للعافية	_	_	_	_	_	_	_	_
@@ -108273,7 +108273,7 @@
 4	و	وَ	CCONJ	C---------	_	5	cc	5:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
 5	صاعدا	صَاعِد	ADJ	A-----MS4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	conj	3:conj|8:obl:مِن:gen	Gloss=henceforth,upward|LTranslit=ṣāʿid|Root=.s ` d|Translit=ṣāʿidan|Vform=صَاعِدًا
 6	شارون	شَارُون	X	X---------	Foreign=Yes	8	nsubj	8:nsubj	Vform=شَارُون|Gloss=Sharon|Root=^sArUn|Translit=šārūn|LTranslit=šārūn
-7	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	8:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+7	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	cop	8:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 8	رئيس	رَئِيس	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	1	parataxis	1:parataxis	Vform=رَئِيسُ|Gloss=president,head,chairman|Root=r ' s|Translit=raʾīsu|LTranslit=raʾīs
 9	حكومة	حُكُومَة	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	8	nmod	8:nmod:gen	Vform=حُكُومَةٍ|Gloss=government,administration|Root=.h k m|Translit=ḥukūmatin|LTranslit=ḥukūmat
 10	لا	لَا	PART	F---------	_	11	advmod	11:advmod	Vform=لَا|Gloss=no,not|Root=lA|Translit=lā|LTranslit=lā
@@ -108850,7 +108850,7 @@
 88	.	.	PUNCT	G---------	_	2	punct	2:punct	Vform=.|Translit=.
 89	هؤلاء	هؤلاء	X	U---------	_	92	nsubj	92:nsubj	Vform=هؤلاء|Root=OOV|Translit=hʾulāʾ
 90	ما	مَا	PART	F---------	_	92	case	92:case	Vform=مَا|Gloss=not|Root=mA|Translit=mā|LTranslit=mā
-91	هم	هُوَ	PRON	SP---3MP1-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	92	nmod	92:nmod:nom	Vform=هُم|Gloss=he,she,it|Translit=hum|LTranslit=huwa
+91	هم	هُوَ	PRON	SP---3MP1-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	92	cop	92:cop	Vform=هُم|Gloss=he,she,it|Translit=hum|LTranslit=huwa
 92	غير	غَير	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	2	parataxis	2:parataxis	Vform=غَيرَ|Gloss=other,unlike,not,non_-|Root=.g y r|Translit=ġayra|LTranslit=ġayr
 93	مكلفين	مُكَلَّف	ADJ	A-----MP2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	92	nmod	92:nmod:gen	Vform=مُكَلَّفِينَ|Gloss=commissioned_with,charged_with,responsible_for|Root=k l f|Translit=mukallafīna|LTranslit=mukallaf
 94	ادارة	إِدَارَة	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	93	nmod	93:nmod:acc	Vform=إِدَارَةَ|Gloss=administration,management,bureau|Root=d w r|Translit=ʾidārata|LTranslit=ʾidārat
@@ -109276,7 +109276,7 @@
 44	،	،	PUNCT	G---------	_	43	punct	43:punct	Vform=،|Translit=,
 45	سواء	سَوَاء	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	50	nmod	50:nmod:acc	Vform=سَوَاءً|Gloss=except,whether|Root=s w y|Translit=sawāʾan|LTranslit=sawāʾ
 46-47	أكان	_	_	_	_	_	_	_	_
-46	أ	أَ	AUX	F---------	_	49	aux	49:aux	Gloss=whether,indeed|LTranslit=ʾa|Root='a|Translit=ʾa|Vform=أَ
+46	أ	أَ	PART	F---------	_	49	discourse	49:discourse	Gloss=whether,indeed|LTranslit=ʾa|Root='a|Translit=ʾa|Vform=أَ
 47	كان	كَان	AUX	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	49	cop	49:cop	Gloss=be,is,exist|LTranslit=kān|Root=k w n|Translit=kāna|Vform=كَانَ
 48	هذا	هٰذَا	DET	SD----MS4-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	49	det	49:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
 49	الغرض	غَرَض	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	34	advcl	34:advcl	Vform=اَلغَرَضَ|Gloss=goal,purpose,objective|Root=.g r .d|Translit=al-ġaraḍa|LTranslit=ġaraḍ
@@ -109581,7 +109581,7 @@
 58-59	والكاتب	_	_	_	_	_	_	_	_
 58	و	وَ	CCONJ	C---------	_	1	cc	1:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
 59	الكاتب	كَاتِب	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	61	nsubj	61:nsubj	Gloss=writer,author,clerk|LTranslit=kātib|Root=k t b|Translit=al-kātibu|Vform=اَلكَاتِبُ
-60	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	61	nmod	61:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+60	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	61	cop	61:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 61	ذاك	ذَاكَ	DET	SD----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	1	parataxis	1:parataxis	Vform=ذَاكَ|Gloss=that|Root=k|Translit=ḏāka|LTranslit=ḏāka
 62	الذي	اَلَّذِي	DET	SR----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	61	det	61:det	Vform=اَلَّذِي|Gloss=that,which|Root=l|Translit=allaḏī|LTranslit=allaḏī
 63	ابتعد	اِبتَعَد	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	61	acl	61:acl	Vform=اِبتَعَدَ|Gloss=move_away,eschew|Root=b ` d|Translit=ibtaʿada|LTranslit=ibtaʿad
@@ -109871,7 +109871,7 @@
 24	المصير	مَصِير	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	23	nmod	23:nmod:gen	SpaceAfter=No|Vform=اَلمَصِيرِ|Gloss=path,destiny,fate|Root=.s y r|Translit=al-maṣīri|LTranslit=maṣīr
 25	"	"	PUNCT	G---------	_	23	punct	23:punct	SpaceAfter=No|Vform="|Translit="
 26	؟	؟	PUNCT	G---------	_	1	punct	1:punct	Vform=؟|Translit=?
-27	هل	هَل	AUX	F---------	_	29	aux	29:aux	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
+27	هل	هَل	PART	F---------	_	29	discourse	29:discourse	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
 28	لا	لَا	PART	F---------	_	29	advmod	29:advmod	Vform=لَا|Gloss=no,not|Root=lA|Translit=lā|LTranslit=lā
 29	يزال	زَال	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	parataxis	1:parataxis	Vform=يَزَالُ|Gloss=cease,stop_being,stop_doing|Root=z y l|Translit=yazālu|LTranslit=zāl
 30	يصح	صَحّ	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	29	advcl:pred	29:advcl:pred	Vform=يَصِحُّ|Gloss=be_correct,be_true|Root=.s .h .h|Translit=yaṣiḥḥu|LTranslit=ṣaḥḥ
@@ -109885,7 +109885,7 @@
 38	التناحر	تَنَاحُر	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	37	nmod	37:nmod:gen	Vform=اَلتَّنَاحُرِ|Gloss=fight_each_other,kill_each_other|Root=n .h r|Translit=at-tanāḥuri|LTranslit=tanāḥur
 39	العربي	عَرَبِيّ	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	38	amod	38:amod	SpaceAfter=No|Vform=اَلعَرَبِيِّ|Gloss=Arabic,Arab|Root=` r b|Translit=al-ʿarabīyi|LTranslit=ʿarabīy
 40	؟	؟	PUNCT	G---------	_	1	punct	1:punct	Vform=؟|Translit=?
-41	هل	هَل	AUX	F---------	_	44	aux	44:aux	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
+41	هل	هَل	PART	F---------	_	44	discourse	44:discourse	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
 42	المؤتمرات	مُؤتَمَر	NOUN	N------P1D	Case=Nom|Definite=Def|Number=Plur	44	nsubj	44:nsubj	Vform=اَلمُؤتَمَرَاتُ|Gloss=conference,convention|Root=' m r|Translit=al-muʾtamarātu|LTranslit=muʾtamar
 43	الوطنية	وَطَنِيّ	ADJ	A-----FS1D	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	42	amod	42:amod	Vform=اَلوَطَنِيَّةُ|Gloss=nationalist|Root=w .t n|Translit=al-waṭanīyatu|LTranslit=waṭanīy
 44	ملحقة	مُلحَق	ADJ	A-----FS1I	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	1	parataxis	1:parataxis	Vform=مُلحَقَةٌ|Gloss=appended,adjacent,annexed|Root=l .h q|Translit=mulḥaqatun|LTranslit=mulḥaq
@@ -109907,7 +109907,7 @@
 55	ها	هُوَ	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	54	nmod	54:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hā|Vform=هَا
 56-57	وهل	_	_	_	_	_	_	_	_
 56	و	وَ	CCONJ	C---------	_	58	cc	58:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
-57	هل	هَل	AUX	F---------	_	58	aux	58:aux	Gloss=whether|LTranslit=hal|Root=hal|Translit=hal|Vform=هَل
+57	هل	هَل	PART	F---------	_	58	discourse	58:discourse	Gloss=whether|LTranslit=hal|Root=hal|Translit=hal|Vform=هَل
 58	تبرر	بَرَّر	VERB	VIJA-3FS--	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	44	conj	1:parataxis|44:conj	Vform=تُبَرِّر|Gloss=justify,warrant,vindicate,acquit|Root=b r r|Translit=tubarrir|LTranslit=barrar
 59	تأجيل	تَأجِيل	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	58	obj	58:obj	Vform=تَأجِيلَ|Gloss=postponement,delay|Root=' ^g l|Translit=taʾǧīla|LTranslit=taʾǧīl
 60	الخيار	خِيَار	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	59	nmod	59:nmod:gen	Vform=اَلخِيَارِ|Gloss=option,choice,selection|Root=_h y r|Translit=al-ḫiyāri|LTranslit=ḫiyār
@@ -110753,7 +110753,7 @@
 11	ان	أَنَّ	SCONJ	C---------	_	15	mark	15:mark	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
 12	هذا	هٰذَا	DET	SD----MS4-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	13	det	13:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
 13	البلد	بَلَد	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	15	nsubj	15:nsubj	Vform=اَلبَلَدَ|Gloss=country|Root=b l d|Translit=al-balada|LTranslit=balad
-14	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nmod	15:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+14	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	cop	15:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 15	نموذج	نَمُوذَج	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	9	nmod	9:nmod:أَنَّ	Vform=نَمُوذَجٌ|Gloss=sample,model|Root=n m _d ^g|Translit=namūḏaǧun|LTranslit=namūḏaǧ
 16-17	للاعتدال	_	_	_	_	_	_	_	_
 16	ل	لِ	ADP	P---------	AdpType=Prep	17	case	17:case	Gloss=for,to|LTranslit=li|Root=l|Translit=li|Vform=لِ
@@ -111358,7 +111358,7 @@
 172-173	فالموضوع	_	_	_	_	_	_	_	_
 172	ف	فَ	CCONJ	C---------	_	1	cc	1:cc	Gloss=and,so|LTranslit=fa|Root=fa|Translit=fa|Vform=فَ
 173	الموضوع	مَوضُوع	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	176	nsubj	176:nsubj|179:nsubj|185:nsubj|191:nsubj	Gloss=subject,theme,issue|LTranslit=mawḍūʿ|Root=w .d `|Translit=al-mawḍūʿu|Vform=اَلمَوضُوعُ
-174	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	176	nmod	176:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+174	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	176	cop	176:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 175-176	بالاثر	_	_	_	_	_	_	_	_
 175	ب	بِ	ADP	P---------	AdpType=Prep	176	case	176:case	Gloss=by,with|LTranslit=bi|Root=bi|Translit=bi|Vform=بِ
 176	الأثر	أَثَر	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	1	obl	1:obl:بِ:gen	Gloss=effect,trace|LTranslit=ʾaṯar|Root=' _t r|Translit=al-ʾaṯari|Vform=اَلأَثَرِ
@@ -111720,7 +111720,7 @@
 70-71	والتي	_	_	_	_	_	_	_	_
 70	و	وَ	CCONJ	C---------	_	67	cc	67:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
 71	التي	اَلَّذِي	DET	SR----FS1-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	73	nsubj	73:nsubj	Gloss=that,which|LTranslit=allaḏī|Root=l|Translit=allatī|Vform=اَلَّتِي
-72	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	73	dep	73:dep	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+72	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	73	cop	73:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 73	اولوية	أَولَوِيَّة	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	67	nmod	67:nmod:nom	Vform=أَولَوِيَّةٌ|Gloss=priority,precedence|Root=w l y|Translit=ʾawlawīyatun|LTranslit=ʾawlawīyat
 74-75	بالنسبة	_	_	_	_	_	_	_	_
 74	ب	بِ	ADP	P---------	AdpType=Prep|ExtPos=ADP	77	case	77:case	Gloss=by,with|LTranslit=bi|Root=bi|Translit=bi|Vform=بِ
@@ -111927,7 +111927,7 @@
 37	مخالفو	مُخَالِف	NOUN	N------P1R	Case=Nom|Definite=Cons|Number=Plur	1	parataxis	1:parataxis	Vform=مُخَالِفُو|Gloss=transgressor|Root=_h l f|Translit=muḫālifū|LTranslit=muḫālif
 38	المادة	مَادَّة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	37	nmod	37:nmod:gen	Vform=اَلمَادَّةِ|Gloss=substance,material|Root=m d d|Translit=al-māddati|LTranslit=māddat
 39	95	95	NUM	Q---------	NumForm=Digit	38	nummod	38:nummod	Vform=٩٥|Translit=95
-40	هم	هُوَ	PRON	SP---3MP1-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	37	nmod	37:nmod:nom	SpaceAfter=No|Vform=هُم|Gloss=he,she,it|Translit=hum|LTranslit=huwa
+40	هم	هُوَ	PRON	SP---3MP1-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	37	cop	37:cop	SpaceAfter=No|Vform=هُم|Gloss=he,she,it|Translit=hum|LTranslit=huwa
 41	:	:	PUNCT	G---------	_	42	punct	42:punct	Vform=:|Translit=:
 42	منذر	منذر	X	U---------	_	37	nsubj	37:nsubj	Vform=منذر|Root=OOV|Translit=mnḏr
 43-44	واميل	_	_	_	_	_	_	_	_
@@ -114282,7 +114282,7 @@
 36	الوطن	وَطَن	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	33	nmod	33:nmod:إِلَى:gen	Vform=اَلوَطَنِ|Gloss=nation,homeland|Root=w .t n|Translit=al-waṭani|LTranslit=waṭan
 37	القديم	قَدِيم	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	36	amod	36:amod	SpaceAfter=No|Vform=اَلقَدِيمِ|Gloss=old,ancient|Root=q d m|Translit=al-qadīmi|LTranslit=qadīm
 38	؟	؟	PUNCT	G---------	_	17	punct	17:punct	Vform=؟|Translit=?
-39	هل	هَل	AUX	F---------	_	42	aux	42:aux	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
+39	هل	هَل	PART	F---------	_	42	discourse	42:discourse	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
 40	يكون	كَان	AUX	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	42	cop	42:cop	Vform=يَكُونُ|Gloss=be,is,exist|Root=k w n|Translit=yakūnu|LTranslit=kān
 41	المهاجر	مُهَاجِر	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	42	nsubj	42:nsubj	Vform=اَلمُهَاجِرُ|Gloss=emigrant|Root=h ^g r|Translit=al-muhāǧiru|LTranslit=muhāǧir
 42	سعيدا	سَعِيد	ADJ	A-----MS4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	17	ccomp	17:ccomp	Vform=سَعِيدًا|Gloss=happy|Root=s ` d|Translit=saʿīdan|LTranslit=saʿīd
@@ -115418,7 +115418,7 @@
 42	بناء	بِنَاء	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	36	conj	36:conj|46:nsubj|51:nsubj|56:nsubj	Gloss=building,constructing|LTranslit=bināʾ|Root=b n y|Translit=bināʾa|Vform=بِنَاءَ
 43	مستقبل	مُستَقبَل	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	42	nmod	42:nmod:gen	Vform=مُستَقبَلٍ|Gloss=future|Root=q b l|Translit=mustaqbalin|LTranslit=mustaqbal
 44	مشترك	مُشتَرَك	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	43	amod	43:amod	Vform=مُشتَرَكٍ|Gloss=common,joint,collective|Root=^s r k|Translit=muštarakin|LTranslit=muštarak
-45	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	46	nmod	46:nmod:nom|51:nmod:nom|56:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+45	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	46	cop	46:cop|51:cop|56:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 46	حق	حَقّ	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	13	advcl	13:advcl:لِأَنَّ	Vform=حَقُّ|Gloss=truth,right,law|Root=.h q q|Translit=ḥaqqu|LTranslit=ḥaqq
 47	الاجيال	جِيل	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	46	nmod	46:nmod:gen	Vform=اَلأَجيَالِ|Gloss=generation,epoch|Root=^g y l|Translit=al-ʾaǧyāli|LTranslit=ǧīl
 48-49	علينا	_	_	_	_	_	_	_	_
@@ -115666,7 +115666,7 @@
 29	المتطرف	مُتَطَرِّف	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	28	amod	28:amod	Vform=اَلمُتَطَرِّفِ|Gloss=extremist,radical|Root=.t r f|Translit=al-mutaṭarrifi|LTranslit=mutaṭarrif
 30	المسيحي	مَسِيحِيّ	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	28	amod	28:amod	Vform=اَلمَسِيحِيِّ|Gloss=Christian|Root=m s .h|Translit=al-masīḥīyi|LTranslit=masīḥīy
 31	الاميركي	الاميركي	X	U---------	_	28	nmod	28:nmod	Vform=الاميركي|Root=OOV|Translit=ālāmyrky
-32	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	33	nmod	33:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+32	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	33	cop	33:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 33	ذات	ذَات	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	7	parataxis	7:parataxis	Vform=ذَاتُ|Gloss=self,being,essence|Root=_d|Translit=ḏātu|LTranslit=ḏāt
 34	دلالة	دَلَالَة	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	33	obl:arg	33:obl:arg:gen	Vform=دَلَالَةٍ|Gloss=meaning,indication|Root=d l l|Translit=dalālatin|LTranslit=dalālat
 35-36	لنزع	_	_	_	_	_	_	_	_
@@ -117628,7 +117628,7 @@
 13	هذا	هٰذَا	DET	SD----MS2-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	14	det	14:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
 14	المؤتمر	مُؤتَمَر	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	9	obl	9:obl:فِي:gen	Vform=اَلمُؤتَمَرِ|Gloss=conference,convention|Root=' m r|Translit=al-muʾtamari|LTranslit=muʾtamar
 15	ما	مَا	DET	S---------	PronType=Int	9	obj	9:obj	Vform=مَا|Gloss=what,which|Root=mA|Translit=mā|LTranslit=mā
-16	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nmod	15:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+16	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	cop	15:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 17	الاتحاد	اِتِّحَاد	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	15	nsubj	15:nsubj	Vform=اَلِاتِّحَادُ|Gloss=union|Root=w .h d|Translit=al-i-ʼttiḥādu|LTranslit=ittiḥād
 18	الذي	اَلَّذِي	DET	SR----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	19	nsubj	19:nsubj	Vform=اَلَّذِي|Gloss=that,which|Root=l|Translit=allaḏī|LTranslit=allaḏī
 19	نتطلع	نتطلع	X	U---------	_	17	nmod	17:nmod	Vform=نتطلع|Root=OOV|Translit=ntṭlʿ
@@ -117770,7 +117770,7 @@
 4	"	"	PUNCT	G---------	_	2	punct	2:punct	SpaceAfter=No|Vform="|Translit="
 5	ان	إِنَّ	SCONJ	C---------	_	8	mark	8:mark	Vform=إِنَّ|Gloss=that|Root=' n|Translit=ʾinna|LTranslit=ʾinna
 6	المؤتمر	مُؤتَمَر	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	8	nsubj	8:nsubj|24:nsubj	Vform=اَلمُؤتَمَرَ|Gloss=conference,convention|Root=' m r|Translit=al-muʾtamara|LTranslit=muʾtamar
-7	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	8:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+7	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	cop	8:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 8	رسالة	رِسَالَة	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	2	obj	2:obj	Vform=رِسَالَةُ|Gloss=letter,communication,dissertation,messages|Root=r s l|Translit=risālatu|LTranslit=risālat
 9	تضامن	تَضَامُن	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	8	nmod	8:nmod:gen	Vform=تَضَامُنٍ|Gloss=solidarity,cooperation|Root=.d m n|Translit=taḍāmunin|LTranslit=taḍāmun
 10	قوية	قَوِيّ	ADJ	A-----FS1I	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	8	amod	8:amod	Vform=قَوِيَّةٌ|Gloss=strong,powerful|Root=q w y|Translit=qawīyatun|LTranslit=qawīy
@@ -121557,7 +121557,7 @@
 32	ما	مَا	DET	S---------	PronType=Int	36	nsubj	36:nsubj	Vform=مَا|Gloss=what,which|Root=mA|Translit=mā|LTranslit=mā
 33	آثار	آثار	X	U---------	_	32	nmod	32:nmod	Vform=آثار|Root=OOV|Translit=ʾāṯār
 34	الانتباه	اِنتِبَاه	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	33	obj	33:obj	Vform=اَلِانتِبَاهَ|Gloss=attention,caution,vigilance|Root=n b h|Translit=al-i-ʼntibāha|LTranslit=intibāh
-35	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	nmod	36:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+35	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	cop	36:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 36	ما	مَا	DET	S---------	PronType=Int	1	parataxis	1:parataxis	Vform=مَا|Gloss=what,which|Root=mA|Translit=mā|LTranslit=mā
 37	كشف	كَشَف	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	36	acl	36:acl	Vform=كَشَفَ|Gloss=discover,reveal,disclose,examine|Root=k ^s f|Translit=kašafa|LTranslit=kašaf
 38	عن	عَن	ADP	P---------	AdpType=Prep	44	mark	44:mark	Vform=عَن|Gloss=about,from|Root=`an|Translit=ʿan|LTranslit=ʿan
@@ -124428,7 +124428,7 @@
 23	مع	مَعَ	ADP	PI------4-	AdpType=Prep|Case=Acc	24	case	24:case	Vform=مَعَ|Gloss=with|Root=ma`|Translit=maʿa|LTranslit=maʿa
 24	السوق	سُوق	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	22	nmod	22:nmod:مَعَ:gen	Vform=اَلسُّوقِ|Gloss=market|Root=s w q|Translit=as-sūqi|LTranslit=sūq
 25	السوداني	سُودَانِيّ	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	24	amod	24:amod	Vform=اَلسُّودَانِيِّ|Gloss=Sudanese|Root=s w d|Translit=as-sūdānīyi|LTranslit=sūdānīy
-26	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nmod	27:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+26	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	cop	27:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 27	تبادل	تَبَادُل	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	18	obj	18:obj	Vform=تَبَادُلُ|Gloss=exchange|Root=b d l|Translit=tabādulu|LTranslit=tabādul
 28	سلع	سِلعَة	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	27	nmod	27:nmod:gen	Vform=سِلَعٍ|Gloss=commodity,commercial_article,commercial_goods|Root=s l `|Translit=silaʿin|LTranslit=silʿat
 29-30	بسلع	_	_	_	_	_	_	_	_
@@ -125437,7 +125437,7 @@
 5	من	مِن	ADP	P---------	AdpType=Prep	6	case	6:case	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
 6	صناع	صَانِع	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	4	nmod	4:nmod:مِن:gen	Vform=صُنَّاعِ|Gloss=manufacturer,producer,artisan|Root=.s n `|Translit=ṣunnāʿi|LTranslit=ṣāniʿ
 7	النسيج	نَسِيج	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	6	nmod	6:nmod:gen	Vform=اَلنَّسِيجِ|Gloss=textile,fabric,tissue|Root=n s ^g|Translit=an-nasīǧi|LTranslit=nasīǧ
-8	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	9:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+8	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	cop	9:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 9	رفض	رَفض	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	1	obj	1:obj	Vform=رَفضُ|Gloss=rejection,refusal|Root=r f .d|Translit=rafḍu|LTranslit=rafḍ
 10	التعامل	تَعَامُل	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	9	nmod	9:nmod:gen	Vform=اَلتَّعَامُلِ|Gloss=relations,dealings|Root=` m l|Translit=at-taʿāmuli|LTranslit=taʿāmul
 11	مع	مَعَ	ADP	PI------4-	AdpType=Prep|Case=Acc	12	case	12:case	Vform=مَعَ|Gloss=with|Root=ma`|Translit=maʿa|LTranslit=maʿa
@@ -126038,7 +126038,7 @@
 43	أن	أَنَّ	SCONJ	C---------	_	47	mark	47:mark	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
 44	عملية	عَمَلِيَّة	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	47	nsubj	47:nsubj	Vform=عَمَلِيَّةَ|Gloss=operation,mission,process|Root=` m l|Translit=ʿamalīyata|LTranslit=ʿamalīyat
 45	التشاور	تَشَاوُر	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	44	nmod	44:nmod:gen	Vform=اَلتَّشَاوُرِ|Gloss=deliberation,joint_consultation|Root=^s w r|Translit=at-tašāwuri|LTranslit=tašāwur
-46	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	47	nmod	47:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+46	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	47	cop	47:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 47	خطوة	خَطوَة	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	42	obj	42:obj	Vform=خَطوَةٌ|Gloss=step,stride|Root=_h .t w|Translit=ḫaṭwatun|LTranslit=ḫaṭwat
 48	أولى	أَوَّل	ADJ	A-----FS1I	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	47	amod	47:amod	Vform=أُولَى|Gloss=first,foremost,early|Root=' w l|Translit=ʾūlā|LTranslit=ʾawwal
 49	في	فِي	ADP	P---------	AdpType=Prep	50	case	50:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
@@ -132856,7 +132856,7 @@
 28	سبب	سَبَب	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	32	nsubj	32:nsubj	Vform=سَبَبَ|Gloss=reason,cause|Root=s b b|Translit=sababa|LTranslit=sabab
 29	هذا	هٰذَا	DET	SD----MS2-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	30	det	30:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
 30	الاتجاه	اِتِّجَاه	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	28	nmod	28:nmod:gen	Vform=اَلِاتِّجَاهِ|Gloss=direction,course|Root=w ^g h|Translit=al-i-ʼttiǧāhi|LTranslit=ittiǧāh
-31	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	nmod	32:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+31	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	cop	32:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 32	تقليل	تَقلِيل	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	2	obj	2:obj	Vform=تَقلِيلُ|Gloss=decrease,diminution,reduction|Root=q l l|Translit=taqlīlu|LTranslit=taqlīl
 33	تكلفة	تَكلِفَة	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	32	nmod	32:nmod:gen	Vform=تَكلِفَةِ|Gloss=cost,expense,charge|Root=k l f|Translit=taklifati|LTranslit=taklifat
 34	الأموال	مَال	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	33	nmod	33:nmod:gen	Vform=اَلأَموَالِ|Gloss=money,capital,funds,assets|Root=m w l|Translit=al-ʾamwāli|LTranslit=māl
@@ -133790,7 +133790,7 @@
 69	أرباح	رِبح	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	68	nmod	68:nmod:gen	Vform=أَربَاحِ|Gloss=profit,interest,dividends,revenues|Root=r b .h|Translit=ʾarbāḥi|LTranslit=ribḥ
 70	المركزي	مَركَزِيّ	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	69	amod	69:amod	Vform=اَلمَركَزِيِّ|Gloss=central|Root=r k z|Translit=al-markazīyi|LTranslit=markazīy
 71	التي	اَلَّذِي	DET	SR----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	73	nsubj	73:nsubj	Vform=اَلَّتِي|Gloss=that,which|Root=l|Translit=allatī|LTranslit=allaḏī
-72	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	73	dep	73:dep	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+72	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	73	cop	73:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 73	جزء	جُزء	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	69	nmod	69:nmod:nom	Vform=جُزءٌ|Gloss=section,piece,portion,part,fraction|Root=^g z '|Translit=ǧuzʾun|LTranslit=ǧuzʾ
 74	هام	هَامّ	ADJ	A-----MS1I	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	73	amod	73:amod	Vform=هَامٌّ|Gloss=important,significant|Root=h m m|Translit=hāmmun|LTranslit=hāmm
 75	من	مِن	ADP	P---------	AdpType=Prep	76	case	76:case	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
@@ -137174,7 +137174,7 @@
 7	موائد	مَائِدَة	NOUN	N------P1R	Case=Nom|Definite=Cons|Number=Plur	5	nsubj	5:nsubj	Vform=مَوَائِدُ|Gloss=table|Root=m y d|Translit=mawāʾidu|LTranslit=māʾidat
 8	الرحمن	الرحمن	X	U---------	_	7	nmod	7:nmod	SpaceAfter=No|Vform=الرحمن|Root=OOV|Translit=ālrḥmn
 9	"	"	PUNCT	G---------	_	7	punct	7:punct	Vform="|Translit="
-10	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obl	5:obl:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+10	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	cop	11:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 11	نجم	نَجم	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	5	xcomp	5:xcomp	Vform=نَجمُ|Gloss=star,constellation|Root=n ^g m|Translit=naǧmu|LTranslit=naǧm
 12	شهر	شَهر	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	11	nmod	11:nmod:gen	Vform=شَهرِ|Gloss=month|Root=^s h r|Translit=šahri|LTranslit=šahr
 13	رمضان	رَمَضَان	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	12	nmod	12:nmod:gen	SpaceAfter=No|Vform=رَمَضَانَ|Gloss=Ramadan|Root=r m .d|Translit=ramaḍāna|LTranslit=ramaḍān
@@ -139534,7 +139534,7 @@
 11	من	مِن	ADP	P---------	AdpType=Prep	13	case	13:case	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
 12	هذه	هٰذَا	DET	SD----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	13	det	13:det	Vform=هٰذِهِ|Gloss=this,these|Root=h|Translit=hāḏihi|LTranslit=hāḏā
 13	الأسر	أُسرَة	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	9	nmod	9:nmod:مِن:gen	Vform=اَلأُسَرِ|Gloss=family,community|Root=' s r|Translit=al-ʾusari|LTranslit=ʾusrat
-14	هم	هُوَ	PRON	SP---3MP1-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	nmod	15:nmod:nom	Vform=هُم|Gloss=he,she,it|Translit=hum|LTranslit=huwa
+14	هم	هُوَ	PRON	SP---3MP1-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	cop	15:cop	Vform=هُم|Gloss=he,she,it|Translit=hum|LTranslit=huwa
 15	أبناء	اِبن	NOUN	N------P1R	Case=Nom|Definite=Cons|Number=Plur	2	obj	2:obj	Vform=أَبنَاءُ|Gloss=son,child|Root=b n w|Translit=ʾabnāʾu|LTranslit=ibn
 16	أزواج	زَوج	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	15	nmod	15:nmod:gen	Vform=أَزوَاجٍ|Gloss=husband,spouse,married_couple|Root=z w ^g|Translit=ʾazwāǧin|LTranslit=zawǧ
 17	سودانيين	سُودَانِيّ	ADJ	A-----MP2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	16	amod	16:amod	Vform=سُودَانِيِّينَ|Gloss=Sudanese|Root=s w d|Translit=sūdānīyīna|LTranslit=sūdānīy
@@ -140410,7 +140410,7 @@
 43-44	نفسه	_	_	_	_	_	_	_	_
 43	نفس	نَفس	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	42	nmod	42:nmod:gen	Gloss=same,self|LTranslit=nafs|Root=n f s|Translit=nafsi|Vform=نَفسِ
 44	ه	هُوَ	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	43	nmod	43:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hi|Vform=هِ
-45	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	46	nmod	46:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+45	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	46	cop	46:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 46	شهيد	شَهِيد	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	16	obj	16:obj	SpaceAfter=No|Vform=شَهِيدٌ|Gloss=martyr|Root=^s h d|Translit=šahīdun|LTranslit=šahīd
 47	،	،	PUNCT	G---------	_	48	punct	48:punct	Vform=،|Translit=,
 48	شهيد	شَهِيد	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	46	conj	16:obj|46:conj	SpaceAfter=No|Vform=شَهِيدٌ|Gloss=martyr|Root=^s h d|Translit=šahīdun|LTranslit=šahīd
@@ -143823,7 +143823,7 @@
 23	شؤون	شَأن	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	20	conj	18:obl:arg:بِ:gen|20:conj	Gloss=matter,affair,concern,regard|LTranslit=šaʾn|Root=^s ' n|Translit=šuʾūni|Vform=شُؤُونِ
 24	ها	هُوَ	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nmod	23:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hā|Vform=هَا
 25	اليوم	يَوم	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	20	nmod	20:nmod:acc|23:nmod:acc	Vform=اَليَومَ|Gloss=day,today|Root=y w m|Translit=al-yawma|LTranslit=yawm
-26	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nmod	27:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+26	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	cop	27:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 27	السعي	سَعي	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	13	obj	13:obj	Vform=اَلسَّعيُ|Gloss=endeavor,pursuit|Root=s ` y|Translit=as-saʿyu|LTranslit=saʿy
 28-29	لإرجاع	_	_	_	_	_	_	_	_
 28	ل	لِ	ADP	P---------	AdpType=Prep	29	case	29:case	Gloss=for,to|LTranslit=li|Root=l|Translit=li|Vform=لِ
@@ -144078,7 +144078,7 @@
 5	وصلنا	وَصَل	VERB	VP-A-1MP--	Aspect=Perf|Gender=Masc|Number=Plur|Person=1|Voice=Act	1	parataxis	1:parataxis	SpaceAfter=No|Vform=وَصَلنَا|Gloss=arrive_at,reach|Root=w .s l|Translit=waṣalnā|LTranslit=waṣal
 6	،	،	PUNCT	G---------	_	5	punct	5:punct	Vform=،|Translit=,
 7	هذه	هٰذَا	DET	SD----FS1-	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	9	nsubj	9:nsubj	Vform=هٰذِهِ|Gloss=this,these|Root=h|Translit=hāḏihi|LTranslit=hāḏā
-8	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nmod	9:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+8	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	cop	9:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 9	مفاتيح	مِفتَاح	NOUN	N------P1R	Case=Nom|Definite=Cons|Number=Plur	1	parataxis	1:parataxis	Vform=مَفَاتِيحُ|Gloss=key,switch,wrench|Root=f t .h|Translit=mafātīḥu|LTranslit=miftāḥ
 10	المواقف	مَوقِف	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	9	nmod	9:nmod:gen|13:nsubj	Vform=اَلمَوَاقِفِ|Gloss=position|Root=w q f|Translit=al-mawāqifi|LTranslit=mawqif
 11	العملية	عَمَلِيّ	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	amod	10:amod	Vform=اَلعَمَلِيَّةِ|Gloss=practical,pragmatic,in_practice|Root=` m l|Translit=al-ʿamalīyati|LTranslit=ʿamalīy
@@ -144362,7 +144362,7 @@
 3	قدمت	قَدَّم	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	1	acl:relcl	1:acl:relcl	Gloss=offer,present,introduce|LTranslit=qaddam|Root=q d m|Translit=qaddamat|Vform=قَدَّمَت
 4	ه	هُوَ	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	3:obj	Gloss=he,she,it|LTranslit=huwa|Translit=hu|Vform=هُ
 5	الدراسة	دِرَاسَة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	3	dep	3:dep	Vform=اَلدِّرَاسَةُ|Gloss=study,research|Root=d r s|Translit=ad-dirāsatu|LTranslit=dirāsat
-6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	cop	7:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 7	الكشف	كَشف	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	0	root	0:root	Vform=اَلكَشفُ|Gloss=report,revelation,disclosure,examination|Root=k ^s f|Translit=al-kašfu|LTranslit=kašf
 8	عن	عَن	ADP	P---------	AdpType=Prep	13	mark	13:mark	Vform=عَن|Gloss=about,from|Root=`an|Translit=ʿan|LTranslit=ʿan
 9	أن	أَنَّ	SCONJ	C---------	_	13	mark	13:mark	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
@@ -144700,7 +144700,7 @@
 34	إلى	إِلَى	ADP	P---------	AdpType=Prep	35	case	35:case	Vform=إِلَى|Gloss=to,towards|Root=' l y|Translit=ʾilā|LTranslit=ʾilā
 35	الخليج	خَلِيج	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	24	obl	24:obl:إِلَى:gen|26:obl:إِلَى:gen	SpaceAfter=No|Vform=اَلخَلِيجِ|Gloss=Persian_Gulf|Root=_h l ^g|Translit=al-ḫalīǧi|LTranslit=ḫalīǧ
 36	،	،	PUNCT	G---------	_	35	punct	35:punct	Vform=،|Translit=,
-37	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	38	nmod	38:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+37	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	38	cop	38:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 38	تجربة	تَجرِبَة	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	9	obj	9:obj	Vform=تَجرِبَةٌ|Gloss=experience,experiment|Root=^g r b|Translit=taǧribatun|LTranslit=taǧribat
 39	فاشلة	فَاشِل	ADJ	A-----FS1I	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	38	amod	38:amod	SpaceAfter=No|Vform=فَاشِلَةٌ|Gloss=failing,unsuccessful|Root=f ^s l|Translit=fāšilatun|LTranslit=fāšil
 40	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
@@ -144737,9 +144737,9 @@
 23	موقع	مَوقِع	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	15	obl	15:obl:إِلَى:gen	Vform=مَوقِعِ|Gloss=position,location,site|Root=w q `|Translit=mawqiʿi|LTranslit=mawqiʿ
 24	العدو	عَدُوّ	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	23	nmod	23:nmod:gen	SpaceAfter=No|Vform=اَلعَدُوِّ|Gloss=enemy|Root=` d w|Translit=al-ʿadūwi|LTranslit=ʿadūw
 25	،	،	PUNCT	G---------	_	24	punct	24:punct	Vform=،|Translit=,
-26	كما	كَمَا	CCONJ	C---------	_	51	cc	51:cc	Vform=كَمَا|Gloss=and,as,also|Root=ka|Translit=kamā|LTranslit=kamā
-27	أن	أَنَّ	SCONJ	C---------	_	51	cc	51:cc	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
-28	العلاقة	عَلَاقَة	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	51	nsubj	51:nsubj	Vform=اَلعَلَاقَةَ|Gloss=connection,relation,link,ties,contacts,straps,cords|Root=` l q|Translit=al-ʿalāqata|LTranslit=ʿalāqat
+26	كما	كَمَا	CCONJ	C---------	_	52	cc	52:cc	Vform=كَمَا|Gloss=and,as,also|Root=ka|Translit=kamā|LTranslit=kamā
+27	أن	أَنَّ	SCONJ	C---------	_	52	cc	52:cc	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
+28	العلاقة	عَلَاقَة	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	52	nsubj	52:nsubj	Vform=اَلعَلَاقَةَ|Gloss=connection,relation,link,ties,contacts,straps,cords|Root=` l q|Translit=al-ʿalāqata|LTranslit=ʿalāqat
 29	مع	مَعَ	ADP	PI------4-	AdpType=Prep|Case=Acc	30	case	30:case	Vform=مَعَ|Gloss=with|Root=ma`|Translit=maʿa|LTranslit=maʿa
 30	السعودية	سَعُودِيَّة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	28	nmod	28:nmod:مَعَ:gen|33:nsubj	SpaceAfter=No|Vform=اَلسَّعُودِيَّةِ|Gloss=Saudi_Arabia|Root=s ` d|Translit=as-saʿūdīyati|LTranslit=saʿūdīyat
 31	،	،	PUNCT	G---------	_	30	punct	30:punct	Vform=،|Translit=,
@@ -144763,9 +144763,9 @@
 47	المشرق	مَشرِق	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	46	nmod	46:nmod:gen	Vform=اَلمَشرِقِ|Gloss=East,Levant|Root=^s r q|Translit=al-mašriqi|LTranslit=mašriq
 48	العربي	عَرَبِيّ	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	47	amod	47:amod	SpaceAfter=No|Vform=اَلعَرَبِيِّ|Gloss=Arabic,Arab|Root=` r b|Translit=al-ʿarabīyi|LTranslit=ʿarabīy
 49	،	،	PUNCT	G---------	_	48	punct	48:punct	Vform=،|Translit=,
-50	لم	لَم	PART	F---------	_	51	advmod	51:advmod	Vform=لَم|Gloss=not|Root=lam|Translit=lam|LTranslit=lam
-51	تعد	عَاد	VERB	VIJA-3FS--	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	6	conj	1:parataxis|6:conj	Vform=تَعُد|Gloss=return,go_back,no_longer|Root=` w d|Translit=taʿud|LTranslit=ʿād
-52	مصدراً	مَصدَر	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	51	xcomp	51:xcomp	Vform=مَصدَرًا|Gloss=source|Root=.s d r|Translit=maṣdaran|LTranslit=maṣdar
+50	لم	لَم	PART	F---------	_	52	advmod	52:advmod	Vform=لَم|Gloss=not|Root=lam|Translit=lam|LTranslit=lam
+51	تعد	عَاد	VERB	VIJA-3FS--	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	52	advcl	52:advcl	Vform=تَعُد|Gloss=return,go_back,no_longer|Root=` w d|Translit=taʿud|LTranslit=ʿād
+52	مصدراً	مَصدَر	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	6	conj	1:parataxis|6:conj	Vform=مَصدَرًا|Gloss=source|Root=.s d r|Translit=maṣdaran|LTranslit=maṣdar
 53-54	للاطمئنان	_	_	_	_	_	_	_	_
 53	ل	لِ	ADP	P---------	AdpType=Prep	54	case	54:case	Gloss=for,to|LTranslit=li|Root=l|Translit=li|Vform=لِ
 54	الاطمئنان	اِطمِئنَان	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	52	nmod	52:nmod:لِ:gen	Gloss=tranquillity,serenity|LTranslit=iṭmiʾnān|Root=.t m ' n|Translit=al-i-ʼṭmiʾnāni|Vform=اَلِاطمِئنَانِ
@@ -145334,7 +145334,7 @@
 25	في	فِي	ADP	P---------	AdpType=Prep	26	case	26:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
 26	الولايات	وِلَايَة	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	23	nmod	23:nmod:فِي:gen	Vform=اَلوِلَايَاتِ|Gloss=state,province|Root=w l y|Translit=al-wilāyāti|LTranslit=wilāyat
 27	المتحدة	مُتَّحِد	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	26	amod	26:amod	Vform=اَلمُتَّحِدَةِ|Gloss=united|Root=w .h d|Translit=al-muttaḥidati|LTranslit=muttaḥid
-28	هما	هُوَ	PRON	SP---3MD1-	Case=Nom|Gender=Masc|Number=Dual|Person=3|PronType=Prs	29	nmod	29:nmod:nom	Vform=هُمَا|Gloss=he,she,it|Translit=humā|LTranslit=huwa
+28	هما	هُوَ	PRON	SP---3MD1-	Case=Nom|Gender=Masc|Number=Dual|Person=3|PronType=Prs	29	cop	29:cop	Vform=هُمَا|Gloss=he,she,it|Translit=humā|LTranslit=huwa
 29	السبب	سَبَب	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	18	obj	18:obj	Vform=اَلسَّبَبُ|Gloss=reason,cause|Root=s b b|Translit=as-sababu|LTranslit=sabab
 30	الرئيسي	رَئِيسِيّ	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	29	amod	29:amod	Vform=اَلرَّئِيسِيُّ|Gloss=main,principal|Root=r ' s|Translit=ar-raʾīsīyu|LTranslit=raʾīsīy
 31	وراء	وَرَاءَ	ADP	PI------4-	AdpType=Prep|Case=Acc	32	case	32:case	Vform=وَرَاءَ|Gloss=behind,past,beyond|Root=w r y|Translit=warāʾa|LTranslit=warāʾa
@@ -146830,7 +146830,7 @@
 5	يورد	أَورَد	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	2	acl:relcl	2:acl:relcl	Gloss=present,import|LTranslit=ʾawrad|Root=w r d|Translit=yūridu|Vform=يُورِدُ
 6	ها	هُوَ	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	5:obj	Gloss=he,she,it|LTranslit=huwa|Translit=hā|Vform=هَا
 7	التقرير	تَقرِير	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	5	dep	5:dep	Vform=اَلتَّقرِيرُ|Gloss=report,account|Root=q r r|Translit=at-taqrīru|LTranslit=taqrīr
-8	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nmod	9:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+8	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	cop	9:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 9-10	تأكيده	_	_	_	_	_	_	_	_
 9	تأكيد	تَأكِيد	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	1	parataxis	1:parataxis	Gloss=confirmation,affirmation,guarantee|LTranslit=taʾkīd|Root=' k d|Translit=taʾkīdu|Vform=تَأكِيدُ
 10	ه	هُوَ	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	9:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hu|Vform=هُ
@@ -147427,7 +147427,7 @@
 5	المضاربين	مُضَارِب	NOUN	N------P4D	Case=Acc|Definite=Def|Number=Plur	9	nsubj	9:nsubj	Vform=اَلمُضَارِبِينَ|Gloss=speculators|Root=.d r b|Translit=al-muḍāribīna|LTranslit=muḍārib
 6	على	عَلَى	ADP	P---------	AdpType=Prep	7	case	7:case	Vform=عَلَى|Gloss=on,above|Root=` l w|Translit=ʿalā|LTranslit=ʿalā
 7	البترول	بِترُول	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	5	nmod	5:nmod:عَلَى:gen	Vform=اَلبِترُولِ|Gloss=petroleum|Root=bitrUl|Translit=al-bitrūli|LTranslit=bitrūl
-8	هم	هُوَ	PRON	SP---3MP1-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	nmod	9:nmod:nom	Vform=هُم|Gloss=he,she,it|Translit=hum|LTranslit=huwa
+8	هم	هُوَ	PRON	SP---3MP1-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	cop	9:cop	Vform=هُم|Gloss=he,she,it|Translit=hum|LTranslit=huwa
 9	اصحاب	صَاحِب	NOUN	N------P1R	Case=Nom|Definite=Cons|Number=Plur	2	obj	2:obj	Vform=أَصحَابُ|Gloss=owner,originator|Root=.s .h b|Translit=ʾaṣḥābu|LTranslit=ṣāḥib
 10	تأثير	تَأثِير	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	9	nmod	9:nmod:gen	Vform=تَأثِيرٍ|Gloss=effect,influence,impact|Root=' _t r|Translit=taʾṯīrin|LTranslit=taʾṯīr
 11	مهم	مُهِمّ	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	10	amod	10:amod	Vform=مُهِمٍّ|Gloss=important,serious|Root=h m m|Translit=muhimmin|LTranslit=muhimm
@@ -147630,7 +147630,7 @@
 65	ان	أَنَّ	SCONJ	C---------	_	69	mark	69:mark	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
 66	الاتجاه	اِتِّجَاه	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	69	nsubj	69:nsubj	Vform=اَلِاتِّجَاهَ|Gloss=direction,course|Root=w ^g h|Translit=al-i-ʼttiǧāha|LTranslit=ittiǧāh
 67	الحالي	حَالِيّ	ADJ	A-----MS4D	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	66	amod	66:amod	Vform=اَلحَالِيَّ|Gloss=present,current|Root=.h w l|Translit=al-ḥālīya|LTranslit=ḥālīy
-68	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	69	nmod	69:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+68	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	69	cop	69:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 69	طرح	طَرح	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	64	obj	64:obj	Vform=طَرحُ|Gloss=suggestion,proposal|Root=.t r .h|Translit=ṭarḥu|LTranslit=ṭarḥ
 70	شركة	شَرِكَة	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	69	nmod	69:nmod:gen	Vform=شَرِكَةِ|Gloss=company,corporation|Root=^s r k|Translit=šarikati|LTranslit=šarikat
 71	معادن	مَعدِن	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	70	nmod	70:nmod:gen	Vform=مَعَادِنَ|Gloss=mineral,metal|Root=` d n|Translit=maʿādina|LTranslit=maʿdin
@@ -147714,7 +147714,7 @@
 16	ل	لِ	ADP	P---------	AdpType=Prep	17	case	17:case	Gloss=for,to|LTranslit=li|Root=l|Translit=li|Vform=لِ
 17	خطط	خُطَّة	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	14	nmod	14:nmod:لِ:gen	Gloss=plan,project|LTranslit=ḫuṭṭat|Root=_h .t .t|Translit=ḫuṭaṭi|Vform=خُطَطِ
 18	التنمية	تَنمِيَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	17	nmod	17:nmod:gen	Vform=اَلتَّنمِيَةِ|Gloss=development,growth|Root=n m y|Translit=at-tanmiyati|LTranslit=tanmiyat
-19	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nmod	20:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+19	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	cop	20:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 20	تطوير	تَطوِير	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	11	obj	11:obj	Vform=تَطوِيرُ|Gloss=development,advancement,promotion|Root=.t w r|Translit=taṭwīru|LTranslit=taṭwīr
 21	صناعة	صِنَاعَة	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	20	nmod	20:nmod:gen	Vform=صِنَاعَةِ|Gloss=manufacture,industry,trade,craft|Root=.s n `|Translit=ṣināʿati|LTranslit=ṣināʿat
 22	التعدين	تَعدِين	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	21	nmod	21:nmod:gen	Vform=اَلتَّعدِينِ|Gloss=mining,metallurgy|Root=` d n|Translit=at-taʿdīni|LTranslit=taʿdīn
@@ -149610,7 +149610,7 @@
 4	"	"	PUNCT	G---------	_	8	punct	8:punct	SpaceAfter=No|Vform="|Translit="
 5	الولايات	وِلَايَة	NOUN	N------P1D	Case=Nom|Definite=Def|Number=Plur	8	nsubj	8:nsubj	Vform=اَلوِلَايَاتُ|Gloss=state,province|Root=w l y|Translit=al-wilāyātu|LTranslit=wilāyat
 6	المتحدة	مُتَّحِد	ADJ	A-----FS1D	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	amod	5:amod	Vform=اَلمُتَّحِدَةُ|Gloss=united|Root=w .h d|Translit=al-muttaḥidatu|LTranslit=muttaḥid
-7	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nmod	8:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+7	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	cop	8:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 8	القوة	قُوَّة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	3	obj	3:obj	Vform=اَلقُوَّةُ|Gloss=power,strength,armed_forces|Root=q w y|Translit=al-qūwatu|LTranslit=qūwat
 9	العظمى	أَعظَم	ADJ	A-----FS1D	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	amod	8:amod	Vform=اَلعُظمَى|Gloss=greater_/_greatest,major,supreme|Root=` .z m|Translit=al-ʿuẓmā|LTranslit=ʾaʿẓam
 10	في	فِي	ADP	P---------	AdpType=Prep	11	case	11:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
@@ -151138,7 +151138,7 @@
 28-29	وهذا	_	_	_	_	_	_	_	_
 28	و	وَ	CCONJ	C---------	_	31	cc	31:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
 29	هٰذا	هٰذَا	DET	SD----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	31	nsubj	31:nsubj	Gloss=this,these|LTranslit=hāḏā|Root=h|Translit=hāḏā|Vform=هٰذَا
-30	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	nmod	31:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+30	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	cop	31:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 31	السبب	سَبَب	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	25	conj	2:ccomp|25:conj	Vform=اَلسَّبَبُ|Gloss=reason,cause|Root=s b b|Translit=as-sababu|LTranslit=sabab
 32	وراء	وَرَاءَ	ADP	PI------4-	AdpType=Prep|Case=Acc	33	case	33:case	Vform=وَرَاءَ|Gloss=behind,past,beyond|Root=w r y|Translit=warāʾa|LTranslit=warāʾa
 33	خفض	خَفض	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	31	obl	31:obl:وَرَاءَ:gen	Vform=خَفضِ|Gloss=lowering,decreasing,reduction|Root=_h f .d|Translit=ḫafḍi|LTranslit=ḫafḍ
@@ -152573,7 +152573,7 @@
 3	الرد	رَدّ	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	0	root	0:root	Vform=اَلرَّدُّ|Gloss=return,repulsion|Root=r d d|Translit=ar-raddu|LTranslit=radd
 4	السوري	سُورِيّ	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	amod	3:amod	Vform=اَلسُّورِيُّ|Gloss=Syrian|Root=sUr|Translit=as-sūrīyu|LTranslit=sūrīy
 5	ما	مَا	DET	S---------	PronType=Int	7	nsubj	7:nsubj|12:nsubj	Vform=مَا|Gloss=what,which|Root=mA|Translit=mā|LTranslit=mā
-6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	cop	7:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 7	الرد	رَدّ	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	3	parataxis	3:parataxis	Vform=اَلرَّدُّ|Gloss=return,repulsion|Root=r d d|Translit=ar-raddu|LTranslit=radd
 8	السوري	سُورِيّ	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	7	amod	7:amod	Vform=اَلسُّورِيُّ|Gloss=Syrian|Root=sUr|Translit=as-sūrīyu|LTranslit=sūrīy
 9	المحتمل	مُحتَمَل	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	7	amod	7:amod	SpaceAfter=No|Vform=اَلمُحتَمَلُ|Gloss=likely,expected,probable,suspected|Root=.h m l|Translit=al-muḥtamalu|LTranslit=muḥtamal
@@ -153000,7 +153000,7 @@
 27	في	فِي	ADP	P---------	AdpType=Prep	29	case	29:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
 28	هذه	هٰذَا	DET	SD----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	29	det	29:det	Vform=هٰذِهِ|Gloss=this,these|Root=h|Translit=hāḏihi|LTranslit=hāḏā
 29	الحرب	حَرب	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	26	nmod	26:nmod:فِي:gen	Vform=اَلحَربِ|Gloss=war,warfare|Root=.h r b|Translit=al-ḥarbi|LTranslit=ḥarb
-30	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	nmod	31:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+30	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	cop	31:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 31	إحداث	إِحدَاث	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	12	advcl	12:advcl:إِذَا	Vform=إِحدَاثُ|Gloss=effectuation,implementation|Root=.h d _t|Translit=ʾiḥdāṯu|LTranslit=ʾiḥdāṯ
 32	معادلات	مُعَادِل	ADJ	A-----FP2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	31	nmod	31:nmod:gen	Vform=مُعَادِلَاتٍ|Gloss=equal|Root=` d l|Translit=muʿādilātin|LTranslit=muʿādil
 33	جديدة	جَدِيد	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	32	amod	32:amod	Vform=جَدِيدَةٍ|Gloss=new,modern|Root=^g d d|Translit=ǧadīdatin|LTranslit=ǧadīd
@@ -156201,7 +156201,7 @@
 4	"	"	PUNCT	G---------	_	8	punct	8:punct	SpaceAfter=No|Vform="|Translit="
 5	هذا	هٰذَا	DET	SD----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	det	6:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
 6	الحوار	حِوَار	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	8	nsubj	8:nsubj	Vform=اَلحِوَارُ|Gloss=conversation,dialogue,discussion,talk|Root=.h w r|Translit=al-ḥiwāru|LTranslit=ḥiwār
-7	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	8:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+7	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	cop	8:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 8	رسالة	رِسَالَة	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	2	obj	2:obj	Vform=رِسَالَةٌ|Gloss=letter,communication,dissertation,messages|Root=r s l|Translit=risālatun|LTranslit=risālat
 9-10	للخارج	_	_	_	_	_	_	_	_
 9	ل	لِ	ADP	P---------	AdpType=Prep	10	case	10:case	Gloss=for,to|LTranslit=li|Root=l|Translit=li|Vform=لِ
@@ -156874,7 +156874,7 @@
 53-54	بهم	_	_	_	_	_	_	_	_
 53	ب	بِ	ADP	P---------	AdpType=Prep	54	case	54:case	Gloss=by,with|LTranslit=bi|Root=bi|Translit=bi|Vform=بِ
 54	هم	هُوَ	PRON	SP---3MP2-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	52	obl:arg	52:obl:arg:بِ:gen	Gloss=he,she,it|LTranslit=huwa|Translit=him|Vform=هِم
-55	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	56	nmod	56:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+55	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	56	cop	56:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 56-57	ربي	_	_	_	_	_	_	_	_
 56	رب	رَبّ	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	48	nmod	48:nmod:أَنَّ	Gloss=lord,master|LTranslit=rabb|Root=r b b|Translit=rabbu|Vform=رَبُّ
 57	ي	هُوَ	PRON	SP---1MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	56	nmod	56:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=ī|Vform=ِي
@@ -156917,7 +156917,7 @@
 27-28	ألقاها	_	_	_	_	_	_	_	_
 27	ألقى	أَلقَى	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	25	acl:relcl	25:acl:relcl	Gloss=deliver,throw,arrest|LTranslit=ʾalqā|Root=l q y|Translit=ʾalqā|Vform=أَلقَى
 28	ها	هُوَ	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	obj	27:obj	Gloss=he,she,it|LTranslit=huwa|Translit=hā|Vform=هَا
-29	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	32	nmod	32:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+29	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	32	cop	32:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 30	أن	أَنَّ	SCONJ	C---------	_	32	cc	32:cc	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
 31	الإسلام	إِسلَام	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	32	dep	32:dep	Vform=اَلإِسلَامَ|Gloss=Islam|Root=s l m|Translit=al-ʾislāma|LTranslit=ʾislām
 32	دين	دِين	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	16	advcl	16:advcl:أَنَّ	Vform=دِينٌ|Gloss=religion|Root=d y n|Translit=dīnun|LTranslit=dīn
@@ -157319,7 +157319,7 @@
 19	مهمة	مَهَمَّة	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	23	nsubj	23:nsubj	Gloss=task,assignment,mission|LTranslit=mahammat|Root=h m m|Translit=mahammatu|Vform=مَهَمَّةُ
 20	ي	هُوَ	PRON	SP---1MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	19	nmod	19:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=ī|Vform=ِي
 21	حالياً	حَالِيّ	ADJ	A-----MS4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	23	obl	23:obl:acc	Vform=حَالِيًّا|Gloss=present,current|Root=.h w l|Translit=ḥālīyan|LTranslit=ḥālīy
-22	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nmod	23:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+22	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	cop	23:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 23-24	نشره	_	_	_	_	_	_	_	SpaceAfter=No
 23	نشر	نَشر	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	15	conj	0:root|15:conj	Gloss=spreading,propagation|LTranslit=našr|Root=n ^s r|Translit=našru|Vform=نَشرُ
 24	ه	هُوَ	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nmod	23:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hu|Vform=هُ
@@ -157441,7 +157441,7 @@
 10	/	/	PUNCT	G---------	_	9	punct	9:punct	SpaceAfter=No|Vform=/|Translit=/
 11	11	11	NUM	Q---------	NumForm=Digit	9	nummod	9:nummod	Vform=١١|Translit=11
 12	الحالي	حَالِيّ	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	nmod	11:nmod:gen	Vform=اَلحَالِيِّ|Gloss=present,current|Root=.h w l|Translit=al-ḥālīyi|LTranslit=ḥālīy
-13	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nmod	14:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+13	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	cop	14:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 14	اليوم	يَوم	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	2	ccomp	2:ccomp|17:nsubj	Vform=اَليَومَ|Gloss=day,today|Root=y w m|Translit=al-yawma|LTranslit=yawm
 15	الأول	أَوَّل	ADJ	A-----MS4D	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	14	amod	14:amod	Vform=اَلأَوَّلَ|Gloss=first,foremost,early|Root=' w l|Translit=al-ʾawwala|LTranslit=ʾawwal
 16	الذي	اَلَّذِي	DET	SR----MS4-	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	17	nsubj	14:ref	Vform=اَلَّذِي|Gloss=that,which|Root=l|Translit=allaḏī|LTranslit=allaḏī
@@ -158816,7 +158816,7 @@
 36	يستطيعون	اِستَطَاع	VERB	VIIA-3MP--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	35	acl	35:acl	Gloss=be_able,be_capable,be_possible|LTranslit=istaṭāʿ|Root=.t w `|Translit=yastaṭīʿūna|Vform=يَستَطِيعُونَ
 37	ه	هُوَ	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	obj	36:obj	Gloss=he,she,it|LTranslit=huwa|Translit=hu|Vform=هُ
 38	،	،	PUNCT	G---------	_	37	punct	37:punct	Vform=،|Translit=,
-39	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	40	nmod	40:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+39	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	40	cop	40:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 40	إنتاج	إِنتَاج	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	22	conj	9:obl:arg:أَنَّ|22:conj	Vform=إِنتَاجُ|Gloss=production,output|Root=n t ^g|Translit=ʾintāǧu|LTranslit=ʾintāǧ
 41	النصف	نِصف	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	40	nmod	40:nmod:gen	Vform=اَلنِّصفِ|Gloss=half,middle,semi_-|Root=n .s f|Translit=an-niṣfi|LTranslit=niṣf
 42-43	واستيراد	_	_	_	_	_	_	_	_
@@ -159066,7 +159066,7 @@
 25-26	فالسعودية	_	_	_	_	_	_	_	_
 25	ف	فَ	CCONJ	C---------	_	28	cc	28:cc	Gloss=and,so|LTranslit=fa|Root=fa|Translit=fa|Vform=فَ
 26	السعودية	سَعُودِيَّة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	28	nsubj	28:nsubj|35:nsubj	Gloss=Saudi_Arabia|LTranslit=saʿūdīyat|Root=s ` d|Translit=as-saʿūdīyatu|Vform=اَلسَّعُودِيَّةُ
-27	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	28	nmod	28:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+27	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	28	cop	28:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 28	الملاذ	مَلَاذ	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	2	conj	1:parataxis|2:conj	Vform=اَلمَلَاذُ|Gloss=shelter,sanctuary|Root=l w _d|Translit=al-malāḏu|LTranslit=malāḏ
 29	الآمن	آمِن	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	28	amod	28:amod	Vform=اَلآمِنُ|Gloss=secure,safe|Root=' m n|Translit=al-ʾāminu|LTranslit=ʾāmin
 30-31	لكل	_	_	_	_	_	_	_	_
@@ -160080,7 +160080,7 @@
 11	ل	لِ	ADP	P---------	AdpType=Prep	12	case	12:case	Gloss=for,to|LTranslit=li|Root=l|Translit=li|Vform=لِ
 12	الإعلام	إِعلَام	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	5	nmod	5:nmod:لِ:gen	Gloss=information,media|LTranslit=ʾiʿlām|Root=` l m|Translit=al-ʾiʿlāmi|Vform=اَلإِعلَامِ
 13	الخارجي	خَارِجِيّ	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	amod	12:amod	Vform=اَلخَارِجِيِّ|Gloss=outer,foreign,outside|Root=_h r ^g|Translit=al-ḫāriǧīyi|LTranslit=ḫāriǧīy
-14	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nmod	15:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+14	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	cop	15:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 15	تخويف	تَخوِيف	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	0	root	0:root	Vform=تَخوِيفُ|Gloss=intimidation|Root=_h w f|Translit=taḫwīfu|LTranslit=taḫwīf
 16	الغرب	غَرب	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	15	nmod	15:nmod:gen	Vform=اَلغَربِ|Gloss=west,West,Occident|Root=.g r b|Translit=al-ġarbi|LTranslit=ġarb
 17	من	مِن	ADP	P---------	AdpType=Prep	32	mark	32:mark	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
@@ -160511,7 +160511,7 @@
 # orig_file_sentence UMH_ARB_20040715.0004#18
 1	سواء	سَوَاء	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	4	obl	4:obl:acc	Vform=سَوَاءً|Gloss=equality|Root=s w y|Translit=sawāʾan|LTranslit=sawāʾ
 2-3	أكانت	_	_	_	_	_	_	_	_
-2	أ	أَ	AUX	F---------	_	4	aux	4:aux	Gloss=whether,indeed|LTranslit=ʾa|Root='a|Translit=ʾa|Vform=أَ
+2	أ	أَ	PART	F---------	_	4	discourse	4:discourse	Gloss=whether,indeed|LTranslit=ʾa|Root='a|Translit=ʾa|Vform=أَ
 3	كانت	كَان	AUX	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	4	cop	4:cop	Gloss=be,is,exist|LTranslit=kān|Root=k w n|Translit=kānat|Vform=كَانَت
 4	صحية	صِحِّيّ	ADJ	A-----FS4I	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No|Vform=صِحِّيَّةً|Gloss=health,healthy,sanitary|Root=.s .h .h|Translit=ṣiḥḥīyatan|LTranslit=ṣiḥḥīy
 5	،	،	PUNCT	G---------	_	4	punct	4:punct	Vform=،|Translit=,
@@ -160803,7 +160803,7 @@
 1	أن	أَنَّ	SCONJ	C---------	_	5	mark	5:mark	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
 2	حسني	حسني	X	U---------	_	3	nmod	3:nmod	Vform=حسني|Root=OOV|Translit=ḥsny
 3	مبارك	مبارك	X	U---------	_	5	nsubj	5:nsubj	Vform=مبارك|Root=OOV|Translit=mbārk
-4	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	5:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+4	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	cop	5:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 5	القائد	قَائِد	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	0	root	0:root|7:nsubj	Vform=اَلقَائِدُ|Gloss=leader,commander|Root=q w d|Translit=al-qāʾidu|LTranslit=qāʾid
 6	الذي	اَلَّذِي	DET	SR----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	5:ref	Vform=اَلَّذِي|Gloss=that,which|Root=l|Translit=allaḏī|LTranslit=allaḏī
 7	وثق	وَثِق	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	5	acl:relcl	5:acl:relcl	Vform=وَثِقَ|Gloss=trust,rely,depend|Root=w _t q|Translit=waṯiqa|LTranslit=waṯiq
@@ -161920,11 +161920,11 @@
 # orig_file_sentence UMH_ARB_20040715.0014#3
 1-2	ولم	_	_	_	_	_	_	_	_
 1	و	وَ	CCONJ	C---------	_	0	root	0:root	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
-2	لم	لَم	PART	F---------	_	3	advmod	3:advmod	Gloss=not|LTranslit=lam|Root=lam|Translit=lam|Vform=لَم
-3	تعد	عَاد	VERB	VIJA-3FS--	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	parataxis	1:parataxis	Vform=تَعُد|Gloss=return,go_back,no_longer|Root=` w d|Translit=taʿud|LTranslit=ʿād
-4	قادرة	قَادِر	ADJ	A-----FS4I	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	3	xcomp	3:xcomp	Vform=قَادِرَةً|Gloss=capable,able|Root=q d r|Translit=qādiratan|LTranslit=qādir
+2	لم	لَم	PART	F---------	_	4	advmod	4:advmod	Gloss=not|LTranslit=lam|Root=lam|Translit=lam|Vform=لَم
+3	تعد	عَاد	VERB	VIJA-3FS--	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	advcl	4:advcl	Vform=تَعُد|Gloss=return,go_back,no_longer|Root=` w d|Translit=taʿud|LTranslit=ʿād
+4	قادرة	قَادِر	ADJ	A-----FS4I	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	1	parataxis	1:parataxis	Vform=قَادِرَةً|Gloss=capable,able|Root=q d r|Translit=qādiratan|LTranslit=qādir
 5	على	عَلَى	ADP	P---------	AdpType=Prep	6	case	6:case	Vform=عَلَى|Gloss=on,above|Root=` l w|Translit=ʿalā|LTranslit=ʿalā
-6	تحمّل	تَحَمُّل	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	3	obl:arg	3:obl:arg:عَلَى:gen	Vform=تَحَمُّلِ|Gloss=assumption,bearing,duties|Root=.h m l|Translit=taḥammuli|LTranslit=taḥammul
+6	تحمّل	تَحَمُّل	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	4	obl:arg	4:obl:arg:عَلَى:gen	Vform=تَحَمُّلِ|Gloss=assumption,bearing,duties|Root=.h m l|Translit=taḥammuli|LTranslit=taḥammul
 7	الخسائر	خَسَارَة	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	6	nmod	6:nmod:gen	Vform=اَلخَسَائِرِ|Gloss=loss,damage,casualties|Root=_h s r|Translit=al-ḫasāʾiri|LTranslit=ḫasārat
 8	البشرية	بَشَرِيّ	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	amod	7:amod	Vform=اَلبَشَرِيَّةِ|Gloss=human|Root=b ^s r|Translit=al-bašarīyati|LTranslit=bašarīy
 9	اليومية	يَومِيّ	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	amod	7:amod	Vform=اَليَومِيَّةِ|Gloss=daily,per_diem,on_a_daily_basis|Root=y w m|Translit=al-yawmīyati|LTranslit=yawmīy
@@ -162258,7 +162258,7 @@
 9	حتى	حَتَّى	ADP	P---------	AdpType=Prep	10	case	10:case	Vform=حَتَّى|Gloss=until,up_to|Root=.h t t|Translit=ḥattā|LTranslit=ḥattā
 10	الآن	آن	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	8	obl	8:obl:حَتَّى:gen	SpaceAfter=No|Vform=اَلآنِ|Gloss=time,moment|Root=' w n|Translit=al-ʾāni|LTranslit=ʾān
 11	،	،	PUNCT	G---------	_	10	punct	10:punct	Vform=،|Translit=,
-12	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nmod	13:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+12	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	cop	13:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 13	القرار	قَرَار	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	0	root	0:root|18:nsubj	Vform=اَلقَرَارُ|Gloss=decision,resolution|Root=q r r|Translit=al-qarāru|LTranslit=qarār
 14	الدولي	دُوَلِيّ	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	amod	13:amod	Vform=اَلدُّوَلِيُّ|Gloss=international,world|Root=d w l|Translit=ad-duwalīyu|LTranslit=duwalīy
 15	الرقم	رَقم	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	13	nmod	13:nmod:nom	Vform=اَلرَّقمُ|Gloss=number,numeral,record|Root=r q m|Translit=ar-raqmu|LTranslit=raqm
@@ -163516,7 +163516,7 @@
 7	بترو	بترو	X	U---------	_	8	nmod	8:nmod	Vform=بترو|Root=OOV|Translit=btrw
 8	كندا	كَنَدَا	X	X---------	Foreign=Yes	11	nsubj	11:nsubj	SpaceAfter=No|Vform=كَنَدَا|Gloss=Canada|Root=kanad|Translit=kanadā|LTranslit=kanadā
 9	"	"	PUNCT	G---------	_	8	punct	8:punct	Vform="|Translit="
-10	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nmod	11:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+10	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	cop	11:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 11	إحدى	إِحدَى	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	2	obj	2:obj	Vform=إِحدَى|Gloss=one,someone|Root=' .h d|Translit=ʾiḥdā|LTranslit=ʾiḥdā
 12	الشركات	شَرِكَة	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	11	nmod	11:nmod:gen|14:nsubj	Vform=اَلشَّرِكَاتِ|Gloss=company,corporation|Root=^s r k|Translit=aš-šarikāti|LTranslit=šarikat
 13	التي	اَلَّذِي	DET	SR----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	14	nsubj	12:ref	Vform=اَلَّتِي|Gloss=that,which|Root=l|Translit=allatī|LTranslit=allaḏī
@@ -170959,7 +170959,7 @@
 8-9	بذلك	_	_	_	_	_	_	_	_
 8	ب	بِ	ADP	P---------	AdpType=Prep	9	case	9:case	Gloss=by,with|LTranslit=bi|Root=bi|Translit=bi|Vform=بِ
 9	ذٰلك	ذٰلِكَ	DET	SD----MS2-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	7	obl:arg	7:obl:arg:بِ:gen	Gloss=that,those|LTranslit=ḏālika|Root=k|Translit=ḏālika|Vform=ذٰلِكَ
-10	هم	هُوَ	PRON	SP---3MP1-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nmod	11:nmod:nom	Vform=هُم|Gloss=he,she,it|Translit=hum|LTranslit=huwa
+10	هم	هُوَ	PRON	SP---3MP1-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	cop	11:cop	Vform=هُم|Gloss=he,she,it|Translit=hum|LTranslit=huwa
 11	طلاب	طَالِب	NOUN	N------P1R	Case=Nom|Definite=Cons|Number=Plur	2	obl:arg	2:obl:arg:إِلَى:gen	Vform=طُلَّابُ|Gloss=student|Root=.t l b|Translit=ṭullābu|LTranslit=ṭālib
 12	الإعلام	إِعلَام	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	11	nmod	11:nmod:gen	SpaceAfter=No|Vform=اَلإِعلَامِ|Gloss=information,media|Root=` l m|Translit=al-ʾiʿlāmi|LTranslit=ʾiʿlām
 13	،	،	PUNCT	G---------	_	12	punct	12:punct	Vform=،|Translit=,
@@ -176347,7 +176347,7 @@
 20	أمن	أَمن	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	24	nsubj	24:nsubj	Vform=أَمنَ|Gloss=security,safety|Root=' m n|Translit=ʾamna|LTranslit=ʾamn
 21	مصر	مِصر	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	20	nmod	20:nmod:gen	Vform=مِصرَ|Gloss=Egypt|Root=m .s r|Translit=miṣra|LTranslit=miṣr
 22	القومي	قَومِيّ	ADJ	A-----MS4D	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	20	amod	20:amod	Vform=اَلقَومِيَّ|Gloss=national,state|Root=q w m|Translit=al-qawmīya|LTranslit=qawmīy
-23	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nmod	24:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+23	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	cop	24:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 24	أمن	أَمن	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	17	obj	17:obj	Vform=أَمنٌ|Gloss=security,safety|Root=' m n|Translit=ʾamnun|LTranslit=ʾamn
 25	اقتصادي	اِقتِصَادِيّ	ADJ	A-----MS1I	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	24	amod	24:amod	Vform=اِقتِصَادِيٌّ|Gloss=economic,economical|Root=q .s d|Translit=iqtiṣādīyun|LTranslit=iqtiṣādīy
 26-27	وثقافي	_	_	_	_	_	_	_	_
@@ -176374,7 +176374,7 @@
 4	قضية	قَضِيَّة	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	8	nsubj	8:nsubj	Vform=قَضِيَّةَ|Gloss=problem,issue|Root=q .d y|Translit=qaḍīyata|LTranslit=qaḍīyat
 5	السكان	سَاكِن	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	4	nmod	4:nmod:gen	Vform=اَلسُّكَّانِ|Gloss=resident,inhabitant|Root=s k n|Translit=as-sukkāni|LTranslit=sākin
 6	"	"	PUNCT	G---------	_	8	punct	8:punct	SpaceAfter=No|Vform="|Translit="
-7	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nmod	8:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+7	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	cop	8:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 8	قضية	قَضِيَّة	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	2	obj	2:obj	Vform=قَضِيَّةٌ|Gloss=problem,issue|Root=q .d y|Translit=qaḍīyatun|LTranslit=qaḍīyat
 9	محورية	مِحوَرِيّ	ADJ	A-----FS1I	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	8	amod	8:amod	Vform=مِحوَرِيَّةٌ|Gloss=pivotal,crucial|Root=.h w r|Translit=miḥwarīyatun|LTranslit=miḥwarīy
 10-11	لمصر	_	_	_	_	_	_	_	SpaceAfter=No
@@ -179116,7 +179116,7 @@
 14	من	مِن	ADP	P---------	AdpType=Prep	15	case	15:case	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
 15	تطوير	تَطوِير	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	12	nmod	12:nmod:مِن:gen	Vform=تَطوِيرِ|Gloss=development,advancement,promotion|Root=.t w r|Translit=taṭwīri|LTranslit=taṭwīr
 16	البورصة	بُورصَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	15	nmod	15:nmod:gen	Vform=اَلبُورصَةِ|Gloss=stock_exchange,bourse|Root=bUr.s|Translit=al-būrṣati|LTranslit=būrṣat
-17	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nmod	18:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+17	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	cop	18:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 18	تحقيق	تَحقِيق	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	2	obj	2:obj	Vform=تَحقِيقُ|Gloss=achievement,realization|Root=.h q q|Translit=taḥqīqu|LTranslit=taḥqīq
 19	قدر	قَدر	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	18	nmod	18:nmod:gen	Vform=قَدرٍ|Gloss=extent,degree,amount,value,level|Root=q d r|Translit=qadrin|LTranslit=qadr
 20	أكبر	أَكبَر	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	19	amod	19:amod	Vform=أَكبَرَ|Gloss=larger_/_largest,greater_/_greatest|Root=k b r|Translit=ʾakbara|LTranslit=ʾakbar
@@ -180591,7 +180591,7 @@
 50	إلغاء	إِلغَاء	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	48	obl:arg	48:obl:arg:مِن:gen	Vform=إِلغَاءِ|Gloss=cancellation,abrogation,repeal|Root=l .g w|Translit=ʾilġāʾi|LTranslit=ʾilġāʾ
 51	نظام	نِظَام	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	50	nmod	50:nmod:gen	Vform=نِظَامِ|Gloss=system,order,methodology|Root=n .z m|Translit=niẓāmi|LTranslit=niẓām
 52	الحصص	حِصَّة	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	51	nmod	51:nmod:gen	Vform=اَلحِصَصِ|Gloss=share,portion,quota|Root=.h .s .s|Translit=al-ḥiṣaṣi|LTranslit=ḥiṣṣat
-53	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	54	nmod	54:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+53	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	54	cop	54:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 54	التي	اَلَّذِي	DET	SR----FS1-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	43	obj	43:obj	Vform=اَلَّتِي|Gloss=that,which|Root=l|Translit=allatī|LTranslit=allaḏī
 55	تملك	مَلَك	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	54	acl	54:acl	Vform=تَملِكُ|Gloss=have,hold,control|Root=m l k|Translit=tamliku|LTranslit=malak
 56	صناعة	صِنَاعَة	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	55	obj	55:obj	Vform=صِنَاعَةً|Gloss=manufacture,industry,trade,craft|Root=.s n `|Translit=ṣināʿatan|LTranslit=ṣināʿat
@@ -180911,7 +180911,7 @@
 7	إنشاء	إِنشَاء	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	5	nmod	5:nmod:مِن:gen	Vform=إِنشَاءِ|Gloss=establishing,setting_up,founding|Root=n ^s '|Translit=ʾinšāʾi|LTranslit=ʾinšāʾ
 8	المصنع	مَصنَع	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	7	nmod	7:nmod:gen	Vform=اَلمَصنَعِ|Gloss=factory,industrial_plant|Root=.s n `|Translit=al-maṣnaʿi|LTranslit=maṣnaʿ
 9	الجديد	جَدِيد	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	amod	8:amod	Vform=اَلجَدِيدِ|Gloss=new,modern|Root=^g d d|Translit=al-ǧadīdi|LTranslit=ǧadīd
-10	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	11:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+10	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	cop	11:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 11	سد	سَدّ	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	1	obl:arg	1:obl:arg:إِلَى_أَنَّ	Vform=سَدُّ|Gloss=obstruction,defrayal_(_of_costs_),fulfillment|Root=s d d|Translit=saddu|LTranslit=sadd
 12	العجز	عَجز	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	11	nmod	11:nmod:gen	Vform=اَلعَجزِ|Gloss=deficit,insolvency|Root=` ^g z|Translit=al-ʿaǧzi|LTranslit=ʿaǧz
 13	في	فِي	ADP	P---------	AdpType=Prep	14	case	14:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
@@ -187485,7 +187485,7 @@
 2	إن	إِنَّ	SCONJ	C---------	_	6	mark	6:mark	Vform=إِنَّ|Gloss=that|Root=' n|Translit=ʾinna|LTranslit=ʾinna
 3	المحور	مِحوَر	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	6	nsubj	6:nsubj	Vform=اَلمِحوَرَ|Gloss=axis,axle,pivot|Root=.h w r|Translit=al-miḥwara|LTranslit=miḥwar
 4	الأول	أَوَّل	ADJ	A-----MS4D	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	3	amod	3:amod	Vform=اَلأَوَّلَ|Gloss=first,foremost,early|Root=' w l|Translit=al-ʾawwala|LTranslit=ʾawwal
-5	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	6:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+5	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	cop	6:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 6	تحسين	تَحسِين	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	1	obj	1:obj	Vform=تَحسِينُ|Gloss=improving,making_better|Root=.h s n|Translit=taḥsīnu|LTranslit=taḥsīn
 7	المناخ	مُنَاخ	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	6	nmod	6:nmod:gen	Vform=اَلمُنَاخِ|Gloss=climate,atmosphere|Root=n w _h|Translit=al-munāḫi|LTranslit=munāḫ
 8	الاستثماري	اِستِثمَارِيّ	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	amod	7:amod	Vform=اَلِاستِثمَارِيِّ|Gloss=investment|Root=_t m r|Translit=al-i-ʼstiṯmārīyi|LTranslit=istiṯmārīy
@@ -188899,7 +188899,7 @@
 4	عرضت	عَرَض	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	2	acl	2:acl	Gloss=exhibit,present,review,inspect|LTranslit=ʿaraḍ|Root=` r .d|Translit=ʿaraḍat|Vform=عَرَضَت
 5	ها	هُوَ	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	4:obj	Gloss=he,she,it|LTranslit=huwa|Translit=hā|Vform=هَا
 6	رايس	رَايس	X	X---------	Foreign=Yes	4	nsubj	4:nsubj	Vform=رَايس|Gloss=Rice|Root=rAys|Translit=rāys|LTranslit=rāys
-7	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nmod	11:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+7	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	cop	11:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 8-9	بمثابة	_	_	_	_	_	_	_	_
 8	ب	بِ	ADP	P---------	AdpType=Prep	9	case	9:case	Gloss=by,with|LTranslit=bi|Root=bi|Translit=bi|Vform=بِ
 9	مثابة	مَثَابَة	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	11	obl	11:obl:بِ:gen	Gloss=like,as,virtually,tantamount_to|LTranslit=maṯābat|Root=_t w b|Translit=maṯābati|Vform=مَثَابَةِ
@@ -189086,7 +189086,7 @@
 14	"	"	PUNCT	G---------	_	18	punct	18:punct	SpaceAfter=No|Vform="|Translit="
 15	هل	هَل	PART	F---------	_	18	cc	18:cc	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
 16	الفكرة	فِكرَة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	18	nsubj	18:nsubj	Vform=اَلفِكرَةُ|Gloss=idea,notion,concept|Root=f k r|Translit=al-fikratu|LTranslit=fikrat
-17	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	nmod	18:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+17	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	cop	18:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 18	تحرير	تَحرِير	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	12	obj	12:obj	Vform=تَحرِيرُ|Gloss=liberation,liberating,editorship,editing|Root=.h r r|Translit=taḥrīru|LTranslit=taḥrīr
 19	هذه	هٰذَا	DET	SD----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	20	det	20:det	Vform=هٰذِهِ|Gloss=this,these|Root=h|Translit=hāḏihi|LTranslit=hāḏā
 20	الدول	دَولَة	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	18	nmod	18:nmod:gen	Vform=اَلدُّوَلِ|Gloss=state,country|Root=d w l|Translit=ad-duwali|LTranslit=dawlat
@@ -192386,7 +192386,7 @@
 12	هدف	هَدَف	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	16	nsubj	16:nsubj	Vform=هَدَفَ|Gloss=goal,objective,intention|Root=h d f|Translit=hadafa|LTranslit=hadaf
 13	هذا	هٰذَا	DET	SD----MS2-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	14	det	14:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
 14	الاتفاق	اِتِّفَاق	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	12	nmod	12:nmod:gen	Vform=اَلِاتِّفَاقِ|Gloss=agreement,accord,treaty|Root=w f q|Translit=al-i-ʼttifāqi|LTranslit=ittifāq
-15	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nmod	16:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+15	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	cop	16:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 16	إدخال	إِدخَال	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	2	obl:arg	2:obl:arg:أَنَّ	Vform=إِدخَالُ|Gloss=insertion,entering,inclusion|Root=d _h l|Translit=ʾidḫālu|LTranslit=ʾidḫāl
 17	المكون	مُكَوِّن	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	16	nmod	16:nmod:gen	Vform=اَلمُكَوِّنِ|Gloss=constituent,component,element|Root=k w n|Translit=al-mukawwini|LTranslit=mukawwin
 18	المصري	مِصرِيّ	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	17	amod	17:amod	Vform=اَلمِصرِيِّ|Gloss=Egyptian|Root=m .s r|Translit=al-miṣrīyi|LTranslit=miṣrīy
@@ -193362,7 +193362,7 @@
 13	أمنية	أَمنِيّ	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	12	amod	12:amod	Vform=أَمنِيَّةٍ|Gloss=security,safety|Root=' m n|Translit=ʾamnīyatin|LTranslit=ʾamnīy
 14	عراقية	عِرَاقِيّ	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	12	amod	12:amod	Vform=عِرَاقِيَّةٍ|Gloss=Iraqi|Root=` r q|Translit=ʿirāqīyatin|LTranslit=ʿirāqīy
 15	قوية	قَوِيّ	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	12	amod	12:amod	Vform=قَوِيَّةٍ|Gloss=strong,powerful|Root=q w y|Translit=qawīyatin|LTranslit=qawīy
-16	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nmod	17:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+16	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	cop	17:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 17	أمر	أَمر	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	9	obj	9:obj	Vform=أَمرٌ|Gloss=matter,issue|Root=' m r|Translit=ʾamrun|LTranslit=ʾamr
 18	حيوي	حَيَوِيّ	ADJ	A-----MS1I	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	17	amod	17:amod	Vform=حَيَوِيٌّ|Gloss=vital,lively,biological|Root=.h y y|Translit=ḥayawīyun|LTranslit=ḥayawīy
 19	في	فِي	ADP	P---------	AdpType=Prep	20	case	20:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
@@ -193415,7 +193415,7 @@
 7	يشغل	شَغَل	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	acl	5:acl	Vform=يَشغَلُ|Gloss=occupy,preoccupy,employ|Root=^s .g l|Translit=yašġalu|LTranslit=šaġal
 8	بال	بَال	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	7	obj	7:obj	Vform=بَالَ|Gloss=mind,attention|Root=b w l|Translit=bāla|LTranslit=bāl
 9	الأمريكيين	أَمرِيكِيّ	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	8	nmod	8:nmod:gen	Vform=اَلأَمرِيكِيِّينَ|Gloss=American|Root='amrIk|Translit=al-ʾamrīkīyīna|LTranslit=ʾamrīkīy
-10	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	11:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+10	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	cop	11:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 11	تسليم	تَسلِيم	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	2	obl:arg	2:obl:arg:أَنَّ	Vform=تَسلِيمُ|Gloss=handing_over,delivery,surrender|Root=s l m|Translit=taslīmu|LTranslit=taslīm
 12	الأمن	أَمن	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	11	nmod	11:nmod:gen	Vform=اَلأَمنِ|Gloss=security,safety|Root=' m n|Translit=al-ʾamni|LTranslit=ʾamn
 13	إلى	إِلَى	ADP	P---------	AdpType=Prep	14	case	14:case	Vform=إِلَى|Gloss=to,towards|Root=' l y|Translit=ʾilā|LTranslit=ʾilā
@@ -196543,7 +196543,7 @@
 9-10	لمصر	_	_	_	_	_	_	_	_
 9	ل	لِ	ADP	P---------	AdpType=Prep	10	case	10:case	Gloss=for,to|LTranslit=li|Root=l|Translit=li|Vform=لِ
 10	مصر	مِصر	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	7	nmod	7:nmod:لِ:gen	Gloss=Egypt|LTranslit=miṣr|Root=m .s r|Translit=miṣra|Vform=مِصرَ
-11	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod	12:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+11	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	cop	12:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 12	فتح	فَتح	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	3	parataxis	3:parataxis	Vform=فَتحُ|Gloss=opening,beginning,conquests,achievements|Root=f t .h|Translit=fatḥu|LTranslit=fatḥ
 13	أنفاق	نَفَق	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	12	nmod	12:nmod:gen	Vform=أَنفَاقٍ|Gloss=tunnel,subway_shaft,subway|Root=n f q|Translit=ʾanfāqin|LTranslit=nafaq
 14-15	لتوصيل	_	_	_	_	_	_	_	_
@@ -198957,7 +198957,7 @@
 31-32	لدينا	_	_	_	_	_	_	_	_
 31	لدي	لَدَى	ADP	P---------	AdpType=Prep	32	case	32:case	Gloss=with,by|LTranslit=ladā|Root=l d y|Translit=laday|Vform=لَدَي
 32	نا	هُوَ	PRON	SP---1MP2-	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	obl:arg	2:obl:arg:لَدَى:gen	Gloss=he,she,it|LTranslit=huwa|Translit=nā|Vform=نَا
-33	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	nmod	34:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+33	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	cop	34:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 34	تعويم	تَعوِيم	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	2	xcomp	2:xcomp	Vform=تَعوِيمٌ|Gloss=floating|Root=` w m|Translit=taʿwīmun|LTranslit=taʿwīm
 35	محكوم	مَحكُوم	ADJ	A-----MS1I	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	34	amod	34:amod	Vform=مَحكُومٌ|Gloss=governed,sentenced|Root=.h k m|Translit=maḥkūmun|LTranslit=maḥkūm
 36-37	وليس	_	_	_	_	_	_	_	_
@@ -199045,7 +199045,7 @@
 15	ه	هُوَ	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	14:obj	Gloss=he,she,it|LTranslit=huwa|Translit=hu|Vform=هُ
 16	في	فِي	ADP	P---------	AdpType=Prep	17	case	17:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
 17	المستقبل	مُستَقبَل	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	14	obl	14:obl:فِي:gen	Vform=اَلمُستَقبَلِ|Gloss=future|Root=q b l|Translit=al-mustaqbali|LTranslit=mustaqbal
-18	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nmod	19:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+18	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	cop	19:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 19	ترك	تَرك	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	4	conj	2:obj|4:conj	Vform=تَركُ|Gloss=leaving,omission|Root=t r k|Translit=tarku|LTranslit=tark
 20	السوق	سُوق	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	19	nmod	19:nmod:gen	Vform=اَلسُّوقِ|Gloss=market|Root=s w q|Translit=as-sūqi|LTranslit=sūq
 21	تحدد	حَدَّد	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	20	acl	20:acl	Vform=تُحَدِّدُ|Gloss=determine,define,specify|Root=.h d d|Translit=tuḥaddidu|LTranslit=ḥaddad
@@ -200905,7 +200905,7 @@
 3	إن	إِنَّ	SCONJ	C---------	_	7	mark	7:mark	Vform=إِنَّ|Gloss=that|Root=' n|Translit=ʾinna|LTranslit=ʾinna
 4	الصناعة	صِنَاعَة	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	7	nsubj	7:nsubj	Vform=اَلصِّنَاعَةَ|Gloss=manufacture,industry,trade,craft|Root=.s n `|Translit=aṣ-ṣināʿata|LTranslit=ṣināʿat
 5	المصرية	مِصرِيّ	ADJ	A-----FS4D	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	4	amod	4:amod	Vform=اَلمِصرِيَّةَ|Gloss=Egyptian|Root=m .s r|Translit=al-miṣrīyata|LTranslit=miṣrīy
-6	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+6	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	cop	7:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 7	قاطرة	قَاطِرَة	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	2	obj	2:obj	Vform=قَاطِرَةُ|Gloss=locomotive,tractor_truck|Root=q .t r|Translit=qāṭiratu|LTranslit=qāṭirat
 8	التنمية	تَنمِيَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	7	nmod	7:nmod:gen	Vform=اَلتَّنمِيَةِ|Gloss=development,growth|Root=n m y|Translit=at-tanmiyati|LTranslit=tanmiyat
 9	حيث	حَيثُ	CCONJ	C---------	_	10	mark	10:mark	Vform=حَيثُ|Gloss=where,whereby,since,given_that|Root=.h y _t|Translit=ḥayṯu|LTranslit=ḥayṯu
@@ -202583,7 +202583,7 @@
 7	في	فِي	ADP	P---------	AdpType=Prep	8	case	8:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
 8	المرحلة	مَرحَلَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	5	nmod	5:nmod:فِي:gen	Vform=اَلمَرحَلَةِ|Gloss=phase,stage,round|Root=r .h l|Translit=al-marḥalati|LTranslit=marḥalat
 9	القادمة	قَادِم	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	amod	8:amod	Vform=اَلقَادِمَةِ|Gloss=next,following,future|Root=q d m|Translit=al-qādimati|LTranslit=qādim
-10	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	11:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+10	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	cop	11:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 11	الوصول	وُصُول	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	2	obj	2:obj	Vform=اَلوُصُولُ|Gloss=arrival,achievement|Root=w .s l|Translit=al-wuṣūlu|LTranslit=wuṣūl
 12	إلى	إِلَى	ADP	P---------	AdpType=Prep	13	case	13:case	Vform=إِلَى|Gloss=to,towards|Root=' l y|Translit=ʾilā|LTranslit=ʾilā
 13	سعر	سِعر	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	11	nmod	11:nmod:إِلَى:gen	Vform=سِعرٍ|Gloss=price,rate|Root=s ` r|Translit=siʿrin|LTranslit=siʿr
@@ -203465,7 +203465,7 @@
 14	و	وَ	CCONJ	C---------	_	18	cc	18:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
 15	كانت	كَان	AUX	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	18	cop	18:cop	Gloss=be,is,exist|LTranslit=kān|Root=k w n|Translit=kānat|Vform=كَانَت
 16	النتيجة	نَتِيجَة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	18	nsubj	18:nsubj	Vform=اَلنَّتِيجَةُ|Gloss=result,consequence|Root=n t ^g|Translit=an-natīǧatu|LTranslit=natīǧat
-17	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	nmod	18:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+17	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	cop	18:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 18	تحقيق	تَحقِيق	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	3	conj	1:obj|3:conj	Vform=تَحقِيقُ|Gloss=achievement,realization|Root=.h q q|Translit=taḥqīqu|LTranslit=taḥqīq
 19	الميزانية	مِيزَانِيَّة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	18	nmod	18:nmod:gen	Vform=اَلمِيزَانِيَّةِ|Gloss=budget,balance|Root=w z n|Translit=al-mīzānīyati|LTranslit=mīzānīyat
 20	الأمريكية	أَمرِيكِيّ	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	19	amod	19:amod	Vform=اَلأَمرِيكِيَّةِ|Gloss=American|Root='amrIk|Translit=al-ʾamrīkīyati|LTranslit=ʾamrīkīy
@@ -209903,7 +209903,7 @@
 52	ل	لِ	ADP	P---------	AdpType=Prep	53	case	53:case	Gloss=for,to|LTranslit=li|Root=l|Translit=li|Vform=لِ
 53	مشاركين	مُشَارِك	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	50	nmod	50:nmod:لِ:gen	Gloss=participant,associate|LTranslit=mušārik|Root=^s r k|Translit=mušārikīna|Vform=مُشَارِكِينَ
 54	آخرين	آخَر	ADJ	A-----MP2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	53	amod	53:amod	Vform=آخَرِينَ|Gloss=other,another|Root=' _h r|Translit=ʾāḫarīna|LTranslit=ʾāḫar
-55	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	56	nmod	56:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+55	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	56	cop	56:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 56	إزالة	إِزَالَة	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	39	obl	39:obl:فِي_حِينِ	Vform=إِزَالَةُ|Gloss=removal,elimination|Root=z w l|Translit=ʾizālatu|LTranslit=ʾizālat
 57	دولة	دَولَة	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	56	nmod	56:nmod:gen	Vform=دَولَةِ|Gloss=state,country|Root=d w l|Translit=dawlati|LTranslit=dawlat
 58	إسرائيل	إِسرَائِيل	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	57	nmod	57:nmod:gen	Vform=إِسرَائِيلَ|Gloss=Israel|Root='isrA'Il|Translit=ʾisrāʾīla|LTranslit=ʾisrāʾīl
@@ -210619,7 +210619,7 @@
 36-37	معارضيه	_	_	_	_	_	_	_	_
 36	معارضي	مُعَارِض	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	33	conj	16:nmod:فِي:gen|18:nmod:فِي:gen|33:conj	Gloss=opponent,adversary,opposition|LTranslit=muʿāriḍ|Root=` r .d|Translit=muʿāriḍī|Vform=مُعَارِضِي
 37	ه	هُوَ	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	nmod	36:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hi|Vform=هِ
-38	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	39	nmod	39:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+38	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	39	cop	39:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 39	الغاية	غَايَة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	5	conj	0:root|5:conj|41:nsubj	Vform=اَلغَايَةُ|Gloss=goal,objective,purpose,intention,extreme|Root=.g w y|Translit=al-ġāyatu|LTranslit=ġāyat
 40	التي	اَلَّذِي	DET	SR----FS1-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	41	nsubj	39:ref	Vform=اَلَّتِي|Gloss=that,which|Root=l|Translit=allatī|LTranslit=allaḏī
 41	ينبغي	اِنبَغَى	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	39	acl:relcl	39:acl:relcl	Vform=يَنبَغِي|Gloss=be_incumbent,be_necessary|Root=b .g y|Translit=yanbaġī|LTranslit=inbaġā
@@ -210888,7 +210888,7 @@
 51-52	قوتها	_	_	_	_	_	_	_	_
 51	قوة	قُوَّة	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	54	nsubj	54:nsubj	Gloss=power,strength,armed_forces|LTranslit=qūwat|Root=q w y|Translit=qūwata|Vform=قُوَّةَ
 52	ها	هُوَ	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	51	nmod	51:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hā|Vform=هَا
-53	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	54	nmod	54:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+53	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	54	cop	54:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 54	قوة	قُوَّة	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	42	conj	21:ccomp|42:conj	Vform=قُوَّةٌ|Gloss=power,strength,armed_forces|Root=q w y|Translit=qūwatun|LTranslit=qūwat
 55-56	للعرب	_	_	_	_	_	_	_	_
 55	ل	لِ	ADP	P---------	AdpType=Prep	56	case	56:case	Gloss=for,to|LTranslit=li|Root=l|Translit=li|Vform=لِ
@@ -213043,7 +213043,7 @@
 174	أساس	أَسَاس	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	170	obl	170:obl:عَلَى:gen	Vform=أَسَاسِ|Gloss=foundation,basis|Root=' s s|Translit=ʾasāsi|LTranslit=ʾasās
 175	أن	أَنَّ	SCONJ	C---------	_	178	mark	178:mark	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
 176	ذلك	ذلك	X	U---------	_	178	nsubj	178:nsubj	Vform=ذلك|Root=OOV|Translit=ḏlk
-177	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	178	nmod	178:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+177	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	178	cop	178:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 178	نوع	نَوع	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	174	nmod	174:nmod:أَنَّ	Vform=نَوعٌ|Gloss=type,kind,form|Root=n w `|Translit=nawʿun|LTranslit=nawʿ
 179	من	مِن	ADP	P---------	AdpType=Prep	180	case	180:case	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
 180	التوريث	تَورِيث	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	178	nmod	178:nmod:مِن:gen	Vform=اَلتَّورِيثِ|Gloss=hereditary_transmission|Root=w r _t|Translit=at-tawrīṯi|LTranslit=tawrīṯ
@@ -213982,7 +213982,7 @@
 5	أن	أَنَّ	SCONJ	C---------	_	9	mark	9:mark	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
 6	"	"	PUNCT	G---------	_	9	punct	9:punct	SpaceAfter=No|Vform="|Translit="
 7	فرنسا	فَرَنسَا	X	X---------	Foreign=Yes	9	nsubj	9:nsubj	Vform=فَرَنسَا|Gloss=France|Root=farans|Translit=faransā|LTranslit=faransā
-8	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nmod	9:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+8	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	cop	9:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 9	بلد	بَلَد	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	2	obj	2:obj	Vform=بَلَدُ|Gloss=country|Root=b l d|Translit=baladu|LTranslit=balad
 10	الحريات	حُرِّيَّة	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	9	nmod	9:nmod:gen	Vform=اَلحُرِّيَّاتِ|Gloss=freedom|Root=.h r r|Translit=al-ḥurrīyāti|LTranslit=ḥurrīyat
 11	في	فِي	ADP	P---------	AdpType=Prep	12	case	12:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
@@ -214547,7 +214547,7 @@
 32	في	فِي	ADP	P---------	AdpType=Prep	33	case	33:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
 33	مصر	مِصر	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	31	obl	31:obl:فِي:gen	SpaceAfter=No|Vform=مِصرَ|Gloss=Egypt|Root=m .s r|Translit=miṣra|LTranslit=miṣr
 34	،	،	PUNCT	G---------	_	33	punct	33:punct	Vform=،|Translit=,
-35	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	nmod	36:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+35	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	cop	36:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 36	الحزب	حِزب	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	27	obj	27:obj	Vform=اَلحِزبُ|Gloss=party,band|Root=.h z b|Translit=al-ḥizbu|LTranslit=ḥizb
 37	الشمولي	شُمُولِيّ	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	36	amod	36:amod	Vform=اَلشُّمُولِيُّ|Gloss=universal,total,totalitary,comprehensive|Root=^s m l|Translit=aš-šumūlīyu|LTranslit=šumūlīy
 38	الوحيد	وَحِيد	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	36	amod	36:amod	SpaceAfter=No|Vform=اَلوَحِيدُ|Gloss=only,sole,alone,exclusive|Root=w .h d|Translit=al-waḥīdu|LTranslit=waḥīd
@@ -221035,7 +221035,7 @@
 8	ذات	ذَات	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	7	nmod	7:nmod:gen	Vform=ذَاتِ|Gloss=self,being,essence|Root=_d|Translit=ḏāti|LTranslit=ḏāt
 9	الشهرة	شُهرَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	8	nmod	8:nmod:gen	Vform=اَلشُّهرَةِ|Gloss=reputation,fame|Root=^s h r|Translit=aš-šuhrati|LTranslit=šuhrat
 10	العالمية	عَالَمِيّ	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	amod	9:amod	Vform=اَلعَالَمِيَّةِ|Gloss=international,world_-_wide,world|Root=` l m|Translit=al-ʿālamīyati|LTranslit=ʿālamīy
-11	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod	12:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+11	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	cop	12:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 12	مصطلح	مُصطَلَح	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	2	obj	2:obj	Vform=مُصطَلَحٌ|Gloss=technical_term,terminology|Root=.s l .h|Translit=muṣṭalaḥun|LTranslit=muṣṭalaḥ
 13	"	"	PUNCT	G---------	_	14	punct	14:punct	SpaceAfter=No|Vform="|Translit="
 14	مطاط	مَطَّاط	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	12	nmod	12:nmod:nom	SpaceAfter=No|Vform=مَطَّاطٌ|Gloss=expandable,elastic,rubber|Root=m .t .t|Translit=maṭṭāṭun|LTranslit=maṭṭāṭ
@@ -224456,7 +224456,7 @@
 14	معلم	مُعَلِّم	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	13	nmod	13:nmod:gen	Vform=مُعَلِّمٍ|Gloss=teacher|Root=` l m|Translit=muʿallimin|LTranslit=muʿallim
 15	فقط	فَقَط	ADV	D---------	_	12	advmod:emph	12:advmod:emph	SpaceAfter=No|Vform=فَقَط|Gloss=only,no_more|Root=f q .t|Translit=faqaṭ|LTranslit=faqaṭ
 16	،	،	PUNCT	G---------	_	15	punct	15:punct	Vform=،|Translit=,
-17	هم	هُوَ	PRON	SP---3MP1-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	nmod	18:nmod:nom	Vform=هُم|Gloss=he,she,it|Translit=hum|LTranslit=huwa
+17	هم	هُوَ	PRON	SP---3MP1-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	cop	18:cop	Vform=هُم|Gloss=he,she,it|Translit=hum|LTranslit=huwa
 18	الذين	اَلَّذِي	DET	SR----MP1-	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	2	obj	2:obj	Vform=اَلَّذِينَ|Gloss=that,which|Root=l|Translit=allaḏīna|LTranslit=allaḏī
 19	أبلغوا	أَبلَغ	VERB	VP-A-3MP--	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Voice=Act	18	acl	18:acl	Vform=أَبلَغُوا|Gloss=report,inform,notify|Root=b l .g|Translit=ʾablaġū|LTranslit=ʾablaġ
 20	مصلحة	مَصلَحَة	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	19	obj	19:obj	Vform=مَصلَحَةَ|Gloss=interest,advantage,agency|Root=.s l .h|Translit=maṣlaḥata|LTranslit=maṣlaḥat
@@ -226383,7 +226383,7 @@
 43	والدة	وَالِدَة	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	47	nsubj	47:nsubj	Gloss=mother,parent|LTranslit=wālidat|Root=w l d|Translit=wālidata|Vform=وَالِدَةَ
 44	ها	هُوَ	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	43	nmod	43:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hā|Vform=هَا
 45	فقط	فَقَط	ADV	D---------	_	43	advmod:emph	43:advmod:emph	Vform=فَقَط|Gloss=only,no_more|Root=f q .t|Translit=faqaṭ|LTranslit=faqaṭ
-46	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	47	nmod	47:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+46	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	47	cop	47:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 47	الليبية	لِيبِيَّة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	35	obl	35:obl:مَعَ:gen	SpaceAfter=No|Vform=اَللِّيبِيَّةُ|Gloss=Libyan|Root=lIb|Translit=al-lībīyatu|LTranslit=lībīyat
 48	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 
@@ -236830,7 +236830,7 @@
 16	فصائل	فَصِيلَة	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	13	nmod	13:nmod:بَينَ:gen	Vform=فَصَائِلِ|Gloss=group,genus,species,family,cell,branch,platoon,squadron|Root=f .s l|Translit=faṣāʾili|LTranslit=faṣīlat
 17	المعارضة	مُعَارَضَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	16	nmod	16:nmod:gen	Vform=اَلمُعَارَضَةِ|Gloss=opposition|Root=` r .d|Translit=al-muʿāraḍati|LTranslit=muʿāraḍat
 18	اليوم	يَوم	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	12	nmod	12:nmod:acc	Vform=اَليَومَ|Gloss=day,today|Root=y w m|Translit=al-yawma|LTranslit=yawm
-19	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nmod	20:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+19	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	cop	20:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 20	تبنى	تَبَنِّي	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	1	obj	1:obj	Vform=تَبَنِّي|Gloss=adoption|Root=b n w|Translit=tabannī|LTranslit=tabannī
 21	مشروع	مَشرُوع	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	20	nmod	20:nmod:gen	Vform=مَشرُوعِ|Gloss=project,enterprise|Root=^s r `|Translit=mašrūʿi|LTranslit=mašrūʿ
 22	انشاء	إِنشَاء	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	21	nmod	21:nmod:gen	Vform=إِنشَاءِ|Gloss=establishing,setting_up,founding|Root=n ^s '|Translit=ʾinšāʾi|LTranslit=ʾinšāʾ
@@ -236943,7 +236943,7 @@
 2	أن	أَنَّ	SCONJ	C---------	_	6	mark	6:mark	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
 3	عبدالعزيز	عَبداَلعَزِيز	PROPN	Z---------	_	4	nmod	4:nmod	Vform=عَبداَلعَزِيز|Gloss=Abdel_Aziz|Root=`abd-al-`azIz|Translit=ʿabd-al-ʿazīz|LTranslit=ʿabd-al-ʿazīz
 4	الحكيم	الحكيم	X	U---------	_	6	nsubj	6:nsubj	Vform=الحكيم|Root=OOV|Translit=ālḥkym
-5	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	6:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+5	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	cop	6:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 6	شقيق	شَقِيق	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	1	nsubj	1:nsubj	Vform=شَقِيقُ|Gloss=brother|Root=^s q q|Translit=šaqīqu|LTranslit=šaqīq
 7	محمد	مُحَمَّد	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	9	nmod	9:nmod:gen	Vform=مُحَمَّدٍ|Gloss=Muhammad,Mohamed|Root=.h m d|Translit=muḥammadin|LTranslit=muḥammad
 8	باقر	بَاقِر	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	9	nmod	9:nmod:gen	Vform=بَاقِرٍ|Gloss=Baqir|Root=b q r|Translit=bāqirin|LTranslit=bāqir
@@ -245644,7 +245644,7 @@
 1	يذكر	ذَكَر	VERB	VIIP-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	0	root	0:root	Vform=يُذكَرُ|Gloss=mention,cite,remember|Root=_d k r|Translit=yuḏkaru|LTranslit=ḏakar
 2	ان	أَنَّ	SCONJ	C---------	_	5	mark	5:mark	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
 3	شنتشن	شنتشن	X	U---------	_	5	nsubj	5:nsubj	Vform=شنتشن|Root=OOV|Translit=šntšn
-4	هى	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nmod	5:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+4	هى	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	cop	5:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 5	احدى	إِحدَى	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	1	nsubj	1:nsubj	Vform=إِحدَى|Gloss=one,someone|Root=' .h d|Translit=ʾiḥdā|LTranslit=ʾiḥdā
 6	المدن	مَدِينَة	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	5	nmod	5:nmod:gen	Vform=اَلمُدُنِ|Gloss=city|Root=m d n|Translit=al-muduni|LTranslit=madīnat
 7	الريادية	الريادية	X	U---------	_	6	nmod	6:nmod	Vform=الريادية|Root=OOV|Translit=ālryādyat
@@ -255213,7 +255213,7 @@
 35	الولايات	وِلَايَة	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	34	nmod	34:nmod:gen	Vform=اَلوِلَايَاتِ|Gloss=state,province|Root=w l y|Translit=al-wilāyāti|LTranslit=wilāyat
 36	المتحدة	مُتَّحِد	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	35	amod	35:amod	Vform=اَلمُتَّحِدَةِ|Gloss=united|Root=w .h d|Translit=al-muttaḥidati|LTranslit=muttaḥid
 37	الاساسي	أَسَاسِيّ	ADJ	A-----MS4D	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	34	amod	34:amod	Vform=اَلأَسَاسِيَّ|Gloss=basic,fundamental|Root=' s s|Translit=al-ʾasāsīya|LTranslit=ʾasāsīy
-38	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	39	nmod	39:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+38	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	39	cop	39:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 39	جعل	جَعل	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	31	obl:arg	31:obl:arg:إِلَى_أَنَّ	Vform=جَعلُ|Gloss=making,bringing_about,appointing|Root=^g ` l|Translit=ǧaʿlu|LTranslit=ǧaʿl
 40	منطقة	مِنطَقَة	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	39	nmod	39:nmod:gen	Vform=مِنطَقَةِ|Gloss=area,zone,territory|Root=n .t q|Translit=minṭaqati|LTranslit=minṭaqat
 41	الشرق	شَرق	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	40	nmod	40:nmod:gen	Vform=اَلشَّرقِ|Gloss=east,East,Orient|Root=^s r q|Translit=aš-šarqi|LTranslit=šarq
@@ -256464,7 +256464,7 @@
 20	فى	فِي	ADP	P---------	AdpType=Prep	21	case	21:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
 21	حى	حَيّ	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	19	obl	19:obl:فِي:gen	Vform=حَيِّ|Gloss=quarter,district|Root=.h y y|Translit=ḥayyi|LTranslit=ḥayy
 22	الشجاعية	الشجاعية	X	U---------	_	21	nmod	21:nmod	Vform=الشجاعية|Root=OOV|Translit=ālšǧāʿyat
-23	هى	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	nmod	24:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+23	هى	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	cop	24:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 24	رسالة	رِسَالَة	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	2	obj	2:obj	Vform=رِسَالَةٌ|Gloss=letter,communication,dissertation,messages|Root=r s l|Translit=risālatun|LTranslit=risālat
 25	من	مِن	ADP	P---------	AdpType=Prep	26	case	26:case	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
 26	الحكومة	حُكُومَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	24	nmod	24:nmod:مِن:gen	Vform=اَلحُكُومَةِ|Gloss=government,administration|Root=.h k m|Translit=al-ḥukūmati|LTranslit=ḥukūmat
@@ -256594,7 +256594,7 @@
 23	"	"	PUNCT	G---------	_	36	punct	36:punct	Vform="|Translit="
 24	إن	إِنَّ	SCONJ	C---------	_	36	mark	36:mark	Vform=إِنَّ|Gloss=that|Root=' n|Translit=ʾinna|LTranslit=ʾinna
 25	المقاومة	مُقَاوَمَة	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	27	nsubj	27:nsubj	Vform=اَلمُقَاوَمَةَ|Gloss=resistance,opposition,struggle|Root=q w m|Translit=al-muqāwamata|LTranslit=muqāwamat
-26	هى	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	nmod	27:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+26	هى	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	cop	27:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 27	سلاح	سِلَاح	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	36	obj	36:obj	Vform=سِلَاحٌ|Gloss=weapon|Root=s l .h|Translit=silāḥun|LTranslit=silāḥ
 28	شرعى	شَرعِيّ	ADJ	A-----MS1I	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	27	amod	27:amod	Vform=شَرعِيٌّ|Gloss=legitimate,legal,lawful|Root=^s r `|Translit=šarʿīyun|LTranslit=šarʿīy
 29-30	للدفاع	_	_	_	_	_	_	_	_
@@ -257000,7 +257000,7 @@
 34	ان	أَن	SCONJ	C---------	_	35	mark	35:mark	Vform=أَن|Gloss=to|Root=' n|Translit=ʾan|LTranslit=ʾan
 35	يحدد	حَدَّد	VERB	VISA-3MS--	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	10	advcl	10:advcl:مِن_دُونِ:gen	Vform=يُحَدِّدَ|Gloss=determine,define,specify|Root=.h d d|Translit=yuḥaddida|LTranslit=ḥaddad
 36	ما	مَا	DET	S---------	PronType=Int	39	nsubj	39:nsubj	Vform=مَا|Gloss=what,which|Root=mA|Translit=mā|LTranslit=mā
-37	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	39	nmod	39:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+37	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	39	cop	39:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 38	هذه	هٰذَا	DET	SD----FS1-	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	39	det	39:det	Vform=هٰذِهِ|Gloss=this,these|Root=h|Translit=hāḏihi|LTranslit=hāḏā
 39	المنظمات	مُنَظَّمَة	NOUN	N------P1D	Case=Nom|Definite=Def|Number=Plur	35	obj	35:obj	SpaceAfter=No|Vform=اَلمُنَظَّمَاتُ|Gloss=organization|Root=n .z m|Translit=al-munaẓẓamātu|LTranslit=munaẓẓamat
 40	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
@@ -258994,7 +258994,7 @@
 36	الترتيبات	تَرتِيب	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	35	nmod	35:nmod:gen	Vform=اَلتَّرتِيبَاتِ|Gloss=arrangement,organization,preparation|Root=r t b|Translit=at-tartībāti|LTranslit=tartīb
 37	الدستورية	دُستُورِيّ	ADJ	A-----FS2D	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	36	amod	36:amod	Vform=اَلدُّستُورِيَّةِ|Gloss=constitutional|Root=d s t r|Translit=ad-dustūrīyati|LTranslit=dustūrīy
 38	المستقبلية	المستقبلية	X	U---------	_	36	nmod	36:nmod	Vform=المستقبلية|Root=OOV|Translit=ālmstqblyat
-39	هى	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	40	nmod	40:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+39	هى	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	40	cop	40:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 40	شأن	شَأن	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	2	advcl:pred	2:advcl:pred:أَنَّ	Vform=شَأنٌ|Gloss=matter,affair,concern,regard|Root=^s ' n|Translit=šaʾnun|LTranslit=šaʾn
 41	يخص	خَصّ	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	40	acl	40:acl	Vform=يَخُصُّ|Gloss=concern,stipulate,confer|Root=_h .s .s|Translit=yaḫuṣṣu|LTranslit=ḫaṣṣ
 42	العراقيين	عِرَاقِيّ	NOUN	N------P4D	Case=Acc|Definite=Def|Number=Plur	41	obj	41:obj	Vform=اَلعِرَاقِيِّينَ|Gloss=Iraqi|Root=` r q|Translit=al-ʿirāqīyīna|LTranslit=ʿirāqīy
@@ -259636,7 +259636,7 @@
 7	نا	هُوَ	PRON	SP---1MP2-	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	6	nmod	6:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=nā|Vform=نَا
 8	التالية	تَالِي	ADJ	A-----FS4D	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	6	amod	6:amod	Vform=اَلتَّالِيَةَ|Gloss=following,subsequent|Root=t l w|Translit=at-tāliyata|LTranslit=tālī
 9	الهامة	الهامة	X	U---------	_	6	nmod	6:nmod	Vform=الهامة|Root=OOV|Translit=ālhāmat
-10	هى	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nmod	11:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+10	هى	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	cop	11:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 11	خفض	خَفض	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	2	obj	2:obj	Vform=خَفضُ|Gloss=lowering,decreasing,reduction|Root=_h f .d|Translit=ḫafḍu|LTranslit=ḫafḍ
 12	عدد	عَدَد	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	11	nmod	11:nmod:gen	Vform=عَدَدِ|Gloss=number,quantity,issue|Root=` d d|Translit=ʿadadi|LTranslit=ʿadad
 13	حالات	حَالَة	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	12	nmod	12:nmod:gen	Vform=حَالَاتِ|Gloss=condition,case,situation|Root=.h w l|Translit=ḥālāti|LTranslit=ḥālat
@@ -259993,7 +259993,7 @@
 19-20	وحده	_	_	_	_	_	_	_	_
 19	وحد	وَحد	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	22	advcl:pred	22:advcl:pred	Gloss=self,by_oneself,alone,only|LTranslit=waḥd|Root=w .h d|Translit=waḥda|Vform=وَحدَ
 20	ه	هُوَ	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nmod	19:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hu|Vform=هُ
-21	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nmod	22:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+21	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	cop	22:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 22	الذى	اَلَّذِي	DET	SR----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	9	conj	4:dep|9:conj	Vform=اَلَّذِي|Gloss=that,which|Root=l|Translit=allaḏī|LTranslit=allaḏī
 23	قدم	قَدَّم	VERB	VP-P-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Pass	22	acl	22:acl	Vform=قُدِّمَ|Gloss=offer,present,introduce|Root=q d m|Translit=quddima|LTranslit=qaddam
 24-25	للمحكمة	_	_	_	_	_	_	_	SpaceAfter=No
@@ -260009,7 +260009,7 @@
 2	المعتقد	مُعتَقَد	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	0	root	0:root	Vform=اَلمُعتَقَدِ|Gloss=believed|Root=` q d|Translit=al-muʿtaqadi|LTranslit=muʿtaqad
 3	ان	أَنَّ	SCONJ	C---------	_	6	mark	6:mark	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
 4	امروزى	امروزى	X	U---------	_	6	nsubj	6:nsubj	Vform=امروزى|Root=OOV|Translit=āmrwzī
-5	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	6:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+5	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	cop	6:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 6	المنسق	مُنَسِّق	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	2	nsubj	2:nsubj	Vform=اَلمُنَسِّقُ|Gloss=coordinator|Root=n s q|Translit=al-munassiqu|LTranslit=munassiq
 7	الميدانى	مَيدَانِيّ	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	amod	6:amod	Vform=اَلمَيدَانِيُّ|Gloss=field,survey,in_the_military_field|Root=m y d n|Translit=al-maydānīyu|LTranslit=maydānīy
 8-9	للهجمات	_	_	_	_	_	_	_	SpaceAfter=No
@@ -261851,8 +261851,8 @@
 3	اسرائيل	إِسرَائِيل	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	2	nsubj	2:nsubj|8:nsubj	Vform=إِسرَائِيلُ|Gloss=Israel|Root='isrA'Il|Translit=ʾisrāʾīlu|LTranslit=ʾisrāʾīl
 4	،	،	PUNCT	G---------	_	3	punct	3:punct	Vform=،|Translit=,
 5	التى	اَلَّذِي	DET	SR----FS1-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	8	nsubj	3:ref	Vform=اَلَّتِي|Gloss=that,which|Root=l|Translit=allatī|LTranslit=allaḏī
-6	لم	لَم	PART	F---------	_	8	advmod	8:advmod	Vform=لَم|Gloss=not|Root=lam|Translit=lam|LTranslit=lam
-7	تعد	عَاد	AUX	VIJA-3FS--	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	8	aux	8:aux	Vform=تَعُد|Gloss=return,go_back,no_longer|Root=` w d|Translit=taʿud|LTranslit=ʿād
+6	لم	لَم	PART	F---------	_	7	advmod	7:advmod	Vform=لَم|Gloss=not|Root=lam|Translit=lam|LTranslit=lam
+7	تعد	عَاد	VERB	VIJA-3FS--	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	8	advcl	8:advcl	Vform=تَعُد|Gloss=return,go_back,no_longer|Root=` w d|Translit=taʿud|LTranslit=ʿād
 8	تقبل	أَقبَل	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	3	acl:relcl	3:acl:relcl	Vform=تُقبِلُ|Gloss=approach,engage_in|Root=q b l|Translit=tuqbilu|LTranslit=ʾaqbal
 9	الزعيم	زَعِيم	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	8	obj	8:obj	Vform=اَلزَّعِيمَ|Gloss=leader,head_of_state|Root=z ` m|Translit=az-zaʿīma|LTranslit=zaʿīm
 10	الفلسطينى	فِلَسطِينِيّ	ADJ	A-----MS4D	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	9	amod	9:amod	Vform=اَلفِلَسطِينِيَّ|Gloss=Palestinian|Root=filas.tIn|Translit=al-filasṭīnīya|LTranslit=filasṭīnīy
@@ -269363,7 +269363,7 @@
 5	نفس	نَفس	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	4	obj	4:obj	Gloss=same,self|LTranslit=nafs|Root=n f s|Translit=nafsa|Vform=نَفسَ
 6	ه	هُوَ	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	5:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hu|Vform=هُ
 7	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	10:obl:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
-8	هل	هَل	AUX	F---------	_	10	aux	10:aux	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
+8	هل	هَل	PART	F---------	_	10	discourse	10:discourse	Vform=هَل|Gloss=whether|Root=hal|Translit=hal|LTranslit=hal
 9-10	ستتمكن	_	_	_	_	_	_	_	_
 9	س	سَ	AUX	F---------	_	10	aux	10:aux	Gloss=will|LTranslit=sa|Root=sa|Translit=sa|Vform=سَ
 10	تتمكن	تَمَكَّن	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	ccomp	1:ccomp	Gloss=be_capable_of,be_able_to|LTranslit=tamakkan|Root=m k n|Translit=tatamakkanu|Vform=تَتَمَكَّنُ
@@ -271665,7 +271665,7 @@
 3	المصدر	مَصدَر	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	2	nsubj	2:nsubj	Vform=اَلمَصدَرُ|Gloss=source|Root=.s d r|Translit=al-maṣdaru|LTranslit=maṣdar
 4	ان	أَنَّ	SCONJ	C---------	_	7	mark	7:mark	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
 5	الغزو	غَزو	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	7	nsubj	7:nsubj	Vform=اَلغَزوَ|Gloss=invasion,attack,aggression,foray,incursion|Root=.g z w|Translit=al-ġazwa|LTranslit=ġazw
-6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+6	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	cop	7:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 7	محاولة	مُحَاوَلَة	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	2	obj	2:obj	Vform=مُحَاوَلَةٌ|Gloss=attempt,effort|Root=.h w l|Translit=muḥāwalatun|LTranslit=muḥāwalat
 8-9	لتعطيل	_	_	_	_	_	_	_	_
 8	ل	لِ	ADP	P---------	AdpType=Prep	9	case	9:case	Gloss=for,to|LTranslit=li|Root=l|Translit=li|Vform=لِ
@@ -278748,7 +278748,7 @@
 29	انهاء	إِنهَاء	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	28	obj	28:obj	Vform=إِنهَاءَ|Gloss=termination,completion|Root=n h y|Translit=ʾinhāʾa|LTranslit=ʾinhāʾ
 30	هذه	هٰذَا	DET	SD----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	31	det	31:det	Vform=هٰذِهِ|Gloss=this,these|Root=h|Translit=hāḏihi|LTranslit=hāḏā
 31	العقوبات	عُقُوبَة	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	29	nmod	29:nmod:gen	Vform=اَلعُقُوبَاتِ|Gloss=punishment,sanction,punitive_measure|Root=` q b|Translit=al-ʿuqūbāti|LTranslit=ʿuqūbat
-32	هى	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	33	nmod	33:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+32	هى	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	33	cop	33:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 33	نفس	نَفس	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	23	obj	23:obj	Vform=نَفسُ|Gloss=same,self|Root=n f s|Translit=nafsu|LTranslit=nafs
 34	الدول	دَولَة	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	33	nmod	33:nmod:gen|36:nsubj	Vform=اَلدُّوَلِ|Gloss=state,country|Root=d w l|Translit=ad-duwali|LTranslit=dawlat
 35	التى	اَلَّذِي	DET	SR----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	36	nsubj	34:ref	Vform=اَلَّتِي|Gloss=that,which|Root=l|Translit=allatī|LTranslit=allaḏī
@@ -283204,7 +283204,7 @@
 21-22	وهذا	_	_	_	_	_	_	_	_
 21	و	وَ	CCONJ	C---------	_	24	cc	24:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
 22	هٰذا	هٰذَا	DET	SD----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	24	nsubj	24:nsubj	Gloss=this,these|LTranslit=hāḏā|Root=h|Translit=hāḏā|Vform=هٰذَا
-23	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nmod	24:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
+23	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	cop	24:cop	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 24	سبب	سَبَب	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	13	conj	9:ccomp|13:conj	Vform=سَبَبُ|Gloss=reason,cause|Root=s b b|Translit=sababu|LTranslit=sabab
 25	عدم	عَدَم	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	24	obl:arg	24:obl:arg:gen	Vform=عَدَمِ|Gloss=absence_of,lack_of,non_-|Root=` d m|Translit=ʿadami|LTranslit=ʿadam
 26-27	استطاعتنا	_	_	_	_	_	_	_	_
